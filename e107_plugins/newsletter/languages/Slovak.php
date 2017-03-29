@@ -19,9 +19,9 @@ define("NLLAN_53", "Ste si istý, že sa chcete prihlásiť k odberu tohto newsl
 define("NLLAN_67", "Prehľad archívu");
 define("NLLAN_68", "Definovaný nesprávny parameter");
 define("NLLAN_69", "Nedostupné žiadne odoslané newslettere.");
-define("NLLAN_70", "Vybraný newslettera neexistuje");
-define("NLLAN_71", "Späť");
+define("NLLAN_70", "Vybraný newsletter neexistuje");
 define("NLLAN_72", "Zobraziť archív");
+define("NLLAN_73", "Zadajte svoj email");
 
 
 ?>

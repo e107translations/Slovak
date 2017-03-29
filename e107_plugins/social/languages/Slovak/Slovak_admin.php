@@ -9,7 +9,6 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("LAN_SOCIAL_ADMIN_SUMM", "Adds Facebook, Twitter and other social media widgets to e107.");
 define("LAN_SOCIAL_ADMIN_00", "Applications");
 define("LAN_SOCIAL_ADMIN_01", "Pages");
@@ -49,6 +48,11 @@ define("LAN_SOCIAL_ADMIN_34", "Number of tweets to display.");
 define("LAN_SOCIAL_ADMIN_35", "Light");
 define("LAN_SOCIAL_ADMIN_36", "Dark");
 define("LAN_SOCIAL_ADMIN_37", "Open Graph Meta");
+define("LAN_SOCIAL_ADMIN_38", "Scope");
+define("LAN_SOCIAL_ADMIN_39", "Providers");
+define("LAN_SOCIAL_ADMIN_40", "Update User Display Name");
+define("LAN_SOCIAL_ADMIN_41", "Update User Avatar");
+define("LAN_SOCIAL_ADMIN_42", "Custom Image");
 
 
 ?>

@@ -9,7 +9,6 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("LAN_SOCIAL_000", "Share On [x]");
 define("LAN_SOCIAL_001", "Like on [x]");
 define("LAN_SOCIAL_002", "Email to someone");
@@ -21,6 +20,9 @@ define("LAN_SOCIAL_200", "Unable to display feed. Twitter URL has not been defin
 define("LAN_SOCIAL_201", "Tweets by");
 define("LAN_SOCIAL_202", "Post to Twitter");
 define("LAN_SOCIAL_203", "Type your tweet here.");
+define("LAN_SOCIAL_204", "Zdieľať");
+define("LAN_SOCIAL_205", "Nepodarilo sa zobraziť komentáre. Chýba Facebook appID.");
+define("LAN_SOCIAL_WARNING", "Facebook komentáre vyžadujú, aby ste zadali Facebook appID. Choďte do časti 'social login'  v preferenciách, kde ho môžete pridať.");
 
 
 ?>

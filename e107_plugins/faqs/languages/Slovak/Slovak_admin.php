@@ -11,8 +11,8 @@
 */
 define("LANA_FAQ_QUESTION", "Otázka");
 define("LANA_FAQ_ANSWER", "Odpoveď");
+define("LANA_FAQ_UNANSWERED", "Bez odpovede");
 define("LANA_FAQ_COMMENT", "Komentár");
-define("LANA_FAQ_UNAME", "Užívateľské meno");
 define("LANA_FAQ_ULOGINNAME", "Užívateľský login");
 define("LANA_FAQ_TAGS", "Značky");
 define("LANA_FAQ_TAGS_HELP", "Čiarkami oddelený zoznam značiek");

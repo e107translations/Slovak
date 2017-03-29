@@ -58,6 +58,8 @@ define("LIST_FORUM_4", "Odpovede:");
 define("LIST_FORUM_5", "Posledný príspevok:");
 define("LIST_FORUM_6", "V:");
 define("LIST_LAN_1", "žiadne položky v");
+define("LIST_DOWNLOAD_1", "stiahnutia");
+define("LIST_DOWNLOAD_2", "žiadne stiahnutia");
 
 
 ?>

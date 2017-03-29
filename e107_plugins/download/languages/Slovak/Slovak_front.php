@@ -18,7 +18,7 @@ define("LAN_dl_9", "Vrátiť sa na zoznam kategórií");
 define("LAN_dl_13", "Nehodnotené");
 define("LAN_dl_14", "Ohodnotiť tento súbor");
 define("LAN_dl_16", "sťahovanie/a z");
-define("LAN_dl_29", "DL's");
+define("LAN_dl_29", "Stiah.");
 define("LAN_dl_30", "Email autora");
 define("LAN_dl_31", "Web autora");
 define("LAN_dl_36", "Nové súbory na stiahnutie");
