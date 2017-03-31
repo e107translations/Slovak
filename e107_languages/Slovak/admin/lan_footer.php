@@ -9,7 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("FOOTLAN_1", "Stránka");
+define("FOOTLAN_1", "Webová stránka");
 define("FOOTLAN_2", "Hlavný administrátor");
 define("FOOTLAN_3", "Verzia");
 define("FOOTLAN_4", "build");

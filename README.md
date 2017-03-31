@@ -38,5 +38,8 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 * the site = web, webová stránka 
 * Fórum = fórum, Thread = vlákno, Topic = téma, Post = príspevok
 * Homepage = úvodná strana
-* 
+* Settings = nastavenia
+* Options = možnosti
+* Plugin = plugin
+* carousel = rotátor
 * 

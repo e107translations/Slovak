@@ -4,15 +4,18 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:32:02
+|        Last Modified: 2017/03/31 11:31:12
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("METLAN_00", "Meta Tagy");
-define("METLAN_1", "Ďalšie meta tagy");
-define("METLAN_2", "napr. < meta name='revisit-after' content='30 days' />");
-define("METLAN_3", "Použije názov článku a jeho sumár ako meta-popis pri článkoch .");
+
+define("PHP_LAN_1", "");
+define("PHP_LAN_2", "");
+define("PHP_LAN_3", "");
+define("PHP_LAN_4", "");
+define("PHP_LAN_5", "");
+define("PHP_LAN_6", "");
 
 
 ?>

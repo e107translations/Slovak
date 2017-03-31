@@ -9,27 +9,27 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_EURL_NAME", "Manage Site URLs");
-define("LAN_EURL_NAME_CONFIG", "Profiles");
-define("LAN_EURL_NAME_ALIASES", "Aliases");
+define("LAN_EURL_NAME", "Správa URL adries webu");
+define("LAN_EURL_NAME_CONFIG", "Profily");
+define("LAN_EURL_NAME_ALIASES", "Aliasy");
 define("LAN_EURL_NAME_SETTINGS", "Hlavné nastavenia");
-define("LAN_EURL_NAME_HELP", "Nápoveda");
-define("LAN_EURL_EMPTY", "The list is empty");
-define("LAN_EURL_LEGEND_CONFIG", "Choose URL profile per site area");
+define("LAN_EURL_NAME_HELP", "Pomocník");
+define("LAN_EURL_EMPTY", "Zoznam je prázdny");
+define("LAN_EURL_LEGEND_CONFIG", "Zvoľte URL profil podľa oblastí stránky");
 define("LAN_EURL_LEGEND_ALIASES", "Configure Base URL aliases per URL Profile");
-define("LAN_EURL_DEFAULT", "predvolený");
+define("LAN_EURL_DEFAULT", "Predvolený");
 define("LAN_EURL_PROFILE", "Profil");
 define("LAN_EURL_INFOALT", "Info");
-define("LAN_EURL_PROFILE_INFO", "Profile info not available");
+define("LAN_EURL_PROFILE_INFO", "Info o profile nedostupné");
 define("LAN_EURL_LOCATION", "Profile Location");
 define("LAN_EURL_LOCATION_NONE", "Config file not available");
 define("LAN_EURL_FORM_HELP_DEFAULT", "Alias when in default language.");
 define("LAN_EURL_FORM_HELP_ALIAS_0", "Default value is");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias when in");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Base URL");
-define("LAN_EURL_ERR_ALIAS_MODULE", "Alias &quot;%1\$s&quot; can't be saved - there is a system URL profile with the same name. Please choose another alias value for system URL profile &quot;%2\$s&quot;");
-define("LAN_EURL_SURL_UPD", "&nbsp; SEF URLs were updated.");
-define("LAN_EURL_SURL_NUPD", "&nbsp; SEF URLs were NOT updated.");
+define("LAN_EURL_ERR_ALIAS_MODULE", "Alias "%1\$s" can't be saved - there is a system URL profile with the same name. Please choose another alias value for system URL profile "%2\$s"");
+define("LAN_EURL_SURL_UPD", "  SEF URLs were updated.");
+define("LAN_EURL_SURL_NUPD", "  SEF URLs were NOT updated.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Remove filename from the URL");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Associate Root namespace");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Choose which site area will be connected with your base site URL. Example: When News is your root namespace http://yoursite.com/News-Item-Title will be associated with news (item view page will be resolved)");
@@ -47,7 +47,7 @@ define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Underscore_with_no_case_CHANGE
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "plus+separator+to+lower+case");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "Plus+Separator+To+Camel+Case");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plus+separator+with+no+case+CHANGE");
-define("LAN_EURL_MODREWR_DESCR", "Removes entry script file name (index.php/) from your URLs. You'll need mod_rewrite installed and running on your server (Apache Web Server). After enabling this setting go to your site root folder, rename htaccess.txt to .htaccess and modifgy <em>&quot;RewriteBase&quot;</em> Directive if required.");
+define("LAN_EURL_MODREWR_DESCR", "Removes entry script file name (index.php/) from your URLs. You'll need mod_rewrite installed and running on your server (Apache Web Server). After enabling this setting go to your site root folder, rename htaccess.txt to .htaccess and modifgy <em>"RewriteBase"</em> Directive if required.");
 define("LAN_EURL_MENU", "Site URLs");
 define("LAN_EURL_MENU_CONFIG", "Configurations");
 define("LAN_EURL_MENU_ALIASES", "Profile Aliases");
@@ -75,7 +75,7 @@ define("LAN_EURL_PAGE_SEF_LABEL", "Friendly URLs with ID (performance)");
 define("LAN_EURL_PAGE_SEF_DESCR", "Search engine and user friendly URLs.");
 define("LAN_EURL_PAGE_SEFNOID_LABEL", "Friendly URLs without ID (no performance, more friendly)");
 define("LAN_EURL_PAGE_SEFNOID_DESCR", "Search engine and user friendly URLs.");
-define("LAN_EURL_CORE_SEARCH", "hľadať");
+define("LAN_EURL_CORE_SEARCH", "Hľadať");
 define("LAN_EURL_SEARCH_DEFAULT_LABEL", "Default Search URL");
 define("LAN_EURL_SEARCH_DEFAULT_DESCR", "Legacy direct URL.");
 define("LAN_EURL_SEARCH_REWRITE_LABEL", "Friendly URL");
@@ -86,8 +86,10 @@ define("LAN_EURL_SYSTEM_DEFAULT_DESCR", "URLs for pages like Not Found, Access d
 define("LAN_EURL_SYSTEM_REWRITE_LABEL", "Friendly System URLs");
 define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URLs for pages like Not Found, Access denied, etc.");
 define("LAN_EURL_CORE_INDEX", "Úvodná stránka");
-define("LAN_EURL_CORE_INDEX_INFO", "Front Page can't have an alias.");
+define("LAN_EURL_CORE_INDEX_INFO", "Úvodná stránka nemôže mať alias");
 define("LAN_EURL_REBUILD", "Rebuild");
+define("LAN_EURL_REGULAR_EXPRESSION", "Regulárny výraz");
+define("LAN_EURL_KEY", "Kľúč");
 
 
 ?>

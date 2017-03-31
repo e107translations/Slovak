@@ -40,9 +40,8 @@ define("LAN_CRON_20_1", "Check for e107 Update");
 define("LAN_CRON_20_2", "Check e107.org for Core updates");
 define("LAN_CRON_20_3", "Recommended to keep system up to date.");
 define("LAN_CRON_20_4", "Update this Git repository");
-define("LAN_CRON_20_5", "Update this e107 installation with the very latest files from github.	");
+define("LAN_CRON_20_5", "Update this e107 installation with the very latest files from github.");
 define("LAN_CRON_20_6", "Recommended for developers only.");
-define("LAN_CRON_20_7", "Pozor!");
 define("LAN_CRON_20_8", "May cause site instability!");
 define("LAN_CRON_30", "Every Minute");
 define("LAN_CRON_31", "Every Other Minute");
@@ -62,8 +61,14 @@ define("LAN_CRON_51", "Hour(s):");
 define("LAN_CRON_52", "Day(s):");
 define("LAN_CRON_53", "Month(s):");
 define("LAN_CRON_54", "Weekday(s):");
+define("LAN_CRON_60", "Go to cPanel");
+define("LAN_CRON_61", "Generate new cron password");
+define("LAN_CRON_62", "Executing config function [b][x][/b]");
+define("LAN_CRON_63", "Config function [b][x][/b] NOT found.");
+define("LAN_CRON_64", "An administrator can automate tasks using e107 Schedule Tasks. [br] In the Manage Tab, you can edit, delete and run tasks. [br] When you edit a task you can set the minutes, hours, days, month or day of the week you want the task to run. Use * to run for each period. Use the Active property to Enabled the Task.[br] Note: You are advised not to delete standard jobs.[br]");
 define("LAN_CRON_BACKUP", "Backup");
 define("LAN_CRON_LOGGING", "Logging");
+define("LAN_CRON_RUNNING", "Running");
 
 
 ?>

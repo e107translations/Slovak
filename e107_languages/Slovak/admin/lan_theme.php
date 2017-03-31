@@ -62,7 +62,7 @@ define("TPVLAN_55", "predvolený");
 define("TPVLAN_56", "Filter viditeľnosti");
 define("TPVLAN_57", "Kompatibilita");
 define("TPVLAN_58", "This theme comes with pre-installed example content (such as pages and menus) which could be used on your website.");
-define("TPVLAN_59", "	Please be aware that the example content will [b]overwrite[/b] your current content with the following");
+define("TPVLAN_59", "Please be aware that the example content will [b]overwrite[/b] your current content with the following");
 define("TPVLAN_60", "[x] record(s) in your [y] table");
 define("TPVLAN_61", "Would you like to [b]replace[/b] your current content with the default example content provided by the theme?");
 define("TPVLAN_62", "Nájsť témy");
@@ -99,14 +99,17 @@ define("TPVLAN_CONV_12", "A full description of the theme (Must be written in En
 define("TPVLAN_CONV_13", "What category of theme is this?");
 define("TPVLAN_CONV_14", "Enable this stylesheet as a selectable option in the Theme Manager.");
 define("TPVLAN_CONV_15", "Give this stylesheet a name");
+define("TPVLAN_CONV_16", "URL to a live-demo of this theme.");
 define("TPVLAN_81", "Downloading...");
 define("TPVLAN_82", "Download Complete!");
 define("TPVLAN_83", "Automated download not possible.");
 define("TPVLAN_84", "Please Download Manually");
 define("TPVLAN_85", "Connecting...");
 define("TPVLAN_86", "Could not change site theme.");
-define("TPVLAN_87", "Rendering Theme Config");
 define("TPVLAN_88", "Converter");
+define("TPVLAN_89", "Apply dashboard preferences to all administrators");
+define("TPVLAN_91", "Create a new theme based on");
+define("TPVLAN_92", "New Theme Folder");
 
 
 ?>

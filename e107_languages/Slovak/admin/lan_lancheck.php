@@ -13,10 +13,10 @@ define("LAN_CHECK_2", "Začať kontrolu");
 define("LAN_CHECK_3", "Kontrola");
 define("LAN_CHECK_4", "Súbor chýba!");
 define("LAN_CHECK_5", "Chýba reťazec!");
-define("LAN_CHECK_15", "Illegal characters or spaces found before [x] or after [y]");
+define("LAN_CHECK_15", "Pred [x] alebo po [y] nájdené nepovolené znaky");
 define("LAN_CHECK_16", "Originálny súbor");
 define("LAN_CHECK_17", "Počas pokusu o uloženie súboru došlo k problémom so zápisom.");
-define("LAN_CHECK_18", "Pre tento plugin/theme NIE SÚ dostupné jazykové súbory v štandardnom formáte.");
+define("LAN_CHECK_18", "Pre tento plugin/tému NIE SÚ dostupné jazykové súbory v štandardnom formáte.");
 define("LAN_CHECK_19", "Boli nájdené znaky, ktoré nie sú v UTF-8 kódovaní!");
 define("LAN_CHECK_20", "Súbor");
 define("LAN_CHECK_21", "Téma");
@@ -34,10 +34,10 @@ define("LANG_LAN_112", "Kompatibilita");
 define("LANG_LAN_114", "Stiahnuť balíček");
 define("LANG_LAN_115", "Overte súbory prekladu a pred vytvorením jazykového balíčka  opravte zostávajúce [x] chyby.");
 define("LANG_LAN_116", "Overte svoje jazykové súbory ('Overiť') a potom to skúste znova.");
-define("LANG_LAN_117", "Mali by ste opraviť zostávajúce chyby, než prispejete so svojím jazykovým balíčkom");
-define("LANG_LAN_119", "Please check that CORE_LC and CORE_LC2 have values in [x] and try again.");
-define("LANG_LAN_120", "Please make sure you are using default folder names in e107_config.php (eg. e107_languages/, e107_plugins/ etc.) and try again.");
-define("LANG_LAN_AGR", "Poznámka: Pomocou týchto nástrojov súhlasíte so zdieľaním jazykových balíčkov s E107 komunitou.");
+define("LANG_LAN_117", "Než  so svojím jazykovým balíčkom prispejete, mali by ste opraviť zostávajúce chyby.");
+define("LANG_LAN_119", "Skontrolujte, či CORE_LC a CORE_LC2 majú v [x] hodnoty a skúste znova.");
+define("LANG_LAN_120", "Uistite sa, že v e107_config.php  používate defaultné názvy adresárov (eg. e107_languages/, e107_plugins/ atď.) a skúste to znova.");
+define("LANG_LAN_AGR", "Poznámka: Použitím týchto nástrojov súhlasíte so zdieľaním jazykových balíčkov s e107 komunitou.");
 
 
 ?>
