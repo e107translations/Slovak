@@ -22,7 +22,7 @@ define("LANG_LAN_11", "Zmazať neskontrolované tabuľky (ak existujú).");
 define("LANG_LAN_12", "Multi-Language Database Tables");
 define("LANG_LAN_13", "Nastavenie jazyka");
 define("LANG_LAN_14", "Základný jazyk webu");
-define("LANG_LAN_15", "Označte pre kópiu dát z prednastaveného jazyka portálu (použiteľné pre odkazy, kategórie noviniek atď)");
+define("LANG_LAN_15", "Označte pre kópiu dát z prednastaveného jazyka webu (použiteľné pre odkazy, kategórie noviniek atď)");
 define("LANG_LAN_16", "Použitie viacjazyčnej databázy");
 define("LANG_LAN_17", "Predvolený jazyk - nie sú potrebné ďalšie tabuľky.");
 define("LANG_LAN_18", "Použite parkované subdomény k týmto doménam pre nastavenie jazyka:");

@@ -67,7 +67,7 @@ define("LAN_USER_68", "Komentárov");
 define("LAN_USER_69", "Príspevkov fóra");
 define("LAN_USER_71", "Podpis:");
 define("LAN_USER_72", "Avatar:");
-define("LAN_USER_73", "výber obsahu/zoznamu e-mailov");
+define("LAN_USER_73", "výber obsahu/zoznamu emailov");
 define("LAN_USER_74", "Titul");
 define("LAN_USER_75", "Vaše --SOMETHING-- je povinné");
 define("LAN_USER_76", "Prihlásený do");

@@ -15,7 +15,7 @@ define("UTHEME_MENU_L3", "tabuliek");
 define("LAN_UMENU_THEME_1", "Nastaviť vzhľad");
 define("LAN_UMENU_THEME_2", "Zvoliť vzhľad");
 define("LAN_UMENU_THEME_3", "Používané:");
-define("LAN_UMENU_THEME_4", "Vyberte vzhľady, ktoré môžu používatelia používať");
+define("LAN_UMENU_THEME_4", "Vyberte vzhľady, ktoré môžu užívatelia používať");
 define("LAN_UMENU_THEME_5", "Aktualizovať");
 define("LAN_UMENU_THEME_6", "Vzhľady, ktoré si môžu používatelia zvoliť");
 define("LAN_UMENU_THEME_7", "Skupina používateľov, ktorá môže zvoliť vlastný vzhľad webu");

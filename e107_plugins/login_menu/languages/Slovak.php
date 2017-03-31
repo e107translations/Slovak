@@ -51,8 +51,8 @@ define("LAN_LOGINMENU_45b", "Plugin");
 define("LAN_LOGINMENU_46", "posledné príspevky -");
 define("LAN_LOGINMENU_47", "Login menu - Recent plugin additions");
 define("LAN_LOGINMENU_48", "Konfigurácia menu");
-define("LAN_LOGINMENU_49", "E-mail:");
-define("LAN_LOGINMENU_50", "Prihl.meno alebo e-mail");
+define("LAN_LOGINMENU_49", "Email:");
+define("LAN_LOGINMENU_50", "Prihl.meno alebo email");
 define("LAN_LOGINMENU_51", "Prihlásiť sa");
 
 

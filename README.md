@@ -29,8 +29,9 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 *e107 © e107.org under the GNU GPL license*
 
 ## Pravidlá pre preklad:
-* email nie e-mail
-* užívateľ nie používateľ
+* email nie e-mail, v emaile, nie v emaily, mn.č. emaily
+* užívateľ nie používateľ    viď: http://korpus.juls.savba.sk/attachments/publications/2005_Garabik_luser.pdf
+(ak sa myslí osoba sediaca za počítačom, používateľ sa môže použiť. Username, user groups - užívateľ.)
 * vyká sa, zabudnuté tykanie je omyl
 * directory = adresár, nie zložka
 * Media-Manager = Manažér médii
@@ -40,6 +41,11 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 * Homepage = úvodná strana
 * Settings = nastavenia
 * Options = možnosti
+* Preferencies = nastavenia
 * Plugin = plugin
 * carousel = rotátor
-* 
+* core = jadro
+* cron = cron
+* sidebar = bočný panel
+* uploads = nahratia
+* URL = URL adresa

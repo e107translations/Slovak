@@ -31,7 +31,7 @@ define("NFPM_L12", "Nastavenie nových príspevkov fóra");
 define("NFPM_L13", "Nastavenia nových príspevkov fóra sú aktualizované.");
 define("NFPM_L14", "Zobraziť posledné príspevky fóra?");
 define("NFPM_L15", "Obvykle sa posledné príspevky zobrazujú.");
-define("NFPM_L16", "[používateľ zmazaný]");
+define("NFPM_L16", "[užívateľ zmazaný]");
 define("NFPM_L17", "Nové príspevky v populárnom vlákne");
 define("NFPM_L18", "nových príspevkov");
 define("NFPM_L19", "Žiadne nové príspevky v populárnom vlákne");

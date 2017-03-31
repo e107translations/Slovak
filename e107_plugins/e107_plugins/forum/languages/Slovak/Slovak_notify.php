@@ -9,7 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_FORUM_NT_7", "Fórum - vlákno vytvorené novým používateľom");
+define("LAN_FORUM_NT_7", "Fórum - vlákno vytvorené novým užívateľom");
 define("LAN_FORUM_NT_8", "Fórum - vlákno vymazané");
 define("LAN_FORUM_NT_9", "Fórum - vlákno rozdelené");
 define("LAN_FORUM_NT_10", "Fórum - vymazaný príspevok");

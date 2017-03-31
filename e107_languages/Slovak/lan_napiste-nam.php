@@ -16,7 +16,7 @@ define("PAGE_NAME", "Kontaktujte nás");
 define("LANCONTACT_01", "Detaily kontaktu");
 define("LANCONTACT_02", "Kontaktný formulár");
 define("LANCONTACT_03", "Vložte svoje meno:");
-define("LANCONTACT_04", "E-mail:");
+define("LANCONTACT_04", "Email:");
 define("LANCONTACT_05", "Predmet správy:");
 define("LANCONTACT_06", "Zadajte správu:");
 define("LANCONTACT_07", "Odoslať kópiu na email:");

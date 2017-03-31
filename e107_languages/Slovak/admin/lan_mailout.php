@@ -101,7 +101,7 @@ define("LAN_MAILOUT_102", "Detail of mailshot");
 define("LAN_MAILOUT_103", "Results of attempts to send");
 define("LAN_MAILOUT_104", "No attempt to send, or error saving result");
 define("LAN_MAILOUT_105", "Details of up to 10 failures");
-define("LAN_MAILOUT_106", "Testovací email nebol odoslaný. Zdá sa, že váš server alebo samotný portál nieje správne nakonfigurovaný pre odosielanie emailov, prosím, skúste použiť SMTP alebo kontaktujte administrátora aby skontroloval nastavenie emailu pre váš účet.");
+define("LAN_MAILOUT_106", "Testovací email nebol odoslaný. Zdá sa, že váš server alebo samotný web nie je správne nakonfigurovaný pre odosielanie emailov, prosím, skúste použiť SMTP alebo kontaktujte administrátora aby skontroloval nastavenie emailu pre váš účet.");
 define("LAN_MAILOUT_107", "at");
 define("LAN_MAILOUT_108", "Výsledok");
 define("LAN_MAILOUT_109", "Show detail");
