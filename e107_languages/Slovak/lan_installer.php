@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:22:21
+|        Last Modified: 2017/03/31 07:16:56
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -90,7 +90,7 @@ define("LANINS_113", "Zadajte meno stránky");
 define("LANINS_114", "Zvoľte tému");
 define("LANINS_115", "Názov témy");
 define("LANINS_116", "Typ témy");
-define("LANINS_117", "Nastavenia webstránky ");
+define("LANINS_117", "Nastavenia webstránky");
 define("LANINS_118", "Nainštalovať pluginy");
 define("LANINS_119", "Nainštalovať všetky pluginy, ktoré téma vyžaduje");
 define("LANINS_120", "8");

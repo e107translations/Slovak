@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:25:22
+|        Last Modified: 2017/03/31 07:16:56
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+

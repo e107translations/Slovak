@@ -9,13 +9,18 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("RATELAN_0", "hlas");
-define("RATELAN_1", "hlasy");
-define("RATELAN_2", "Ako hodnotíte túto položku?");
+define("RATELAN_0", "Hlas");
+define("RATELAN_1", "Hlasy");
+define("RATELAN_2", "Aké je vaše hodnotenie?");
 define("RATELAN_3", "Ďakujeme za váš hlas!");
 define("RATELAN_4", "Nehodnotené");
-define("RATELAN_5", "Hodnotiť toto:");
-define("RATELAN_6", "Prihláste sa prosím, aby ste mohli hodnotiť.");
+define("RATELAN_5", "Ohodnotiť:");
+define("RATELAN_6", "Pre možnosť hodnotiť sa prihláste.");
+define("RATELAN_7", "Páči sa");
+define("RATELAN_8", "Nepáči sa");
+define("RATELAN_9", "Už ste hlasovali");
+define("RATELAN_10", "Hodnotenie neobsahuje žiadne unikátne ID ");
+define("RATELAN_11", "Hodnotenie sa nepodarilo");
 define("RATELAN_POOR", "Slabé");
 define("RATELAN_FAIR", "Slušné");
 define("RATELAN_GOOD", "Dobré");

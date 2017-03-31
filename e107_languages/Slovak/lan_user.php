@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:26:20
+|        Last Modified: 2017/03/31 07:16:56
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -56,7 +56,7 @@ define("LAN_USER_56", "Registrovaní členovia:");
 define("LAN_USER_57", "Poradie:");
 define("LAN_USER_58", "Člen");
 define("LAN_USER_59", "Poslané:");
-define("LAN_USER_60", "E-mailová adresa:");
+define("LAN_USER_60", "Emailová adresa:");
 define("LAN_USER_62", "Pošlite súkromnú správu");
 define("LAN_USER_63", "Skutočné meno:");
 define("LAN_USER_64", "Štatistiky webu");
@@ -77,16 +77,17 @@ define("LAN_USER_79", "znakov");
 define("LAN_USER_80", "meno, pod ktorým budete na stránke vystupovať");
 define("LAN_USER_81", "Užívateľské meno:");
 define("LAN_USER_82", "meno, pod ktorým sa budete prihlasovať na stránku");
-define("LAN_USER_83", "Skryť e-mail?:");
-define("LAN_USER_84", "Zabráni zobrazeniu vašej e-mailovej adresy na tomto webe");
+define("LAN_USER_83", "Skryť email?:");
+define("LAN_USER_84", "Zabráni zobrazeniu vašej emailovej adresy na tomto webe");
 define("LAN_USER_85", "Ak chcete zmeniť svoje užívateľské meno, musíte požiadať hlavného administrátora");
 define("LAN_USER_86", "Maximálna veľkosť avatara je --WIDTH-- x --HEIGHT-- pixelov");
-define("LAN_XUP_ERRM_01", "Signup failed! This feature is disabled.");
-define("LAN_XUP_ERRM_02", "Signup failed! Wrong provider.");
-define("LAN_XUP_ERRM_03", "Log in Failed! Wrong provider.");
-define("LAN_XUP_ERRM_04", "Signup failed! User already signed in.");
-define("LAN_XUP_ERRM_05", "Signup failed! User already exists. Please use 'login' instead.");
-define("LAN_XUP_ERRM_06", "Signup failed! Can't access user email - registration without an email is impossible.");
+define("LAN_USER_87", "Prihláste sa, aby ste mohli ohodnotiť tohto užívateľa!");
+define("LAN_XUP_ERRM_01", "Registrácia zlyhala! Nie je vôbec povolená.");
+define("LAN_XUP_ERRM_02", "Registrácia zlyhala! Nesprávny provider.");
+define("LAN_XUP_ERRM_03", "Prihlásenie zlyhalo! Nesprávny provider.");
+define("LAN_XUP_ERRM_04", "Registrácia zlyhala! Užívateľ už je zaregistrovaný.");
+define("LAN_XUP_ERRM_05", "Registrácia zlyhala! Užívateľ už existuje. Použite 'prihlásenie'.");
+define("LAN_XUP_ERRM_06", "Registrácia zlyhala! Nemáme prístup k emailu užívateľa - bez emailu nie je možná registrácia.");
 
 
 ?>

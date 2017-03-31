@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("PAGE_NAME", "Články");
-define("LAN_NEWS_1", "Článok len pre určitých členov");
+define("LAN_NEWS_1", "Článok len pre určených členov");
 define("LAN_NEWS_2", "Nemáte oprávnenie čítať tento článok");
 define("LAN_NEWS_9", "Je nastavený len titulok - <b>zobrazený bude len nadpis článku</b><br />");
 define("LAN_NEWS_10", "Tento článok je  <b>neaktívny</b> (nebude zobrazený na úvodnej stránke).");
@@ -27,7 +27,7 @@ define("LAN_NEWS_23", "Kategórie článkov");
 define("LAN_NEWS_24", "vytvor pdf z tohto článku");
 define("LAN_NEWS_31", "Zvýrazniť článok");
 define("LAN_NEWS_82", "Články - Kategória");
-define("LAN_NEWS_83", "Žiadne články... skúste prosím neskôr.");
+define("LAN_NEWS_83", "Žiadne články... skúste neskôr.");
 define("LAN_NEWS_84", "Spať na prehľad článkov");
 define("LAN_NEWS_85", "Späť na prehľad kategórii");
 define("LAN_NEWS_86", "Staršie články");
@@ -36,6 +36,7 @@ define("LAN_NEWS_462", "Vo vybranom mesiaci nie sú žiadne články");
 define("LAN_NEWS_463", "V tejto konkrétnej kategórii nie sú žiadne články. Skúste to neskôr.");
 define("LAN_NEWS_100", "zapnuté");
 define("LAN_NEWS_307", "Spolu príspevkov v tejto kategórií:");
+define("LAN_NEWS_308", "Možno hľadáte niečo z článkov nižšie?");
 
 
 ?>

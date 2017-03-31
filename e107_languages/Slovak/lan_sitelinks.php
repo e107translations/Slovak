@@ -10,7 +10,6 @@
 +---------------------------------------------------------------+
 */
 define("LAN_SITELINKS_183", "Hlavné menu");
-define("LAN_SITELINKS_502", "Administrácia");
 
 
 ?>

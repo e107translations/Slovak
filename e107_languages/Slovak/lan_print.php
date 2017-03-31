@@ -9,13 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PRINT_86", "Kategória:");
-define("LAN_PRINT_87", "autor:");
-define("LAN_PRINT_94", "Zaslané od");
-define("LAN_PRINT_135", "Novinka:");
-define("LAN_PRINT_303", "Táto novinka je od");
-define("LAN_PRINT_305", "Podnadpis:");
-define("LAN_PRINT_306", "Toto je od:");
+define("LAN_PRINT_303", "Tento článok je od");
 define("LAN_PRINT_307", "Vytlačiť stránku");
 define("LAN_PRINT_1", "verzia pre tlač");
 

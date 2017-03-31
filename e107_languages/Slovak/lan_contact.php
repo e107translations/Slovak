@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:21:14
+|        Last Modified: 2017/03/31 09:22:03
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -26,6 +26,10 @@ define("LANCONTACT_13", "Zadajte predmet");
 define("LANCONTACT_14", "Odoslať správu:");
 define("LANCONTACT_15", "Vložený nesprávny kód");
 define("LANCONTACT_16", "Musíte byť [registrovaný] a prihlásený, aby ste mohli použiť tento formulár.");
+define("LANCONTACT_17", "Zadajte svoje meno.");
+define("LANCONTACT_18", "Zadajte svoj email.");
+define("LANCONTACT_19", "Zadajte predmet svojho emailu.");
+define("LANCONTACT_20", "Zadajte vašu správu.");
 
 
 ?>

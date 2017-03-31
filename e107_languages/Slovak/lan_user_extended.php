@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:26:25
+|        Last Modified: 2017/03/31 07:16:56
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -18,9 +18,10 @@ define("UE_LAN_6", "Celok");
 define("UE_LAN_8", "Jazyk");
 define("UE_LAN_9", "Preddefinovaný zoznam");
 define("UE_LAN_10", "Zaškrtávacie políčka");
+define("UE_LAN_13", "Krajina");
 define("UE_LAN_21", "Meno");
 define("UE_LAN_22", "Typ");
-define("UE_LAN_23", "Použitie");
+define("UE_LAN_23", "Použiť");
 define("UE_LAN_HIDE", "Skryť pred užívateľmi");
 define("UE_LAN_LOCATION", "Poloha");
 define("UE_LAN_LOCATION_DESC", "Poloha užívateľa");
@@ -34,15 +35,15 @@ define("UE_LAN_MSN", "MSN");
 define("UE_LAN_MSN_DESC", "MSN adresa");
 define("UE_LAN_HOMEPAGE", "Úvodná stránka");
 define("UE_LAN_HOMEPAGE_DESC", "Úvodná stránka užívateľa (URL)");
-define("UE_LAN_BIRTHDAY", "Narodeniny");
-define("UE_LAN_BIRTHDAY_DESC", "Narodeniny");
+define("UE_LAN_BIRTHDAY", "Dátum narodenia");
+define("UE_LAN_BIRTHDAY_DESC", "Dátum narodenia");
 define("UE_LAN_LANGUAGE", "Jazyk");
-define("UE_LAN_LANGUAGE_DESC", "Užívateľov jazyk");
+define("UE_LAN_LANGUAGE_DESC", "Jazyk užívateľa");
 define("UE_LAN_COUNTRY", "Krajina");
 define("UE_LAN_COUNTRY_DESC", "Krajina užívateľa (obsahuje tabuľku db)");
 define("UE_LAN_TIMEZONE", "Časové pásmo");
-define("UE_LAN_TIMEZONE_DESC", "Časové pásmo používateľa (z preddefinovaného zoznamu)");
-define("LAN_UE_FAIL_HOMEPAGE", "Neplatná položka pre nastavenia úvodnú stránku");
+define("UE_LAN_TIMEZONE_DESC", "Časové pásmo užívateľa (z preddefinovaného zoznamu)");
+define("LAN_UE_FAIL_HOMEPAGE", "Neplatné zadanie pre nastavenie úvodnej stránky");
 define("UE_LAN_SKYPE", "Skype");
 define("UE_LAN_SKYPE_DESC", "Skype adresa");
 define("UE_LAN_GENDER", "Pohlavie");

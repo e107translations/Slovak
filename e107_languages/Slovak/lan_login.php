@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:22:29
+|        Last Modified: 2017/03/31 07:16:56
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -40,6 +40,10 @@ define("LAN_LOGIN_28", "Emailová adresa");
 define("LAN_LOGIN_29", "Užívateľské meno alebo email");
 define("LAN_LOGIN_30", "Chyba pri pridaní nového alt_auth užívateľa do databázy");
 define("LAN_LOGIN_31", "Vaše údaje sa nepodarilo pridať do databázy");
+define("LAN_LOGIN_32", "Túto správu vidíte, pretože ste prihlásený ako hlavný administrátor.");
+define("LAN_LOGIN_33", "[Späť na úvodnú stranu]");
+define("LAN_LOGIN_34", "Registrácia užívateľov a/alebo prihlásenie je aktuálne zakazáné.");
+define("LAN_LOGIN_35", "[Povoliť]");
 
 
 ?>

@@ -31,5 +31,12 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 ## Pravidlá pre preklad:
 * email nie e-mail
 * užívateľ nie používateľ
-* News = články, Pages = stránky
+* vyká sa, zabudnuté tykanie je omyl
+* directory = adresár, nie zložka
+* Media-Manager = Manažér médii
+* News = články, Pages = stránky, 
+* the site = web, webová stránka 
 * Fórum = fórum, Thread = vlákno, Topic = téma, Post = príspevok
+* Homepage = úvodná strana
+* 
+* 
