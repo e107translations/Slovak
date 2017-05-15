@@ -90,6 +90,7 @@ define("LAN_EURL_CORE_INDEX_INFO", "Úvodná stránka nemôže mať alias");
 define("LAN_EURL_REBUILD", "Rebuild");
 define("LAN_EURL_REGULAR_EXPRESSION", "Regulárny výraz");
 define("LAN_EURL_KEY", "Kľúč");
+define("LAN_EURL_TABLE", "Tabuľka");
 
 
 ?>

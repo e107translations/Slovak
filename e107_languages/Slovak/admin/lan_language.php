@@ -9,9 +9,9 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LANG_LAN_00", "[x] could not be created (already exists).");
-define("LANG_LAN_01", "[x] was deleted (if existing) and created.");
-define("LANG_LAN_02", "[x] couldn't be deleted.");
+define("LANG_LAN_00", "[x] sa nepodarilo vytvoriť (už existuje).");
+define("LANG_LAN_01", "[x] bol vymazaný (ak existoval) a vytvorený.");
+define("LANG_LAN_02", "[x] sa nepodarilo vymazať.");
 define("LANG_LAN_03", "tabuliek");
 define("LANG_LAN_04", "Deprecated LANs");
 define("LANG_LAN_05", "nenainštalované");
@@ -45,7 +45,7 @@ define("LANG_LAN_105", "Delete all tables in [x]?");
 define("LANG_LAN_106", "Language by Domain Name");
 define("LANG_LAN_107", "Domain determines the site's language. Enter domain without the 'www.'");
 define("LANG_LAN_121", "Couldn't Load:");
-define("LANG_LAN_124", "Definition");
+define("LANG_LAN_124", "Definícia");
 define("LANG_LAN_126", "Disable All Unused");
 define("LANG_LAN_130", "Common Term");
 define("LANG_LAN_131", "Missing from language file");
@@ -60,8 +60,11 @@ define("LANG_LAN_141", "Select Script...");
 define("LANG_LAN_142", "Auto-Detect");
 define("LANG_LAN_143", "Specific LAN file:");
 define("LANG_LAN_144", "Must be re-enabled");
-define("LANG_LAN_149", "Value");
+define("LANG_LAN_148", "Normálny režim");
+define("LANG_LAN_149", "Hodnota");
 define("LANG_LAN_150", "[b]Search ENTIRE core before commenting out ANY LAN from ANY language file.[/b]");
+define("LANG_LAN_151", "Dostupné");
+define("LANG_LAN_152", "Láskavosť od [e107 translations team]");
 
 
 ?>

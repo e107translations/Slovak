@@ -27,7 +27,7 @@ define("LAN_dl_43", "hlas");
 define("LAN_dl_44", "hlasy");
 define("LAN_dl_45", "Ohlásiť nefunkčné sťahovanie");
 define("LAN_dl_46", "Stiahnuť súbor");
-define("LAN_dl_47", "Správa bola reportovaná");
+define("LAN_dl_47", "Správa bola nahlásená");
 define("LAN_dl_48", "Nefunkčný súbor bol nahlásený administrátorom.<br />Ďakujeme.");
 define("LAN_dl_49", "Vrátiť sa na sťahovanie");
 define("LAN_dl_50", "Nahlásené nefunkčné sťahovanie");

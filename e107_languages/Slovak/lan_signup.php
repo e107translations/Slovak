@@ -14,7 +14,7 @@ define("LAN_EMAIL_01", "Vážený");
 define("LAN_EMAIL_04", "Informácie obsiahnuté v tomto emaile uschovajte len pre vlastnú potrebu.");
 define("LAN_EMAIL_05", "Heslo bolo zakódované a nedá sa spätne nijako zistiť. Môžete však kedykoľvek požiadať administrátora webu o nastavenie nového hesla.");
 define("LAN_EMAIL_06", "Ďakujeme za vašu registráciu.");
-define("LAN_SIGNUP_1", "Min.");
+define("LAN_SIGNUP_1", "Minim.");
 define("LAN_SIGNUP_2", "znakov");
 define("LAN_SIGNUP_3", "Nepodarilo sa overiť kód.");
 define("LAN_SIGNUP_4", "Heslo musí mať minimálne");
@@ -49,7 +49,7 @@ define("LAN_SIGNUP_44", "Aktivačný email odoslaný:");
 define("LAN_SIGNUP_45", "Pozrite sa do svojej prichádzajúcej pošty.");
 define("LAN_SIGNUP_47", "Znovu poslať aktivačný email");
 define("LAN_SIGNUP_48", "Užívateľské meno alebo email");
-define("LAN_SIGNUP_49", "If you registered with the wrong email address, as well as filling in the box above, type a new email address and your password here:");
+define("LAN_SIGNUP_49", "Ak ste sa zaregistrovali s nesprávnou adresou, zadajte novú emailovú adresu a heslo sem:");
 define("LAN_SIGNUP_50", "Nový email");
 define("LAN_SIGNUP_51", "Staré heslo");
 define("LAN_SIGNUP_53", "pole neprešlo testom pravosti");
@@ -112,6 +112,7 @@ define("LAN_SIGNUP_117", "Poslať test aktivácie");
 define("LAN_SIGNUP_118", " [x]");
 define("LAN_SIGNUP_119", "Neposielať email");
 define("LAN_SIGNUP_120", "ALEBO");
+define("LAN_SIGNUP_121", "Použite inú emailovú adresu");
 
 
 ?>

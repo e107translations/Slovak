@@ -103,13 +103,15 @@ define("TPVLAN_CONV_16", "URL to a live-demo of this theme.");
 define("TPVLAN_81", "Downloading...");
 define("TPVLAN_82", "Download Complete!");
 define("TPVLAN_83", "Automated download not possible.");
-define("TPVLAN_84", "Please Download Manually");
+define("TPVLAN_84", "[Please Download Manually]");
 define("TPVLAN_85", "Connecting...");
 define("TPVLAN_86", "Could not change site theme.");
 define("TPVLAN_88", "Converter");
 define("TPVLAN_89", "Apply dashboard preferences to all administrators");
 define("TPVLAN_91", "Create a new theme based on");
 define("TPVLAN_92", "New Theme Folder");
+define("TPVLAN_93", "Výber");
+define("TPVLAN_94", "Téma webu zmenená na [x].");
 
 
 ?>

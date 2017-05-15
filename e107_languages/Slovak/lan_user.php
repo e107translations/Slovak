@@ -88,6 +88,12 @@ define("LAN_XUP_ERRM_03", "Prihlásenie zlyhalo! Nesprávny provider.");
 define("LAN_XUP_ERRM_04", "Registrácia zlyhala! Užívateľ už je zaregistrovaný.");
 define("LAN_XUP_ERRM_05", "Registrácia zlyhala! Užívateľ už existuje. Použite 'prihlásenie'.");
 define("LAN_XUP_ERRM_06", "Registrácia zlyhala! Nemáme prístup k emailu užívateľa - bez emailu nie je možná registrácia.");
+define("LAN_XUP_ERRM_07", "Social Login Tester");
+define("LAN_XUP_ERRM_08", "Please logout of e107 before testing the new-user login/signup procedure.");
+define("LAN_XUP_ERRM_09", "Test login only with [x]");
+define("LAN_XUP_ERRM_10", "Test signup/login with [x]");
+define("LAN_XUP_ERRM_11", "Logged in:");
+define("LAN_XUP_ERRM_12", "Test logout");
 
 
 ?>

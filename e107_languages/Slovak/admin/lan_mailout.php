@@ -49,7 +49,6 @@ define("LAN_MAILOUT_38", "Späť");
 define("LAN_MAILOUT_39", "Emailovanie");
 define("LAN_MAILOUT_40", "Musíte premenovať <b>e107.htaccess</b> na <b>.htaccess</b> v");
 define("LAN_MAILOUT_41", "pred odoslaním mailu z tejto stránky.");
-define("LAN_MAILOUT_42", "varovanie");
 define("LAN_MAILOUT_43", "Užívateľské meno");
 define("LAN_MAILOUT_44", "Prihlásenie užívateľa");
 define("LAN_MAILOUT_45", "Užívateľov email");
@@ -91,7 +90,6 @@ define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "(Use SSL for gmail/googlemail)");
 define("LAN_MAILOUT_95", "Use VERP for bulk mailing");
-define("LAN_MAILOUT_96", "Žiadne");
 define("LAN_MAILOUT_97", "Mailer Results");
 define("LAN_MAILOUT_98", "Orphaned entries");
 define("LAN_MAILOUT_99", "Confirm retry mailshot");
@@ -128,7 +126,6 @@ define("LAN_MAILOUT_129", "Expiry Date");
 define("LAN_MAILOUT_130", "Creation Date");
 define("LAN_MAILOUT_131", "Sending Started");
 define("LAN_MAILOUT_132", "Sending Complete");
-define("LAN_MAILOUT_133", "Source");
 define("LAN_MAILOUT_134", "Priority");
 define("LAN_MAILOUT_136", "Mailout Status");
 define("LAN_MAILOUT_137", "Mail Ref");
@@ -253,6 +250,14 @@ define("LAN_SEND", "Send");
 define("LAN_HOLD", "Hold");
 define("LAN_MAILOUT_260", "User-Type");
 define("LAN_MAILOUT_261", "SMTP Port");
+define("LAN_MAILOUT_262", "Template Preview");
+define("LAN_MAILOUT_263", "Total Recipients");
+define("LAN_MAILOUT_264", "Embed Media");
+define("LAN_MAILOUT_265", "Pending");
+define("LAN_MAILOUT_266", "Max Active");
+define("LAN_MAILOUT_267", "Generate Public/Private keys");
+define("LAN_MAILOUT_268", "Developer Mode Only");
+define("LAN_MAILOUT_269", "Send Later");
 
 
 ?>

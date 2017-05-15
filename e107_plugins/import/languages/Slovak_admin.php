@@ -63,6 +63,24 @@ define("LAN_CONVERT_53", "The base URL of Drupal website (e.g., http://mydrupals
 define("LAN_CONVERT_54", "Drupal Base URL");
 define("LAN_CONVERT_55", "The base URL path (i.e., directory) of the Drupal installation (e.g., /drupal/).");
 define("LAN_CONVERT_56", "Drupal Base Path");
+define("LAN_CONVERT_57", "Bez chyby");
+define("LAN_CONVERT_58", "Nepodarilo sa zmeniť hlavné admin dáta");
+define("LAN_CONVERT_59", "invalid field passed");
+define("LAN_CONVERT_60", "Mandatory field not set");
+define("LAN_CONVERT_61", "Užívateľ už existuje");
+define("LAN_CONVERT_62", "Nepovolené znaky v užívateľskom alebo prihlasovacom mene");
+define("LAN_CONVERT_63", "Chyba pri ukladaní rozšírených užívateľských polí");
+define("LAN_CONVERT_64", "Vyberte");
+define("LAN_CONVERT_65", "Stránky");
+define("LAN_CONVERT_66", "Kapitoly");
+define("LAN_CONVERT_67", "Odkazy");
+define("LAN_CONVERT_68", "Média");
+define("LAN_CONVERT_69", "Fórum");
+define("LAN_CONVERT_70", "Vlákna / témy fóra");
+define("LAN_CONVERT_71", "Príspevky fóra");
+define("LAN_CONVERT_72", "Sledovanie fóra");
+define("LAN_CONVERT_73", "Užívateľské triedy");
+define("LAN_CONVERT_74", "Kategórie noviniek");
 
 
 ?>

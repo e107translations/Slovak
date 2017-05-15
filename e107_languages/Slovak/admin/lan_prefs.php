@@ -9,7 +9,6 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
 define("PRFLAN_1", "Informácie o webe");
 define("PRFLAN_2", "Názov webu");
 define("PRFLAN_3", "URL adresa webu");
@@ -95,10 +94,10 @@ define("PRFLAN_101", "Spôsob vykreslenia textu");
 define("PRFLAN_102", "Nahrádzať odkazy");
 define("PRFLAN_103", "If ticked, and 'Make Clickable' (above) is also ticked, posted URLs or Email addresses are displayed as a hyperlink using text from the textboxes below. This keeps very long URLs/Emails from breaking layout.");
 define("PRFLAN_104", "Nahrádzací text odkazov");
-define("PRFLAN_105", "Text na nahrádzanie odkazov. Je možné použiť aj obrázok: &lt;img&gt; tag a úplnú cesta k obrázku");
+define("PRFLAN_105", "Text na nahrádzanie odkazov. Je možné použiť aj obrázok: <img> tag a úplnú cesta k obrázku");
 define("PRFLAN_106", "Základné nastavenia uložené.");
 define("PRFLAN_107", "Nahrádzací text emailov");
-define("PRFLAN_108", "text na nahrádzanie emailov, môže byť použitý aj obrázok: &lt;img&gt; tag a úplná cesta k obrázku");
+define("PRFLAN_108", "text na nahrádzanie emailov, môže byť použitý aj obrázok: <img> tag a úplná cesta k obrázku");
 define("PRFLAN_109", "Delenie dlhých slov v hlavnom texte");
 define("PRFLAN_110", "Slová, ktoré majú viac znakov ako je nastavené budú rozdelené na dve a budú pokračovať na novom riadku");
 define("PRFLAN_111", "Delenie dlhých slov v texte menu");
@@ -196,7 +195,7 @@ define("PRFLAN_211", "Cannot make email address optional if required for validat
 define("PRFLAN_212", "Value for --FIELD-- too high - changed to --VALUE--");
 define("PRFLAN_213", "Value for --FIELD-- too low - changed to --VALUE--");
 define("PRFLAN_214", "Site Logo");
-define("PRFLAN_215", "Class which can post &lt;script&gt; and similar tags");
+define("PRFLAN_215", "Class which can post <script> and similar tags");
 define("PRFLAN_216", "(Requires HTML posting rights as well)");
 define("PRFLAN_217", "Filter HTML content");
 define("PRFLAN_218", "If 'off', puts users at increased risk of XSS exploits posted by members of the above class, or prior to 0.7.24");
@@ -254,7 +253,10 @@ define("PRFLAN_269", "Administrátori s tou užív.triedou (a príslušnými adm
 define("PRFLAN_270", "Contact Form Filtering");
 define("PRFLAN_271", "Ignore form submissions containing these words or phrases. One per line.");
 define("PRFLAN_272", "Session Lifetime");
-define("PRFLAN_273", "Lifetime in seconds. 0 = until the browser is closed. ");
+define("PRFLAN_273", "Lifetime in seconds. 0 = until the browser is closed.");
 define("PRFLAN_274", "Contact form will only be visible to this userclass group.");
 define("PRFLAN_275", "View this page using https (SSL) to modify this option");
+define("PRFLAN_276", "PHP Default (Preferred)");
 
+
+?>

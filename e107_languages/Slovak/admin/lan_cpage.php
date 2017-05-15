@@ -9,6 +9,11 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+define("CUSLAN_1", "Prehľad");
+define("CUSLAN_2", "Názov stránky");
+define("CUSLAN_3", "Počet na stranu");
+define("CUSLAN_4", "Custom polia");
+define("CUSLAN_5", "(Nová kniha)");
 define("CUSLAN_9", "Text");
 define("CUSLAN_11", "Meta description");
 define("CUSLAN_12", "Pridať stránku/menu");

@@ -21,10 +21,14 @@ define("LAN_CHECK_19", "Boli nájdené znaky, ktoré nie sú v UTF-8 kódovaní!
 define("LAN_CHECK_20", "Súbor");
 define("LAN_CHECK_21", "Téma");
 define("LAN_CHECK_23", "%s uložený");
-define("LAN_CHECK_26", "Front");
+define("LAN_CHECK_26", "Frontpage");
 define("LAN_CHECK_PAGE_TITLE", "Jazyky");
 define("LAN_CHECK_27", "Počet nájdených chýb v jazykovom balíčku");
 define("LAN_CHECK_28", "Identické");
+define("LAN_CHECK_29", "Rovnaké reťazce (len varovanie)");
+define("LAN_CHECK_30", "Chýbajú bbkódy");
+define("LAN_CHECK_31", "Chýbajú [ and/or ] znaky");
+define("LAN_CHECK_32", "Chýbajúce HTML znaky");
 define("LANG_LAN_23", "Vytvor jazykový balíček (zip)");
 define("LANG_LAN_30", "Dátum vydania");
 define("LANG_LAN_31", "Kompatibilita");

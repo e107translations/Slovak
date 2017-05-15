@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("RL_LAN_002", "Rolling Log");
-define("RL_LAN_005", "	Configure/View system logs");
+define("RL_LAN_005", "Configure/View system logs");
 define("RL_LAN_008", "Rolling Log is active:");
 define("RL_LAN_009", "Rolling Log History length in days");
 define("RL_LAN_012", "Filter Options");
@@ -66,13 +66,13 @@ define("RL_LAN_081", "Mail bounces");
 define("RL_LAN_082", "User bans");
 define("RL_LAN_083", "Mail bounce resets");
 define("RL_LAN_084", "Temporary accounts");
+define("RL_LAN_087", "Podrobnosti");
 define("RL_LAN_090", "Download ID");
 define("RL_LAN_091", "Detailed timings");
 define("RL_LAN_092", "Time period");
 define("RL_LAN_093", "(mins)");
 define("RL_LAN_094", "Detailed timing analysis");
 define("RL_LAN_096", "Diff (s)");
-define("RL_LAN_098", "Source");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
 define("RL_LAN_103", "Predmet");
@@ -96,6 +96,10 @@ define("RL_LAN_123", "User audit trail class");
 define("RL_LAN_124", "User audit trail actions");
 define("RL_LAN_125", "System Logs Maintenance");
 define("RL_LAN_126", "Total [x] entries matching search condition");
+define("RL_LAN_132", "Informative");
+define("RL_LAN_133", "Notice");
+define("RL_LAN_134", "Warning");
+define("RL_LAN_135", "Fatal");
 
 
 ?>

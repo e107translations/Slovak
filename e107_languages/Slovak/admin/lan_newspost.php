@@ -141,6 +141,10 @@ define("LAN_NEWS_104", "Trigger an email notification when you submit this form.
 define("LAN_NEWS_105", "Email notification triggered!");
 define("LAN_NEWS_106", "News item visibility must include 'everyone' for email notifications to work.");
 define("LAN_NEWS_107", "Checking for Ping Status");
+define("LAN_NEWS_108", "The SEF URL is unlike the title of your news item.");
+define("LAN_NEWS_109", "Trigger an email notification when you submit this form.");
+define("LAN_NEWS_110", "News Cache Timeout");
+define("LAN_NEWS_111", "Time in minutes. Applies only when system cache is enabled.");
 
 
 ?>
