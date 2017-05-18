@@ -85,7 +85,7 @@ define("ADLAN_119", "Neskontrolované zaslané odkazy");
 define("ADLAN_120", "Aktualizácia databázy prístupná, prosím, kliknite sem pre upgrade ...");
 define("ADLAN_121", "Inštalovať");
 define("ADLAN_122", "Nová aktualizácia je pripravená na nainštalovanie. Kliknite na rozbaliť a inštalovať v [x]");
-define("ADLAN_132", "Jazyk");
+define("ADLAN_132", "Jazyky");
 define("ADLAN_133", "predvolený");
 define("ADLAN_135", "Záznamy admina");
 define("ADLAN_136", "Mail");
