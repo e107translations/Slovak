@@ -73,7 +73,7 @@ define("LAN_ASCENDING", "Vzostupne");
 define("LAN_DESCENDING", "Zostupne");
 define("LAN_SHARE", "Zdieľať");
 define("LAN_BACK", "Späť");
-define("LAN_NAME", "Meno");
+define("LAN_NAME", "Názov");
 define("LAN_DESCRIPTION", "Popis");
 define("LAN_CANCEL", "Zrušiť");
 define("LAN_DATE", "Dátum");
