@@ -27,7 +27,7 @@ define("LAN_EURL_FORM_HELP_DEFAULT", "Alias when in default language.");
 define("LAN_EURL_FORM_HELP_ALIAS_0", "Default value is");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias when in");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Base URL");
-define("LAN_EURL_ERR_ALIAS_MODULE", "Alias "%1\$s" can't be saved - there is a system URL profile with the same name. Please choose another alias value for system URL profile "%2\$s"");
+define("LAN_EURL_ERR_ALIAS_MODULE", "Alias &quot;%1\$s&quot; can't be saved - there is a system URL profile with the same name. Please choose another alias value for system URL profile &quot;%2\$s&quot;");
 define("LAN_EURL_SURL_UPD", "  SEF URLs were updated.");
 define("LAN_EURL_SURL_NUPD", "  SEF URLs were NOT updated.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Remove filename from the URL");
