@@ -4,14 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:31:54
+|        Last Modified: 2017/09/15 18:50:17
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_IMA_M_01", "Media Library");
+define("LAN_IMA_M_01", "Media Knižnica");
 define("LAN_IMA_M_02", "Media Upload/Import");
-define("LAN_IMA_M_03", "Media Categories");
+define("LAN_IMA_M_03", "Media Kategórie");
 define("LAN_IMA_M_04", "Pridať kategóriu");
 define("LAN_IMA_M_05", "Avatary");
 define("LAN_IMA_001", "Úpravy nie sú povolené.");
@@ -181,6 +181,8 @@ define("IMALAN_176", "There was a problem grabbing the file");
 define("IMALAN_177", "Click here for more information and to enter your api key");
 define("IMALAN_178", "Avatars Folder (user selectable)");
 define("IMALAN_179", "Avatars Folder (private)");
+define("IMALAN_180", "O bytov nájdené v: ");
+define("IMALAN_181", "Odstráňte, než sa bude pokračovať.");
 
 
 ?>

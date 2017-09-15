@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
+|        Last Modified: 2017/09/15 18:50:17
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -31,7 +31,7 @@ define("UE_LAN_ICQ", "ICQ číslo");
 define("UE_LAN_ICQ_DESC", "ICQ číslo");
 define("UE_LAN_YAHOO", "Yahoo! adresa");
 define("UE_LAN_YAHOO_DESC", "Yahoo! adresa");
-define("UE_LAN_MSN", "MSN");
+define("UE_LAN_MSN", "MSN  ");
 define("UE_LAN_MSN_DESC", "MSN adresa");
 define("UE_LAN_HOMEPAGE", "Úvodná stránka");
 define("UE_LAN_HOMEPAGE_DESC", "Úvodná stránka užívateľa (URL)");

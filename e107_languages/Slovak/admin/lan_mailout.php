@@ -237,9 +237,9 @@ define("LAN_MAILOUT_245", "Check for bounces automatically");
 define("LAN_MAILOUT_246", "If checked, you will need to activate the task in the scheduler");
 define("LAN_MAILOUT_247", "Email information:");
 define("LAN_MAILOUT_248", "Completion status:");
-define("LAN_MAILOUT_249", "Send results:");
-define("LAN_MAILOUT_250", "--- End of notification ---");
-define("LAN_MAILOUT_251", "Copy and edit");
+define("LAN_MAILOUT_249", "Výsledky poslať:");
+define("LAN_MAILOUT_250", "--- Koniec notifikácie ---");
+define("LAN_MAILOUT_251", "Skopírovať a editovať");
 define("LAN_MAILOUT_252", "Does various consistency checks on the data, corrects counts, deletes temporary data");
 define("LAN_MAILOUT_253", "No recipients found - check for database corruption");
 define("LAN_MAILOUT_254", "View templated email");
@@ -258,6 +258,8 @@ define("LAN_MAILOUT_266", "Max Active");
 define("LAN_MAILOUT_267", "Generate Public/Private keys");
 define("LAN_MAILOUT_268", "Developer Mode Only");
 define("LAN_MAILOUT_269", "Send Later");
+define("LAN_MAILOUT_270", "Test SMTP spojenia");
+define("LAN_MAILOUT_271", "Overenie zlyhalo pre užívateľa ([x]) a heslo ([y]):");
 
 
 ?>

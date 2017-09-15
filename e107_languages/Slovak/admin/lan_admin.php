@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:26:47
+|        Last Modified: 2017/09/15 18:50:17
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -52,11 +52,11 @@ define("ADLAN_60", "Úvodná stránka");
 define("ADLAN_61", "Konfigurácia obsahu úvodnej stránky");
 define("ADLAN_66", "Meta tagy");
 define("ADLAN_67", "+/e/- meta tagov webu");
-define("ADLAN_68", "PHP Info");
+define("ADLAN_68", "PHP Informácie");
 define("ADLAN_69", "Stránka PHPInfo");
 define("ADLAN_72", "Verejné nahrávania");
 define("ADLAN_73", "Konfigurácia verejného nahrávania");
-define("ADLAN_74", "Cache");
+define("ADLAN_74", "Cache pamäť");
 define("ADLAN_75", "Nastaviť cache status");
 define("ADLAN_78", "Rozšírené užív.polia");
 define("ADLAN_79", "Editovať rozšírené polia uživ.");
@@ -88,7 +88,7 @@ define("ADLAN_122", "Nová aktualizácia je pripravená na nainštalovanie. Klik
 define("ADLAN_132", "Jazyky");
 define("ADLAN_133", "predvolený");
 define("ADLAN_135", "Záznamy admina");
-define("ADLAN_136", "Mail");
+define("ADLAN_136", "Email");
 define("ADLAN_137", "Nastavenia emailu a odosielania emailov");
 define("ADLAN_138", "Webové odkazy");
 define("ADLAN_139", "+/e/- odkazov");
@@ -124,6 +124,9 @@ define("ADLAN_170", "Tieto štatistiky sú len na ukážku");
 define("ADLAN_171", "Nainštalovať Site Stats plugin");
 define("ADLAN_185", "Toggle bočný panel");
 define("ADLAN_186", "Nasledovné staré súbory je možné bezpečne vymazať z vášho systému:");
+define("ADLAN_187", "Nepodarilo sa vytvoriť [x]. Skontrolujte oprávnenia adresára.");
+define("ADLAN_188", "Nastavenia vašej timezone je nesprávne [x] . Musí sa zresetovať na UTC. Na jej zmenu choďte do Admin -> Preferences -> Date Display Options");
+define("ADLAN_189", "Nasledujúce pluginy nie sú kompatibilné s touto verziou e107 a mali by ste ich odinštalovať:");
 define("ADLAN_CL_2", "Užívatelia");
 define("ADLAN_CL_3", "Obsah");
 define("ADLAN_CL_4", "Komentáre");
@@ -309,14 +312,14 @@ define("LAN_UI_404_TITLE_ERROR", "Stránka nenájdená");
 define("LAN_UI_404_METHOD_ERROR", "Akcia [x] nenájdená!");
 define("LAN_UI_403_BODY_ERROR", "Odmietnutý prístup k požadovanej stránke.");
 define("LAN_UI_403_TITLE_ERROR", "Prístup odmietnutý");
-define("LAN_UI_FORM_METHOD_ERROR", "FATAL ERROR: The field name [x] is not allowed. Please rename the key [x] to something else in your fields array and database table (if required).");
+define("LAN_UI_FORM_METHOD_ERROR", "FATAL ERROR: Pole s názvom [x] nie je povolené. Please rename the key [x] to something else in your fields array and database table (if required).");
 define("LAN_UNKNOWN_ERROR", "Neznáma chyba");
 define("LAN_SQL_ERROR", "SQL chyba");
-define("LAN_UI_BATCH_UPDATE_SUCCESS", "[x] set for [y] record(s).");
+define("LAN_UI_BATCH_UPDATE_SUCCESS", "[x] nastavené pre [y] záznamov.");
 define("LAN_UI_BATCH_REVERSED_SUCCESS", "[x] records successfully reversed.");
-define("LAN_UI_BATCH_BOOL_SUCCESS", "[x] records successfully updated.");
-define("LAN_UI_BATCH_DEATTACH_SUCCESS", "[x] removed from [y] record(s).");
-define("LAN_UI_EDIT_LABEL", "Update record #[x]");
+define("LAN_UI_BATCH_BOOL_SUCCESS", "[x] záznamov úspešne aktualizovaných.");
+define("LAN_UI_BATCH_DEATTACH_SUCCESS", "[x] odstránených z [y] záznamov.");
+define("LAN_UI_EDIT_LABEL", "Aktualizovať záznam #[x]");
 define("LAN_UI_CREATE_LABEL", "Pridať nový záznam");
 define("LAN_UI_PREF_LABEL", "Nastavenia");
 define("LAN_UI_DELETE_LABEL", "Potvrdiť zmazanie");
@@ -363,6 +366,7 @@ define("LAN_PERSONALIZE", "Personalizovať");
 define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "Nastavenia neuložené, keďže nedošlo k žiadnym zmenám");
 define("LAN_DASHBOARD_LAYOUT", "Rozloženie Dashboardu");
 define("LAN_UNAVAILABLE", "Nedostupné");
+define("LAN_UNINSTALL", "Odinštalovať");
 define("LAN_NO_LABEL_PROVIDED", "Nadpis nedostupný");
 define("LAN_NOT_FOUND", "Nenájdené!");
 define("LAN_FIELD", "Pole");
