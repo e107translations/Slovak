@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:34:37
+|        Last Modified: 2017/11/06 18:34:37
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -228,41 +228,41 @@ define("EPL_ADLAN_225", "Unsure");
 define("EPL_ADLAN_226", "Plugin Language-File Check");
 define("EPL_ADLAN_227", "Scan for Changes");
 define("EPL_ADLAN_228", "Plugin folders are scanned every [x] minutes for changes. Click the button below to scan now.");
-define("EPL_ADLAN_229", "Refresh");
-define("EPL_ADLAN_230", "Downloading and Installing:");
-define("EPL_ADLAN_231", "Remove icons from Media-Manager");
-define("EPL_ADLAN_232", "Create Files");
-define("TPVLAN_81", "Downloading...");
-define("TPVLAN_82", "Download Complete!");
+define("EPL_ADLAN_229", "Obnoviť");
+define("EPL_ADLAN_230", "Sťahujem a inštalujem:");
+define("EPL_ADLAN_231", "Odstrániť ikony z manažéra médii");
+define("EPL_ADLAN_232", "Vytvoriť súbory");
+define("TPVLAN_81", "Sťahujem...");
+define("TPVLAN_82", "Stiahnutie dokončené!");
 define("EPL_ADLAN_233", "Pridanie odkazu:");
 define("EPL_ADLAN_234", "Vymazanie odkazu:");
-define("EPL_ADLAN_235", "Automated download not possible.");
-define("EPL_ADLAN_236", "Please Download Manually");
-define("EPL_ADLAN_237", "Download");
-define("EPL_ADLAN_238", "Installation Complete!");
-define("EPL_ADLAN_239", "Adding Table:");
-define("EPL_ADLAN_240", "Removing Table:");
-define("EPL_ADLAN_241", "Adding Pref:");
-define("EPL_ADLAN_242", "Removing Pref:");
-define("EPL_ADLAN_243", "Updating Pref:");
+define("EPL_ADLAN_235", "NIe je možné automatické stiahnutie.");
+define("EPL_ADLAN_236", "Stiahnite manuálne");
+define("EPL_ADLAN_237", "Stiahnuť");
+define("EPL_ADLAN_238", "Inštalácia dokončená!");
+define("EPL_ADLAN_239", "Pridávam tabuľku:");
+define("EPL_ADLAN_240", "Odstraňujem tabuľku:");
+define("EPL_ADLAN_241", "Pridávam Pref:");
+define("EPL_ADLAN_242", "Odstraňujem Pref:");
+define("EPL_ADLAN_243", "Aktualizujem Pref:");
 define("EPL_ADLAN_244", "Only 3 Media Categories are permitted during install. One for images and one for files.");
-define("EPL_ADLAN_245", "Adding Media Category: [x]");
-define("EPL_ADLAN_246", "Deleting All Media Categories owned by : [x]");
-define("EPL_ADLAN_247", "Updates to be Installed");
-define("EPL_ADLAN_249", "Adding Extended Field:");
-define("EPL_ADLAN_250", "Removing Extended Field:");
-define("EPL_ADLAN_251", "Extended Field left in place:");
-define("EPL_ADLAN_252", "Perm:");
-define("EPL_ADLAN_253", "Completed");
-define("LAN_RELEASED", "Released");
-define("LAN_REPAIR_PLUGIN_SETTINGS", "Repair plugin settings");
-define("LAN_SYNC_WITH_GIT_REPO", "Sync with Git Repo");
-define("LAN_ADDONS", "Addons");
-define("LAN_UPGRADE_SUCCESSFUL", "Upgrade successful");
-define("LAN_INSTALL_SUCCESSFUL", "Installation successful");
+define("EPL_ADLAN_245", "Pridávam Media Category: [x]");
+define("EPL_ADLAN_246", "Mažem všetky Media Category, ktoré vlastní : [x]");
+define("EPL_ADLAN_247", "Aktualizácie na nainštalovanie");
+define("EPL_ADLAN_249", "Pridávam Extended Field:");
+define("EPL_ADLAN_250", "Odstraňujem Extended Field:");
+define("EPL_ADLAN_251", "Extended Field bezo zmeny:");
+define("EPL_ADLAN_252", "Oprav.:");
+define("EPL_ADLAN_253", "Kompletný");
+define("LAN_RELEASED", "Vydaný");
+define("LAN_REPAIR_PLUGIN_SETTINGS", "Opraviť nastavenia pluginu");
+define("LAN_SYNC_WITH_GIT_REPO", "Sync s Git Repo");
+define("LAN_ADDONS", "Rozšírenia");
+define("LAN_UPGRADE_SUCCESSFUL", "Upgrade úspešný");
+define("LAN_INSTALL_SUCCESSFUL", "Inštalácia úspešná");
 define("LAN_INSTALL_FAIL", "Installation failed!");
-define("LAN_UNINSTALL_FAIL", "Unable to uninstall!");
-define("LAN_PLUGIN_IS_USED", "[x] plugin is used by:");
-
-
-?>
+define("LAN_UNINSTALL_FAIL", "Nepodarilo sa odinštalovať!");
+define("LAN_PLUGIN_IS_USED", "[x] plugin používajú:");
+define("EPL_ADLAN_254", "Táto voľba skontroluje jazykové súbory pluginu na chyby a bežné či duplicitné LAN definície.");
+define("EPL_ADLAN_255", "Prepísať súbory");
+define("EPL_ADLAN_256", "Preskočiť [x] (už existuje)");

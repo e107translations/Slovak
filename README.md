@@ -35,6 +35,7 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 * vyká sa, zabudnuté tykanie je omyl
 * directory = adresár, nie zložka
 * Media-Manager = Manažér médii
+* Menu Manager = Menu manažér
 * News = články, Pages = stránky, 
 * the site = web, webová stránka 
 * Fórum = fórum, Thread = vlákno, Topic = téma, Post = príspevok

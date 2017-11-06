@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/09/15 18:50:17
+|        Last Modified: 2017/11/06 18:50:17
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -15,8 +15,8 @@ define("ADLAN_2", "Pridať článok");
 define("ADLAN_3", "Zoznam článkov");
 define("ADLAN_3a", "Nastavenia článkov");
 define("ADLAN_5", "Editácia nastavenia webu");
-define("ADLAN_6", "Menu Manažér");
-define("ADLAN_7", "Zmeniť poradie vašich menu");
+define("ADLAN_6", "Menu manažér");
+define("ADLAN_7", "Zmeniť poradie menu");
 define("ADLAN_8", "Administrátori");
 define("ADLAN_9", "+/e/- administrátorov webu");
 define("ADLAN_10", "Heslo administrátora");
@@ -35,7 +35,7 @@ define("ADLAN_37", "Správa užívateľov webu");
 define("ADLAN_38", "Užívateľské skupiny");
 define("ADLAN_39", "+/e/- skupín užívateľov");
 define("ADLAN_40", "Údržba");
-define("ADLAN_41", "Odstaviť web kvôli údržbe");
+define("ADLAN_41", "Nastaviť na webe režim údržby");
 define("ADLAN_42", "Stránky/Menu");
 define("ADLAN_43", "Vytvoriť menu");
 define("ADLAN_44", "Databáza");
@@ -125,7 +125,7 @@ define("ADLAN_171", "Nainštalovať Site Stats plugin");
 define("ADLAN_185", "Toggle bočný panel");
 define("ADLAN_186", "Nasledovné staré súbory je možné bezpečne vymazať z vášho systému:");
 define("ADLAN_187", "Nepodarilo sa vytvoriť [x]. Skontrolujte oprávnenia adresára.");
-define("ADLAN_188", "Nastavenia vašej timezone je nesprávne [x] . Musí sa zresetovať na UTC. Na jej zmenu choďte do Admin -> Preferences -> Date Display Options");
+define("ADLAN_188", "Nastavenia timezone je nesprávne [x] . Musí sa zresetovať na UTC. Na jej zmenu choďte do Admin -> Preferences -> Date Display Options");
 define("ADLAN_189", "Nasledujúce pluginy nie sú kompatibilné s touto verziou e107 a mali by ste ich odinštalovať:");
 define("ADLAN_CL_2", "Užívatelia");
 define("ADLAN_CL_3", "Obsah");
@@ -382,6 +382,5 @@ define("LAN_ENGINE", "Engine");
 define("LAN_SOURCE", "Zdroj");
 define("LAN_ERROR_CONNECTION", "Pri kontrole aktualizácii sa nepodarilo pripojiť. Skontrolujte firewall a/alebo internetové pripojenie.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] nemôže byť rovnaké ako [y]");
-
-
-?>
+define("LAN_UI_VIEW_GRID_LABEL", "Grid zobrazenie");
+define("LAN_UI_VIEW_LIST_LABEL", "List zobrazenie");
