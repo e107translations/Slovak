@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:25:35
-|
+|        Last Modified: 2017/12/11 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -27,7 +29,7 @@ define("LAN_USET_14", "Prihlasovacie meno je príliš dlhé. Zadajte iné meno")
 define("LAN_USET_15", "Zobrazované meno je príliš dlhé. Zadajte iné meno");
 define("LAN_USET_16", "Zaškrtnite pre zmazanie obrázku");
 define("LAN_USET_17", "Meno, ktoré chcete zobraziť, sa už používa. Zadajte iné meno");
-define("LAN_USET_18", "Údaje užívateľa zmenené adminom: --ID--, login name: --LOGNAME--");
+define("LAN_USET_18", "Údaje užívateľa zmenené adminom: [x], login name: [y]");
 define("LAN_USET_20", "Musíte si zmeniť aj heslo, ak si meníte prihlasovacie meno alebo emailovú adresu");
 define("LAN_USET_21", "Zmeny potvrďte opätovným zadaním svojho hesla:");
 define("LAN_USET_23", "Nevyplňujte, ak chcete ponechať pôvodné heslo");
@@ -79,8 +81,5 @@ define("LAN_433", "URL Vášho XUP súboru");
 define("LAN_434", "Čo je toto?");
 define("LAN_435", "XML soubor užívateľského nastavenia");
 define("LAN_CUSTOMTITLE", "Vlastný titul");
-define("LAN_USET_5", "Prihlásený na odber ");
+define("LAN_USET_5", "Prihlásený na odber");
 define("LAN_USET_6", "Prihláste sa k odberu noviniek a/alebo do rôznych častí tejto stránky.");
-
-
-?>

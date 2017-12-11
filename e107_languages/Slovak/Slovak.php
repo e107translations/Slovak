@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 09:22:03
-|
+|        Last Modified: 2017/12/11 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.6 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -37,7 +39,7 @@ define("EMESSLAN_TITLE_INFO", "Systémové informácie");
 define("EMESSLAN_TITLE_ERROR", "Chyba");
 define("EMESSLAN_TITLE_SUCCESS", "Podarilo sa");
 define("EMESSLAN_TITLE_WARNING", "Varovanie");
-define("EMESSLAN_TITLE_DEBUG", "System Debug");
+define("EMESSLAN_TITLE_DEBUG", "Ladenie systému");
 define("LAN_NO_PERMISSIONS", "Nemáte dostatočné práva na zobrazenie tejto stránky.");
 define("LAN_EDIT", "Uprav");
 define("LAN_DELETE", "Zmaž");
@@ -61,8 +63,8 @@ define("LAN_OK", "OK");
 define("LAN_ACTIONS", "Akcie");
 define("LAN_THANK_YOU", "Ďakujeme");
 define("LAN_CONTINUE", "Pokračovať");
-define("LAN_ENTER", "Enter");
-define("LAN_ENTER_CODE", "Vložte kód");
+define("LAN_ENTER", "Zadajte");
+define("LAN_ENTER_CODE", "Zadajte kód");
 define("LAN_INVALID_CODE", "Zadaný kód nesúhlasí.");
 define("LAN_SEARCH", "Hľadať");
 define("LAN_VIEW", "Zobraziť");
@@ -127,6 +129,3 @@ define("LAN_SUMMARY", "Zhrnutie");
 define("LAN_REQUIRED_BLANK", "Vynechané povinné polia");
 define("LAN_PLEASEWAIT", "Čakajte");
 define("LAN_CHOOSE_FILE", "Zvoľte súbor");
-
-
-?>

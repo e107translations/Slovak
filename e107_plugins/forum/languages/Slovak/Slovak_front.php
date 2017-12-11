@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:54:03
+|        Last Modified: 2017/12/11 19:26:57
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -235,7 +235,7 @@ define("LAN_FORUM_7006", "Výsledok");
 define("LAN_FORUM_7007", "Nájdené vo vlákne");
 define("LAN_FORUM_7008", "NENÁJDENÉ");
 define("LAN_FORUM_7009", "Nenájdené žiadne uploadované súbory");
-define("LAN_FORUM_8001", "A new post has been made by [x] under the topic [y] at [z].");
+define("LAN_FORUM_8001", " [x] pridal nový príspevok v téme [y] v čase [z].");
 define("LAN_FORUM_8002", "Kliknite na nasledujúci link, ak chcete vidieť celý príspevok...");
 define("LAN_FORUM_8003", "Emailová notifikácia pre túto tému je zapnutá.");
 define("LAN_FORUM_8004", "Emailová notifikácia je pre túto tému vypnutá.");
@@ -245,7 +245,7 @@ define("LAN_FORUM_8007", "Prilepiť");
 define("LAN_FORUM_8008", "Odlepiť");
 define("LAN_FORUM_8009", "Zamknúť");
 define("LAN_FORUM_8010", "Odomknúť");
-define("LAN_FORUM_8011", "Status Keys");
+define("LAN_FORUM_8011", "Stavové kľúče");
 define("LAN_FORUM_8012", "Zobraziteľné pre");
 define("LAN_FORUM_8013", "Možnosti");
 define("LAN_FORUM_8014", "Tento príspevok, spolu so všetkými príspevkami pod ním, sa presunú do nového vlákna/témy.");
@@ -264,6 +264,3 @@ define("LAN_FORUM_8026", "Nepodarilo sa zrušiť zvýraznenie vlákna");
 define("LAN_FORUM_8027", "Nezvolená akcia");
 define("LAN_FORUM_8028", "Návrat");
 define("LAN_FORUM_8029", "Vytvorená nová téma!");
-
-
-?>

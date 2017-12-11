@@ -11,14 +11,11 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_THEMEPREF_00", "Značka:");
-define("LAN_THEMEPREF_01", "Zarovnanie hlavnému menu");
-define("LAN_THEMEPREF_02", "Umiestnenie Signup/Login:");
-define("LAN_THEMEPREF_03", "Bootswatch štýl:");
-define("LAN_THEMEPREF_04", "Názov stránky");
-define("LAN_THEMEPREF_05", "Brand Logo");
-define("LAN_THEMEPREF_06", "Logo & názov stránky");
-define("LAN_THEMEPREF_07", "vľavo");
-define("LAN_THEMEPREF_08", "vpravo");
-define("LAN_THEMEPREF_09", "hore");
-define("LAN_THEMEPREF_10", "dolu");
+
+define("LAN_LZ_THEMEPREF_00", "Obrázok na pozadie pre video [1920x1080px]");
+define("LAN_LZ_THEMEPREF_01", "Obrázok pozadia na mobile");
+define("LAN_LZ_THEMEPREF_02", "Prvý snímok videa [1920x1080px]");
+define("LAN_LZ_THEMEPREF_03", "URL cesta k úvodnému video v mp4 formáte");
+define("LAN_LZ_THEMEPREF_04", "Umiestnenie Registrovať/Prihlásiť sa");
+define("LAN_LZ_THEMEPREF_05", "hore");
+define("LAN_LZ_THEMEPREF_06", "dole");

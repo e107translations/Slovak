@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2017/12/11 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -20,14 +22,14 @@ define("LAN_197", "Stiahnutia");
 define("LAN_198", "Žiadne výsledky vyhľadávania");
 define("LAN_199", "Hľadať:");
 define("LAN_416", "Pre prístup k tejto stránke musíte byť prihlásený");
-define("LAN_417", "Hľadaný reťazec musí obsahovať najmenej 3 znaky.");
+define("LAN_417", "Minimálny počet znakov pre hľadaný reťazec:  [x].");
 define("LAN_418", "Iné stránky");
 define("LAN_SEARCH_1", "Všetko označiť");
 define("LAN_SEARCH_2", "Všetko odznačiť");
 define("LAN_SEARCH_3", "Zaslané");
-define("LAN_SEARCH_4", "Reťazec nájdený v názvoch článkov");
-define("LAN_SEARCH_5", "Reťazec nájdený v texte článkov");
-define("LAN_SEARCH_6", "Reťazec nájdený v rozšírenom texte článkov");
+define("LAN_SEARCH_4", "Zhoda nájdená v názvoch článkov");
+define("LAN_SEARCH_5", "Zhoda nájdená v texte článkov");
+define("LAN_SEARCH_6", "Zhoda nájdená v rozšírenom texte článkov");
 define("LAN_SEARCH_7", "Zaslané od");
 define("LAN_SEARCH_8", "dňa");
 define("LAN_SEARCH_9", "Neoznačený");
@@ -40,14 +42,14 @@ define("LAN_SEARCH_17", "Prepáčte, vyhľadanie je obmedzené len na jedno hľa
 define("LAN_SEARCH_18", " sekúnd.");
 define("LAN_SEARCH_19", "Hľadať v:");
 define("LAN_SEARCH_20", "Potrebná autorizácia");
-define("LAN_SEARCH_21", "Nie ste autorizovaný pre zobrazenie tejto stránky.");
+define("LAN_SEARCH_21", "Nemáte oprávnenie pre zobrazenie tejto stránky.");
 define("LAN_SEARCH_22", "Všetky oblasti");
-define("LAN_SEARCH_23", "Rozšírený vyhľadávací formulár");
+define("LAN_SEARCH_23", "Formulár rozšíreného vyhľadávania");
 define("LAN_SEARCH_24", "Musí obsahovať slovo(á)");
 define("LAN_SEARCH_25", "Nesmie obsahovať slovo(á)");
 define("LAN_SEARCH_26", "Presná fráza");
 define("LAN_SEARCH_27", "Slovo(á) začínajúce na");
-define("LAN_SEARCH_28", "Všetko nemá pokročilé vyhľadávanie");
+define("LAN_SEARCH_28", "Voľba všetko nemá pokročilé vyhľadávanie");
 define("LAN_SEARCH_29", "Základný");
 define("LAN_SEARCH_30", "Pokročilý");
 define("LAN_SEARCH_31", "Nemá pokročilé vyhľadávanie");
@@ -99,6 +101,3 @@ define("LAN_SEARCH_77", "Odoslané na stránke profilu");
 define("LAN_SEARCH_98", "Články");
 define("LAN_SEARCH_201", "Zmeňte svoju požiadavku na vyhľadávanie");
 define("LAN_SEARCH_202", "Režim pokročilého vyhľadávania");
-
-
-?>

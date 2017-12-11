@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2017/12/11 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -69,9 +71,9 @@ define("LAN_USER_71", "Podpis:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "výber obsahu/zoznamu emailov");
 define("LAN_USER_74", "Titul");
-define("LAN_USER_75", "Vaše --SOMETHING-- je povinné");
+define("LAN_USER_75", "Vaše [x] je povinné");
 define("LAN_USER_76", "Prihlásený do");
-define("LAN_USER_77", "Vaše heslo musí mať najmenej --COUNT-- znakov.");
+define("LAN_USER_77", "Vaše heslo musí mať najmenej [x] znakov.");
 define("LAN_USER_78", "Minim.");
 define("LAN_USER_79", "znakov");
 define("LAN_USER_80", "meno, pod ktorým budete na stránke vystupovať");
@@ -80,20 +82,17 @@ define("LAN_USER_82", "meno, pod ktorým sa budete prihlasovať na stránku");
 define("LAN_USER_83", "Skryť email?:");
 define("LAN_USER_84", "Zabráni zobrazeniu vašej emailovej adresy na tomto webe");
 define("LAN_USER_85", "Ak chcete zmeniť svoje užívateľské meno, musíte požiadať hlavného administrátora");
-define("LAN_USER_86", "Maximálna veľkosť avatara je --WIDTH-- x --HEIGHT-- pixelov");
+define("LAN_USER_86", "Maximálna veľkosť avatara je [x] x [y] pixelov");
 define("LAN_USER_87", "Prihláste sa, aby ste mohli ohodnotiť tohto užívateľa!");
-define("LAN_XUP_ERRM_01", "Registrácia zlyhala! Nie je vôbec povolená.");
-define("LAN_XUP_ERRM_02", "Registrácia zlyhala! Nesprávny provider.");
-define("LAN_XUP_ERRM_03", "Prihlásenie zlyhalo! Nesprávny provider.");
-define("LAN_XUP_ERRM_04", "Registrácia zlyhala! Užívateľ už je zaregistrovaný.");
+define("LAN_XUP_ERRM_01", "Registrácia zlyhala! Táto možnosť je vypnutá.");
+define("LAN_XUP_ERRM_02", "Registrácia zlyhala! Nesprávny poskytovateľ.");
+define("LAN_XUP_ERRM_03", "Prihlásenie zlyhalo! Nesprávny poskytovateľ.");
+define("LAN_XUP_ERRM_04", "Registrácia zlyhala! Užívateľ už je prihlásený.");
 define("LAN_XUP_ERRM_05", "Registrácia zlyhala! Užívateľ už existuje. Použite 'prihlásenie'.");
 define("LAN_XUP_ERRM_06", "Registrácia zlyhala! Nemáme prístup k emailu užívateľa - bez emailu nie je možná registrácia.");
-define("LAN_XUP_ERRM_07", "Social Login Tester");
-define("LAN_XUP_ERRM_08", "Please logout of e107 before testing the new-user login/signup procedure.");
-define("LAN_XUP_ERRM_09", "Test login only with [x]");
-define("LAN_XUP_ERRM_10", "Test signup/login with [x]");
-define("LAN_XUP_ERRM_11", "Logged in:");
-define("LAN_XUP_ERRM_12", "Test logout");
-
-
-?>
+define("LAN_XUP_ERRM_07", "Tester prihlásenia cez sociálnu sieť");
+define("LAN_XUP_ERRM_08", "Pred testovaním prihlásenia/registrácie sa odhláste zo stránky.");
+define("LAN_XUP_ERRM_09", "Test len prihlásenia s [x]");
+define("LAN_XUP_ERRM_10", "Test registrácie/prihlásenia s [x]");
+define("LAN_XUP_ERRM_11", "Prihlásený:");
+define("LAN_XUP_ERRM_12", "Test odhlásenia");

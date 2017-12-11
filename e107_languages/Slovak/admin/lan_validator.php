@@ -4,32 +4,32 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:32:34
-|
+|        Last Modified: 2017/12/11 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_VALIDATE_0",   "Unknown Error");
-define("LAN_VALIDATE_101", "Missing value");
-define("LAN_VALIDATE_102", "Unexpected value type");
-define("LAN_VALIDATE_103", "Invalid characters found");
-define("LAN_VALIDATE_104", "Not a valid email address");
-define("LAN_VALIDATE_105", "Fields don\"t match" );
-define("LAN_VALIDATE_131", "String too short");
-define("LAN_VALIDATE_132", "String too long");
-define("LAN_VALIDATE_133", "Number too low");
-define("LAN_VALIDATE_134", "Number too high");
-define("LAN_VALIDATE_135", "Array count too low");
-define("LAN_VALIDATE_136", "Array count too high");
-define("LAN_VALIDATE_151", "Number of type integer expected");
-define("LAN_VALIDATE_152", "Number of type float expected");
-define("LAN_VALIDATE_153", "Instance type expected");
-define("LAN_VALIDATE_154", "Array type expected");
-define("LAN_VALIDATE_191", "Empty value");
-define("LAN_VALIDATE_201", "File not exists");
-define("LAN_VALIDATE_202", "File not writable");
-define("LAN_VALIDATE_203", "File exceeds allowed file size");
-define("LAN_VALIDATE_204", "File size lower than allowed minimal file size");
-define("LAN_VALIDATE_FAILMSG", "[x] validation error: [y] [z].");
-
-?>
+define("LAN_VALIDATE_0", "Neznáma chyba");
+define("LAN_VALIDATE_101", "Chýbajúca hodnota");
+define("LAN_VALIDATE_102", "Neočakávaný typ hodnoty");
+define("LAN_VALIDATE_103", "Nájdené neplatné znaky");
+define("LAN_VALIDATE_104", "Neplatná emailová adresa");
+define("LAN_VALIDATE_105", "Polia nesúhlasia");
+define("LAN_VALIDATE_131", "Príliš krátky reťazec");
+define("LAN_VALIDATE_132", "Príliš dlhý reťazec");
+define("LAN_VALIDATE_133", "Príliš nízke číslo");
+define("LAN_VALIDATE_134", "Príliš vysoké číslo");
+define("LAN_VALIDATE_135", "Počet polí je príliš níkzy");
+define("LAN_VALIDATE_136", "Počet polí je príliš vysoký");
+define("LAN_VALIDATE_151", "Zadajte celé číslo");
+define("LAN_VALIDATE_152", "Zadajte desatinné číslo");
+define("LAN_VALIDATE_153", "Očakávaný typ Instance");
+define("LAN_VALIDATE_154", "Očakávaný typ Array");
+define("LAN_VALIDATE_191", "Prázdna hodnota");
+define("LAN_VALIDATE_201", "Súbor neexistuje");
+define("LAN_VALIDATE_202", "Súbor nie je zapisovateľný");
+define("LAN_VALIDATE_203", "Súbor prekročil povolenú veľkosť súboru");
+define("LAN_VALIDATE_204", "Veľkosť súboru je nižšia než požadovaná minimálna veľkosť");
+define("LAN_VALIDATE_FAILMSG", "[x] chyba overenia: [y] [z].");

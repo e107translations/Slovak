@@ -4,18 +4,17 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:32:28
-|
+|        Last Modified: 2017/12/11 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 define("WMLAN_00", "Uvítacie správy");
 define("WMLAN_05", "Uzavretá");
-define("WMLAN_06", "When enabled, the message will be rendered inside a box");
-define("WMLAN_07", "Povoliť štandardný systém použitia kódu {WMESSAGE}:");
-define("WMLAN_11", "Enclosed with Carousel");
-define("WMLAN_12", "Welcome Message Help");
-define("WMLAN_13", "This page allows you to set a message that will appear at the top of your front page all the time it's activated. You can set a different message for guests, registered/logged-in members and administrators.");
-
-
-?>
+define("WMLAN_06", "Pri povolení sa správa zobrazí vo vnútri boxu");
+define("WMLAN_07", "Prepísať štandardný systém použitia kódu {WMESSAGE}:");
+define("WMLAN_11", "Uzavretá s Carousel");
+define("WMLAN_12", "Pomocník uvítacej správy");
+define("WMLAN_13", "Táto stránka vám umožňuje nastaviť správu, ktorá se bude zobrazovať v hornej časti vašej úvodnej stránky počas aktivácie (alebo podľa nastavenia témy). Môžete nastaviť inú správu pre hostí, registrovaných/prihlásených užívateľov a administrátorov.");

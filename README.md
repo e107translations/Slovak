@@ -33,20 +33,31 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 * užívateľ nie používateľ    viď: http://korpus.juls.savba.sk/attachments/publications/2005_Garabik_luser.pdf
 (ak sa myslí osoba sediaca za počítačom, používateľ sa môže použiť. Username, user groups - užívateľ.)
 * vyká sa, zabudnuté tykanie je omyl
-* directory = adresár, nie zložka
-* Media-Manager = Manažér médii
-* Menu Manager = Menu manažér
-* News = články, Pages = stránky, 
-* the site = web, webová stránka 
-* Fórum = fórum, Thread = vlákno, Topic = téma, Post = príspevok
-* Homepage = úvodná strana
-* Settings = nastavenia
-* Options = možnosti
-* Preferencies = nastavenia
-* Plugin = plugin
+
+
 * carousel = rotátor
 * core = jadro
 * cron = cron
+* cancel = zrušiť, nie stornovať
+* directory = adresár, nie zložka
+* Fórum = fórum
+* Homepage = úvodná strana
+* label = označenie
+* Media-Manager = Manažér médii
+* Menu Manager = Menu manažér
+* name = názov
+* News = články, Pages = stránky,
+* navbar = hlavné menu
+* Options = možnosti
+* Post = príspevok
+* Preferencies = nastavenia
+* Plugin = plugin
+* Settings = nastavenia
 * sidebar = bočný panel
+* site, the site = web, webová stránka
+* tag = štítok
+* Thread = vlákno
+* title = nadpis
+* Topic = téma
 * uploads = nahratia
 * URL = URL adresa

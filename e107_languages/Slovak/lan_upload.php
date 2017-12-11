@@ -4,49 +4,50 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
+|        Last Modified: 2015/12/09 18:32:58
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Nahrávanie");
-define("LAN_UL_001", "Neplatná emailová adresa");
-define("LAN_UL_002", "Nemáte oprávnenia pre nahratie súborov na server.");
-define("LAN_UL_020", "Chyba");
-define("LAN_UL_021", "Zlyhanie nahrávania");
-define("LAN_UL_022", "sa môže meniť v závislosti od typu súboru");
-define("LAN_UL_023", "Typ");
-define("LAN_UL_024", "Maximálna veľkosť");
-define("LAN_UL_025", "Nahrávanie nie je povolené");
-define("LAN_UL_026", "");
-define("LAN_UL_027", "");
-define("LAN_UL_032", "Musíte zvoliť kategóriu");
-define("LAN_UL_033", "Musíte vložiť platnú emailovú adresu");
-define("LAN_UL_034", "Musíte špecifikovať názov súboru");
-define("LAN_UL_035", "Musíte vložiť popis");
-define("LAN_UL_036", "Musíte špecifikovať súbor pre upload");
-define("LAN_UL_037", "Musíte špecifikovať kategóriu");
-define("LAN_UL_038", "");
-define("LAN_61", "Vaše meno:");
-define("LAN_112", "Emailová adresa:");
-define("LAN_144", "URL webu:");
-define("LAN_402", "Pre upload súborov na tento server musíte byť jeho registrovaným členom.");
-define("LAN_404", "Ďakujeme vám. Váš upload bol zaznamenaný a posunutý administrátorovi na schválenie.");
-define("LAN_406", "Poznámka");
-define("LAN_407", "Všetky ostatné typy súborov budú okamžite zmazané.");
-define("LAN_408", "Podčiarknuté");
-define("LAN_409", "Meno súboru");
-define("LAN_410", "Verzia");
-define("LAN_411", "Súbor");
-define("LAN_413", "Popis");
-define("LAN_414", "Fungujúce demo");
-define("LAN_415", "vložte URL, kde je možné pozrieť demo");
-define("LAN_416", "Uložiť a nahrať na server");
-define("LAN_417", "Nahratie súboru");
-define("LAN_418", "Absolútna maximálna veľkosť súboru:");
-define("DOWLAN_11", "Kategória");
-define("LAN_419", "Povolené typy súborov");
-define("LAN_420", "polia sú povinné");
-
-
-?>
+define("UPLLAN_1", "Nahratie odstránené zo zoznamu.");
+define("UPLLAN_2", "Nastavenia uložené");
+define("UPLLAN_4", "Nič sa nezmenilo - nič sa neaktualizovalo");
+define("UPLLAN_5", "Odosielateľ");
+define("UPLLAN_7", "Webstránka");
+define("UPLLAN_14", "Demo");
+define("UPLLAN_16", "kopírovať do noviniek");
+define("UPLLAN_17", "odstrániť nahratie zo zoznamu");
+define("UPLLAN_18", "Ukázať detaily");
+define("UPLLAN_19", "Nie sú žiadne nemoderované verejné uploady");
+define("UPLLAN_20", "Tu");
+define("UPLLAN_21", "nemoderovaných uploadov");
+define("UPLLAN_24", "Typ súboru");
+define("UPLLAN_25", "Povoliť nahrávanie?");
+define("UPLLAN_26", "Nie je možné verejné nahrávanie, pokiaľ je táto položka vypnutá.");
+define("UPLLAN_27", "nemoderované verejné uploady");
+define("UPLLAN_33", "Maximálna veľkosť súboru");
+define("UPLLAN_34", "Absolute maximum upload size in bytes. Further limited by settings from php.ini, and by the settings in filetypes.xml");
+define("UPLLAN_37", "Povoliť pre");
+define("UPLLAN_38", "Zvoľte oprávnenú triedu užívateľov");
+define("UPLLAN_41", "Prosím, všimnite si - uploady súborov sú vypnuté v súbore php.ini, pokiaľ upload nepovolíte tam, nebude možný.");
+define("UPLLAN_45", "Ste si istý, že chcete zmazať tento upload?");
+define("UPLAN_COPYTODLM", "kopírovať do manažéra downloadov");
+define("UPLAN_IS", "je");
+define("UPLAN_ARE", "Sú");
+define("UPLAN_COPYTODLS", "Kopírovať do downloadov");
+define("UPLLAN_51", "List Uploads");
+define("UPLLAN_52", "This page helps you create a file for managing file upload permissions. The file is saved as [x], and must be copied to [y]  before it takes effect.");
+define("UPLLAN_54", "File Extensions");
+define("UPLLAN_55", "Max upload size");
+define("UPLLAN_56", "Generate file");
+define("UPLLAN_57", "Source for values:");
+define("UPLLAN_59", "Settings written to");
+define("UPLLAN_60", "Now move this file to");
+define("UPLLAN_61", "Error writing file:");
+define("UPLLAN_62", "Download plugin is not installed - activation not possible.");
+define("UPLLAN_63", "Record moved to Downloads. [x]");
+define("UPLLAN_64", "Manage Download");
+define("UPLLAN_66", "Download path error");
+define("UPLLAN_68", "SQL Error:");
+define("UPLLAN_69", "Imported");
+define("UPLLAN_70", "Send to [x]");

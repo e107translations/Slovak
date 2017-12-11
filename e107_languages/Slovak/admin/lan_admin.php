@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/06 18:50:17
-|
+|        Last Modified: 2017/12/11 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -213,15 +215,15 @@ define("LAN_SHORTCODES", "Shortcodes");
 define("LAN_DISPLAYOPT", "Editovať nastavenia zobrazenia");
 define("LAN_DATESTAMP", "Dátum");
 define("LAN_TIMESTAMP", "Časové razítko");
-define("LAN_PAGE", "PAGE");
-define("LAN_AGENT", "AGENT");
-define("LAN_LANG", "Lang.");
+define("LAN_PAGE", "STRANA");
+define("LAN_AGENT", "PREHLIADAČ");
+define("LAN_LANG", "Jazyk.");
 define("LAN_APPROVE", "Schváliť");
 define("LAN_OPTIONAL", "voliteľný");
 define("LAN_INACTIVE", "Neaktívne");
 define("LAN_ACTIVATE", "Aktívne");
 define("LAN_ACCEPT", "Prijať");
-define("LAN_PASSWORD_WARNING", "VÝRAZNE doporučujeme, aby ste si [change your password encoding] na PHP Default. (Hashe hesiel sa automaticky zmenia, keď sa užívateľ prihlási.)");
+define("LAN_PASSWORD_WARNING", "VÝRAZNE doporučujeme, aby ste si [zmenili kódovanie hesla] na PHP Default. (Heslové hashe sa automaticky zmenia, keď sa užívateľ prihlási.)");
 define("LAN_PENDING", "Čakajúce");
 define("LAN_SUBMITTED", "Odoslané");
 define("LAN_POSTED_BY_X", "Odoslal [x] [y]");
@@ -260,12 +262,12 @@ define("LAN_MANAGER", "Manažér");
 define("LAN_HELP", "Nápoveda");
 define("LAN_CUSTOM", "Vlastné");
 define("LAN_MENULAYOUT", "Rozloženie menu");
-define("LAN_MEDIAMANAGER", "Media Manažér");
+define("LAN_MEDIAMANAGER", "Manažér médií");
 define("LAN_MOREINFO", "Ďalšie informácie...");
 define("LAN_COMMENTMAN", "Správa komentárov");
 define("LAN_LIST", "Zoznam");
 define("LAN_FILTER", "Filter");
-define("LAN_STATUS", "Status");
+define("LAN_STATUS", "Stav");
 define("LAN_URL", "URL adresa");
 define("LAN_OWNER", "Vlastník");
 define("LAN_PURCHASE", "Kúpiť");
@@ -284,7 +286,7 @@ define("LAN_KEYWORDS", "Kľúčové slová");
 define("LAN_TEMPLATE", "Šablóna");
 define("LAN_TEMPLATES", "Šablóny");
 define("LAN_CATEGORIES", "Kategórie");
-define("LAN_DEMO_FORBIDDEN", "V demo verzii nie sú zmeny na tejto stránke možné.");
+define("LAN_DEMO_FORBIDDEN", "V demo verzii  zmeny na tejto stránke nie sú možné.");
 define("LAN_COPYRIGHT", "Autorské práva");
 define("LAN_MANAGEPERMS", "Spravovať oprávnenia");
 define("LAN_PING", "Ping");
@@ -304,8 +306,8 @@ define("LAN_LABEL_LABEL_SELECTED", "Filter");
 define("LAN_FILTER_LABEL_PREFIX", "Filtrovať podľa");
 define("LAN_FILTER_LABEL_DISPLAYALL", "Zobraziť všetko");
 define("LAN_FILTER_LABEL_CLEAR", "Vyčistiť filter");
-define("LAN_FILTER_LABEL_TYPED", "(typed)");
-define("LAN_UI_NOPID_ERROR", "Nie je nastavené [b]Primary ID[/b]");
+define("LAN_FILTER_LABEL_TYPED", "(zadaný)");
+define("LAN_UI_NOPID_ERROR", "Nie je nastavené [b]Primárne ID[/b]");
 define("LAN_UI_BATCHDEL_ERROR", "Hromadné vymazávanie nie je povolené");
 define("LAN_UI_404_BODY_ERROR", "Požadovaná stránka nenájdená!");
 define("LAN_UI_404_TITLE_ERROR", "Stránka nenájdená");
@@ -316,7 +318,7 @@ define("LAN_UI_FORM_METHOD_ERROR", "FATAL ERROR: Pole s názvom [x] nie je povol
 define("LAN_UNKNOWN_ERROR", "Neznáma chyba");
 define("LAN_SQL_ERROR", "SQL chyba");
 define("LAN_UI_BATCH_UPDATE_SUCCESS", "[x] nastavené pre [y] záznamov.");
-define("LAN_UI_BATCH_REVERSED_SUCCESS", "[x] records successfully reversed.");
+define("LAN_UI_BATCH_REVERSED_SUCCESS", "[x] záznamov bolo úspešne zmenených.");
 define("LAN_UI_BATCH_BOOL_SUCCESS", "[x] záznamov úspešne aktualizovaných.");
 define("LAN_UI_BATCH_DEATTACH_SUCCESS", "[x] odstránených z [y] záznamov.");
 define("LAN_UI_EDIT_LABEL", "Aktualizovať záznam #[x]");
@@ -344,7 +346,7 @@ define("LAN_USER_NOT_FOUND", "Užívateľ nenájdený.");
 define("LAN_USER_PRUNE", "Vytriediť užívateľov");
 define("LAN_USER_OPTIONS", "Nastavenia užívateľov");
 define("LAN_USER_RANKS", "Užívateľské hodnosti");
-define("LAN_CONTROL_PANEL", "[x]'s Control Panel");
+define("LAN_CONTROL_PANEL", "Ovládací panel pre: [x]");
 define("LAN_CUSTOM_URL", "Vlastná URL");
 define("LAN_CUSTOM_URL_DISABLED", "Nepovoliť alebo vložiť vlastnú URL adresa");
 define("LAN_GENERAL", "Všeobecne");
@@ -352,7 +354,7 @@ define("LAN_GEN_PW", "Vygenerovať heslo");
 define("LAN_DISPL_PW", "Zobraziť heslo");
 define("LAN_WILL_OVERWRITE_SEF", "Týmto prepíšete svoje existujúce SEF URL.");
 define("LAN_CAPTION", "Nadpis");
-define("LAN_LIMIT", "Limit");
+define("LAN_LIMIT", "Obmedzenie");
 define("LAN_BASIC", "Základné");
 define("LAN_EXTENDED", "Rozšírené");
 define("LAN_ADVANCED", "Pokročilé");
@@ -384,3 +386,4 @@ define("LAN_ERROR_CONNECTION", "Pri kontrole aktualizácii sa nepodarilo pripoji
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] nemôže byť rovnaké ako [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Grid zobrazenie");
 define("LAN_UI_VIEW_LIST_LABEL", "List zobrazenie");
+define("LAN_CHECKING_FOR_UPDATES", "Kontrola aktualizácii");
