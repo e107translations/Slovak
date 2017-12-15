@@ -11,7 +11,7 @@
 */
 define("BANNERLAN_16", "Meno užívateľa:");
 define("BANNERLAN_17", "Heslo:");
-define("BANNERLAN_19", "Pre pokračovanie zadajte vaše klientské užívateľské meno a heslo, prosím.");
+define("BANNERLAN_19", "Pre pokračovanie zadajte vaše klientské užívateľské meno a heslo.");
 define("BANNERLAN_20", "Prepáčte, ale vaše údaje sa v databáze nenašli. Kontaktujte hlavného administrátora.");
 define("BANNERLAN_21", "Štatistiky bannerov");
 define("BANNERLAN_22", "Klient");
