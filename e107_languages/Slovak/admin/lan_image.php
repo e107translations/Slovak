@@ -9,9 +9,9 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_IMA_M_01", "Media Knižnica");
-define("LAN_IMA_M_02", "Media Upload/Import");
-define("LAN_IMA_M_03", "Media Kategórie");
+define("LAN_IMA_M_01", "Knižnica médií");
+define("LAN_IMA_M_02", "Nahratie/import médií");
+define("LAN_IMA_M_03", "Kategórie médií");
 define("LAN_IMA_M_04", "Pridať kategóriu");
 define("LAN_IMA_M_05", "Avatary");
 define("LAN_IMA_001", "Úpravy nie sú povolené.");
@@ -165,7 +165,7 @@ define("IMALAN_160", "Margin-Top");
 define("IMALAN_161", "Margin-Bottom");
 define("IMALAN_162", "Displaying [x] - [y] of [z] images.");
 define("IMALAN_163", "Video");
-define("IMALAN_164", "Vymazané ikony z Media manažéra");
+define("IMALAN_164", "Vymazané ikony so Správcu médií");
 define("IMALAN_165", "No images");
 define("IMALAN_166", "Upload images or files");
 define("IMALAN_167", "Choose file");

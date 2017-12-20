@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/06 18:34:37
-|
+|        Last Modified: 2017/12/19 19:26:57 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -29,9 +31,9 @@ define("EPL_ADLAN_17", "Ďalšie info...");
 define("EPL_ADLAN_18", "Nie je možné vytvoriť tabuľky pre tento plugin.");
 define("EPL_ADLAN_19", "Tabuľky databázy úspešne vytvorené.");
 define("EPL_ADLAN_21", "Plugin je v poriadku nainštalovaný.");
-define("EPL_ADLAN_22", "nainštalované");
-define("EPL_ADLAN_23", "nenainštalované");
-define("EPL_ADLAN_24", "Dostupný upgrade");
+define("EPL_ADLAN_22", "Nainštalované");
+define("EPL_ADLAN_23", "Nenainštalované");
+define("EPL_ADLAN_24", "Dostupná aktualizácia");
 define("EPL_ADLAN_25", "Nie je potrebná inštalácia");
 define("EPL_ADLAN_26", "... kliknite sem pre pokračovanie v inštalácií");
 define("EPL_ADLAN_27", "Nie je možné zmazanie");
@@ -40,12 +42,12 @@ define("EPL_ADLAN_29", "Nastavenia konfigurácie úspešne zmazané.");
 define("EPL_ADLAN_30", "zmažte ho manuálne.");
 define("EPL_ADLAN_31", "Zmažte teraz adresár");
 define("EPL_ADLAN_32", "a všetky súbory, ktoré obsahuje, pre dokončenie odinštalácie.");
-define("EPL_ADLAN_33", "Plugin inštalovaný.");
+define("EPL_ADLAN_33", "Plugin nainštalovaný.");
 define("EPL_ADLAN_34", "Plugin aktualizovaný.");
 define("EPL_ADLAN_35", "Nastavenia syntaktického analyzátora pridané.");
 define("EPL_ADLAN_36", "Chyba kódu analyzátora, nepovolené formátovanie.");
 define("EPL_ADLAN_37", "Nahrať plugin (.zip format)");
-define("EPL_ADLAN_38", "Uploadovať plugin");
+define("EPL_ADLAN_38", "Nahrať plugin");
 define("EPL_ADLAN_39", "Súbor nemôže byť uploadovaný do adresára ".e_PLUGIN." , pretože nemá dostatočné práva - prosím, zmeňte prístupové práva adresára na CHMOD 777 a uploadujte súbor znovu.");
 define("EPL_ADLAN_40", "Správa administrátora");
 define("EPL_ADLAN_41", "Tento súbor nie je korektný .zip alebo .tar archív");
@@ -74,13 +76,13 @@ define("EPL_ADLAN_62", "Zrušiť odinštalovanie");
 define("EPL_ADLAN_63", "Odinštalovanie:");
 define("EPL_ADLAN_64", "adresár");
 define("EPL_ADLAN_70", "Nenainštalovaný požadovaný plugin:");
-define("EPL_ADLAN_71", "Newer plugin version required:");
+define("EPL_ADLAN_71", "Vyžaduje sa novšia verzia pluginu:");
 define("EPL_ADLAN_72", "Verzia:");
 define("EPL_ADLAN_73", "Required PHP extension not loaded:");
 define("EPL_ADLAN_74", "Vyžaduje sa novšia verzia PHP:");
 define("EPL_ADLAN_75", "Vyžaduje sa novšia verzia MySQL:");
 define("EPL_ADLAN_76", "Chyba v plugin.xml");
-define("EPL_ADLAN_77", "Cannot find plugin.xml");
+define("EPL_ADLAN_77", "Nemôžem nájsť plugin.xml");
 define("EPL_ADLAN_78", "Delete User Classes created by plugin:");
 define("EPL_ADLAN_79", "Only delete these if you have not used them for other purposes.");
 define("EPL_ADLAN_80", "Delete extended user fields created by plugin:");
@@ -219,7 +221,7 @@ define("EPL_ADLAN_216", "kliknite sem");
 define("EPL_ADLAN_217", "[x] to vist your generated admin area");
 define("EPL_ADLAN_218", "Could not write to [x]");
 define("EPL_ADLAN_219", "No Files have been created. Please Copy & Paste the code below into your files.");
-define("EPL_ADLAN_220", "Find Plugins");
+define("EPL_ADLAN_220", "Nájsť pluginy");
 define("EPL_ADLAN_221", "Language-File Check");
 define("EPL_ADLAN_222", "Plugin Files");
 define("EPL_ADLAN_223", "Used");
@@ -230,7 +232,7 @@ define("EPL_ADLAN_227", "Scan for Changes");
 define("EPL_ADLAN_228", "Plugin folders are scanned every [x] minutes for changes. Click the button below to scan now.");
 define("EPL_ADLAN_229", "Obnoviť");
 define("EPL_ADLAN_230", "Sťahujem a inštalujem:");
-define("EPL_ADLAN_231", "Odstrániť ikony z manažéra médii");
+define("EPL_ADLAN_231", "Odstrániť ikony zo Správcu médii");
 define("EPL_ADLAN_232", "Vytvoriť súbory");
 define("TPVLAN_81", "Sťahujem...");
 define("TPVLAN_82", "Stiahnutie dokončené!");

@@ -53,7 +53,7 @@ define("LANHELP_41", "Veľkosť fontu...");
 define("LANHELP_42", "Vyberte obrázok...");
 define("LANHELP_43", "Vyberte súbor na stiahnutie...");
 define("LANHELP_44", "Kliknite pre otvorenie/zatvorenie okna s emotikonami ...");
-define("LANHELP_45", "Vložte obrázok z Manažéra médii");
+define("LANHELP_45", "Vložte obrázok zo Správcu médii");
 define("LANHELP_46", "* Tu sa nenašli žiadne súbory:");
 define("LANHELP_47", "Vložte flash: [flash=šírka,výška]http://www.priklad.sk/subor.swf[/flash]");
 define("LANHELP_48", "Vložte YouTube video: [youtube=tiny | small | medium | big | huge | width,height]6kYjxJmk0wc[/youtube]");

@@ -9,7 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("POLL_ADLAN04", "Anketový plugin bol úspešne inštalovaný. K pridaniu ankety, klikni na ikonu Ankety v sekcii pluginov vášho admin panela, a nezabudnite aktivovať túto položku v Menu manažéri.");
+define("POLL_ADLAN04", "Anketový plugin bol úspešne inštalovaný. K pridaniu ankety, klikni na ikonu Ankety v sekcii pluginov vášho admin panela, a nezabudnite aktivovať túto položku v Správcovi menu.");
 
 
 ?>

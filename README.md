@@ -43,8 +43,8 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 * Fórum = fórum
 * Homepage = úvodná strana
 * label = označenie
-* Media-Manager = Manažér médii
-* Menu Manager = Menu manažér
+* Media-Manager = Správca médií
+* Menu Manager = Správca menu
 * name = názov
 * News = články, Pages = stránky,
 * navbar = hlavné menu
@@ -52,6 +52,7 @@ V prvom rade si overte, že používate najnovšiu verzia. Zistené chyby môže
 * Post = príspevok
 * Preferencies = nastavenia
 * Plugin = plugin
+* Plugin Manager = Správca pluginov
 * Settings = nastavenia
 * sidebar = bočný panel
 * site, the site = web, webová stránka

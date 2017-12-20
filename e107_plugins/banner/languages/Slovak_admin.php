@@ -36,7 +36,7 @@ define("BNRLAN_48", "Všetky zobrazené kampane (nevykresľuje sa žiaden box)")
 define("BNRLAN_50", "Lokálne");
 define("BNRLAN_51", "Vzdialene");
 define("BNRLAN_HELP_01", "Pomocník");
-define("BNRLAN_HELP_02", "Tento plugin použite na správu reklám na svojom webe. <br /><br /> Keď vytvárate novú reklamu, môžete vytvoriť pre klienta užívateľské meno a heslo, s ktorým sa môže prihlásiť a skontrolovať priebeh kampane.<br /><br />Pomocou Menu manažéra môžete povoliť menu s reklamami a v ňom vykonať ďalšie nastavenia.");
+define("BNRLAN_HELP_02", "Tento plugin použite na správu reklám na svojom webe. <br /><br /> Keď vytvárate novú reklamu, môžete vytvoriť pre klienta užívateľské meno a heslo, s ktorým sa môže prihlásiť a skontrolovať priebeh kampane.<br /><br />Pomocou Správcu menu môžete povoliť menu s reklamami a v ňom vykonať ďalšie nastavenia.");
 
 
 ?>

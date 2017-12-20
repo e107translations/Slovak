@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:33:55
-|
+|        Last Modified: 2017/12/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -13,8 +15,8 @@ define("LANG_LAN_00", "[x] sa nepodarilo vytvoriť (už existuje).");
 define("LANG_LAN_01", "[x] bol vymazaný (ak existoval) a vytvorený.");
 define("LANG_LAN_02", "[x] sa nepodarilo vymazať.");
 define("LANG_LAN_03", "Databázové tabuľky");
-define("LANG_LAN_04", "Deprecated LANs");
-define("LANG_LAN_05", "nenainštalované");
+define("LANG_LAN_04", "Zastarané LAN reťazce");
+define("LANG_LAN_05", "Nenainštalované");
 define("LANG_LAN_06", "Vytvoriť tabuľky");
 define("LANG_LAN_07", "Zmazať existujúce tebuľky?");
 define("LANG_LAN_08", "Nahradiť existujúce tabuľky (dáta budú stratené).");
@@ -29,7 +31,7 @@ define("LANG_LAN_18", "Použite parkované subdomény k týmto doménam pre nast
 define("LANG_LAN_19", "napr.: fr.mydomain.com pre nastavenie francúzskeho jazyka.");
 define("LANG_LAN_20", "Pre povolenie vložte názov hlavnej domény, napr.: mydomain.com");
 define("LANG_LAN_21", "Jazykové nástroje");
-define("LANG_LAN_25", "Language-Pack Creation Status");
+define("LANG_LAN_25", "Stav vytvorenia jazykového balíčka");
 define("LANG_LAN_26", "Nahrať jazykové súbory len pre aktuálny jazyk");
 define("LANG_LAN_27", "If checked, and a required language cannot be found, there will be an error");
 define("LANG_LAN_28", "Check this box if you're an [e107 certified translator].");
@@ -37,34 +39,32 @@ define("LANG_LAN_EML", "Prosím zašlete mailom jazykový balíček na:");
 define("LANG_LAN_32", "Inštalované jazyky");
 define("LANG_LAN_33", "Počas overovania zobraziť len chyby");
 define("LANG_LAN_50", "Jazyk pre administráciu");
-define("LANG_LAN_100", "[x] deleted.");
-define("LANG_LAN_101", "[x] could not be deleted.");
-define("LANG_LAN_103", "[x] created.");
-define("LANG_LAN_104", "[x] was disabled but left intact.");
-define("LANG_LAN_105", "Delete all tables in [x]?");
+define("LANG_LAN_100", "[x] vymazané.");
+define("LANG_LAN_101", "[x] sa nepodarilo vymazať.");
+define("LANG_LAN_103", "[x] vytvorené.");
+define("LANG_LAN_104", "[x] bol zneaktívnený, ale ponechaný bezo zmien.");
+define("LANG_LAN_105", "Vymazať všetky tabuľky v [x]?");
 define("LANG_LAN_106", "Jazyk podľa názvu domény");
 define("LANG_LAN_107", "Určuje jazyk podľa domény. Doménu zadajte bez 'www.'");
 define("LANG_LAN_121", "Nepodarilo sa nahrať:");
 define("LANG_LAN_124", "Definícia");
-define("LANG_LAN_126", "Disable All Unused");
+define("LANG_LAN_126", "Zneaktívniť všetky nepoužívané");
 define("LANG_LAN_130", "Všeobecný výraz");
-define("LANG_LAN_131", "Missing from language file");
-define("LANG_LAN_132", "is a common phrase.");
+define("LANG_LAN_131", "V jazykovom súbore chýba");
+define("LANG_LAN_132", "je všeobecná fráza.");
 define("LANG_LAN_133", "Použiť");
-define("LANG_LAN_134", "instead.");
-define("LANG_LAN_135", "Overwriting");
-define("LANG_LAN_136", "Couldn't overwrite");
-define("LANG_LAN_137", "Processed");
+define("LANG_LAN_134", "namiesto.");
+define("LANG_LAN_135", "Prepísanie");
+define("LANG_LAN_136", "Nepodarilo sa prepísať");
+define("LANG_LAN_137", "Spracované");
 define("LANG_LAN_140", "Hold down CTRL key to select multiple.[br]e.g. To check [b]lan_signup.php[/b] you'll want to also select [b]signup_shortcodes.php[/b] and [b]signup_template.php[/b].");
 define("LANG_LAN_141", "Select Script...");
 define("LANG_LAN_142", "Auto-Detect");
-define("LANG_LAN_143", "Specific LAN file:");
-define("LANG_LAN_144", "Must be re-enabled");
+define("LANG_LAN_143", "Konkrétny LAN súbor:");
+define("LANG_LAN_144", "Musí byť znova aktivovaný");
 define("LANG_LAN_148", "Normálny režim");
 define("LANG_LAN_149", "Hodnota");
 define("LANG_LAN_150", "[b]Search ENTIRE core before commenting out ANY LAN from ANY language file.[/b]");
 define("LANG_LAN_151", "Dostupné");
 define("LANG_LAN_152", "Láskavosť od [e107 translations team]");
-
-
-?>
+define("LANG_LAN_153", "Pre-release");

@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/11 19:26:57 
+|        Last Modified: 2017/12/19 19:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.1.7 $
@@ -17,7 +17,7 @@ define("ADLAN_2", "Pridať článok");
 define("ADLAN_3", "Zoznam článkov");
 define("ADLAN_3a", "Nastavenia článkov");
 define("ADLAN_5", "Editácia nastavenia webu");
-define("ADLAN_6", "Menu manažér");
+define("ADLAN_6", "Správca menu");
 define("ADLAN_7", "Zmeniť poradie menu");
 define("ADLAN_8", "Administrátori");
 define("ADLAN_9", "+/e/- administrátorov webu");
@@ -28,7 +28,7 @@ define("ADLAN_13", "Dokumentácia systému");
 define("ADLAN_25", "Správa stiahnutí");
 define("ADLAN_28", "Uvítacie správy");
 define("ADLAN_29", "Nastavenie statických uvítacích správ");
-define("ADLAN_30", "Manažér súborov");
+define("ADLAN_30", "Správca súborov");
 define("ADLAN_31", "Správa/nahrávanie súborov");
 define("ADLAN_34", "Zákazy");
 define("ADLAN_35", "Zakázaní návštevníci");
@@ -70,8 +70,8 @@ define("ADLAN_91", "Prihlásiť");
 define("ADLAN_92", "Pre prístup do administrácie sa prihláste");
 define("ADLAN_93", "Ukázať funkcie administrátora");
 define("ADLAN_95", "Správa pluginov");
-define("ADLAN_98", "Plugin Manažér");
-define("ADLAN_99", "Sem kliknite, ak chcete naištalovať, spravovať a nastaviť plugin, ktorým chcete rozšíriť funkčnosť vášho webu");
+define("ADLAN_98", "Správca pluginov");
+define("ADLAN_99", "Sem kliknite, ak chcete nainštalovať, spravovať a nastaviť plugin, ktorým chcete rozšíriť funkčnosť vášho webu");
 define("ADLAN_102", "Ubehlo 30 dní od poslednej zmeny vašeho administrátorského hesla -");
 define("ADLAN_103", "Pre okamžitú zmenu kliknite sem");
 define("ADLAN_104", "Bezpečnosť");
@@ -94,7 +94,7 @@ define("ADLAN_136", "Email");
 define("ADLAN_137", "Nastavenia emailu a odosielania emailov");
 define("ADLAN_138", "Webové odkazy");
 define("ADLAN_139", "+/e/- odkazov");
-define("ADLAN_140", "Manažér tém");
+define("ADLAN_140", "Správca tém");
 define("ADLAN_141", "Sem kliknite, ak chcete nainštalovať a nastaviť témy pomocou, ktorých kontrolujete vzhľad vašej stránky.");
 define("ADLAN_143", "Konfigurácia vyhľadávania");
 define("ADLAN_144", "Ste v zjednodušenom zobrazovacom móde, pre prepnutie do rozšíreného módu");
@@ -258,14 +258,13 @@ define("LAN_CHECKALL", "Všetko označiť");
 define("LAN_UNCHECKALL", "Všetko odznačiť");
 define("LAN_DELCHECKED", "Zmazať označené");
 define("LAN_USERCLASS", "Užívateľská trieda");
-define("LAN_MANAGER", "Manažér");
+define("LAN_MANAGER", "Správca");
 define("LAN_HELP", "Nápoveda");
 define("LAN_CUSTOM", "Vlastné");
 define("LAN_MENULAYOUT", "Rozloženie menu");
-define("LAN_MEDIAMANAGER", "Manažér médií");
+define("LAN_MEDIAMANAGER", "Správca médií");
 define("LAN_MOREINFO", "Ďalšie informácie...");
 define("LAN_COMMENTMAN", "Správa komentárov");
-define("LAN_LIST", "Zoznam");
 define("LAN_FILTER", "Filter");
 define("LAN_STATUS", "Stav");
 define("LAN_URL", "URL adresa");
@@ -331,7 +330,7 @@ define("LAN_UI_DELETED", "[x] záznam(ov) úspešne vymazaných!");
 define("LAN_UI_DELETED_FAILED", "[x] záznam(ov) sa nenašlo a nevymazalo!");
 define("LAN_UI_FILE_DELETED", "[x] súbor úspešne vymazaný!");
 define("LAN_UI_FILE_DELETED_FAILED", "Nepodarilo sa vymazať [x]! Vymažte ho ručne.");
-define("LAN_UI_BATCH_EXPORT", "Export");
+define("LAN_UI_BATCH_EXPORT", "Hromadný export");
 define("LAN_UI_USING_DATABASE_TABLE", "Použiť [x] databázovú tabuľku");
 define("LAN_UI_TOTAL_RECORDS", "Celkovo záznamov: [x]");
 define("LAN_UI_FILTER_PAST_HOUR", "Poslednú hodinu");

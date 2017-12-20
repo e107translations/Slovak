@@ -15,7 +15,7 @@ define("LAN_EFORM_003", "ALEBO");
 define("LAN_EFORM_004", "Zvoľte tento avatar");
 define("LAN_EFORM_005", "Nie sú dostupné žiadne avatary");
 define("LAN_EFORM_006", "Správa len pre admina: [br]Adresár [b][x][/b] je prázdny.[br]Nahrajte do neho defaultné obrázky avatarov, aby si z nich mohli užívatelia vybrať.");
-define("LAN_EFORM_007", "Manažér médii");
+define("LAN_EFORM_007", "Správca médii");
 define("LAN_EFORM_008", "Zvoľte stĺpce na zobrazenie");
 define("LAN_EFORM_009", "Zobraziť stĺpce");
 define("LAN_EFORM_010", "Rýchly náhľad");

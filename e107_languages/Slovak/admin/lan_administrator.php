@@ -25,7 +25,7 @@ define("ADMSLAN_56", "Administrátor");
 define("ADMSLAN_58", "Hlavný administrátor");
 define("ADMSLAN_59", "Odobrať status administrátora");
 define("ADMSLAN_61", "Administrátor zmazaný");
-define("ADMSLAN_62", "Manažér pluginov");
+define("ADMSLAN_62", "Správca pluginov");
 define("ADMSLAN_71", "Kliknite sem pre zobrazenie oprávnení");
 define("ADMSLAN_72", "ID admina: [x] meno: [y] nové oprávnenia:");
 define("ADMSLAN_73", "ID admina: [x] meno: [y]");
