@@ -57,17 +57,17 @@ define("ADLAN_PM_64", "Správy prijaté");
 define("ADLAN_PM_65", "User blocks");
 define("ADLAN_PM_66", "No maintenance tasks specified");
 define("ADLAN_PM_67", "PM DB maintenance started");
-define("ADLAN_PM_68", "--COUNT-- blocks to deleted users removed");
-define("ADLAN_PM_69", "--COUNT-- blocks from deleted users removed");
-define("ADLAN_PM_70", "Database error --NUM--: --TEXT-- removing user blocks");
+define("ADLAN_PM_68", "[x] blocks to deleted users removed");
+define("ADLAN_PM_69", "[x] blocks from deleted users removed");
+define("ADLAN_PM_70", "Database error [y]: [z] removing user blocks");
 define("ADLAN_PM_71", "Time-expired messages");
 define("ADLAN_PM_72", "No PM timeouts set");
-define("ADLAN_PM_73", "--COUNT-- time-expired PMs deleted");
-define("ADLAN_PM_74", "Removed --COUNT-- messages sent by deleted users");
-define("ADLAN_PM_75", "Removed --COUNT-- messages received by deleted users");
+define("ADLAN_PM_73", "[x] time-expired PMs deleted");
+define("ADLAN_PM_74", "Removed [x] messages sent by deleted users");
+define("ADLAN_PM_75", "Removed [x] messages received by deleted users");
 define("ADLAN_PM_77", "(Empty all fields and Update to delete a limit)");
 define("ADLAN_PM_78", "Check attachments");
-define("ADLAN_PM_79", "-ORPHANS-- unused attachments deleted. --MISSING-- missing attachments noted");
+define("ADLAN_PM_79", "[x] unused attachments deleted. [y] missing attachments noted");
 define("ADLAN_PM_80", "Preference formats updated");
 define("ADLAN_PM_81", "Maximum number of PMs to send immediately");
 define("ADLAN_PM_82", "If sending more than this, they are added to a queue and sent out using the cron task");
@@ -82,6 +82,3 @@ define("ADLAN_PM_90", "Please enter a recipient in the 'To' field.");
 define("ADLAN_PM_91", "Test");
 define("ADLAN_PM_92", "Test Email Sent!");
 define("ADLAN_PM_93", "Test Email Failed!");
-
-
-?>

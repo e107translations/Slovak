@@ -112,6 +112,4 @@ define("TPVLAN_91", "Create a new theme based on");
 define("TPVLAN_92", "New Theme Folder");
 define("TPVLAN_93", "Výber");
 define("TPVLAN_94", "Téma webu zmenená na [x].");
-
-
-?>
+define("TPVLAN_95", "Skin");

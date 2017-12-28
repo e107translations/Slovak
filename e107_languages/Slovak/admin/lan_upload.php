@@ -36,7 +36,7 @@ define("UPLAN_IS", "je");
 define("UPLAN_ARE", "Sú");
 define("UPLAN_COPYTODLS", "Kopírovať do downloadov");
 define("UPLLAN_51", "List Uploads");
-define("UPLLAN_52", "This page helps you create a file for managing file upload permissions. The file is saved as --SOURCE--, and must be copied to --DEST-- before it takes effect.");
+define("UPLLAN_52", "This page helps you create a file for managing file upload permissions. The file is saved as [x], and must be copied to [y] before it takes effect.");
 define("UPLLAN_54", "File Extensions");
 define("UPLLAN_55", "Max upload size");
 define("UPLLAN_56", "Generate file");
@@ -51,6 +51,3 @@ define("UPLLAN_66", "Download path error");
 define("UPLLAN_68", "SQL Error:");
 define("UPLLAN_69", "Imported");
 define("UPLLAN_70", "Send to [x]");
-
-
-?>

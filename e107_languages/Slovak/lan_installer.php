@@ -113,6 +113,5 @@ define("LANINS_141", "Sem zadajte nastavenia MySQL. Ak neviete nastaviť prístu
 define("LANINS_142", "DÔLEŽITÉ: Premenujte e107.htaccess na .htaccess");
 define("LANINS_144", "DÔLEŽITÉ: Skopírujte obsah súboru [b]e107.htaccess[/b] do vášho [b].htaccess[/b] file. Uistite sa, že NEPREPÍŠETE žiadne údaje, ktoré by v ňom mohli byť.");
 define("LANINS_145", "e107 v2.x vyžaduje naištalované PHP [x] . Kontaktujte svoj hosting alebo si prečítajte informácie na [y] než budete pokračovať.");
-
-
-?>
+define("LANINS_146", "Admin-area Skin");
+define("LANINS_147", "Administration");

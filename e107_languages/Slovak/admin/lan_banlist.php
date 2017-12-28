@@ -51,10 +51,10 @@ define("BANLAN_44", "Use expiry date/time from import");
 define("BANLAN_45", "Importovať");
 define("BANLAN_46", "Import File:");
 define("BANLAN_47", "File upload error");
-define("BANLAN_48", "Deleted --NUM-- expired ban list entries");
+define("BANLAN_48", "Deleted [y] expired ban list entries");
 define("BANLAN_49", "CSV import: Unbalanced quotes in line");
 define("BANLAN_50", "CSV import: Error writing banlist record at line");
-define("BANLAN_51", "CSV import: Success, --NUM-- lines imported from file");
+define("BANLAN_51", "CSV import: Success, [y] lines imported from file");
 define("BANLAN_52", "Whitelist");
 define("BANLAN_53", "Add to Whitelist");
 define("BANLAN_54", "No entries in whitelist");
@@ -89,13 +89,12 @@ define("BANLAN_83", "Date/Time");
 define("BANLAN_84", "IP adresa");
 define("BANLAN_85", "Additional information");
 define("BANLAN_86", "Ban-related events");
-define("BANLAN_87", "Total --NUM-- entries in list");
+define("BANLAN_87", "Total [y] entries in list");
 define("BANLAN_88", "Empty Ban Action Log");
 define("BANLAN_89", "Log File Deleted");
 define("BANLAN_90", "Error deleting log file");
 define("BANLAN_91", "Date/time format for ban log");
 define("BANLAN_92", "See the strftime function page at php.net");
-define("BANLAN_93", "");
 define("BANLAN_100", "Neznáme");
 define("BANLAN_101", "Manual");
 define("BANLAN_102", "Flood");
@@ -123,6 +122,3 @@ define("BANLAN_123", "Pridať na blacklist");
 define("BANLAN_124", "Expires");
 define("BANLAN_125", "Use my IP");
 define("BANLAN_126", "IP / Email");
-
-
-?>

@@ -181,8 +181,7 @@ define("IMALAN_176", "There was a problem grabbing the file");
 define("IMALAN_177", "Click here for more information and to enter your api key");
 define("IMALAN_178", "Avatars Folder (user selectable)");
 define("IMALAN_179", "Avatars Folder (private)");
-define("IMALAN_180", "O bytov nájdené v: ");
+define("IMALAN_180", "O bytov nájdené v:");
 define("IMALAN_181", "Odstráňte, než sa bude pokračovať.");
-
-
-?>
+define("IMALAN_182", "Convert to jpeg during import");
+define("IMALAN_183", "PNG and GIF files will be automatically converted to jpeg format. (icons excluded)");

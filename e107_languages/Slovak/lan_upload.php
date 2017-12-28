@@ -4,50 +4,45 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:32:58
-|
+|        Last Modified: 2017/12/28 13:21:12 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.1.7 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("UPLLAN_1", "Nahratie odstránené zo zoznamu.");
-define("UPLLAN_2", "Nastavenia uložené");
-define("UPLLAN_4", "Nič sa nezmenilo - nič sa neaktualizovalo");
-define("UPLLAN_5", "Odosielateľ");
-define("UPLLAN_7", "Webstránka");
-define("UPLLAN_14", "Demo");
-define("UPLLAN_16", "kopírovať do noviniek");
-define("UPLLAN_17", "odstrániť nahratie zo zoznamu");
-define("UPLLAN_18", "Ukázať detaily");
-define("UPLLAN_19", "Nie sú žiadne nemoderované verejné uploady");
-define("UPLLAN_20", "Tu");
-define("UPLLAN_21", "nemoderovaných uploadov");
-define("UPLLAN_24", "Typ súboru");
-define("UPLLAN_25", "Povoliť nahrávanie?");
-define("UPLLAN_26", "Nie je možné verejné nahrávanie, pokiaľ je táto položka vypnutá.");
-define("UPLLAN_27", "nemoderované verejné uploady");
-define("UPLLAN_33", "Maximálna veľkosť súboru");
-define("UPLLAN_34", "Absolute maximum upload size in bytes. Further limited by settings from php.ini, and by the settings in filetypes.xml");
-define("UPLLAN_37", "Povoliť pre");
-define("UPLLAN_38", "Zvoľte oprávnenú triedu užívateľov");
-define("UPLLAN_41", "Prosím, všimnite si - uploady súborov sú vypnuté v súbore php.ini, pokiaľ upload nepovolíte tam, nebude možný.");
-define("UPLLAN_45", "Ste si istý, že chcete zmazať tento upload?");
-define("UPLAN_COPYTODLM", "kopírovať do manažéra downloadov");
-define("UPLAN_IS", "je");
-define("UPLAN_ARE", "Sú");
-define("UPLAN_COPYTODLS", "Kopírovať do downloadov");
-define("UPLLAN_51", "List Uploads");
-define("UPLLAN_52", "This page helps you create a file for managing file upload permissions. The file is saved as [x], and must be copied to [y]  before it takes effect.");
-define("UPLLAN_54", "File Extensions");
-define("UPLLAN_55", "Max upload size");
-define("UPLLAN_56", "Generate file");
-define("UPLLAN_57", "Source for values:");
-define("UPLLAN_59", "Settings written to");
-define("UPLLAN_60", "Now move this file to");
-define("UPLLAN_61", "Error writing file:");
-define("UPLLAN_62", "Download plugin is not installed - activation not possible.");
-define("UPLLAN_63", "Record moved to Downloads. [x]");
-define("UPLLAN_64", "Manage Download");
-define("UPLLAN_66", "Download path error");
-define("UPLLAN_68", "SQL Error:");
-define("UPLLAN_69", "Imported");
-define("UPLLAN_70", "Send to [x]");
+define("PAGE_NAME", "Nahrávanie súborov");
+define("LAN_UL_001", "Neplatná mailová adresa");
+define("LAN_UL_002", "Ľutujeme. Nemáte oprávnenie k nahranie súboru.");
+define("LAN_UL_020", "Chyba");
+define("LAN_UL_021", "Nahrávanie súboru zlyhalo");
+define("LAN_UL_022", "Môže sa líšiť podľa typu súboru");
+define("LAN_UL_023", "Typ súboru");
+define("LAN_UL_024", "Maximálna veľkosť");
+define("LAN_UL_025", "Nahrávanie nie je povolené");
+define("LAN_UL_032", "Musíte vybrať kategóriu");
+define("LAN_UL_033", "Musíte zadať platnú mailovú adresu");
+define("LAN_UL_034", "Musíte zadať názov súboru");
+define("LAN_UL_035", "Musíte zadať popis");
+define("LAN_UL_036", "Musíte špecifikovať súbor na nahratie");
+define("LAN_UL_037", "Musíte špecifikovať kategórii");
+define("LAN_61", "Vaše meno:");
+define("LAN_112", "Emailová adresa:");
+define("LAN_144", "Domovská stránka:");
+define("LAN_402", "Nahrávanie súborov je povolené iba registrovaným užívateľom.");
+define("LAN_404", "Ďakujeme. Váš súbor bol prijatý a po preverení bude zverejnený.");
+define("LAN_406", "Upozornenie");
+define("LAN_407", "Iné typy súborov budú okamžite zmazané.");
+define("LAN_408", "Podčiarknuté");
+define("LAN_409", "Názov súboru");
+define("LAN_410", "Verzia");
+define("LAN_411", "Súbor");
+define("LAN_413", "Popis");
+define("LAN_414", "Demoverzia");
+define("LAN_415", "URL adresa demoverzie");
+define("LAN_416", "Potvrdiť a nahrať");
+define("LAN_417", "Nahrať súbor");
+define("LAN_418", "Maximálna veľkosť súboru:");
+define("DOWLAN_11", "Kategória");
+define("LAN_419", "Povolené typy súborov");
+define("LAN_420", "polia sú povinné");
