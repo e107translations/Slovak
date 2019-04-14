@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/09/15 18:50:17
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -18,12 +20,6 @@ define("LAN_IMA_001", "Úpravy nie sú povolené.");
 define("LAN_IMA_002", "Na otočenie nie je dostatok pamäte");
 define("LAN_IMA_003", "Otočený");
 define("LAN_IMA_004", "Veľkosť upravená");
-define("LAN_IMA_O_001", "News Images");
-define("LAN_IMA_O_002", "News [img] bbcode");
-define("LAN_IMA_O_003", "Page [img] bbcode");
-define("LAN_IMA_O_004", "Featurebox Images");
-define("LAN_IMA_O_005", "Featurebox [img] bbcode");
-define("LAN_IMA_O_006", "[img] bbcode");
 define("IMALAN_1", "Povoliť zasielanie obrázkov");
 define("IMALAN_2", "Zobrazovať obrázky, použije sa pre celý web (i v komentároch, apod.), ktoré boli vložené  pomocou [img] BBCode");
 define("IMALAN_3", "Metóda zmeny veľkosti");
@@ -75,6 +71,7 @@ define("IMALAN_66", "Meno súboru");
 define("IMALAN_68", "Zatvoriť");
 define("IMALAN_69", "Adresár");
 define("IMALAN_70", "Non-system folder is found!");
+define("IMALAN_72", "Ikony");
 define("IMALAN_73", "Thumbnail Quality");
 define("IMALAN_74", "Set this as low as possible before quality loss is apparent. Max. 100");
 define("IMALAN_75", "Avatar Width");
@@ -185,3 +182,5 @@ define("IMALAN_180", "O bytov nájdené v:");
 define("IMALAN_181", "Odstráňte, než sa bude pokračovať.");
 define("IMALAN_182", "Convert to jpeg during import");
 define("IMALAN_183", "PNG and GIF files will be automatically converted to jpeg format. (icons excluded)");
+define("IMALAN_184", "Predvolená veľkosť obrázkov");
+define("IMALAN_185", "Maximálna výška v pixeloch");

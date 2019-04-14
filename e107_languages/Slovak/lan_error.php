@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -56,6 +58,7 @@ define("LAN_ERROR_43", "Web je dočasne neprístupný");
 define("LAN_ERROR_44", "Logo webu");
 define("LAN_ERROR_45", "Čo môžete teraz urobiť?");
 define("LAN_ERROR_46", "Kvôli detailom skontrolujte logy.");
-
-
-?>
+define("LAN_ERROR_47", "Validačná chyba: Titulok článku nemôže byť prázdny!");
+define("LAN_ERROR_48", "Validačná chyba: SEF-URL článku je povinné pole a nemôže byť prázdne!");
+define("LAN_ERROR_49", "Validačná chyba: SEF-URL článku je unikátne pole - aktuálna hodnota sa už používa! Zadajte inú hodnotu pre SEF-URL.");
+define("LAN_ERROR_50", "Validačná chyba: Kategória článkov musí byť vyplnená!");

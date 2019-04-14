@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/14 14:24:52 
+|        Last Modified: 2019/04/14 14:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -86,6 +86,7 @@ define("LAN_IP", "IP");
 define("LAN_IP_ADDRESS", "IP adresa");
 define("LAN_AUTHOR", "Autor");
 define("LAN_CATEGORY", "Kategória");
+define("LAN_CATEGORIES", "Kategórie");
 define("LAN_GUEST", "Návštevník");
 define("LAN_NEXT", "Ďalej");
 define("LAN_PREVIOUS", "Späť");
@@ -105,6 +106,7 @@ define("LAN_FILES", "Súbory");
 define("LAN_SIZE", "Veľkosť");
 define("LAN_VERSION", "Verzia");
 define("LAN_DOWNLOAD", "Stiahnuť");
+define("LAN_DOWNLOAD_NO_PERMISSION", "Súbor sa nenašiel alebo nemáte právo tento súbor stiahnuť!");
 define("LAN_WEBSITE", "Webstránka");
 define("LAN_COMMENTS", "Komentáre");
 define("LAN_LOCATION", "Lokalita");
@@ -122,6 +124,8 @@ define("LAN_RELATED", "Súvisiace");
 define("LAN_CLOSE", "Zatvoriť");
 define("LAN_EXPAND", "Rozšíriť");
 define("LAN_LIST", "Zoznam");
+define("LAN_DATESTAMP", "Dátum");
+define("LAN_SUBJECT", "Predmet");
 define("LAN_ENTER_USRNAME_EMAIL", "Zadajte svoje meno alebo email");
 define("LAN_PWD_REQUIRED", "Heslo je povinné");
 define("LAN_SHOW", "Zobraziť");
@@ -130,3 +134,4 @@ define("LAN_SUMMARY", "Zhrnutie");
 define("LAN_REQUIRED_BLANK", "Vynechané povinné polia");
 define("LAN_PLEASEWAIT", "Čakajte");
 define("LAN_CHOOSE_FILE", "Zvoľte súbor");
+define("LAN_REQUIRED", "Povinné");

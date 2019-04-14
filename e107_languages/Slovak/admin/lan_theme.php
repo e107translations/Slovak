@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:33:12
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -113,3 +115,9 @@ define("TPVLAN_92", "New Theme Folder");
 define("TPVLAN_93", "Výber");
 define("TPVLAN_94", "Téma webu zmenená na [x].");
 define("TPVLAN_95", "Skin");
+define("TPVLAN_96", "Set URLs/script-paths which should automatically use this layout. One per line.");
+define("TPVLANHELP_01", "The theme manager allows you to set your site's public theme and your admin areas theme.");
+define("TPVLANHELP_02", "ook at the tooltips (when available) for more details.");
+define("TPVLANHELP_03", "By default, the visibility filter will change the theme's layout based on a partial URL match.");
+define("TPVLANHELP_04", "End lines with a [b]![/b] to exactly match against the end of URL.	");
+define("TPVLANHELP_05", "End lines with a [b]$[/b] to exactly match against the end of script path.	");

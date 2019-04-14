@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:23:56
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -63,6 +65,14 @@ define("LANHELP_51", "Vypne HTML new lines pre vložený text: [nobr]text[/nobr]
 define("LANHELP_52", "Nový riadok (HTML): [br]");
 define("LANHELP_53", "Zarovnanie justify:\n[justify]Tento text bude zarovnaný na obe strany[/justify]");
 define("LANHELP_54", "HTML blok (div tag): [block]Váš obsah[/block]");
-
-
-?>
+define("LANHELP_55", "Formát");
+define("LANHELP_56", "Vložiť tabuľku");
+define("LANHELP_57", "Hlavička");
+define("LANHELP_58", "Block");
+define("LANHELP_59", "Citát");
+define("LANHELP_60", "Blok kódu");
+define("LANHELP_61", "Inline kód");
+define("LANHELP_62", "Odsek");
+define("LANHELP_63", "Vložte obrázok s Media managera");
+define("LANHELP_64", "Vložte súbor z Media Managera");
+define("LANHELP_65", "Veľkosť");

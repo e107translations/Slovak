@@ -4,12 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/11 19:26:57
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("e_PAGETITLE", "Fórum");
 define("LAN_FORUM_0002", "Témy");
 define("LAN_FORUM_0003", "Odpovedí");
 define("LAN_FORUM_0004", "Posledný príspevok");
@@ -264,3 +265,4 @@ define("LAN_FORUM_8026", "Nepodarilo sa zrušiť zvýraznenie vlákna");
 define("LAN_FORUM_8027", "Nezvolená akcia");
 define("LAN_FORUM_8028", "Návrat");
 define("LAN_FORUM_8029", "Vytvorená nová téma!");
+define("LAN_FORUM_8030", "Nepodarilo sa vymazať príspevok (musíte mať práva moderatóra)");

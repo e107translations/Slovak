@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/19 19:24:52 
+|        Last Modified: 2019/04/14 14:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -129,6 +129,12 @@ define("ADLAN_186", "Nasledovné staré súbory je možné bezpečne vymazať z 
 define("ADLAN_187", "Nepodarilo sa vytvoriť [x]. Skontrolujte oprávnenia adresára.");
 define("ADLAN_188", "Nastavenia timezone je nesprávne [x] . Musí sa zresetovať na UTC. Na jej zmenu choďte do Admin -> Preferences -> Date Display Options");
 define("ADLAN_189", "Nasledujúce pluginy nie sú kompatibilné s touto verziou e107 a mali by ste ich odinštalovať:");
+define("ADLAN_190", "Potrebujete pomoc?");
+define("ADLAN_191", "Connect with our community for [free support] with any upgrading issues you may encounter.");
+define("ADLAN_192", "Connect with our community for [free support] with any e107 issues you may encounter.");
+define("ADLAN_193", "The folder [x] is not writable. Please correct before proceeding.");
+define("ADLAN_194", "Legacy avatars folder detected. Please make sure [x]avatars/ is writable. Please correct before proceeding.");
+define("ADLAN_195", "Old folder moved to backup directory");
 define("ADLAN_CL_2", "Užívatelia");
 define("ADLAN_CL_3", "Obsah");
 define("ADLAN_CL_4", "Komentáre");
@@ -213,7 +219,6 @@ define("LAN_ROOT", "Root");
 define("LAN_LINE", "Line");
 define("LAN_SHORTCODES", "Shortcodes");
 define("LAN_DISPLAYOPT", "Editovať nastavenia zobrazenia");
-define("LAN_DATESTAMP", "Dátum");
 define("LAN_TIMESTAMP", "Časové razítko");
 define("LAN_PAGE", "STRANA");
 define("LAN_AGENT", "PREHLIADAČ");
@@ -239,6 +244,7 @@ define("LAN_UPLOAD_CONFIRM", "Všetky neuložené zmeny na tejto stránke budú 
 define("LAN_UPLOAD_777", "Chýba adresár alebo je nezapisovateľný, potrebujete nastaviť CHMOD 777 nasledujúcej adresára pred nahrávaním:");
 define("LAN_UPLOAD_SERVEROFF", "Táto možnosť je blokovaná, pretože nie je povolené nahrávanie súborov na váš server");
 define("LAN_WIDTH", "Šírka");
+define("LAN_HEIGHT", "Výška");
 define("LAN_ON", "On");
 define("LAN_OFF", "Off");
 define("LAN_DISABLED", "Nepovolené");
@@ -284,7 +290,6 @@ define("LAN_COPY", "Skopírovať");
 define("LAN_KEYWORDS", "Kľúčové slová");
 define("LAN_TEMPLATE", "Šablóna");
 define("LAN_TEMPLATES", "Šablóny");
-define("LAN_CATEGORIES", "Kategórie");
 define("LAN_DEMO_FORBIDDEN", "V demo verzii  zmeny na tejto stránke nie sú možné.");
 define("LAN_COPYRIGHT", "Autorské práva");
 define("LAN_MANAGEPERMS", "Spravovať oprávnenia");
@@ -375,14 +380,25 @@ define("LAN_MAINTENANCE", "Údržba");
 define("LAN_RETURN_TO_FRONT_PANEL", "Návrat na úvodnú stranu");
 define("LAN_CHANGE_LANGUAGE", "Zmena jazyka");
 define("LAN_NEWER_VERSION_OF_X", "Na stiahnutie je dostupná novšia verzia [x] [y]");
-define("LAN_SUBJECT", "Predmet");
 define("LAN_ITEM", "Položka");
 define("LAN_LOCK", "Zamknúť");
 define("LAN_SYSTEM_USER", "Systémový užívateľ");
 define("LAN_ENGINE", "Engine");
 define("LAN_SOURCE", "Zdroj");
+define("LAN_UPGRADING", "Upgrading?");
+define("LAN_DONT_SHOW_AGAIN", "Don't show again");
 define("LAN_ERROR_CONNECTION", "Pri kontrole aktualizácii sa nepodarilo pripojiť. Skontrolujte firewall a/alebo internetové pripojenie.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] nemôže byť rovnaké ako [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Grid zobrazenie");
 define("LAN_UI_VIEW_LIST_LABEL", "List zobrazenie");
 define("LAN_CHECKING_FOR_UPDATES", "Kontrola aktualizácii");
+define("LAN_UI_FILTER_NEXT_HOUR", "Next Hour");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "Next 24 hours");
+define("LAN_UI_FILTER_NEXT_WEEK", "Next Week");
+define("LAN_UI_FILTER_NEXT_MONTH", "Next Month");
+define("LAN_UI_FILTER_NEXT_YEAR", "Next Year");
+define("LAN_UI_FILTER_IS_EMPTY", "Is Empty");
+define("LAN_RECALCULATE_COMMENT_COUNT", "Recalculate comment count");
+define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Comment count successfully recalculated!");
+define("LAN_NO_RESULTS_FOUND", "No Results Found.");
+define("LAN_UI_DROPZONE_DROP_FILES", "Drop files here to upload");

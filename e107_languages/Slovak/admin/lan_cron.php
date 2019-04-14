@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/14 14:24:52 
+|        Last Modified: 2019/04/14 14:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -63,6 +63,8 @@ define("LAN_CRON_51", "Hodina(y):");
 define("LAN_CRON_52", "Deň(dni):");
 define("LAN_CRON_53", "Mesiac(e):");
 define("LAN_CRON_54", "Deň v týždni(dni):");
+define("LAN_CRON_55", "Záloha databázy sa nepodarila");
+define("LAN_CRON_56", "Záloha databázy dokončená");
 define("LAN_CRON_60", "Prejsť na cPanel");
 define("LAN_CRON_61", "Vygenerovať vlastné heslo pre cron");
 define("LAN_CRON_62", "Spustiť funkciu konfigurácie [b][x][/b]");

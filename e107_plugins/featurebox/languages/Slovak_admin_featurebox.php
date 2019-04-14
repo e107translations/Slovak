@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/09/15 18:50:17
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -25,6 +27,6 @@ define("FBLAN_30", "Template kategórie");
 define("FBLAN_31", "Náhodne");
 define("FBLAN_32", "Parametre (nepovinné)");
 define("FBLAN_33", "Možno javasc. parametre (format subject to change)");
-
-
-?>
+define("FBLAN_34", "Unassigned");
+define("FBLAN_35", "Carousel");
+define("FBLAN_36", "Tabs");

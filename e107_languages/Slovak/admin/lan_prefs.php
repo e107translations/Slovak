@@ -1,9 +1,15 @@
 <?php
 /*
- * Copyright (C) 2008-2013 e107 Inc (e107.org), Licensed under GNU GPL (http://www.gnu.org/licenses/gpl.txt)
- *
- * Admin Language File
- *
++---------------------------------------------------------------+
+|        e107 website content management system Slovak Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
+|        $Author: Jimako $
++---------------------------------------------------------------+
 */
 define("PRFLAN_1", "Site Information");
 define("PRFLAN_2", "Site Name");
@@ -253,3 +259,8 @@ define("PRFLAN_273", "Lifetime in seconds. 0 = until the browser is closed.");
 define("PRFLAN_274", "Contact form will only be visible to this userclass group.");
 define("PRFLAN_275", "View this page using https (SSL) to modify this option");
 define("PRFLAN_276", "PHP Default (Preferred)");
+define("PRFLAN_277", "GDPR Settings");
+define("PRFLAN_278", "URL to the Privacy Policy");
+define("PRFLAN_279", "Make sure the url exists! It's best to use an absolute url. This setting will be used on all places that require a consent from the user (e.g. signup, contact form/menu, etc.).");
+define("PRFLAN_280", "URL to the website terms and conditions");
+define("PRFLAN_281", "The 2 links above are used on various page on this site (e.g. signup and contact form/menu).\nPlease create 2 pages (if not already done) that contain your 'Privacy Policy' and the websites 'Terms and conditions'.\nThere are several websites that can generate those text for you.\nCopy the urls of this websites into the fields above (e.g. /page/privacy-policy or /page/terms-and-conditions).\nJust make sure, the pages and urls exist and are working!");

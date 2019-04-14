@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/05/15 18:49:18
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -13,6 +15,7 @@ define("LAN_DL_OPTIONS", "Nastavenia");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Hlavné štatistiky");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Hlásenia");
 define("LAN_DL_DOWNLOAD_OPT_AGREE", "Súhlasy");
+define("LAN_DL_DOWNLOAD_OPT_SECURITY", "Protection");
 define("LAN_DL_UPLOAD", "Nahrať");
 define("LAN_DL_USE_PHP", "Použiť PHP");
 define("LAN_DL_USE_PHP_INFO", "Zaškrtnuté = všetky požiadavky na stiahnutia pôjdu cez php");
@@ -146,6 +149,12 @@ define("DOWLAN_HELP_7", "Pomocník pre zrkadlá");
 define("DOWLAN_HELP_8", "Pomocník pre zoznam nahratí");
 define("DOWLAN_HELP_9", "Pomocník pre typy nahratí");
 define("DOWLAN_HELP_10", "Pomocník pre možnosti nahratí");
-
-
-?>
+define("LAN_DL_SECURITY_DESCRIPTION", "Downloads can make use of server-side URL protection features to prevent hotlinking and/or enforce link expiry. " . "This section should be configured before the download server is configured to reduce the chance of disruption to downloaders.");
+define("LAN_DL_SECURITY_MODE", "URL protection mode");
+define("LAN_DL_SECURITY_MODE_NONE", "None (Default)");
+define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");
+define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Click to toggle list of supported NGINX variables");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Same expression as configured on the server");
+define("LAN_DL_SECURITY_LINK_EXPIRY", "Duration of validity in seconds");
+define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Number of seconds the download link should last after being generated. " . "Only effective if the expression supports expiry time. " . "Defaults to a very long time if this field is left blank.");

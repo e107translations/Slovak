@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/11 19:26:57 
+|        Last Modified: 2019/04/14 14:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -83,3 +83,10 @@ define("LAN_435", "XML soubor užívateľského nastavenia");
 define("LAN_CUSTOMTITLE", "Vlastný titul");
 define("LAN_USET_5", "Prihlásený na odber");
 define("LAN_USET_6", "Prihláste sa k odberu noviniek a/alebo do rôznych častí tejto stránky.");
+define("LAN_USET_50", "Vymazať účet");
+define("LAN_USET_51", "Ste si istý? Ďaľší krok sa nedá vrátiť späť. Po dokončení váš účet a všetky osobné údaje, ktoré ste zadali na túto stránku budú navždy stratené a už sa viac nebudete prihlásiť. ");
+define("LAN_USET_52", "Potvrdzovací email bol zaslaný na [x]. Kliknite prosím na link v maily, ak chcete definitívne vymazať svoj účet.");
+define("LAN_USET_53", "Potvrdenie zrušenia účtu");
+define("LAN_USET_54", "Potvrdzujúci email odoslaný");
+define("LAN_USET_55", "Kliknite na nasledujúci link, aby ste dokončili vymazanie svojho účtu.");
+define("LAN_USET_56", "Váš účet bol úspešne vymazaný.");

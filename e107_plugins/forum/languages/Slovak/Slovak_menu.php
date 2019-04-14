@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/06 18:54:55
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -22,3 +24,4 @@ define("LAN_FORUM_MENU_012", "Maximálny vek zobrazených príspevkov");
 define("LAN_FORUM_MENU_013", "Použite nulu na nenáročnej stránke; nastavenie hodnoty v dňoch zníži nároky na databázy na rušnej stránke");
 define("LAN_FORUM_MENU_014", "Výška skrolujúcej vrstvy (v pixeloch)");
 define("LAN_FORUM_MENU_015", "Nechajte prázdne, ak nechcete skrolovanie");
+define("LAN_FORUM_MENU_016", "Nie sú vytvorené žiadne kategórie.");

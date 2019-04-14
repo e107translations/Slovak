@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -64,8 +66,6 @@ define("LAN_SIGNUP_64", "Toto nevyzerá na platné informácie o užívateľovi"
 define("LAN_SIGNUP_65", "Bolo vám priradené nasledujúce užívateľské meno");
 define("LAN_SIGNUP_66", "Poznačte si ho.");
 define("LAN_SIGNUP_67", "Toto bude priradené systémom po prihlásení");
-define("LAN_SIGNUP_69", "");
-define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Dosiahli ste limit stránky pre počet účtov. Prihláste sa pod niektorým z vašich účtov.");
 define("LAN_SIGNUP_72", "Vďaka za registráciu na [sitename]! Práve sme vám zaslali potvrdzujúci email na [email]. Kliknite na odkaz v emaile k dokončeniu registrácie a aktivácií účtu.");
 define("LAN_SIGNUP_73", "Ďakujeme.");
@@ -113,6 +113,6 @@ define("LAN_SIGNUP_118", " [x]");
 define("LAN_SIGNUP_119", "Neposielať email");
 define("LAN_SIGNUP_120", "ALEBO");
 define("LAN_SIGNUP_121", "Použite inú emailovú adresu");
-
-
-?>
+define("LAN_SIGNUP_122", "Privacy Policy");
+define("LAN_SIGNUP_123", "Terms and conditions");
+define("LAN_SIGNUP_124", "Registráciou súhlasíte s našími [x] a [y].");

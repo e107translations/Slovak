@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/14 14:24:52 
+|        Last Modified: 2019/04/14 14:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -34,8 +34,6 @@ define("LANG_LAN_21", "Jazykové nástroje");
 define("LANG_LAN_25", "Stav vytvorenia jazykového balíčka");
 define("LANG_LAN_26", "Nahrať jazykové súbory len pre aktuálny jazyk");
 define("LANG_LAN_27", "If checked, and a required language cannot be found, there will be an error");
-define("LANG_LAN_28", "Check this box if you're an [e107 certified translator].");
-define("LANG_LAN_EML", "Prosím zašlete mailom jazykový balíček na:");
 define("LANG_LAN_32", "Inštalované jazyky");
 define("LANG_LAN_33", "Počas overovania zobraziť len chyby");
 define("LANG_LAN_50", "Jazyk pre administráciu");
@@ -68,3 +66,4 @@ define("LANG_LAN_150", "[b]Search ENTIRE core before commenting out ANY LAN from
 define("LANG_LAN_151", "Dostupné");
 define("LANG_LAN_152", "Láskavosť od [e107 translations team]");
 define("LANG_LAN_153", "Pre-release");
+define("LANG_LAN_154", "Jazykový balíček bol vytvorený. Môžete ho odoslať na Github podľa pokynov [here].");

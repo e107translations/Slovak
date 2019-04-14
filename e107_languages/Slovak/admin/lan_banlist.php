@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:27:05
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -122,3 +124,4 @@ define("BANLAN_123", "Pridať na blacklist");
 define("BANLAN_124", "Expires");
 define("BANLAN_125", "Use my IP");
 define("BANLAN_126", "IP / Email");
+define("BANLAN_127", "Delete all [x] failed logins from database	");

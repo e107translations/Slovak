@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:51:14
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -25,12 +27,9 @@ define("CHATBOX_L14", "Smajlíci");
 define("CHATBOX_L15", "Príspevok je príliš dlhý alebo prázdny");
 define("CHATBOX_L17", "Duplicitný príspevok");
 define("CHATBOX_L18", "Moderovanie príspevkov chatboxu");
-define("CHATBOX_L19", "Správu môžete odoslať každých ".(FLOODPROTECT ? FLOODTIMEOUT : 'n/a')." sekúnd");
+define("CHATBOX_L19", "Správu môžete odoslať každých [x] sekúnd");
 define("CHATBOX_L20", "Chatbox (všetky príspevky)");
 define("CHATBOX_L22", "zapnuté");
 define("CHATBOX_L24", "Nemáte potrebné prístupové práva pre zobrazenie tejto stránky.");
 define("CHATBOX_L25", "[ tento príspevok je blokovaný adminom ]");
 define("LAN_CHATBOX_100", "Sem napíšte svoju správu.");
-
-
-?>

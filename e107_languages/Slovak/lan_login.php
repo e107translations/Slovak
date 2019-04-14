@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -44,6 +46,5 @@ define("LAN_LOGIN_32", "Túto správu vidíte, pretože ste prihlásený ako hla
 define("LAN_LOGIN_33", "[Späť na úvodnú stranu]");
 define("LAN_LOGIN_34", "Registrácia užívateľov a/alebo prihlásenie je aktuálne zakazáné.");
 define("LAN_LOGIN_35", "[Povoliť]");
-
-
-?>
+define("LAN_LOGIN_36", "Emaily pre  [x] sa vracajú späť. Prosím [verify your email address is correct].");
+define("LAN_LOGIN_37", "Váš účet ešte neoveril hlavný administrátor.");

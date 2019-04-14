@@ -4,14 +4,16 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2019/04/14 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 define("PAGE_NAME", "Príspevky užívateľa");
-define("UP_LAN_0", "Všetky príspevky fóra od");
-define("UP_LAN_1", "Všetky komentáre od");
+define("UP_LAN_0", "Všetky príspevky fóra od [x]");
+define("UP_LAN_1", "Všetky komentáre od [x]");
 define("UP_LAN_2", "Vlákno");
 define("UP_LAN_3", "Zobrazení");
 define("UP_LAN_4", "Odpovedí");
@@ -26,6 +28,3 @@ define("UP_LAN_12", "hľadať");
 define("UP_LAN_14", "Príspevky fóra");
 define("UP_LAN_15", "Re:");
 define("UP_LAN_16", "IP adresa");
-
-
-?>
