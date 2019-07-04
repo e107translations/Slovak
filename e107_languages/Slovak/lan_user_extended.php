@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/09/15 18:50:17
-|
+|        Last Modified: 2019/07/03 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.2 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -19,6 +21,7 @@ define("UE_LAN_8", "Jazyk");
 define("UE_LAN_9", "Preddefinovaný zoznam");
 define("UE_LAN_10", "Zaškrtávacie políčka");
 define("UE_LAN_13", "Krajina");
+define("UE_LAN_14", "Rich Textarea (WYSIWYG)");
 define("UE_LAN_21", "Meno");
 define("UE_LAN_22", "Typ");
 define("UE_LAN_23", "Použiť");
@@ -31,7 +34,7 @@ define("UE_LAN_ICQ", "ICQ číslo");
 define("UE_LAN_ICQ_DESC", "ICQ číslo");
 define("UE_LAN_YAHOO", "Yahoo! adresa");
 define("UE_LAN_YAHOO_DESC", "Yahoo! adresa");
-define("UE_LAN_MSN", "MSN  ");
+define("UE_LAN_MSN", "MSN");
 define("UE_LAN_MSN_DESC", "MSN adresa");
 define("UE_LAN_HOMEPAGE", "Úvodná stránka");
 define("UE_LAN_HOMEPAGE_DESC", "Úvodná stránka užívateľa (URL)");
@@ -52,6 +55,3 @@ define("UE_LAN_MALE", "Muž");
 define("UE_LAN_FEMALE", "Žena");
 define("UE_LAN_COMMENT", "Komentáre");
 define("UE_LAN_COMMENT_DESC", "Box s komentármi");
-
-
-?>

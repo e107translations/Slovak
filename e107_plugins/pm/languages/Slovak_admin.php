@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:50:25
-|
+|        Last Modified: 2019/07/03 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.2 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -14,7 +16,7 @@ define("ADLAN_PM_3", "Nastavenia SS neboli nájdené, použité prednastavené h
 define("ADLAN_PM_4", "Možnosti boli aktualizované");
 define("ADLAN_PM_5", "Obmedzenie pre vybranú triedu užívateľa už existuje");
 define("ADLAN_PM_6", "Obmedzenie bolo úspešne pridané");
-define("ADLAN_PM_7", "Limit not added/updated - unknown error");
+define("ADLAN_PM_7", "Limit nepridaný/neaktualizovaný - neznáma chyba");
 define("ADLAN_PM_8", "Status obmedzenia bol aktualizovaný");
 define("ADLAN_PM_9", " - Obmedzenie bolo úspešne odstránené");
 define("ADLAN_PM_10", " - Obmedzenie nebolo odstránené - neznáma chyba");
@@ -38,7 +40,7 @@ define("ADLAN_PM_27", "Umožniť zasielanie príloh");
 define("ADLAN_PM_28", "Maximálna veľkosť príloh");
 define("ADLAN_PM_29", "Umožniť zasielanie všetkým členom");
 define("ADLAN_PM_30", "Umožniť zasielanie viacerým príjemcom");
-define("ADLAN_PM_31", "Userclass which may to send to entire userclasses");
+define("ADLAN_PM_31", "Trieda užívateľov, ktoré môže posielať celým triedam užívateľov");
 define("ADLAN_PM_33", "Neaktívne (bez limitov)");
 define("ADLAN_PM_34", "Súhrny SS");
 define("ADLAN_PM_35", "Rozmery schránky SS");
@@ -77,8 +79,8 @@ define("ADLAN_PM_85", "0 = unlimited");
 define("ADLAN_PM_86", "VIP trieda");
 define("ADLAN_PM_87", "Users in this class can only receive messages from others in this class. Overrides the above preference.");
 define("ADLAN_PM_88", "User may send PMs to");
-define("ADLAN_PM_89", "(Any user with the same class)");
+define("ADLAN_PM_89", "(Akýkoľvek užívateľ s touto triedou)");
 define("ADLAN_PM_90", "Please enter a recipient in the 'To' field.");
 define("ADLAN_PM_91", "Test");
-define("ADLAN_PM_92", "Test Email Sent!");
-define("ADLAN_PM_93", "Test Email Failed!");
+define("ADLAN_PM_92", "Testovací email odoslaný");
+define("ADLAN_PM_93", "Odoslanie testovacieho emailu zlyhalo!");

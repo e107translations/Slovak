@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:46:17
-|
+|        Last Modified: 2019/07/03 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.2 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -32,7 +34,7 @@ define("LAN_LOGINMENU_22", "nový člen");
 define("LAN_LOGINMENU_23", "nových členov");
 define("LAN_LOGINMENU_24", "Kliknite sem pre zoznam nových udalostí");
 define("LAN_LOGINMENU_25", "od vašej poslednej návštevy");
-define("LAN_LOGINMENU_26", "0");
+define("LAN_LOGINMENU_26", "-");
 define("LAN_LOGINMENU_27", "a");
 define("LAN_LOGINMENU_31", "Ukázať nové novinky");
 define("LAN_LOGINMENU_34", "Ukázať nové komentáre");
@@ -41,12 +43,11 @@ define("LAN_LOGINMENU_39", "Opustiť Admin");
 define("LAN_LOGINMENU_40", "Znovu poslať aktivačný email");
 define("LAN_LOGINMENU_41", "Nastavenia prihlasovacieho menu");
 define("LAN_LOGINMENU_37", "Ukázať");
-define("LAN_LOGINMENU_38", "Login menu - Additional Links");
+define("LAN_LOGINMENU_38", "Login menu - Ďaľšie odkazy");
 define("LAN_LOGINMENU_42", "Login menu - Recent core additions");
 define("LAN_LOGINMENU_43", "Pozícia");
 define("LAN_LOGINMENU_44", "chýbajúci názov odkazu");
 define("LAN_LOGINMENU_45", "odkaz(y)");
-define("LAN_LOGINMENU_45a", "");
 define("LAN_LOGINMENU_45b", "Plugin");
 define("LAN_LOGINMENU_46", "posledné príspevky -");
 define("LAN_LOGINMENU_47", "Login menu - Recent plugin additions");
@@ -54,6 +55,3 @@ define("LAN_LOGINMENU_48", "Konfigurácia menu");
 define("LAN_LOGINMENU_49", "Email:");
 define("LAN_LOGINMENU_50", "Prihl.meno alebo email");
 define("LAN_LOGINMENU_51", "Prihlásiť sa");
-
-
-?>

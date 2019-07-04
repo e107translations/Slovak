@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:22:44
-|
+|        Last Modified: 2019/07/03 14:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.2.2 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -37,6 +39,4 @@ define("LAN_NEWS_463", "V tejto konkrétnej kategórii nie sú žiadne články.
 define("LAN_NEWS_100", "zapnuté");
 define("LAN_NEWS_307", "Spolu príspevkov v tejto kategórií:");
 define("LAN_NEWS_308", "Možno hľadáte niečo z článkov nižšie?");
-
-
-?>
+define("LAN_NEWS_309", "Tag");

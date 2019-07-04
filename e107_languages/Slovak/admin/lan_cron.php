@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2019/07/03 14:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.2.2 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -73,3 +73,6 @@ define("LAN_CRON_64", "Administrátor môže zautomatizovať úlohy pomocou e107
 define("LAN_CRON_BACKUP", "Zálohovanie");
 define("LAN_CRON_LOGGING", "Logovanie");
 define("LAN_CRON_RUNNING", "Bežiace");
+define("LAN_CRON_65", "Update git theme repository");
+define("LAN_CRON_66", "No git repo found");
+define("LAN_CRON_67", "No git repo found in theme folder");
