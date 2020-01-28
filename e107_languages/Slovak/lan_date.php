@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 +---------------------------------------------------------------+
 |        e107 website content management system Slovak Language File
@@ -18,13 +18,13 @@ define("LANDT_04", "deň");
 define("LANDT_05", "hodina");
 define("LANDT_06", "minúta");
 define("LANDT_07", "sekunda");
-define("LANDT_01s", "roky");
-define("LANDT_02s", "mesiace");
-define("LANDT_03s", "týždne");
-define("LANDT_04s", "dni");
-define("LANDT_05s", "hodín");
-define("LANDT_06s", "minút");
-define("LANDT_07s", "sekúnd");
+define("LANDT_01s", "rok.");
+define("LANDT_02s", "mes.");
+define("LANDT_03s", "týžd.");
+define("LANDT_04s", "dn.");
+define("LANDT_05s", "hod.");
+define("LANDT_06s", "min.");
+define("LANDT_07s", "sek.");
 define("LANDT_08", "minúta");
 define("LANDT_08s", "minúty");
 define("LANDT_09", "sek");
@@ -32,5 +32,5 @@ define("LANDT_09s", "sek");
 define("LANDT_AGO", "dozadu");
 define("LANDT_IN", "v");
 define("LANDT_10", "Práve teraz");
-define("LANDT_XAGO", "pred [x] ");
+define("LANDT_XAGO", "pred: [x] ");
 define("LANDT_INX", "o [x]");
