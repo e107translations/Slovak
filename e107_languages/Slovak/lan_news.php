@@ -36,6 +36,7 @@ define("LAN_NEWS_86", "Staršie články");
 define("LAN_NEWS_87", "Novšie články");
 define("LAN_NEWS_462", "Vo vybranom mesiaci nie sú žiadne články");
 define("LAN_NEWS_463", "V tejto konkrétnej kategórii nie sú žiadne články. Skúste to neskôr.");
+define("LAN_NEWS_464", "No news items for specified day");
 define("LAN_NEWS_100", "zapnuté");
 define("LAN_NEWS_307", "Spolu príspevkov v tejto kategórií:");
 define("LAN_NEWS_308", "Možno hľadáte niečo z článkov nižšie?");
