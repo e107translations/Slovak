@@ -47,7 +47,7 @@ define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Underscore_with_no_case_CHANGE
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "plus+separator+to+lower+case");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "Plus+Separator+To+Camel+Case");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plus+separator+with+no+case+CHANGE");
-define("LAN_EURL_MODREWR_DESCR", "Removes entry script file name (index.php/) from your URLs. You'll need mod_rewrite installed and running on your server (Apache Web Server). After enabling this setting go to your site root folder, rename htaccess.txt to .htaccess and modifgy <em>"RewriteBase"</em> Directive if required.");
+define("LAN_EURL_MODREWR_DESCR", "Removes entry script file name (index.php/) from your URLs. You'll need mod_rewrite installed and running on your server (Apache Web Server). After enabling this setting go to your site root folder, rename htaccess.txt to .htaccess and modifgy <em>RewriteBase</em> Directive if required.");
 define("LAN_EURL_MENU", "Site URLs");
 define("LAN_EURL_MENU_CONFIG", "Configurations");
 define("LAN_EURL_MENU_ALIASES", "Profile Aliases");

@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/11 19:26:57 
+|        Last Modified: 2020/01/28 10:27:56 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.3.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */

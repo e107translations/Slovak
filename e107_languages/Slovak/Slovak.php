@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2020/01/28 10:27:56 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.3.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -16,12 +16,12 @@ define("CORE_LC", "sk");
 define("CORE_LC2", "sk");
 define("CORE_LAN1", "Chyba : Nedá sa nájsť nastavená téma. \\n\\n Buď zmeňte vami používanú tému v nastaveniach alebo nahrajte na server súbory s aktuálnou témou.");
 define("CORE_LAN4", "Zo svojho servera zmažte súbor install.php.");
-define("CORE_LAN5", "Bez toho hrozí vašej stránke potencionálne riziko!");
-define("CORE_LAN6", "Na týchto stránkach bola aktivovaná ochrana voči zahlteniu. Pokiaľ budete pokračovať v zahlcovaní servera, zakážeme vám prístup.");
+define("CORE_LAN5", "Ak to neurobíte, hrozí vašej stránke potencionálne riziko!");
+define("CORE_LAN6", "Na týchto stránkach bola aktivovaná ochrana voči zahlteniu. Pokiaľ budete pokračovať v zahlcovaní servera, zakážeme vám prístup úplne.");
 define("CORE_LAN7", "Jadro systému sa pokúša obnoviť prednastavenia z automatickej zálohy.");
 define("CORE_LAN8", "Chyba v nastaveniach jadra");
 define("CORE_LAN9", "Jadro systému sa nepodarilo obnoviť z automatickej zálohy. Vykonanie úlohy pozastavené.");
-define("CORE_LAN10", "Poškodené cookies - boli ste odhlásení.");
+define("CORE_LAN10", "Poškodené cookies - boli ste odhlásený.");
 define("CORE_LAN11", "Doba vygenerovania stránky:");
 define("CORE_LAN12", "sec (");
 define("CORE_LAN13", "% z toho na dopyty)");
@@ -40,7 +40,7 @@ define("EMESSLAN_TITLE_ERROR", "Chyba");
 define("EMESSLAN_TITLE_SUCCESS", "Podarilo sa");
 define("EMESSLAN_TITLE_WARNING", "Varovanie");
 define("EMESSLAN_TITLE_DEBUG", "Ladenie systému");
-define("LAN_NO_PERMISSIONS", "Nemáte dostatočné práva na zobrazenie tejto stránky.");
+define("LAN_NO_PERMISSIONS", "Na zobrazenie tejto stránky nemáte dostatočné práva.");
 define("LAN_EDIT", "Uprav");
 define("LAN_DELETE", "Zmaž");
 define("LAN_DEFAULT", "Predvolený");
@@ -101,7 +101,7 @@ define("LAN_FILE", "Súbor");
 define("LAN_YOUTUBE_VIDEO", "Youtube video");
 define("LAN_YOUTUBE_PLAYLIST", "Youtube Playlist");
 define("LAN_FILETYPES", "Typy súborov");
-define("LAN_FILE_NOT_FOUND", "Nenájdený");
+define("LAN_FILE_NOT_FOUND", "Súbor nenájdený");
 define("LAN_FILES", "Súbory");
 define("LAN_SIZE", "Veľkosť");
 define("LAN_VERSION", "Verzia");
@@ -133,5 +133,5 @@ define("LAN_GENERATE", "Generovať");
 define("LAN_SUMMARY", "Zhrnutie");
 define("LAN_REQUIRED_BLANK", "Vynechané povinné polia");
 define("LAN_PLEASEWAIT", "Čakajte");
-define("LAN_CHOOSE_FILE", "Zvoľte súbor");
+define("LAN_CHOOSE_FILE", "Vyberte súbor");
 define("LAN_REQUIRED", "Povinné");
