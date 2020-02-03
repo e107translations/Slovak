@@ -119,6 +119,7 @@ define("PRFLAN_127", "Make URLs clickable");
 define("PRFLAN_128", "Turning this on will convert posted URLs or Email addresses to hyperlinks");
 define("PRFLAN_129", "Disallow multiple logins");
 define("PRFLAN_130", "Activating this will prevent more than one person logging in with the same username/password (login detail sharing)");
+
 define("PRFLAN_133", "GD extension required, not found");
 define("PRFLAN_134", "Redirect all requests to site URL");
 define("PRFLAN_135", "for example, if your site URL above is set to http://foo.com, anyone requesting http://www.foo.com will be redirected to http://foo.com");
@@ -197,7 +198,7 @@ define("PRFLAN_211", "Cannot make email address optional if required for validat
 define("PRFLAN_212", "Value for [x] too high - changed to [y]");
 define("PRFLAN_213", "Value for [x] too low - changed to [y]");
 define("PRFLAN_214", "Site Logo");
-define("PRFLAN_215", "Class which can post <script> and similar tags");
+define("PRFLAN_215", "Class which can post &lt;script&gt; and similar tags");
 define("PRFLAN_216", "(Requires HTML posting rights as well)");
 define("PRFLAN_217", "Filter HTML content");
 define("PRFLAN_218", "If 'off', puts users at increased risk of XSS exploits posted by members of the above class, or prior to 0.7.24");
