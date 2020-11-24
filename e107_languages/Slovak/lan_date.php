@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 +---------------------------------------------------------------+
 |        e107 website content management system Slovak Language File
