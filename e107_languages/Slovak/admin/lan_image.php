@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2021/04/09 11:21:15 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -184,3 +184,7 @@ define("IMALAN_182", "Convert to jpeg during import");
 define("IMALAN_183", "PNG and GIF files will be automatically converted to jpeg format. (icons excluded)");
 define("IMALAN_184", "Predvolená veľkosť obrázkov");
 define("IMALAN_185", "Maximálna výška v pixeloch");
+define("IMALAN_186", "Zadajte nejaký text, aby fungovalo vyhľadávanie");
+define("IMALAN_187", "Konvertovať na formáť webp počas importu");
+define("IMALAN_188", "Konvertovať na formáť webp počas zobrazenia");
+define("IMALAN_189", "JPEG, PNG a GIF súbory budú automaticky konvertované na webp formát (ikony sú vylúčené)");

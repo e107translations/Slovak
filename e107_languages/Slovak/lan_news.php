@@ -4,14 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/01/28 10:27:56 
+|        Last Modified: 2021/04/09 11:21:15 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.0 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Články");
 define("LAN_NEWS_1", "Článok len pre určených členov");
 define("LAN_NEWS_2", "Nemáte oprávnenie čítať tento článok");
 define("LAN_NEWS_9", "Je nastavený len titulok - <b>zobrazený bude len nadpis článku</b><br />");
@@ -37,7 +36,7 @@ define("LAN_NEWS_87", "Novšie články");
 define("LAN_NEWS_462", "Vo vybranom mesiaci nie sú žiadne články");
 define("LAN_NEWS_463", "V tejto konkrétnej kategórii nie sú žiadne články. Skúste to neskôr.");
 define("LAN_NEWS_464", "V tento deň nie sú žiadne články");
-define("LAN_NEWS_100", "zapnuté");
+define("LAN_NEWS_300", "Dňa");
 define("LAN_NEWS_307", "Spolu príspevkov v tejto kategórií:");
 define("LAN_NEWS_308", "Možno hľadáte niečo z článkov nižšie?");
 define("LAN_NEWS_309", "Tag");

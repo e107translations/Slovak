@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/07/03 14:24:52 
+|        Last Modified: 2021/04/09 11:21:15 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.2 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -342,6 +342,7 @@ define("LAN_UI_FILTER_PAST_HOUR", "Poslednú hodinu");
 define("LAN_UI_FILTER_PAST_24_HOURS", "Posledných 24 hodín");
 define("LAN_UI_FILTER_PAST_WEEK", "Posledný týždeň");
 define("LAN_UI_FILTER_PAST_MONTH", "Posledný mesiac");
+define("LAN_UI_FILTER_PAST_XMONTHS", "Posledných [x] mesiacov");
 define("LAN_UI_FILTER_PAST_YEAR", "Posledný rok");
 define("LAN_USER_MANAGEALL", "Správa užívateľov, užívateľských tried a nastavenia rozširujúcich polí užívateľov");
 define("LAN_USER_LIST", "Zoznam užívateľov");
@@ -404,3 +405,10 @@ define("LAN_NO_RESULTS_FOUND", "No Results Found.");
 define("LAN_UI_DROPZONE_DROP_FILES", "Drop files here to upload");
 define("LAN_DOWNLOAD_COMPLETE", "Sitahnutie dokončené!");
 define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Hľadať v poli");
+define("LAN_ROBOTS", "Robots");
+define("LAN_ROBOTS_NOINDEX", "Zabraňuje vyhľadávačom indexovať túto položku");
+define("LAN_ROBOTS_NOFOLLOW", "Zabraňuje vyhľadávačom nasledovať túto položku");
+define("LAN_ROBOTS_NOARCHIVE", "Zabraňuje cacheovaným kópiam tejto položky zobrazovať sa vo vyhľadávačoch");
+define("LAN_ROBOTS_NOIMAGE", "Zabraňuje vyhľadávačom indexovať obrázok tejto položky");
+define("LAN_NAVIGATION", "Navigácia");
+define("LAN_NAVIGATION_LINKS", "Linky navigácie");

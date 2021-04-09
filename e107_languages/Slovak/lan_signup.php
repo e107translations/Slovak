@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2021/04/09 11:21:15 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -113,6 +113,7 @@ define("LAN_SIGNUP_118", " [x]");
 define("LAN_SIGNUP_119", "Neposielať email");
 define("LAN_SIGNUP_120", "ALEBO");
 define("LAN_SIGNUP_121", "Použite inú emailovú adresu");
-define("LAN_SIGNUP_122", "Privacy Policy");
-define("LAN_SIGNUP_123", "Terms and conditions");
+define("LAN_SIGNUP_122", "Ochrana osobných údajov");
+define("LAN_SIGNUP_123", "Obchodné podmienky");
 define("LAN_SIGNUP_124", "Registráciou súhlasíte s našími [x] a [y].");
+define("LAN_SIGNUP_125", "Min. [x] znakov..");

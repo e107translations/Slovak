@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/07/03 14:24:52 
+|        Last Modified: 2021/04/09 11:21:15 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.2 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -27,6 +27,7 @@ define("LAN_CRON_04_2", "Process bounce retriggers.");
 define("LAN_CRON_04_3", "Potrebné len v prípade, ak je reštartovanie blokovaní povolené.");
 define("LAN_CRON_05_1", "Záloha databázy");
 define("LAN_CRON_05_2", "Zálohovať systémovú databázu na");
+define("LAN_CRON_06_1", "Process Ban Trigger");
 define("LAN_CRON_6", "Nepodarilo sa importovať preferencie");
 define("LAN_CRON_7", "Nepodarilo sa importovať nastavenia času");
 define("LAN_CRON_8", "Importované nastavenia času pre");

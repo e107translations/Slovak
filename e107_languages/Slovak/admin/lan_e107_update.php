@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/14 14:24:52 
+|        Last Modified: 2021/04/09 11:21:15 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -49,3 +49,4 @@ define("LAN_UPDATE_56", "Update systému");
 define("LAN_UPDATE_57", "Before continuing, please manually delete the following outdated folders from your system:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Update pluginov");
 define("LAN_UPDATE_CAPTION_CORE", "Update jadra");
+define("LAN_UPDATE_58", "It is highly recommended that you run [File Inspector] after you have completed all the updates, in order to detect any outdated files that need to be removed.");

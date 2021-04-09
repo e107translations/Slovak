@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/01/28 10:27:56 
+|        Last Modified: 2021/04/09 11:21:15 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.0 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -34,7 +34,7 @@ define("LAN_USER_24", "Zmena hesla");
 define("LAN_USER_31", "Hlavný administrátor");
 define("LAN_USER_32", "Administrátor");
 define("LAN_USER_33", "neuvedené");
-define("LAN_USER_34", "");
+define("LAN_USER_34", "spätne");
 define("LAN_USER_35", "[Skrytý stav]");
 define("LAN_USER_36", "Zobraziť komentáre");
 define("LAN_USER_37", "Zobraziť príspevky vo fóre");
@@ -92,7 +92,6 @@ define("LAN_XUP_ERRM_05", "Registrácia zlyhala! Užívateľ už existuje. Použ
 define("LAN_XUP_ERRM_06", "Registrácia zlyhala! Nemáme prístup k emailu užívateľa - bez emailu nie je možná registrácia.");
 define("LAN_XUP_ERRM_07", "Tester prihlásenia cez sociálnu sieť");
 define("LAN_XUP_ERRM_08", "Pred testovaním prihlásenia/registrácie sa odhláste zo stránky.");
-define("LAN_XUP_ERRM_09", "Test len prihlásenia s [x]");
 define("LAN_XUP_ERRM_10", "Test registrácie/prihlásenia s [x]");
 define("LAN_XUP_ERRM_11", "Prihlásený:");
 define("LAN_XUP_ERRM_12", "Test odhlásenia");

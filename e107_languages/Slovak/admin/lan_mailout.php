@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:34:16
-|
+|        Last Modified: 2021/04/09 11:21:15 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -241,6 +243,7 @@ define("LAN_MAILOUT_254", "View templated email");
 define("LAN_MAILOUT_255", "Templated Email, ID:");
 define("LAN_MAILOUT_256", "Return");
 define("LAN_MAILOUT_257", "Generated template");
+define("LAN_MAILOUT_259", "V nastaveniach nie sú zvolené žiadne zdrojové adresy.");
 define("LAN_SEND", "Send");
 define("LAN_HOLD", "Hold");
 define("LAN_MAILOUT_260", "User-Type");
