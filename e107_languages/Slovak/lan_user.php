@@ -11,8 +11,8 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_USER_01", "Zobrazované meno");
-define("LAN_USER_02", "Prihlasovacie meno");
+define("LAN_USER_01", "Zobrazované meno:");
+define("LAN_USER_02", "Prihlasovacie meno:");
 define("LAN_USER_03", "Skutočné meno");
 define("LAN_USER_04", "Titul");
 define("LAN_USER_06", "Fotografia");
@@ -77,7 +77,7 @@ define("LAN_USER_77", "Vaše heslo musí mať najmenej [x] znakov.");
 define("LAN_USER_78", "Minim.");
 define("LAN_USER_79", "znakov");
 define("LAN_USER_80", "meno, pod ktorým budete na stránke vystupovať");
-define("LAN_USER_81", "Užívateľské meno:");
+define("LAN_USER_81", "Prihlasovacie meno:");
 define("LAN_USER_82", "meno, pod ktorým sa budete prihlasovať na stránku");
 define("LAN_USER_83", "Skryť email?:");
 define("LAN_USER_84", "Zabráni zobrazeniu vašej emailovej adresy na tomto webe");

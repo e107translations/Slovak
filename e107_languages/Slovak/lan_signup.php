@@ -50,7 +50,7 @@ define("LAN_SIGNUP_43", "Email odoslaný");
 define("LAN_SIGNUP_44", "Aktivačný email odoslaný:");
 define("LAN_SIGNUP_45", "Pozrite sa do svojej prichádzajúcej pošty.");
 define("LAN_SIGNUP_47", "Znovu poslať aktivačný email");
-define("LAN_SIGNUP_48", "Užívateľské meno alebo email");
+define("LAN_SIGNUP_48", "Prihlasovacie alebo email");
 define("LAN_SIGNUP_49", "Ak ste sa zaregistrovali s nesprávnou adresou, zadajte novú emailovú adresu a heslo sem:");
 define("LAN_SIGNUP_50", "Nový email");
 define("LAN_SIGNUP_51", "Staré heslo");

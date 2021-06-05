@@ -39,7 +39,7 @@ define("LAN_LOGIN_25", "Pokúsil sa prihlásiť zakázaný užívateľ");
 define("LAN_LOGIN_26", "Prihlásenie neúspešné - dôvod neznámy");
 define("LAN_LOGIN_27", "Pokus o prihlásenie užívateľ pred reakciou na potvrdzujúci email");
 define("LAN_LOGIN_28", "Emailová adresa");
-define("LAN_LOGIN_29", "Užívateľské meno alebo email");
+define("LAN_LOGIN_29", "Prihlasovacie meno alebo email");
 define("LAN_LOGIN_30", "Chyba pri pridaní nového alt_auth užívateľa do databázy");
 define("LAN_LOGIN_31", "Vaše údaje sa nepodarilo pridať do databázy");
 define("LAN_LOGIN_32", "Túto správu vidíte, pretože ste prihlásený ako hlavný administrátor.");

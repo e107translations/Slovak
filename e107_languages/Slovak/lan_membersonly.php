@@ -10,8 +10,8 @@
 +---------------------------------------------------------------+
 */
 define("PAGE_NAME", "Len pre členov");
-define("LAN_MEMBERS_0", "oblasť s obmedzeným prístupom");
-define("LAN_MEMBERS_1", "Toto je oblasť s obmedzeným prístupom.");
+define("LAN_MEMBERS_0", "Na prístup k tejto stránke nemáte oprávnenie");
+define("LAN_MEMBERS_1", "Toto je stránka s obmedzeným prístupom.");
 define("LAN_MEMBERS_2", "Pre prístup sa  [prihláste]");
 define("LAN_MEMBERS_3", "alebo [zaregistrujte] ako člen.");
 define("LAN_MEMBERS_4", "Kliknite sem pre návrat na hlavnú stránku.");
