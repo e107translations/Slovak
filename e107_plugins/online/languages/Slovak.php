@@ -11,17 +11,17 @@
 */
 define("LAN_LASTSEEN_1", "Menu Naposledy videné");
 define("LAN_ONLINE_TRACKING_MESSAGE", "Aktuálne nie je sledovanie online užívateľov povolené, povoľte ho prosím [tu]");
-define("LAN_ONLINE_1", "hostí:");
-define("LAN_ONLINE_2", "členov:");
-define("LAN_ONLINE_3", "Na tejto stránke:");
+define("LAN_ONLINE_1", "Počet hostí: ");
+define("LAN_ONLINE_2", "Počet členov: ");
+define("LAN_ONLINE_3", "Na tejto stránke: ");
 define("LAN_ONLINE_4", "Online");
 define("LAN_ONLINE_5", "");
-define("LAN_ONLINE_6", "Najnovší člen:");
+define("LAN_ONLINE_6", "Najnovší člen: ");
 define("LAN_ONLINE_7", "prezerá");
-define("LAN_ONLINE_8", "najviac online:");
-define("LAN_ONLINE_9", "zapnuté");
+define("LAN_ONLINE_8", "najviac online: ");
+define("LAN_ONLINE_9", "dňa: ");
 define("LAN_ONLINE_10", "Online Menu");
-define("LAN_ONLINE_11", "Celkovo registrovaných členov:");
+define("LAN_ONLINE_11", "Celkovo registrovaných členov: ");
 define("LAN_ONLINE_ADMIN_1", "menu Naposledy videné");
 define("LAN_ONLINE_ADMIN_2", "Nadpis menu Naposledy videné");
 define("LAN_ONLINE_ADMIN_3", "Počet zobrazených záznamov");

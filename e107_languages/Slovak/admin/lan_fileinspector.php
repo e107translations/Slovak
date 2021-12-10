@@ -58,7 +58,6 @@ define("FR_LAN_17", "Ak ste CVS užívateľ");
 define("FR_LAN_18", "Ak ste užívateľom e107 SVN verzie a skúšate túto verziu namiesto oficiálnej stabilnej verzie e107, chyby integrity sa vyskytnú takmer vždy, pretože súbory boli nedávno editované vývojovým tímom e107.");
 define("FR_LAN_19", "chybných súborov");
 define("FR_LAN_20", "Všetky súbory v poriadku");
-define("FR_LAN_21", "Žiadne");
 define("FR_LAN_22", "Chýbajúce súbory jadra");
 define("FR_LAN_23", "Zhody sa nenašli.");
 define("FR_LAN_24", "Súbory starého jadra");
@@ -67,6 +66,7 @@ define("FR_LAN_26", "Pozor! Bola zistená nestabilita!");
 define("FR_LAN_27", "Na vašom serveri boli nájdené súbory, ktoré sú známe svojou zneužiteľnosťou a preto musia byť okamžite odstránené.");
 define("FR_LAN_28", "Známe nestabilné súbory");
 define("FR_LAN_32", "You need to run a scan first!");
+define("FR_LAN_33", "Začína");
 define("FS_LAN_1", "Create Snapshot");
 define("FS_LAN_2", "Absolute path of root directory to create image from");
 define("FS_LAN_3", "Create snapshot for plugin: (Your plugin will be listed when a writable e_inspect.php file exists in your plugins root directory.)");
@@ -79,6 +79,3 @@ define("FS_LAN_9", "Snapshot");
 define("FS_LAN_10", "Snapshot Created");
 define("FS_LAN_11", "The snapshot was successfully created.");
 define("FS_LAN_12", "Return To Main Page");
-
-
-?>

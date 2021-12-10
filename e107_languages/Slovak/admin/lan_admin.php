@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/04/09 11:21:15 
+|        Last Modified: 2021/10/12 10:27:56 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.3.1 $
@@ -130,11 +130,11 @@ define("ADLAN_187", "Nepodarilo sa vytvoriť [x]. Skontrolujte oprávnenia adres
 define("ADLAN_188", "Nastavenia timezone je nesprávne [x] . Musí sa zresetovať na UTC. Na jej zmenu choďte do Admin -> Preferences -> Date Display Options");
 define("ADLAN_189", "Nasledujúce pluginy nie sú kompatibilné s touto verziou e107 a mali by ste ich odinštalovať:");
 define("ADLAN_190", "Potrebujete pomoc?");
-define("ADLAN_191", "Connect with our community for [free support] with any upgrading issues you may encounter.");
-define("ADLAN_192", "Connect with our community for [free support] with any e107 issues you may encounter.");
-define("ADLAN_193", "The folder [x] is not writable. Please correct before proceeding.");
-define("ADLAN_194", "Legacy avatars folder detected. Please make sure [x]avatars/ is writable. Please correct before proceeding.");
-define("ADLAN_195", "Old folder moved to backup directory");
+define("ADLAN_191", "Spojte sa s našou komunitou a získajte [bezplatnú podporu] pri akýchkoľvek problémoch s aktualizáciou, s ktorými sa môžete stretnúť.");
+define("ADLAN_192", "Spojte sa s našou komunitou pre [bezplatnú podporu] pri akýchkoľvek problémoch s e107, s ktorými sa môžete stretnúť");
+define("ADLAN_193", "Do priečinka [x] nie je možné zapisovať. Pred pokračovaním to opravte.");
+define("ADLAN_194", "Zistený priečinok so zastaralými avatarmi. Uistite sa, že do zložky [x]avatars/ je možné zapisovať. Predtým, než budete pokračovať, opravte to.");
+define("ADLAN_195", "Starý priečinok presunutý do záložného adresára");
 define("ADLAN_CL_2", "Užívatelia");
 define("ADLAN_CL_3", "Obsah");
 define("ADLAN_CL_4", "Komentáre");
@@ -247,7 +247,9 @@ define("LAN_WIDTH", "Šírka");
 define("LAN_HEIGHT", "Výška");
 define("LAN_ON", "On");
 define("LAN_OFF", "Off");
+define("LAN_DISABLE", "Nepovoliť");
 define("LAN_DISABLED", "Nepovolené");
+define("LAN_ENABLE", "Povoliť");
 define("LAN_ENABLED", "Povolené");
 define("LAN_BOOL_REVERSE", "Prehodiť");
 define("LAN_DETAILS", "Podrobnosti");
@@ -393,17 +395,18 @@ define("LAN_UI_X_CANT_EQUAL_Y", "[x] nemôže byť rovnaké ako [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Grid zobrazenie");
 define("LAN_UI_VIEW_LIST_LABEL", "List zobrazenie");
 define("LAN_CHECKING_FOR_UPDATES", "Kontrola aktualizácii");
-define("LAN_UI_FILTER_NEXT_HOUR", "Next Hour");
-define("LAN_UI_FILTER_NEXT_24_HOURS", "Next 24 hours");
-define("LAN_UI_FILTER_NEXT_WEEK", "Next Week");
-define("LAN_UI_FILTER_NEXT_MONTH", "Next Month");
-define("LAN_UI_FILTER_NEXT_YEAR", "Next Year");
-define("LAN_UI_FILTER_IS_EMPTY", "Is Empty");
-define("LAN_RECALCULATE_COMMENT_COUNT", "Recalculate comment count");
-define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Comment count successfully recalculated!");
-define("LAN_NO_RESULTS_FOUND", "No Results Found.");
-define("LAN_UI_DROPZONE_DROP_FILES", "Drop files here to upload");
-define("LAN_DOWNLOAD_COMPLETE", "Sitahnutie dokončené!");
+define("LAN_UI_FILTER_NEXT_HOUR", "Nasledujúcu hodinu");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "Nasledujúcich 24 hodín");
+define("LAN_UI_FILTER_NEXT_WEEK", "Nasledujúci týždeň");
+define("LAN_UI_FILTER_NEXT_MONTH", "Nasledujúci mesiac");
+define("LAN_UI_FILTER_NEXT_XMONTHS", "Nasl.[x] mesiacov");
+define("LAN_UI_FILTER_NEXT_YEAR", "Nasl.rok");
+define("LAN_UI_FILTER_IS_EMPTY", "je prázdny");
+define("LAN_RECALCULATE_COMMENT_COUNT", "Prepočítať počet komentárov");
+define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Počet komentárov úspešne prepočítaný!");
+define("LAN_NO_RESULTS_FOUND", "Nenašli sa žiadne výsledky.");
+define("LAN_UI_DROPZONE_DROP_FILES", "Sem nahrajte súbory");
+define("LAN_DOWNLOAD_COMPLETE", "Stiahnutie dokončené!");
 define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Hľadať v poli");
 define("LAN_ROBOTS", "Robots");
 define("LAN_ROBOTS_NOINDEX", "Zabraňuje vyhľadávačom indexovať túto položku");
@@ -412,3 +415,8 @@ define("LAN_ROBOTS_NOARCHIVE", "Zabraňuje cacheovaným kópiam tejto položky z
 define("LAN_ROBOTS_NOIMAGE", "Zabraňuje vyhľadávačom indexovať obrázok tejto položky");
 define("LAN_NAVIGATION", "Navigácia");
 define("LAN_NAVIGATION_LINKS", "Linky navigácie");
+define("LAN_PAGINATION", "Stránkovanie");
+define("LAN_X_CHARS_REMAINING", "[x] zostávajúcich znakov");
+define("LAN_UI_BATCH_NOW", "Aktuálny dátum/čas");
+define("LAN_RELATIONSHIP", "Vzťah");
+define("LAN_RELATIONSHIP_HELP", "Nepovinný atribút "rel". Oddelený čiarkou.");

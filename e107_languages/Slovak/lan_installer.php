@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/14 14:24:52 
+|        Last Modified: 2021/10/12 10:27:56 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -113,5 +113,5 @@ define("LANINS_141", "Sem zadajte nastavenia MySQL. Ak neviete nastaviť prístu
 define("LANINS_142", "DÔLEŽITÉ: Premenujte e107.htaccess na .htaccess");
 define("LANINS_144", "DÔLEŽITÉ: Skopírujte obsah súboru [b]e107.htaccess[/b] do vášho [b].htaccess[/b] file. Uistite sa, že NEPREPÍŠETE žiadne údaje, ktoré by v ňom mohli byť.");
 define("LANINS_145", "e107 v2.x vyžaduje naištalované PHP [x] . Kontaktujte svoj hosting alebo si prečítajte informácie na [y] než budete pokračovať.");
-define("LANINS_146", "Admin-area Skin");
-define("LANINS_147", "Administration");
+define("LANINS_146", "Skin pre administráciu");
+define("LANINS_147", "Administrácia");

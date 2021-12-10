@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/04/09 11:21:15 
+|        Last Modified: 2021/10/12 10:27:56 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.3.1 $
@@ -54,3 +54,5 @@ define("CUSLAN_77", "zmazané");
 define("CUSLAN_78", "Nepodarilo sa vymazať menu s cestou");
 define("CUSLAN_79", "Musíte zadať buď názov stránky alebo názov menu");
 define("CUSLAN_80", "Podtitulok");
+define("CUSLAN_81", "Meta obrázok");
+define("CUSLAN_82", "Voliteľné. Používa sa v sociálnych médiách pri zdieľaní tejto stránky.");

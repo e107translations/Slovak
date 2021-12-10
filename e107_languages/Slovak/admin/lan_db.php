@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:27:43
-|
+|        Last Modified: 2021/10/12 10:27:56 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -56,10 +58,10 @@ define("DBLAN_56", "10. Sken override adresára");
 define("DBLAN_57", "Shortcode Override list set to");
 define("DBLAN_58", " 6. Export údajov");
 define("DBLAN_59", " 7. Import údajov");
-define("DBLAN_60", "File backup complete!");
-define("DBLAN_61", "Starting database backup...");
-define("DBLAN_62", "Database backup complete!");
-define("DBLAN_63", "Full site backup completed.");
+define("DBLAN_60", "Zálohovanie súborov dokončené!");
+define("DBLAN_61", "Spustenie zálohovania databázy...");
+define("DBLAN_62", "Zálohovanie databázy dokončené!");
+define("DBLAN_63", "Úplné zálohovanie webu je dokončené.");
 define("DBLAN_64", "Vyberte, ak chcete skontrolovať kódovanie databázy");
 define("DBLAN_65", " 2. Skontrolovať kódovanie");
 define("DBLAN_66", "Vyberte, ak chcete opraviť práva k súborom a adresárom");
@@ -69,7 +71,7 @@ define("DBLAN_69", " 1. Zálohovať web");
 define("DBLAN_70", "Táto voľba vydumpuje databázu a zazipuje všetky non-core pluginy, tému webu, súbory médii a logy systému");
 define("DBLAN_71", "Prosím čakajte...");
 define("DBLAN_72", "Práva k adresárom a súborom boli aktualizované");
-define("DBLAN_73", "Correcting File and Directory Permissions");
+define("DBLAN_73", "Oprava oprávnení súborov a adresárov");
 define("DBLAN_74", "Pripájam sa na server");
 define("DBLAN_75", "Vytváram databázu");
 define("DBLAN_76", "Vyberám databázu");
@@ -79,14 +81,14 @@ define("DBLAN_79", "Engine");
 define("DBLAN_80", "Collation");
 define("DBLAN_81", "Stav");
 define("DBLAN_82", "Táto funkcia trvale upraví všetky tabuľky vašej databázy. ([database])");
-define("DBLAN_83", "[b]Dôrazne[/b] vám odporúčame, aby si zálohovali databázu a nastavili režim údržby.");
+define("DBLAN_83", "[b]Dôrazne[/b] vám odporúčame, aby ste si zálohovali databázu a nastavili režim údržby.");
 define("DBLAN_84", "Poznámka:");
 define("DBLAN_85", "The conversion process can take up to one minute or much much more depending on the size of your database.");
-define("DBLAN_86", "The conversion does not work with serialized arrays.");
-define("DBLAN_87", "Be sure that you have followed all steps of the upgrade process first.");
-define("DBLAN_88", "Core prefs are ignored during the conversion process due to possibility of corruption.");
-define("DBLAN_89", "Convert Database");
-define("DBLAN_90", "Convert non-UTF8 Tables");
+define("DBLAN_86", "Proces konverzie môže trvať až jednu minútu alebo oveľa viac v závislosti od veľkosti vašej databázy.");
+define("DBLAN_87", "Najprv sa uistite, že ste vykonali všetky kroky procesu aktualizácie");
+define("DBLAN_88", "Základné nastavenia sú počas procesu konverzie ignorované kvôli možnosti poškodenia.");
+define("DBLAN_89", "Konverzia databázy");
+define("DBLAN_90", "Prevod tabuliek iných ako UTF8");
 define("DBLAN_91", "Prosím čakajte...");
 define("DBLAN_92", "Vaše tabuľky používajú správnu znakovú sadu.");
 define("DBLAN_93", "Databáza úspešne skonvertovaná do UTF-8.");
@@ -97,9 +99,9 @@ define("DBLAN_98", "Počet riadkov");
 define("DBLAN_99", "Údaje tabuľky:");
 define("DBLAN_100", "Convert paths and package images and xml into:");
 define("DBLAN_101", "Export File");
-define("DBLAN_102", "Export Options");
-define("DBLAN_103", "Inserted");
-define("DBLAN_104", "Failed to Insert");
+define("DBLAN_102", "Možnosti exportu");
+define("DBLAN_103", "Vložené");
+define("DBLAN_104", "Vloženie sa nepodarilo");
 define("DBLAN_105", "Batch shortcodes:");
 define("DBLAN_106", "(empty)");
 define("DBLAN_107", "[adresár] nie je zapisovateľný");
@@ -117,6 +119,3 @@ define("DBLAN_118", "Nepodarilo sa stiahnuť .zip súbor");
 define("DBLAN_119", "Záloha");
 define("DBLAN_120", "Začínam zálohovať....");
 define("DBLAN_121", "Presúvam [x] do [y].");
-
-
-?>

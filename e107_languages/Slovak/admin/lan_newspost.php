@@ -4,14 +4,15 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:32:11
-|
+|        Last Modified: 2021/10/12 11:27:56 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 define("NWSLAN_4", "News - Existing News");
 define("NWSLAN_6", "Kategória");
-define("NWSLAN_10", "Žiadne kategórie noviniek");
 define("NWSLAN_13", "Text novinky");
 define("NWSLAN_14", "Rozšírený text");
 define("NWSLAN_18", "Povolí zasielanie komentárov k novinkám");
@@ -21,8 +22,8 @@ define("NWSLAN_24", "Znovu zobraziť");
 define("NWSLAN_25", "Aktualizovať");
 define("NWSLAN_26", "Uložiť");
 define("NWSLAN_27", "Ukázať");
-define("NWSLAN_29", "News - Add New Item");
-define("NWSLAN_29a", "News - Add New Item");
+define("NWSLAN_29", "Články - Pridať novú položku");
+define("NWSLAN_29a", "Články - Aktualizovať existujúcu položku");
 define("NWSLAN_31", "novinka");
 define("NWSLAN_32", "zmazaný");
 define("NWSLAN_33", "Kategórie noviniek");
@@ -36,7 +37,7 @@ define("NWSLAN_43", "Žiadne nové články");
 define("NWSLAN_44", "Úvodná stránka noviniek");
 define("NWSLAN_45", "Vytvoriť novú novinku");
 define("NWSLAN_46", "Kategórie");
-define("NWSLAN_46a", "News - Categories");
+define("NWSLAN_46a", "Články - Kategórie");
 define("NWSLAN_47", "Zaslané novinky");
 define("NWSLAN_48", "Nastavenia noviniek");
 define("NWSLAN_49", "Odoslaný");
@@ -85,24 +86,18 @@ define("NWSLAN_121", "Nothing found for %s");
 define("NWSLAN_123", "Publikované");
 define("NWSLAN_127", "Default template");
 define("NWSLAN_128", "Set a string to be used in news pages URL. This will only work proper .htaccess rules and <a href='%s'>eURL config</a><br />Resolved URL based on current value:");
-define("LAN_NEWS_23", "Choose an image or video for this news item");
 define("LAN_NEWS_28", "Prilepené");
 define("LAN_NEWS_29", "Zvoľte, či bude novinka zvýraznená");
 define("LAN_NEWS_30", "Ak je táto voľba povolená, novinky sa budú objavovať nad všetkými ostatnými");
 define("LAN_NEWS_32", "Dátum");
 define("LAN_NEWS_33", "Nastavte dátum vytvorenia pre túto novinku.");
-define("LAN_NEWS_34", "Spätné sledovanie novinky");
-define("LAN_NEWS_35", "Pridať URL spätného sledovania");
 define("LAN_NEWS_37", "One URL per line)");
 define("LAN_NEWS_49", "Typ zobrazenia");
 define("LAN_NEWS_51", "Modification of the news-item author can be done by:");
 define("LAN_NEWS_52", "General Information");
 define("LAN_NEWS_53", "Advanced Options");
-define("LAN_NEWS_54", "stay in edit mode");
 define("LAN_NEWS_55", "Údržba");
-define("LAN_NEWS_56", "Prepočítať počet komentárov");
 define("LAN_NEWS_57", "Aktualizovať");
-define("LAN_NEWS_58", "Aktualizácia dokončená.");
 define("LAN_NEWS_59", "Údržba noviniek");
 define("LAN_NEWS_60", "Comment Total");
 define("LAN_NEWS_61", "Odstrániť tiež nepovolené komentáre");
@@ -110,7 +105,6 @@ define("LAN_NEWS_62", "Chyba v prístupe k databáze alebo sa nenašli nové pol
 define("LAN_NEWS_63", "Vytvoriť kategóriu");
 define("LAN_NEWS_64", "Old Submitted");
 define("LAN_NEWS_65", "Please choose unique SEF URL string for this category");
-define("LAN_NEWS_66", "");
 define("LAN_NEWS_67", "Close");
 define("LAN_NEWS_68", "Submitted Item");
 define("LAN_NEWS_69", "Default Area");
@@ -120,7 +114,6 @@ define("LAN_NEWS_72", "Sidebar - Othernews");
 define("LAN_NEWS_73", "Sidebar - Othernews 2");
 define("LAN_NEWS_74", "Carousel");
 define("LAN_NEWS_75", "Featurebox");
-define("LAN_NEWS_87", "eg. blogsearch.google.com/ping/RPC2");
 define("LAN_NEWS_88", "Determines how the default news page should appear.");
 define("LAN_NEWS_89", "Notify these services when you create/update news items.");
 define("LAN_NEWS_90", "One per line.");
@@ -145,6 +138,3 @@ define("LAN_NEWS_108", "The SEF URL is unlike the title of your news item.");
 define("LAN_NEWS_109", "Trigger an email notification when you submit this form.");
 define("LAN_NEWS_110", "News Cache Timeout");
 define("LAN_NEWS_111", "Time in minutes. Applies only when system cache is enabled.");
-
-
-?>

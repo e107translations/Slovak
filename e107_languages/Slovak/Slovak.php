@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/01/28 10:27:56 
+|        Last Modified: 2021/10/12 10:27:56 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.0 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -92,6 +92,7 @@ define("LAN_NEXT", "Ďalej");
 define("LAN_PREVIOUS", "Späť");
 define("LAN_LOGIN", "Prihlásiť");
 define("LAN_LOGOUT", "Odhlásiť");
+define("LAN_VERIFY", "Overiť");
 define("LAN_SETTINGS", "Nastavenia");
 define("LAN_PASSWORD", "Heslo");
 define("LAN_INCORRECT_PASSWORD", "Nesprávne heslo");
@@ -135,3 +136,4 @@ define("LAN_REQUIRED_BLANK", "Vynechané povinné polia");
 define("LAN_PLEASEWAIT", "Čakajte");
 define("LAN_CHOOSE_FILE", "Vyberte súbor");
 define("LAN_REQUIRED", "Povinné");
+define("LAN_DEVELOPERMODE_CHECK", "[b]Vývojársky režim je v súčasnosti povolený. Tento režim používajte len pri vývoji![/b] [br]Pri používaní webovej stránky v ostrej prevádzke vypnite vývojársky režim. Keď je povolený režim pre vývojárov, môžu sa verejnosti zobraziť citlivé informácie!");

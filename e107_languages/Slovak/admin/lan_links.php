@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:34:00
-|
+|        Last Modified: 2021/10/12 11:27:56 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -24,6 +26,11 @@ define("LCLAN_108", "Niektoré voľbu vynechané - nemôžete nastaviť link ako
 define("LCLAN_109", "Vyberte rodiča");
 define("LCLAN_110", "Zvoľte modul generátora");
 define("LCLAN_111", "Neplatné dáta pre generátor");
+define("LCLAN_112", "1 - Main");
+define("LCLAN_113", "1 - Main");
+define("LCLAN_114", "1 - Main");
+define("LCLAN_115", "Alt");
+define("LCLAN_116", "(Unassigned)");
 define("LINKLAN_1", "Otvoriť v mini okne 800x600");
 define("LINKLAN_4", "Generátor sublinkov");
 define("LINKLAN_5", "Generujte sublinky");
@@ -32,6 +39,3 @@ define("LINKLAN_7", "Vytvorte sublinky pod ktorým linkom?");
 define("LINKLAN_8", "Kategórie článkov");
 define("LINKLAN_9", "Kategórie sťahovaní");
 define("LINKLAN_10", "Shortcodes témy");
-
-
-?>

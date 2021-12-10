@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2021/10/12 10:27:56 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -17,7 +19,6 @@ define("LAN_06", "Pokus o aktualizáciu hesla");
 define("LAN_07", "Niekto s nasledujúcou IP adresou");
 define("LAN_08", "sa pokúšal o zmenu heslo hlavného administrátora.");
 define("LAN_09", "Heslo aktualizované od");
-define("LAN_112", "Emailová adresa, s ktorou ste sa zaregistrovali na tejto stránke");
 define("LAN_213", "Toto užívateľské meno/heslo nebolo nájdené v databáze.");
 define("LAN_214", "Nie je možné aktualizovať heslo");
 define("LAN_218", "Vaše užívateľské meno je:");
@@ -40,9 +41,7 @@ define("LAN_FPW18", "Požadovaná zmena hesla");
 define("LAN_FPW19", "Odoslanie emailu zlyhalo");
 define("LAN_FPW20", "Odoslanie emailu úspešné");
 define("LAN_FPW21", "Užívateľ klikol na link s resetovaním hesla");
+define("LAN_FPW22", "Emailová adresa zaregistrovaná na tejto stránke");
 define("LAN_FPW_100", "Zabudli ste svoje heslo?");
 define("LAN_FPW_101", "Bez obáv. Len zadajte nižšie svoju emailovú adresu a my vám pošleme pokyny pre jeho obnovenie.");
 define("LAN_FPW_102", "Obnova hesla");
-
-
-?>
