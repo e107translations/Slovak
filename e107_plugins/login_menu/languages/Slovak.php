@@ -7,7 +7,7 @@
 |        Last Modified: 2019/07/03 14:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.2 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -27,14 +27,14 @@ define("LAN_LOGINMENU_15", "noviniek");
 define("LAN_LOGINMENU_16", "príspevok chatboxu");
 define("LAN_LOGINMENU_17", "príspevkou chatboxu");
 define("LAN_LOGINMENU_18", "komentár");
-define("LAN_LOGINMENU_19", "komentáre");
+define("LAN_LOGINMENU_19", "komentárov");
 define("LAN_LOGINMENU_20", "príspevok fóra");
 define("LAN_LOGINMENU_21", "príspevkov fóra");
 define("LAN_LOGINMENU_22", "nový člen");
 define("LAN_LOGINMENU_23", "nových členov");
 define("LAN_LOGINMENU_24", "Kliknite sem pre zoznam nových udalostí");
-define("LAN_LOGINMENU_25", "od vašej poslednej návštevy");
-define("LAN_LOGINMENU_26", "0");
+define("LAN_LOGINMENU_25", "Od vašej poslednej návštevy pribudlo");
+define("LAN_LOGINMENU_26", "");
 define("LAN_LOGINMENU_27", "a");
 define("LAN_LOGINMENU_31", "Ukázať nové novinky");
 define("LAN_LOGINMENU_34", "Ukázať nové komentáre");

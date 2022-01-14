@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2021/10/12 12:41:56 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -23,6 +23,7 @@ define("LAN_DL_SUBSUB_CAT", "Zobraziť sub-sub-kategórie");
 define("LAN_DL_SUBSUB_CAT_INFO", "Zaškrtnutie = Na úvodnej stránke stiahnutí sa zobrazia aj sub-sub-kategórie");
 define("LAN_DL_SUBSUB_COUNT", "Kombinovať súčty za kategórie");
 define("LAN_DL_SUBSUB_COUNT_INFO", "Zahrnúť počty zo sub-sub-kategórii do počtov za sub-kategórie");
+define("LAN_DL_BROKENDOWNLOADSREPORTS", "Správy o nefunkčnom sťahovaní");
 define("DOWLAN_1", "Sťahovanie pridané do databázy.");
 define("DOWLAN_2", "Sťahovanie aktualizované.");
 define("DOWLAN_5", "Neexistuje žiadna kategória sťahovaní. Musíte najskôr definovať aspoň jednu kategóriu sťahovaní.");
@@ -38,7 +39,7 @@ define("DOWLAN_17", "Web autora");
 define("DOWLAN_18", "Popis");
 define("DOWLAN_19", "Hlavný obrázok");
 define("DOWLAN_20", "Náhľad");
-define("DOWLAN_21", "Status");
+define("DOWLAN_21", "Stav");
 define("DOWLAN_22", "Zoznam nahratí");
 define("DOWLAN_23", "Typy súborov");
 define("DOWLAN_24", "Aktualizovať sťahovanie");
@@ -100,7 +101,6 @@ define("DOWLAN_145", "Sťahovanie je viditeľné pre");
 define("DOWLAN_146", "Vlastná správa o nepovolenom sťahovaní alebo URL");
 define("DOWLAN_148", "Zaškrtnite, ak sa má nastaviť aktuálny čas");
 define("DOWLAN_149", "URL adresa");
-define("DOWLAN_150", "Pošle email adminovi, keď bude ohlásený neplatný link na sťahovanie");
 define("DOWLAN_151", "Hlásenie na neplatný link na sťahovanie je dostupné");
 define("DOWLAN_152", "Nepodarilo sa presunúť súbor");
 define("DOWLAN_153", "Presunúť súbor do zložky na sťahovanie");
@@ -139,6 +139,7 @@ define("DOWLAN_193", "Vybrať možnosť");
 define("DOWLAN_195", "Typ zrkadla");
 define("DOWLAN_196", "zoznam");
 define("DOWLAN_197", "náhodne");
+define("DOWLAN_199", "Odoslal");
 define("DOWLAN_HELP_1", "Pomocník");
 define("DOWLAN_HELP_2", "<p>Pridať/editovať stiahnutie.</p><p>Zadajte len jedno z: súbor, URL alebo zrkadlo.</p><p>Uistite sa, že vyberiete kategóriu, inak vaše stiahnutie nebude na hlavnej stránke viditeľné.</p>");
 define("DOWLAN_HELP_3", "Pomocník pre kategórie");
@@ -149,7 +150,8 @@ define("DOWLAN_HELP_7", "Pomocník pre zrkadlá");
 define("DOWLAN_HELP_8", "Pomocník pre zoznam nahratí");
 define("DOWLAN_HELP_9", "Pomocník pre typy nahratí");
 define("DOWLAN_HELP_10", "Pomocník pre možnosti nahratí");
-define("LAN_DL_SECURITY_DESCRIPTION", "Downloads can make use of server-side URL protection features to prevent hotlinking and/or enforce link expiry. " . "This section should be configured before the download server is configured to reduce the chance of disruption to downloaders.");
+define("DOWLAN_HELP_11", "Kliknutím na tlačidlo 'odstrániť' odstránite správu.[br][br]Kliknutím na tlačidlo 'zobraziť' spravujete sťahovanie.[br][br]Ak chcete byť informovaní o všetkých nových správach, pozrite sa do [nastavenia upozornenia].");
+define("LAN_DL_SECURITY_DESCRIPTION", "Pri sťahovaní môžete využívať funkcie ochrany URL na strane servera, aby ste zabránili hotlinking a/alebo vynútili vypršanie platnosti odkazu. " . " Táto časť by mala byť nakonfigurovaná pred konfiguráciou servera sťahovania, aby sa znížila možnosť narušenia sťahovania.");
 define("LAN_DL_SECURITY_MODE", "URL protection mode");
 define("LAN_DL_SECURITY_MODE_NONE", "None (Default)");
 define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");

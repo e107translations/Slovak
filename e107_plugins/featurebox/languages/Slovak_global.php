@@ -4,19 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/09/15 18:50:17
-|
+|        Last Modified: 2021/10/12 12:41:56 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_FEATUREBOX_NAME", "Feature Box");
-define("LAN_PLUGIN_FEATUREBOX_DESCRIPTION", "Displays an animated area on the top of your page with news-items and other content you would like to feature.");
+define("LAN_PLUGIN_FEATUREBOX_DESCRIPTION", "Zobrazí animovanú oblasť v hornej časti vašej stránky s novinkami a iným obsahom, ktorý chcete zobraziť.");
 define("LAN_PLUGIN_FEATUREBOX_BATCH", "Create Featurebox Item");
-define("FBLAN_INSTALL_01", "Adding Default category table data.");
-define("FBLAN_INSTALL_02", "Adding Default table data.");
-define("FBLAN_INSTALL_03", "Unassigned");
-define("FBLAN_INSTALL_04", "Carousel");
-define("FBLAN_INSTALL_05", "Tabs");
-
-
-?>
+define("LAN_PLUGIN_FEATUREBOX_RSSFEED", "Toto je zdroj RSS pre záznamy vo featureboxe.");

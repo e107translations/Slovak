@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:36:02
-|
+|        Last Modified: 2021/10/12 12:41:56 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.1 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -35,8 +37,4 @@ define("BNRLAN_47", "Všetky zvolené kampane zobrazené v samostatných menu");
 define("BNRLAN_48", "Všetky zobrazené kampane (nevykresľuje sa žiaden box)");
 define("BNRLAN_50", "Lokálne");
 define("BNRLAN_51", "Vzdialene");
-define("BNRLAN_HELP_01", "Pomocník");
-define("BNRLAN_HELP_02", "Tento plugin použite na správu reklám na svojom webe. <br /><br /> Keď vytvárate novú reklamu, môžete vytvoriť pre klienta užívateľské meno a heslo, s ktorým sa môže prihlásiť a skontrolovať priebeh kampane.<br /><br />Pomocou Správcu menu môžete povoliť menu s reklamami a v ňom vykonať ďalšie nastavenia.");
-
-
-?>
+define("BNRLAN_HELP_02", "Tento plugin použite na správu reklám na svojom webe. [br][br]Keď vytvárate novú reklamu, môžete vytvoriť pre klienta užívateľské meno a heslo, s ktorým sa môže prihlásiť a skontrolovať priebeh kampane.[br][br]Pomocou Správcu menu môžete povoliť menu s reklamami a v ňom vykonať ďalšie nastavenia.");

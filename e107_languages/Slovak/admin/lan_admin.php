@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/10/12 10:27:56 
+|        Last Modified: 2022/14/01 17:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.3.1 $
@@ -419,4 +419,4 @@ define("LAN_PAGINATION", "Stránkovanie");
 define("LAN_X_CHARS_REMAINING", "[x] zostávajúcich znakov");
 define("LAN_UI_BATCH_NOW", "Aktuálny dátum/čas");
 define("LAN_RELATIONSHIP", "Vzťah");
-define("LAN_RELATIONSHIP_HELP", "Nepovinný atribút "rel". Oddelený čiarkou.");
+define("LAN_RELATIONSHIP_HELP", "Nepovinný atribút 'rel'. Oddelený čiarkou.");
