@@ -15,7 +15,7 @@ define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "predvolený");
 define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "predvolený");
 define("LAN_PLUGIN_PM_INBOX", "Inbox");
 define("LAN_PLUGIN_PM_OUTBOX", "Outbox");
-define("LAN_PLUGIN_PM_NEW", "Odoslať novú správu");
+define("LAN_PLUGIN_PM_NEW", "Poslať správu");
 define("LAN_PLUGIN_PM_TO", "Komu");
 define("LAN_PLUGIN_PM_FROM", "Od");
 define("LAN_PLUGIN_PM_SUB", "Predmet");

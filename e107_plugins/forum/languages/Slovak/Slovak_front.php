@@ -130,7 +130,7 @@ define("LAN_FORUM_2027", "Moderátor(i) budú upozornení na túto tému. Môže
 define("LAN_FORUM_2028", "[Nepoužívajte] tento formulár na kontaktovanie administrátora z iného dôvodu");
 define("LAN_FORUM_2029", "Odoslať report");
 define("LAN_FORUM_2030", "Späť navrch");
-define("LAN_FORUM_2031", "Poslané:");
+define("LAN_FORUM_2031", "Členom od");
 define("LAN_FORUM_2032", "príspevkov");
 define("LAN_FORUM_2033", "Počet návštev od registrácie");
 define("LAN_FORUM_2034", "Webstránka");

@@ -21,7 +21,7 @@ define("LAN_LOGIN_7", "Vložte znázornený kód");
 define("LAN_LOGIN_8", "Zapamätať si ma");
 define("LAN_LOGIN_9", "Prihlásiť");
 define("LAN_LOGIN_10", "Kliknite pre prihlásenie");
-define("LAN_LOGIN_11", "Registrovať ako nového užívateľa");
+define("LAN_LOGIN_11", "Registrovať sa");
 define("LAN_LOGIN_12", "Zabudnuté heslo");
 define("LAN_LOGIN_13", "Prosím, zadajte text z obrázku");
 define("LAN_LOGIN_14", "Pokus užívateľa prihlásiť sa s neplatným menom");
