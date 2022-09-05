@@ -4,12 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:50:35
-|
+|        Last Modified: 2022/06/26 13:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.2 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PM", "Osobná správa");
+define("LAN_PM", "Súkromné správy");
 define("LAN_PM_1", "Pošlite súkromnú správu");
 define("LAN_PM_2", "Komu");
 define("LAN_PM_3", "Ukázať");
@@ -18,8 +20,8 @@ define("LAN_PM_5", "Predmet");
 define("LAN_PM_6", "Správa");
 define("LAN_PM_7", "Smajlíci");
 define("LAN_PM_8", "Prílohy");
-define("LAN_PM_9", "Čítajte potvrdenie");
-define("LAN_PM_10", "Pošlite mi email, keď bude táto správa prečítaná");
+define("LAN_PM_9", "Potvrdenie o prečítaní");
+define("LAN_PM_10", "Pošlite mi notifikačný email, keď si adresár správu prečíta.");
 define("LAN_PM_11", "pridajte nový upload");
 define("LAN_PM_12", "Nemáte povolenie používať systém súkromných správ");
 define("LAN_PM_13", "Priečinok s odoslanou poštou máte na {PERCENT}% plný, takže nie ste schopný odoslať SS, pokiaľ niektoré nevymažete");
@@ -30,7 +32,7 @@ define("LAN_PM_17", "Užívateľ nenájdený");
 define("LAN_PM_18", "Nemáte povolenie posielať SS:");
 define("LAN_PM_19", "Priečinok s odoslanou poštou máte plný a preto nemôžete odosielať SS");
 define("LAN_PM_21", "Pridanie tejto SS prekročí maximum veľkosti odoslanej pošty, SS neodoslaná");
-define("LAN_PM_22", "Zlyhal upload súboru");
+define("LAN_PM_22", "Zlyhalo nahratie súboru");
 define("LAN_PM_23", "Nemáte povolenie posielať prílohy");
 define("LAN_PM_24", "Mazanie SS");
 define("LAN_PM_27", "Neprečítané");
@@ -48,8 +50,8 @@ define("LAN_PM_38", "SS odoslaná do užívatelskej skupiny");
 define("LAN_PM_39", "Zlyhalo odoslanie SS");
 define("LAN_PM_40", "SS odoslaná užívateľovi");
 define("LAN_PM_41", "Zlyhalo odoslanie do tvojho priečinku odoslanej pošty");
-define("LAN_PM_42", "SS zmazaná z prijatej pošty");
-define("LAN_PM_43", "SS zmazaná z odoslanej pošty");
+define("LAN_PM_42", "SS bola z prijatej pošty vymazaná");
+define("LAN_PM_43", "SS bola z odoslanej pošty vymazaná");
 define("LAN_PM_44", "Blokovanie odstránené: {UNAME} má teraz povolenie posielať vám SS");
 define("LAN_PM_45", "Chyba: Blokovanie neodstránené, neznáma chyba");
 define("LAN_PM_46", "Blokovanie pre {UNAME} nie je umiestnené");
@@ -58,7 +60,7 @@ define("LAN_PM_48", "Chyba: Blokovanie nepridané, neznáma chyba");
 define("LAN_PM_49", "Chyba: Blokovanie je už umiestnené pre {UNAME}");
 define("LAN_PM_50", "Blokovaný užívateľ");
 define("LAN_PM_51", "Odblokovaný užívateľ");
-define("LAN_PM_53", "Zmazanie vybraté");
+define("LAN_PM_53", "Zmazať vybrané");
 define("LAN_PM_54", "Citovať originál");
 define("LAN_PM_55", "Poslať odpoveď");
 define("LAN_PM_56", "Nie ste oprávnený odpovedať na túto správu");
