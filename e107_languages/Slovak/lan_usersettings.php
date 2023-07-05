@@ -49,7 +49,7 @@ define("LAN_USET_37", "Ulož nastavenia");
 define("LAN_USET_38", "Vyberte si avatara");
 define("LAN_USET_39", "Zmeniť užívateľské nastavenia");
 define("LAN_USET_40", "Heslá sa nezhodujú");
-define("LAN_USET_41", "Vykonané zmeny boli úspešne uložené.");
+define("LAN_USET_41", "Zmeny v nastavení vášho účtu boli úspešne vykonané.");
 define("LAN_USET_42", "Nesúhlasí overovací kľúč");
 define("LAN_USET_43", "Chyba pri aktualizácii údajov užívateľa");
 define("LAN_7", "Zobrazované meno:");
