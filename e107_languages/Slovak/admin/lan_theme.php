@@ -11,7 +11,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("TPVLAN_1", "You are looking at a preview of the <b>'".PREVIEWTHEMENAME."'</b> theme. It has not been set as the main theme for your site, it has been activated to provide a preview of how the theme looks.<br />To set this theme as your site theme, <a href='".e_ADMIN."theme.php?choose'>return to your theme manager</a> and select 'Set As Site Theme'.<br />To preview more themes please <a href='".e_ADMIN."theme.php'>click here</a>");
+define("TPVLAN_1", "You are looking at a preview of the <b>'{PREVIEWTHEMENAME}'</b> theme. It has not been set as the main theme for your site, it has been activated to provide a preview of how the theme looks.<br />To set this theme as your site theme, <a href='".e_ADMIN."theme.php?choose'>return to your theme manager</a> and select 'Set As Site Theme'.<br />To preview more themes please <a href='".e_ADMIN."theme.php'>click here</a>");
 define("TPVLAN_2", "Náhľad témy");
 define("TPVLAN_3", "Téma stránky zmenená.");
 define("TPVLAN_5", "Webstránka");
