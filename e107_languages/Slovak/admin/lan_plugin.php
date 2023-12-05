@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/19 19:26:57 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -234,8 +234,6 @@ define("EPL_ADLAN_229", "Obnoviť");
 define("EPL_ADLAN_230", "Sťahujem a inštalujem:");
 define("EPL_ADLAN_231", "Odstrániť ikony zo Správcu médii");
 define("EPL_ADLAN_232", "Vytvoriť súbory");
-define("TPVLAN_81", "Sťahujem...");
-define("TPVLAN_82", "Stiahnutie dokončené!");
 define("EPL_ADLAN_233", "Pridanie odkazu:");
 define("EPL_ADLAN_234", "Vymazanie odkazu:");
 define("EPL_ADLAN_235", "NIe je možné automatické stiahnutie.");
@@ -268,3 +266,4 @@ define("LAN_PLUGIN_IS_USED", "[x] plugin používajú:");
 define("EPL_ADLAN_254", "Táto voľba skontroluje jazykové súbory pluginu na chyby a bežné či duplicitné LAN definície.");
 define("EPL_ADLAN_255", "Prepísať súbory");
 define("EPL_ADLAN_256", "Preskočiť [x] (už existuje)");
+define("EPL_ADLAN_257", "Len na čítanie");

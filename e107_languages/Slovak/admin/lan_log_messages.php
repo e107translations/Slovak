@@ -4,26 +4,26 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/14 14:24:52 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_AUDIT_LOG_001", "Access by banned user");
-define("LAN_AUDIT_LOG_002", "Flood protection activated");
-define("LAN_AUDIT_LOG_003", "Access from banned IP Address");
-define("LAN_AUDIT_LOG_006", "User changed password");
-define("LAN_AUDIT_LOG_007", "User changed email address");
-define("LAN_AUDIT_LOG_010", "User data changed by admin");
-define("LAN_AUDIT_LOG_011", "User signed up");
-define("LAN_AUDIT_LOG_012", "User confirmed registration");
+define("LAN_AUDIT_LOG_001", "Prístup užívateľa so zakázaným prístupom");
+define("LAN_AUDIT_LOG_002", "Aktivovaná ochrana proti zahlteniu");
+define("LAN_AUDIT_LOG_003", "Prístup zo zakázanej IP adresy");
+define("LAN_AUDIT_LOG_006", "Užívateľ si zmenil heslo");
+define("LAN_AUDIT_LOG_007", "Užívateľ si zmenil e-mailovú adresu");
+define("LAN_AUDIT_LOG_010", "Údaje užívateľa zmenené administrátorom");
+define("LAN_AUDIT_LOG_011", "Užívateľ sa zaregistroval");
+define("LAN_AUDIT_LOG_012", "Užívateľ potvrdil registráciu");
 define("LAN_AUDIT_LOG_013", "Užívateľ prihlásený");
 define("LAN_AUDIT_LOG_014", "Užívateľ odhlásený");
-define("LAN_AUDIT_LOG_015", "User changed display name");
-define("LAN_AUDIT_LOG_016", "User changed password");
-define("LAN_AUDIT_LOG_017", "User changed email address");
+define("LAN_AUDIT_LOG_015", "Užívateľ zmenil zobrazované meno");
+define("LAN_AUDIT_LOG_016", "Užívateľ si zmenil heslo");
+define("LAN_AUDIT_LOG_017", "Užívateľ si zmenil e-mailovú adresu");
 define("LAN_AUDIT_LOG_018", "User password reset");
 define("LAN_AUDIT_LOG_019", "User changed settings");
 define("LAN_AUDIT_LOG_020", "User added by admin");
@@ -130,6 +130,7 @@ define("LAN_AL_WELCOME_02", "Welcome message updated");
 define("LAN_AL_WELCOME_03", "Welcome message deleted");
 define("LAN_AL_WELCOME_04", "Welcome message options changed");
 define("LAN_AL_ADMINPW_01", "Admin password changed");
+define("LAN_AL_ADMINPW_02", "Admin password rehashed");
 define("LAN_AL_BANNER_00", "Unknown banner-related message");
 define("LAN_AL_BANNER_01", "Banner menu update");
 define("LAN_AL_BANNER_02", "Banner vytvorený");
@@ -147,20 +148,6 @@ define("LAN_AL_LANG_02", "Language tables deleted");
 define("LAN_AL_LANG_03", "Language tables created");
 define("LAN_AL_LANG_04", "Language zip created");
 define("LAN_AL_META_01", "Meta tags updated");
-define("LAN_AL_DOWNL_01", "Download options changed");
-define("LAN_AL_DOWNL_02", "Download category created");
-define("LAN_AL_DOWNL_03", "Download category updated");
-define("LAN_AL_DOWNL_04", "Download category deleted");
-define("LAN_AL_DOWNL_05", "Download created");
-define("LAN_AL_DOWNL_06", "Download updated");
-define("LAN_AL_DOWNL_07", "Download deleted");
-define("LAN_AL_DOWNL_08", "Download category order updated");
-define("LAN_AL_DOWNL_09", "Download limit added");
-define("LAN_AL_DOWNL_10", "Download limit edited");
-define("LAN_AL_DOWNL_11", "Download limit deleted");
-define("LAN_AL_DOWNL_12", "Download mirror added");
-define("LAN_AL_DOWNL_13", "Download mirror updated");
-define("LAN_AL_DOWNL_14", "Download mirror deleted");
 define("LAN_AL_CPAGE_01", "Custom page/menu added");
 define("LAN_AL_CPAGE_02", "Custom page/menu updated");
 define("LAN_AL_CPAGE_03", "Custom page/menu deleted");

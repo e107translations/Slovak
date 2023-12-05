@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2023/12/05 10:24:52 
+|        Last Modified: 2023/12/05 13:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.3.3 $
@@ -60,6 +60,6 @@ define("LAN_SOCIAL_ADMIN_47", "Broken Configured Providers");
 define("LAN_SOCIAL_ADMIN_48", "These social login providers were configured in the past but no longer have an adapter that can support them.[br]This may be due to them no longer existing or being replaced by a different provider.");
 define("LAN_SOCIAL_ADMIN_49", "Test Page");
 define("LAN_SOCIAL_ADMIN_50", "Enable or disable the social login test page");
-define("LAN_SOCIAL_ADMIN_08", "Note: In most cases you will need to obtain an id and secret key from one of the providers.\nClick the blue links to the right to configure.\n\nYou may test your configuration with the following URL:");
+define("LAN_SOCIAL_ADMIN_08", "Note: In most cases, you will need to obtain an application ID and secret key from social login providers.\nIf a provider's name is a link, that link should take you to the login application configuration documentation.\n\nYou may test your configuration with the following URL after enabling the [b]Test Page[/b] option:");
 define("LAN_SOCIAL_ADMIN_09", "Your callback URL is:");
 define("LAN_SOCIAL_ADMIN_51", "Social Login System");

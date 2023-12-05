@@ -236,6 +236,7 @@ define("LAN_FORUM_7006", "Výsledok");
 define("LAN_FORUM_7007", "Nájdené vo vlákne");
 define("LAN_FORUM_7008", "NENÁJDENÉ");
 define("LAN_FORUM_7009", "Nenájdené žiadne uploadované súbory");
+define("LAN_FORUM_7010", "Názov súboru");
 define("LAN_FORUM_8001", " [x] pridal nový príspevok v téme [y] v čase [z].");
 define("LAN_FORUM_8002", "Kliknite na nasledujúci link, ak chcete vidieť celý príspevok...");
 define("LAN_FORUM_8003", "Emailová notifikácia pre túto tému je zapnutá.");
