@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2022/14/01 17:24:52 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -389,7 +389,7 @@ define("LAN_SYSTEM_USER", "Systémový užívateľ");
 define("LAN_ENGINE", "Engine");
 define("LAN_SOURCE", "Zdroj");
 define("LAN_UPGRADING", "Upgrading?");
-define("LAN_DONT_SHOW_AGAIN", "Don't show again");
+define("LAN_DONT_SHOW_AGAIN", "Nezobrazovať znova");
 define("LAN_ERROR_CONNECTION", "Pri kontrole aktualizácii sa nepodarilo pripojiť. Skontrolujte firewall a/alebo internetové pripojenie.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] nemôže byť rovnaké ako [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Grid zobrazenie");
@@ -408,7 +408,7 @@ define("LAN_NO_RESULTS_FOUND", "Nenašli sa žiadne výsledky.");
 define("LAN_UI_DROPZONE_DROP_FILES", "Sem nahrajte súbory");
 define("LAN_DOWNLOAD_COMPLETE", "Stiahnutie dokončené!");
 define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Hľadať v poli");
-define("LAN_ROBOTS", "Robots");
+define("LAN_ROBOTS", "Roboti");
 define("LAN_ROBOTS_NOINDEX", "Zabraňuje vyhľadávačom indexovať túto položku");
 define("LAN_ROBOTS_NOFOLLOW", "Zabraňuje vyhľadávačom nasledovať túto položku");
 define("LAN_ROBOTS_NOARCHIVE", "Zabraňuje cacheovaným kópiam tejto položky zobrazovať sa vo vyhľadávačoch");
@@ -420,3 +420,15 @@ define("LAN_X_CHARS_REMAINING", "[x] zostávajúcich znakov");
 define("LAN_UI_BATCH_NOW", "Aktuálny dátum/čas");
 define("LAN_RELATIONSHIP", "Vzťah");
 define("LAN_RELATIONSHIP_HELP", "Nepovinný atribút 'rel'. Oddelený čiarkou.");
+define("LAN_NO_SCRIPT_ACCESS", "Nemáte oprávnenie používať tagy [script].");
+define("LAN_NO_SCRIPT_ACCESS_ASK", "Ak si myslíte, že je to chyba, kontaktujte administrátora, aby vám udelil prístup cez [b]Nastavenia > Filtre obsahu[/b]	");
+define("LAN_UI_FILTER_TODAY", "Dnes");
+define("LAN_UI_FILTER_THIS_WEEK", "Tento týždeň ");
+define("LAN_UI_FILTER_THIS_MONTH", "Tento mesiac");
+define("LAN_UI_FILTER_THIS_YEAR", "Tento rok");
+define("LAN_SEARCH_ENGINES_X_LIMIT", "Načítané vyhľadávačmi. Maximum [x] znakov.");
+define("LAN_META_TITLE", "Meta titulok");
+define("LAN_META_DESCRIPTION", "Meta popis");
+define("LAN_SYSTEM_NOTIFICATIONS_X", "Počet syst.notifikácii: [x]");
+define("LAN_PHP_OUTDATED", "Your website is currently running an [outdated version of PHP], which may pose a security risk. If your plugins will allow it, we recommend upgrading to [x] to ensure that your website is secure and up-to-date.");
+define("LAN_DATABASE_UPDATE", "Your website is currently running an [outdated version of PHP], which may pose a security risk. If your plugins will allow it, we recommend upgrading to [x] to ensure that your website is secure and up-to-date.");

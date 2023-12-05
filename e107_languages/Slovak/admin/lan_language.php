@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/04/09 11:21:15 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -33,7 +33,7 @@ define("LANG_LAN_20", "Pre povolenie vložte názov hlavnej domény, napr.: mydo
 define("LANG_LAN_21", "Jazykové nástroje");
 define("LANG_LAN_25", "Stav vytvorenia jazykového balíčka");
 define("LANG_LAN_26", "Nahrať jazykové súbory len pre aktuálny jazyk");
-define("LANG_LAN_27", "If checked, and a required language cannot be found, there will be an error");
+define("LANG_LAN_27", "Ak je zvolené, pri chýbajúcom jazyku sa zobrazí chyba");
 define("LANG_LAN_32", "Inštalované jazyky");
 define("LANG_LAN_33", "Počas overovania zobraziť len chyby");
 define("LANG_LAN_50", "Jazyk pre administráciu");

@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/11 19:26:57 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.6 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -88,7 +88,6 @@ define("USRLAN_128", "Užívateľské meno (prihlasovacie meno)");
 define("USRLAN_129", "Skutočné meno");
 define("USRLAN_130", "Povoliť online sledovanie užívateľov");
 define("USRLAN_131", "Pre online sledovanie činnosti užívateľov musíte povoliť toto nastavenie. Použité bude napr. v online.php, online vo fóre alebo v menu Kto je online");
-define("USRLAN_132", "Aktivovať");
 define("USRLAN_133", "Donútiť užívateľov vyplňovať profil");
 define("USRLAN_134", "Zapnite túto voľbu, ak chcete, aby boli užívatelia, ktorí nemajú vyplnené všetky polia vo svojom profile, po prihlásení presmerovaní automaticky na stránku svojho profilu.");
 define("USRLAN_135", "V informáciach o užívateľovi nenájdená IP adresa; IP nie je blokovaná.");
@@ -204,6 +203,7 @@ define("USRLAN_253", "Staršie než");
 define("USRLAN_254", "Zresetovať všetky heslá");
 define("USRLAN_255", "Informovať užívateľa");
 define("USRLAN_256", "Vážený");
+define("USRLAN_257", "Povoliť členom vymazať svoje konto?");
 define("UCSLAN_1", "Zaslať overovací email");
 define("UCSLAN_2", "Aktualizovať privilégia");
 define("UCSLAN_4", "Vaše privilégia boli aktualizované na");
