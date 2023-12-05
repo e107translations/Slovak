@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/10/12 11:27:56 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -128,8 +128,8 @@ define("LAN_NEWS_98", "Ping Services");
 define("LAN_NEWS_99", "Only accept images larger than");
 define("LAN_NEWS_100", "Any Size");
 define("LAN_NEWS_101", "Submit News");
-define("LAN_NEWS_102", "Open in new tab");
-define("LAN_NEWS_103", "Email notification");
+define("LAN_NEWS_102", "Otvoriť na novej karte");
+define("LAN_NEWS_103", "Upozornenie e-mailom");
 define("LAN_NEWS_104", "Trigger an email notification when you submit this form.");
 define("LAN_NEWS_105", "Email notification triggered!");
 define("LAN_NEWS_106", "News item visibility must include 'everyone' for email notifications to work.");
@@ -138,3 +138,4 @@ define("LAN_NEWS_108", "The SEF URL is unlike the title of your news item.");
 define("LAN_NEWS_109", "Trigger an email notification when you submit this form.");
 define("LAN_NEWS_110", "News Cache Timeout");
 define("LAN_NEWS_111", "Time in minutes. Applies only when system cache is enabled.");
+define("LAN_NEWS_112", "Vyberte formát adresy URL. Buď počet záznamov (napr. strana=20, strana=40, strana=60 atď.), alebo číslo strany (napr. strana=1, strana=2, strana=3 atď.). Warning: If modified some news URLs will need to be re-indexed by search engines.");

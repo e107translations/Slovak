@@ -4,8 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:34:29
-|
+|        Last Modified: 2023/12/05 10:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -32,12 +34,10 @@ define("NN_LAN_3", "Novinka uložená administrátorom");
 define("NN_LAN_4", "Novinka editovaná administrátorom");
 define("NN_LAN_5", "Novinka zmazaná administrátorom");
 define("NN_LAN_6", "Vyvolaná notifikácia o novinke");
-define("NM_LAN_1", "Mail Events");
+define("NM_LAN_1", "Udalosti zasielané e-mailom");
 define("NM_LAN_2", "Hromadné odosielanie emailov dobehlo");
 define("NM_LAN_3", "Emailová adresa =>");
 define("NF_LAN_1", "Udalosti súboru");
 define("NF_LAN_2", "Súbor uploadovaný užívateľom");
 define("LAN_NOTIFY_01", "Udalosti");
-
-
-?>
+define("NU_LAN_10", "Zmenená IP užívateľa");

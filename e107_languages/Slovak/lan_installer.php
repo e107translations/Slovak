@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/10/12 10:27:56 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -37,10 +37,10 @@ define("LANINS_026", "MySQL heslo:");
 define("LANINS_027", "MySQL databáza:");
 define("LANINS_028", "Vytvoriť databázu?");
 define("LANINS_029", "Prefix tabuliek:");
-define("LANINS_030", "MySQL server, na ktorom chcete použiť e107 Môže tiež zahŕňať číslo portu, napr. 'hostname:port' alebo cestu k lokálnemu socketu napr. \":/path/to/socket\" pre localhost.");
+define("LANINS_030", "MySQL server, na ktorom chcete použiť e107. Môže tiež zahŕňať číslo portu, napr. 'hostname:port' alebo cestu k lokálnemu socketu napr. \":/path/to/socket\" pre localhost.");
 define("LANINS_031", "Užívateľské meno, ktoré má e107 použiť na pripojenie sa k MySQL serveru");
 define("LANINS_032", "Heslo pre užívateľa, ktorého ste práve zadali. Nesmie obsahovať jednoduché ani dvojité uvodzovky.");
-define("LANINS_033", "MySQL databáza, ktorú chcete použiť pre e107, občas označovaná ako schéma. Musí začínať písmenom. Ak má užívateľ práva na vytvorenie, môže zvoliť automatické vytvorenie databázy, ak už databáza neexistuje.");
+define("LANINS_033", "MySQL databáza, ktorú chcete použiť pre e107. Musí začínať písmenom. Ak má užívateľ práva na vytvorenie, môže zvoliť automatické vytvorenie databázy, ak ešte databáza neexistuje.");
 define("LANINS_034", "Predpona, ktorú e107 použije pri vytváraní e107 tabuliek. Vhodné pri viacnásobných inštaláciách e107 v jednej databáze.");
 define("LANINS_036", "3");
 define("LANINS_037", "Overenie spojenia s MySQL");
@@ -61,7 +61,7 @@ define("LANINS_051", "Nainštalované");
 define("LANINS_052", "Nenainštalované");
 define("LANINS_055", "Potvrdenie inštalácie");
 define("LANINS_056", "6");
-define("LANINS_057", "e107 má teraz všetky informácie, ktoré potrebuje, aby dokončila inštaláciu. Kliknite prosím na tlačidlo, aby ste vytvorili databázové tabuľky a uložili svoje nastavenia.");
+define("LANINS_057", "e107 má teraz všetky informácie, ktoré potrebuje, aby dokončila inštaláciu. Kliknite prosím na Pokračovať, aby ste vytvorili databázové tabuľky a uložili svoje nastavenia.");
 define("LANINS_058", "7");
 define("LANINS_060", "Nie je možné prečítať súbor sql. Uistite sa prosím, že súbor [b]core_sql.php[/b] v adresári  [b]/e107_core/sql[/b] existuje.");
 define("LANINS_061", "e107 nedokázala vytvoriť všetky požadované databázové tabuľky. Vyčistite databázu a opravte všetky problémy, než to skúsite znova.");

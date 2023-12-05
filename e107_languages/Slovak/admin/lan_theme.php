@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -64,7 +64,7 @@ define("TPVLAN_55", "predvolený");
 define("TPVLAN_56", "Filter viditeľnosti");
 define("TPVLAN_57", "Kompatibilita");
 define("TPVLAN_58", "Táto téma obsahuje pripravený vzorový obsah (napríklad stránky a menu), ktorý môžete použiť na svojich webových stránkach.");
-define("TPVLAN_59", "Upozorňujeme, že vzorový obsah [b]prepíše[/b] váš aktuálny obsah v rozsahu: ");
+define("TPVLAN_59", "Upozorňujeme, že vzorový obsah [b]prepíše[/b] váš aktuálny obsah v rozsahu:");
 define("TPVLAN_60", "Počet prepísaných záznamov: [x] v tabuľke [y]");
 define("TPVLAN_61", "Chcete [b]prepísať[/b] svoj aktuálny obsah vzorovým obsahom poskytnutým témou?");
 define("TPVLAN_62", "Nájsť témy");
@@ -119,3 +119,5 @@ define("TPVLANHELP_02", "ook at the tooltips (when available) for more details."
 define("TPVLANHELP_03", "By default, the visibility filter will change the theme's layout based on a partial URL match.");
 define("TPVLANHELP_04", "End lines with a [b]![/b] to exactly match against the end of URL.");
 define("TPVLANHELP_05", "End lines with a [b]$[/b] to exactly match against the end of script path.");
+define("TPVLANHELP_06", "Začnite riadky s [b]:[/b], aby ste čiastočne alebo úplne priradili e107::route()");
+define("TPVLAN_97", "Táto téma vyžaduje novšiu verziu e107.");

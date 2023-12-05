@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2023/12/05 10:24:52 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -110,11 +110,11 @@ define("FORLAN_184", "Povolenie tvorby vlákna");
 define("FORLAN_185", "Označuje, kto môže vytvárať vlákna");
 define("FORLAN_186", "Vlákna na stránku");
 define("FORLAN_187", "Počet vlákien zobrazených na stránku");
-define("FORLAN_189", "Click the 'delete' button to delete the report.<br /><br />Click the 'view' button to view the topic/thread");
+define("FORLAN_189", "Kliknutím na tlačidlo 'Vymazať' správu vymažete.[br][br]Kliknutím na tlačidlo 'Zobraziť' tému/vlákno zobrazíte.[br][br]Ak chcete byť upozornení na všetky nové správy, pozrite si [nastavenia upozorňovania].");
 define("FORLAN_200", "Topic tracking");
-define("FORLAN_201", "Enable this to allow your users to track topics.");
-define("FORLAN_202", "Topic tracking email notifications");
-define("FORLAN_203", "Enable this option to allow your users to receive email notifications when others reply to a tracked topic.");
+define("FORLAN_201", "Povoľte túto možnosť, aby vaši užívatelia mohli sledovať témy.");
+define("FORLAN_202", "E-mailové upozornenia na sledovanie témy");
+define("FORLAN_203", "Povolením tejto možnosti umožníte užívateľom dostávať e-mailové upozornenia, keď ostatní odpovedia na sledovanú tému.");
 define("FORLAN_204", "Anon.užívateľ");
 define("FORLAN_205", "Práva na odoslanie");
 define("FORLAN_206", "Trieda na vytvorenie vlákna");
@@ -126,11 +126,12 @@ define("FORLAN_211", "Odoslané");
 define("FORLAN_212", "Prílohy");
 define("FORLAN_213", "Post");
 define("FORLAN_214", "Leave blank to auto-generate it from the title above.");
-define("FORLAN_215", "Not installed!");
-define("FORLAN_216", "(New Parent)");
+define("FORLAN_215", "Nie je nainštalované!");
+define("FORLAN_216", "(Nový rodič)");
 define("FORLAN_217", "System default");
 define("FORLAN_218", "Textarea");
 define("FORLAN_219", "Rich Text Editor");
 define("FORLAN_220", "Post editor");
 define("FORLAN_221", "Which editor should be used to create/edit posts?");
 define("FORLAN_222", "Quick reply editor");
+define("FORLAN_223", "Použite iba obyčajný text (žiadny bbcode alebo html!)");

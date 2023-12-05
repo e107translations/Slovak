@@ -4,12 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2023/12/05 11:35:34
-|
+|        Last Modified: 2023/12/05 10:24:52 
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.3.3 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
 define("LAN_HERO_ADMIN_001", "Defaultné slajdy boli importované.");
 define("LAN_HERO_ADMIN_002", "Nepodarilo sa naimportovať defaultné slajdy.");
 define("LAN_HERO_ADMIN_003", "Pozadie");
