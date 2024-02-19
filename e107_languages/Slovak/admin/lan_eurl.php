@@ -4,10 +4,10 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/10/12 11:27:56 
+|        Last Modified: 2024/02/15 11:19:26 
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.3.4 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
@@ -76,10 +76,14 @@ define("LAN_EURL_PAGE_SEF_LABEL", "Friendly URLs with ID (performance)");
 define("LAN_EURL_PAGE_SEF_DESCR", "Search engine and user friendly URLs.");
 define("LAN_EURL_PAGE_SEFNOID_LABEL", "Friendly URLs without ID (no performance, more friendly)");
 define("LAN_EURL_PAGE_SEFNOID_DESCR", "Search engine and user friendly URLs.");
+
+// Search
 define("LAN_EURL_CORE_SEARCH", "Hľadať");
 define("LAN_EURL_SEARCH_DEFAULT_LABEL", "Default Search URL");
 define("LAN_EURL_SEARCH_DEFAULT_DESCR", "Legacy direct URL.");
 define("LAN_EURL_SEARCH_REWRITE_LABEL", "Friendly URL");
+define("LAN_EURL_SEARCH_REWRITE_DESCR", "");
+
 define("LAN_EURL_CORE_SYSTEM", "System");
 define("LAN_EURL_SYSTEM_DEFAULT_LABEL", "Default System URLs");
 define("LAN_EURL_SYSTEM_DEFAULT_DESCR", "URLs for pages like Not Found, Access denied, etc.");
