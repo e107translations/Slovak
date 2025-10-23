@@ -114,7 +114,7 @@ define("LAN_LOCATION", "Lokalita");
 define("LAN_NO_RECORDS_FOUND", "Záznamy nenájdené");
 define("LAN_RATING", "Hodnotenie");
 define("LAN_IMAGE", "Obrázok");
-define("LAN_ABOUT", "O");
+define("LAN_ABOUT", "Info");
 define("LAN_TITLE", "Nadpis");
 define("LAN_MESSAGE", "Správa");
 define("LAN_USER", "Užívateľ");

@@ -23,6 +23,9 @@ define("DBVLAN_13", "Chýbajúca tabuľka!");
 define("DBVLAN_14", "Zvoľte tabuľku(y) pre skontrolovanie");
 define("DBVLAN_15", "Spustiť kontrolu");
 define("DBVLAN_16", "SQL Kontrola");
+define("DBVLAN_17", "Storage engine should be [x] but is [y]");
+define("DBVLAN_18", "Character set should be [x] but is [y]");
+
 define("DBVLAN_19", "Pokus o opravu");
 define("DBVLAN_21", "Opraviť označené");
 define("DBVLAN_22", "[x] sa nedá načítať");
@@ -30,6 +33,7 @@ define("DBVLAN_23", "Nástroje databázy");
 define("DBVLAN_24", "Zvoľte akciu.");
 define("DBVLAN_25", "Index chýba!");
 define("DBVLAN_26", "[x] tabuľka(liek) má problém.");
-
+define("DBVLAN_27", "Table inconsistency");
+define("DBVLAN_28", "Not applicable");
 
 ?>
