@@ -33,8 +33,8 @@ return [
     'LAN_AL_DOWNL_09' => "Stiahnutia - log 09",
     'LAN_AL_DOWNL_10' => "Stiahnutia - aktualizovaný limit ",
     'LAN_AL_DOWNL_11' => "Stiahnutia - zrušený limit ",
-    'LAN_AL_DOWNL_12' => "Download mirror added",
-    'LAN_AL_DOWNL_13' => "Download mirror updated",
-    'LAN_AL_DOWNL_14' => "Download mirror deleted",
+    'LAN_AL_DOWNL_12' => "Zrkadlový server pridaný",
+    'LAN_AL_DOWNL_13' => "Zrkadlový server aktualizovaný",
+    'LAN_AL_DOWNL_14' => "Zrkadlový server zmazaný",
     'LAN_AL_DOWNL_15' => "",
 ];

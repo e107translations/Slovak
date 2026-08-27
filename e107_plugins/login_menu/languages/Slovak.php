@@ -36,7 +36,7 @@ return [
     'LAN_LOGINMENU_23' => "nových členov",
     'LAN_LOGINMENU_24' => "Kliknite sem pre zoznam nových udalostí",
     'LAN_LOGINMENU_25' => "Od vašej poslednej návštevy pribudlo",
-    'LAN_LOGINMENU_26' => "no",
+    'LAN_LOGINMENU_26' => "žiadnych",
     'LAN_LOGINMENU_27' => "a",
     'LAN_LOGINMENU_31' => "Ukázať nové novinky",
     'LAN_LOGINMENU_34' => "Ukázať nové komentáre",

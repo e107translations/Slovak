@@ -22,7 +22,7 @@
 
 
 return [
-    'PAGE_NAME' => "List New Items",
+    'PAGE_NAME' => "Prehľad aktualít",
     'LIST_PLUGIN_3' => "Konfigurácia hlavného menu",
     'LIST_PLUGIN_4' => "Doplnok Prehľad aktualít je pripravený k použitiu",
     'LIST_PLUGIN_6' => "Tento doplnok nie je nainštalovaný",

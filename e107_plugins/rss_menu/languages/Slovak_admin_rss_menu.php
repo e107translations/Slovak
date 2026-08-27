@@ -66,7 +66,7 @@ return [
     'RSS_LAN_ADMIN_27' => "všetko odznačiť",
     'RSS_LAN_ADMIN_31' => "Limit pre RSS položky aktualizovaný",
     'RSS_LAN_ADMIN_33' => "Zobraziť obrázok v kanále Novinky",
-    'RSS_LAN_ADMIN_34' => "Enable separate feeds for each news category?",
+    'RSS_LAN_ADMIN_34' => "Povoliť samostatné kanály pre každú kategóriu noviniek?",
     'RSS_LAN_0' => "RSS",
     'RSS_LAN_2' => "@nospam.com",
     'RSS_LAN_3' => "noauthor@nospam.com",

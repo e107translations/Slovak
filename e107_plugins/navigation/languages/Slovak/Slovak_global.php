@@ -13,5 +13,5 @@
 */
 
 return [
-    'LAN_PLUGIN_NAVIGATION_NAME' => "Navigation",
+    'LAN_PLUGIN_NAVIGATION_NAME' => "Navigácia",
 ];

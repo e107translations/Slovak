@@ -18,5 +18,5 @@ return [
     'LAN_PLUGIN_FAQS_FUNCTIONNAME' => "FAQ kategórie",
     'LAN_PLUGIN_FAQS_FRONT_NAME' => "FAQ (Najčastejšie kladené otázky)",
     'LAN_PLUGIN_FAQS_SEARCH' => "Vyhľadávať vo FAQ",
-    'LAN_FAQS_ASK_A_QUESTION' => "Ask a Question",
+    'LAN_FAQS_ASK_A_QUESTION' => "Položiť otázku",
 ];

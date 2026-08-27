@@ -43,6 +43,6 @@ return [
     'POLLAN_42' => "Táto anketa je určená len pre adminov",
     'POLLAN_43' => "Nemáte oprávnenie hlasovať v tejto ankete",
     'POLLAN_50' => "Aktívna od [x] do [y]",
-    'POLLAN_POST_POLL' => "Post Poll",
+    'POLLAN_POST_POLL' => "Odoslať anketu",
     'LAN_FORUM_3029' => "Ak si neželáte pridať k svojej téme anketu, nechajte tieto polia prázdne.",
 ];

@@ -49,5 +49,5 @@ return [
     'LAN_dl_77' => "Počet stiahnutí",
     'LAN_dl_78' => "Toto stiahnutie bolo zablokované alebo prerušené. Skontrolujte prosím [downloads area]  pre novšie verzie.",
     'LAN_dl_79' => "Nemáte správne oprávnenia na nahlásenie tejto položky na stiahnutie ako nefunkčnej.",
-	'LAN_dl_80' => "Back to [x]",
+	'LAN_dl_80' => "Späť na [x]",
 ];

@@ -189,7 +189,7 @@ return [
     'LAN_FORUM_2044' => "Email", // FORLAN_101",
     'LAN_FORUM_2045' => "Vytlačiť", // FORLAN_102",
     'LAN_FORUM_2046' => "Sťažnosť", // LAN_413",
-    'LAN_FORUM_2047' => "You have reported something very recently. Please wait a moment before sending another report.", // new",
+    'LAN_FORUM_2047' => "Nahlásenie ste odoslali len pred chvíľou. Pred odoslaním ďalšieho chvíľu počkajte.", // new",
 
 
 

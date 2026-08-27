@@ -22,7 +22,7 @@
 
 
 return [
-    'PAGE_NAME' => "List New Items",
+    'PAGE_NAME' => "Prehľad aktualít",
     'LIST_MENU_1' => "Aktuality na webe",
     'LIST_MENU_2' => "autor:",
     'LIST_MENU_3' => "zapnuté",
