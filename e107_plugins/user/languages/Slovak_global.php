@@ -4,14 +4,15 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/29 19:28:40
-|
-|        $Author: admin $
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
+|        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 
-define("LAN_PLUGIN_USER_NAME", "Užívateľ");
-define("LAN_PLUGIN_USER_DESC", "Téma užívateľa a jazyk menu");
-
-
-?>
+return [
+    'LAN_PLUGIN_USER_NAME' => "Užívateľ",
+    'LAN_PLUGIN_USER_DESC' => "Téma užívateľa a jazyk menu",
+];

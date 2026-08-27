@@ -4,25 +4,27 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/31 07:16:56
-|
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("TOP_LAN_0", "Top prispievatelia fóra");
-define("TOP_LAN_1", "Uživatelské méno");
-define("TOP_LAN_2", "príspevkov");
-define("TOP_LAN_3", "Top prispievatelia komentárov");
-define("TOP_LAN_5", "Top prispievatelia chatboxu");
-define("TOP_LAN_6", "Hodnotenie webu");
-define("LAN_1", "Vlákno");
-define("LAN_2", "Prispievateľ");
-define("LAN_3", "Zobrazení");
-define("LAN_4", "Odpovede");
-define("LAN_5", "Posledná odpoveď");
-define("LAN_6", "Vlákna");
-define("LAN_7", "Najviac aktívne vlákna");
-define("LAN_8", "Top prispievatelia");
 
-
-?>
+return [
+    'TOP_LAN_0' => "Top prispievatelia fóra",
+    'TOP_LAN_1' => "Uživatelské méno",
+    'TOP_LAN_2' => "príspevkov",
+    'TOP_LAN_3' => "Top prispievatelia komentárov",
+    'TOP_LAN_5' => "Top prispievatelia chatboxu",
+    'TOP_LAN_6' => "Hodnotenie webu",
+    'LAN_1' => "Vlákno",
+    'LAN_2' => "Prispievateľ",
+    'LAN_3' => "Zobrazení",
+    'LAN_4' => "Odpovede",
+    'LAN_5' => "Posledná odpoveď",
+    'LAN_6' => "Vlákna",
+    'LAN_7' => "Najviac aktívne vlákna",
+    'LAN_8' => "Top prispievatelia",
+];

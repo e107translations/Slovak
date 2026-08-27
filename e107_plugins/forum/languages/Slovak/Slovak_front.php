@@ -4,273 +4,669 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_FORUM_0002", "Témy");
-define("LAN_FORUM_0003", "Odpovedí");
-define("LAN_FORUM_0004", "Posledný príspevok");
-define("LAN_FORUM_0005", "Toto fórum je prístupné len pre administrátorov");
-define("LAN_FORUM_0006", "Toto fórum je prístupné len pre členov");
-define("LAN_FORUM_0007", "Toto fórum je prístupné len na čítanie");
-define("LAN_FORUM_0008", "Toto fórum je obmedzené užívat.triedou");
-define("LAN_FORUM_0009", "Informácie");
-define("LAN_FORUM_0010", "Top prispievatelia");
-define("LAN_FORUM_0011", "Najaktívnejšie témy");
-define("LAN_FORUM_0012", "Moje príspevky");
-define("LAN_FORUM_0013", "Moje nastavenia");
-define("LAN_FORUM_0014", "Môj profil");
-define("LAN_FORUM_0015", "Moje uploady");
-define("LAN_FORUM_0016", "Pravidlá fóra");
-define("LAN_FORUM_0017", "Štatistiky fóra");
-define("LAN_FORUM_0018", "Vitajte");
-define("LAN_FORUM_0019", "Nie sú žiadne nové príspevky");
-define("LAN_FORUM_0020", "Jeden nový príspevok");
-define("LAN_FORUM_0021", "Je tu");
-define("LAN_FORUM_0022", "nových príspevkov");
-define("LAN_FORUM_0023", "od vašej poslednej návštevy.");
-define("LAN_FORUM_0024", "Vaša posledná návšteva bola v");
-define("LAN_FORUM_0025", "Dnes je");
-define("LAN_FORUM_0027", "Prečítali ste");
-define("LAN_FORUM_0028", "z týchto príspevkov.");
-define("LAN_FORUM_0029", "Všetky nové príspevky máte prečítané.");
-define("LAN_FORUM_0030", "Zoznam sledovaných tém");
-define("LAN_FORUM_0031", "Používatelia tohto fóra odoslali celkovo [x] príspevkov.");
-define("LAN_FORUM_0032", "téma");
-define("LAN_FORUM_0033", "tém");
-define("LAN_FORUM_0034", "odpoveď");
-define("LAN_FORUM_0035", "odpovedí");
-define("LAN_FORUM_0036", "Kto je online");
-define("LAN_FORUM_0037", "Zobraziť detailný zoznam");
-define("LAN_FORUM_0038", "(Otvorí sa v novom okne)");
-define("LAN_FORUM_0039", "nových príspevkov");
-define("LAN_FORUM_0040", "Žiadne nové príspevky");
-define("LAN_FORUM_0041", "Zamknuté fórum");
-define("LAN_FORUM_0043", "<b>Môžete</b> začať novú tému v tomto fóre");
-define("LAN_FORUM_0044", "<b>Nemôžete</b> začať novú tému v tomto fóre");
-define("LAN_FORUM_0045", "<b>Môžete</b> odpovedať na správu v tomto fóre");
-define("LAN_FORUM_0046", "<b>Nemôžete</b> odpovedať na správu v tomto fóre");
-define("LAN_FORUM_0047", "<b>Môžete</b> upravovať svoje príspevky v tomto fóre");
-define("LAN_FORUM_0048", "<b>Nemôžete</b> upravovať svoje príspevky v tomto fóre");
-define("LAN_FORUM_0049", "Vitajte hosť");
-define("LAN_FORUM_0050", "Na tieto fóra môžu prispievať aj neregistrovaní návštevníci, ale vaša IP adresa bude zaznamenaná, ak napíšete príspevok.<br />Pre prístup ku všetkým funkciám fóra sa prosím");
-define("LAN_FORUM_0051", "zaregistrujte");
-define("LAN_FORUM_0052", "a prihláste.");
-define("LAN_FORUM_0053", "Na tieto fóra môžu prispievať len registrovaní užívatelia, prosím kliknite");
-define("LAN_FORUM_0054", "tu");
-define("LAN_FORUM_0055", "pre prechod na stránku registrácie.");
-define("LAN_FORUM_0056", "Len na čítanie");
-define("LAN_FORUM_0057", "Označiť všetky príspevky ako prečítané");
-define("LAN_FORUM_0058", "Zobraziť nové príspevky");
-define("LAN_FORUM_0059", "užívateľ v tomto momente prehliada fórum");
-define("LAN_FORUM_0060", "užívateľov v tomto momente prehliada fórum");
-define("LAN_FORUM_0061", "Člen");
-define("LAN_FORUM_0062", "členov");
-define("LAN_FORUM_0063", "Hosť");
-define("LAN_FORUM_0064", "hostí");
-define("LAN_FORUM_0065", "Najnovší člen:");
-define("LAN_FORUM_0066", "Registrovaní členovia:");
-define("LAN_FORUM_0067", "Žiadne fóra, skúste prosím neskôr.");
-define("LAN_FORUM_0068", "Žiadne fóra v tejto sekcií, skúste prosím neskôr.");
-define("LAN_FORUM_0069", "Podfóra:");
-define("LAN_FORUM_0070", "Zrušiť sledovanie témy");
-define("LAN_FORUM_0072", "Žiadne pravidla nedefinované.");
-define("LAN_FORUM_0073", "Sledované témy");
-define("LAN_FORUM_0074", "Zaslané od");
-define("LAN_FORUM_0075", "Nové témy");
-define("LAN_FORUM_1001", "Fóra");
-define("LAN_FORUM_1002", "Podfórum");
-define("LAN_FORUM_1003", "Téma");
-define("LAN_FORUM_1004", "Zakladateľ");
-define("LAN_FORUM_1005", "Zobrazení");
-define("LAN_FORUM_1006", "Dôležité témy");
-define("LAN_FORUM_1007", "Témy");
-define("LAN_FORUM_1008", "V tomto fóre nie sú žiadne témy");
-define("LAN_FORUM_1009", "Toto fórum moderuje");
-define("LAN_FORUM_1010", "[populárne]");
-define("LAN_FORUM_1011", "Dôležité");
-define("LAN_FORUM_1012", "Dôležité/Zamknuté");
-define("LAN_FORUM_1013", "Oznam");
-define("LAN_FORUM_1014", "Zatvorené témy");
-define("LAN_FORUM_1015", "[užívateľ zmazaný]");
-define("LAN_FORUM_1016", "anketa");
-define("LAN_FORUM_1017", "Ísť na");
-define("LAN_FORUM_1018", "Nová téma");
-define("LAN_FORUM_1020", "Upraviť");
-define("LAN_FORUM_1021", "Bez odpovedí");
-define("LAN_FORUM_2001", "Predchádzajúca téma");
-define("LAN_FORUM_2002", "Nasledujúca téma");
-define("LAN_FORUM_2003", "Moderátor(i)");
-define("LAN_FORUM_2004", "Táto téma je aktuálne zatvorená");
-define("LAN_FORUM_2005", "Vytvoriť novú tému");
-define("LAN_FORUM_2006", "Odoslať odpoveď");
-define("LAN_FORUM_2007", "Odoslať rýchlu odpoveď");
-define("LAN_FORUM_2008", "SKRYTÉ - PRIHLÁSIŤ SA A ODPOVEDAŤ PRE ODKRYTIE");
-define("LAN_FORUM_2009", "Ste si istý, že chce vymazať túto tému a všetky jej odpovede");
-define("LAN_FORUM_2010", "Ste si istý, že chcete zmazať túto odpoveď?");
-define("LAN_FORUM_2012", "Žiadna predchádzajúca téma");
-define("LAN_FORUM_2013", "Žiadna nasledujúca téma");
-define("LAN_FORUM_2015", "Odoslať");
-define("LAN_FORUM_2016", "Editovať");
-define("LAN_FORUM_2017", "autor:");
-define("LAN_FORUM_2018", "Tento príspevok bol nahlásený zo stránky");
-define("LAN_FORUM_2019", "Správa od");
-define("LAN_FORUM_2020", "Sťažnosť na tému fóra od");
-define("LAN_FORUM_2021", "Príspevok bol nahlásený");
-define("LAN_FORUM_2022", "Kliknite sem pre návrat do fóra");
-define("LAN_FORUM_2023", "Nahlásiť túto tému moderátorovi");
-define("LAN_FORUM_2024", "Nahlásiť príspevok v téme");
-define("LAN_FORUM_2025", "Názov témy");
-define("LAN_FORUM_2026", "Zobraziť príspevok");
-define("LAN_FORUM_2027", "Moderátor(i) budú upozornení na túto tému. Môžete odoslať správu vysvetľujúcu čo považujete za nevhodné.");
-define("LAN_FORUM_2028", "[Nepoužívajte] tento formulár na kontaktovanie administrátora z iného dôvodu");
-define("LAN_FORUM_2029", "Odoslať report");
-define("LAN_FORUM_2030", "Späť navrch");
-define("LAN_FORUM_2031", "Členom od");
-define("LAN_FORUM_2032", "príspevkov");
-define("LAN_FORUM_2033", "Počet návštev od registrácie");
-define("LAN_FORUM_2034", "Webstránka");
-define("LAN_FORUM_2035", "Registrovaný člen");
-define("LAN_FORUM_2036", "Pošlite súkromnú správu");
-define("LAN_FORUM_2037", "Príspevok vymazaný dňa");
-define("LAN_FORUM_2038", "Dôvod");
-define("LAN_FORUM_2041", "Citovať");
-define("LAN_FORUM_2042", "Presunúť");
-define("LAN_FORUM_2043", "Rozdeliť");
-define("LAN_FORUM_2044", "Email");
-define("LAN_FORUM_2045", "Vytlačiť");
-define("LAN_FORUM_2046", "Sťažnosť");
-define("LAN_FORUM_3001", "Nie ste autorizovaný pre prispievanie do tohto fóra.");
-define("LAN_FORUM_3002", "Táto téma je uzavretá.");
-define("LAN_FORUM_3003", "Odpoveď na");
-define("LAN_FORUM_3005", "Zobraziť");
-define("LAN_FORUM_3006", "Duplicitný príspevok");
-define("LAN_FORUM_3007", "Prázdne povinné polia");
-define("LAN_FORUM_3008", "Neautorizovaný");
-define("LAN_FORUM_3009", "Nie ste autorizovaný pre editovanie tohto príspevku.");
-define("LAN_FORUM_3010", "Vaše meno");
-define("LAN_FORUM_3011", "Predmet");
-define("LAN_FORUM_3012", "Pripojiť súbor / obrázok");
-define("LAN_FORUM_3013", "Pripojiť súbor");
-define("LAN_FORUM_3014", "Súbor do prílohy");
-define("LAN_FORUM_3015", "[Všimnite si prosím]");
-define("LAN_FORUM_3016", "Povolené typy súborov");
-define("LAN_FORUM_3017", "Všetky iné typy súborov budú okamžite zmazané.");
-define("LAN_FORUM_3018", "Maximálna veľkosť súboru");
-define("LAN_FORUM_3019", "bytov");
-define("LAN_FORUM_3020", "Pridať ďaľšiu prílohu");
-define("LAN_FORUM_3021", "Nahrávanie nepovolené: [x] adresár nie je zapisovateľný");
-define("LAN_FORUM_3022", "Posledných [y] odpovedí");
-define("LAN_FORUM_3023", "Aktualizovať tému");
-define("LAN_FORUM_3024", "Aktualizovať odpoveď");
-define("LAN_FORUM_3025", "Typ");
-define("LAN_FORUM_3026", "Odoslať tému ako");
-define("LAN_FORUM_3028", "Pridať anketu");
-define("LAN_FORUM_3038", "Normálne");
-define("LAN_FORUM_3039", "Nepovoliť v tomto príspevku emotikony");
-define("LAN_FORUM_3040", "Povoliť sledovanie emailom (odošle sa email, keď sa pridá odpoveď)");
-define("LAN_FORUM_3041", "Povoliť sledovanie tejto témy");
-define("LAN_FORUM_3042", "Nová téma/Predmet");
-define("LAN_FORUM_3043", "Ďakujeme Vám");
-define("LAN_FORUM_3045", "Vaša anketa bola úspešne odoslaná do fóra.");
-define("LAN_FORUM_3046", "Kliknite sem pre zobrazenie vašej ankety");
-define("LAN_FORUM_3047", "Vaša správa bola úspešne zaslaná.");
-define("LAN_FORUM_3048", "Kliknite sme pre zobrazenie vášho príspevku");
-define("LAN_FORUM_3049", "Vaša odpoveď bola úspešne odoslaná do fóra.");
-define("LAN_FORUM_3050", "Miesto rozdelenia");
-define("LAN_FORUM_3051", "Nové umiestnenie");
-define("LAN_FORUM_3052", "Rozdeliť vlákno");
-define("LAN_FORUM_4001", "Existuje neprečítaný príspevok");
-define("LAN_FORUM_4002", "Žiadne neprečítané príspevky");
-define("LAN_FORUM_4003", "Nové príspevky v obľúbených témach");
-define("LAN_FORUM_4004", "V obľúbených témach nie sú nové príspevky");
-define("LAN_FORUM_4007", "Profil");
-define("LAN_FORUM_4008", "Súkromná správa");
-define("LAN_FORUM_4009", "Sledovať tému");
-define("LAN_FORUM_4010", "Zrušiť sledovanie témy");
-define("LAN_FORUM_4011", "Zdôrazniť vlákno");
-define("LAN_FORUM_4012", "Zrušiť zdôraznenie vlákna");
-define("LAN_FORUM_4013", "Uzamknúť vlákno");
-define("LAN_FORUM_4014", "Odomknúť vlákno");
-define("LAN_FORUM_CLOSE", "Vlákno zamknuté.");
-define("LAN_FORUM_OPEN", "Vlákno odomknuté.");
-define("LAN_FORUM_STICK", "Vlákno označené ako dôležité.");
-define("LAN_FORUM_UNSTICK", "Vlákno odlepené.");
-define("LAN_FORUM_5001", "Anketa zmazaná.");
-define("LAN_FORUM_5005", "Vlákno presunuté.");
-define("LAN_FORUM_5006", "Presunutie zrušené.");
-define("LAN_FORUM_5007", "Späť do fór");
-define("LAN_FORUM_5008", "Konfigurácia fór");
-define("LAN_FORUM_5009", "Ste si absolútne istý, že chcete vymazať túto anketu?<br />Po vymazaní<b> ju už <u>nemôžete</u></b> obnoviť.");
-define("LAN_FORUM_5010", "Potvrdenie zmazania príspevku fóra");
-define("LAN_FORUM_5019", "Presunúť vlákno");
-define("LAN_FORUM_5021", "presunuté");
-define("LAN_FORUM_5022", "Nepremenujte názov vlákna");
-define("LAN_FORUM_5024", "Pridať  [x]  predponu k predmetu/názvu");
-define("LAN_FORUM_5025", "Premenovať na:");
-define("LAN_FORUM_5026", "Možnosti premenovania vlákno:");
-define("LAN_FORUM_6000", "Hlavné štatistiky");
-define("LAN_FORUM_6001", "Otvorenie fóra");
-define("LAN_FORUM_6002", "Čas od otvorenia fóra");
-define("LAN_FORUM_6003", "Počet príspevkov");
-define("LAN_FORUM_6004", "Počet odpovedí");
-define("LAN_FORUM_6005", "Počet zobrazení vlákien");
-define("LAN_FORUM_6006", "Veľkosť databázy (len tabuľky fóra)");
-define("LAN_FORUM_6007", "Priemerná dĺžka riadkov tabuľky fóra");
-define("LAN_FORUM_6008", "Poradie");
-define("LAN_FORUM_6009", "Založenie");
-define("LAN_FORUM_6010", "Najviac prehliadané témy");
-define("LAN_FORUM_6011", "Top  zakladatelia tém");
-define("LAN_FORUM_6012", "Top odpovedači");
-define("LAN_FORUM_6013", "Štatistiky fóra");
-define("LAN_FORUM_6014", "Priemerný počet príspevkov na deň");
-define("LAN_FORUM_7001", "Uploadované súbory vo fóre");
-define("LAN_FORUM_7002", "Súbor zmazaný");
-define("LAN_FORUM_7003", "Chyba: Nie je možné zmazať súbor");
-define("LAN_FORUM_7004", "Mazanie súboru");
-define("LAN_FORUM_7006", "Výsledok");
-define("LAN_FORUM_7007", "Nájdené vo vlákne");
-define("LAN_FORUM_7008", "NENÁJDENÉ");
-define("LAN_FORUM_7009", "Nenájdené žiadne uploadované súbory");
-define("LAN_FORUM_7010", "Názov súboru");
-define("LAN_FORUM_8001", " [x] pridal nový príspevok v téme [y] v čase [z].");
-define("LAN_FORUM_8002", "Kliknite na nasledujúci link, ak chcete vidieť celý príspevok...");
-define("LAN_FORUM_8003", "Emailová notifikácia pre túto tému je zapnutá.");
-define("LAN_FORUM_8004", "Emailová notifikácia je pre túto tému vypnutá.");
-define("LAN_FORUM_8005", "Odteraz túto tému sledujete.");
-define("LAN_FORUM_8006", "Už viacej túto tému nesledujete.");
-define("LAN_FORUM_8007", "Prilepiť");
-define("LAN_FORUM_8008", "Odlepiť");
-define("LAN_FORUM_8009", "Zamknúť");
-define("LAN_FORUM_8010", "Odomknúť");
-define("LAN_FORUM_8011", "Stavové kľúče");
-define("LAN_FORUM_8012", "Zobraziteľné pre");
-define("LAN_FORUM_8013", "Možnosti");
-define("LAN_FORUM_8014", "Tento príspevok, spolu so všetkými príspevkami pod ním, sa presunú do nového vlákna/témy.");
-define("LAN_FORUM_8015", "Pozor!");
-define("LAN_FORUM_8016", "(Aktuálny)");
-define("LAN_FORUM_8017", "Pri zrušení sledovania došlo k problému.");
-define("LAN_FORUM_8018", "Nastal problém.");
-define("LAN_FORUM_8019", "Nepodarilo sa vymazať tému!");
-define("LAN_FORUM_8020", "Vymazaná téma");
-define("LAN_FORUM_8021", "Vymazaný príspevok");
-define("LAN_FORUM_8022", "Nepodarilo sa vymazať príspevok");
-define("LAN_FORUM_8023", "Nepodarilo sa uzatvoriť vlákno");
-define("LAN_FORUM_8024", "Nepodarilo sa otvoriť vlákno");
-define("LAN_FORUM_8025", "Nepodarilo sa zvýrazniť vlákno");
-define("LAN_FORUM_8026", "Nepodarilo sa zrušiť zvýraznenie vlákna");
-define("LAN_FORUM_8027", "Nezvolená akcia");
-define("LAN_FORUM_8028", "Návrat");
-define("LAN_FORUM_8029", "Vytvorená nová téma!");
-define("LAN_FORUM_8030", "Nepodarilo sa vymazať príspevok (musíte mať práva moderatóra)");
+
+// MAJOR REWRITE IN PROGRESS BY MOC, DO NOT EDIT THIS FILE UNTIL THIS MESSAGE HAS BEEN REMOVED PLEASE!
+
+/* 
+Even though all the forum LAN"s are shared accross the entire plugin, here"s some general direction:
+    '- 0xxx' => "forum.php",
+    '- 1xxx' => "forum_viewforum.php",
+    '- 2xxx' => "forum_viewtopic.php",
+    '- 3xxx' => "forum_post.php",
+
+This is done to offer flexibility when changing or adding in new LAN defines. 
+
+vf, vt, etc. in the comments refer to the LAN defined in the previously separate language files:
+vf = viewforum, vt = viewtopic, p = post, etc.
+*/
+
+return [
+// 'e_PAGETITLE' => "Forum",
+// forum.php (forum_template)
+// 'LAN_FORUM_0001' => "Forum", // LAN_46	
+    'LAN_FORUM_0002' => "Témy", // LAN_47 / FORLAN_21",
+    'LAN_FORUM_0003' => "Odpovedí", // LAN_48 / LAN_55",
+    'LAN_FORUM_0004' => "Posledný príspevok", // LAN_49 / FORLAN_22 / LAN_57",
+    'LAN_FORUM_0005' => "Toto fórum je prístupné len pre administrátorov", // LAN_406",
+    'LAN_FORUM_0006' => "Toto fórum je prístupné len pre členov", // LAN_407",
+    'LAN_FORUM_0007' => "Toto fórum je prístupné len na čítanie", // LAN_408",
+    'LAN_FORUM_0008' => "Toto fórum je obmedzené užívat.triedou", // LAN_409",
+    'LAN_FORUM_0009' => "Informácie", // LAN_191",
+    'LAN_FORUM_0010' => "Top prispievatelia", // LAN_429",
+    'LAN_FORUM_0011' => "Najaktívnejšie témy", // LAN_430",
+    'LAN_FORUM_0012' => "Moje príspevky", // LAN_431",
+    'LAN_FORUM_0013' => "Moje nastavenia", // LAN_432",
+    'LAN_FORUM_0014' => "Môj profil", // LAN_435",
+    'LAN_FORUM_0015' => "Moje uploady", // FORLAN_442",
+    'LAN_FORUM_0016' => "Pravidlá fóra", // LAN_433",
+    'LAN_FORUM_0017' => "Štatistiky fóra", // LAN_441",
+    'LAN_FORUM_0018' => "Vitajte", // LAN_30",
+    'LAN_FORUM_0019' => "Nie sú žiadne nové príspevky", // LAN_31",
+    'LAN_FORUM_0020' => "Jeden nový príspevok", // LAN_32",
+    'LAN_FORUM_0021' => "Je tu", // LAN_33",
+    'LAN_FORUM_0022' => "nových príspevkov", // LAN_34",
+    'LAN_FORUM_0023' => "od vašej poslednej návštevy.",  // LAN_35",
+    'LAN_FORUM_0024' => "Vaša posledná návšteva bola v",  // LAN_36",
+    'LAN_FORUM_0025' => "Dnes je",  // LAN_37",
+//'LAN_FORUM_0026' => ", all times are ",  // LAN_38 
+    'LAN_FORUM_0027' => "Prečítali ste", // LAN_196",
+    'LAN_FORUM_0028' => "z týchto príspevkov.", // LAN_197",
+    'LAN_FORUM_0029' => "Všetky nové príspevky máte prečítané.", // LAN_198",
+    'LAN_FORUM_0030' => "Zoznam sledovaných tém", // LAN_393",
+    'LAN_FORUM_0031' => "Používatelia tohto fóra odoslali celkovo [x] príspevkov.", // LAN_192 and LAN_404",
+    'LAN_FORUM_0032' => "téma", // LAN_411",
+    'LAN_FORUM_0033' => "tém", // LAN_413",
+    'LAN_FORUM_0034' => "odpoveď", // LAN_412",
+    'LAN_FORUM_0035' => "odpovedí", // LAN_414",
+    'LAN_FORUM_0036' => "Kto je online", // LAN_426",
+    'LAN_FORUM_0037' => "Zobraziť detailný zoznam", // LAN_427",
+    'LAN_FORUM_0038' => "(Otvorí sa v novom okne)", // LAN_436",
+    'LAN_FORUM_0039' => "nových príspevkov", // LAN_79 // LAN_79 (vf)",
+    'LAN_FORUM_0040' => "Žiadne nové príspevky", // LAN_80 / LAN_80 (vf)",
+    'LAN_FORUM_0041' => "Zamknuté fórum", // LAN_394",
+//'LAN_FORUM_0042' => "Search", /// LAN_180 => Generic term, moved to e107_languages/English.php LAN_SEARCH
+    'LAN_FORUM_0043' => "<b>Môžete</b> začať novú tému v tomto fóre", // LAN_204 // FIXME "can / cannot" in bold? 0043-0048",
+    'LAN_FORUM_0044' => "<b>Nemôžete</b> začať novú tému v tomto fóre", // LAN_205",
+    'LAN_FORUM_0045' => "<b>Môžete</b> odpovedať na správu v tomto fóre", // LAN_206",
+    'LAN_FORUM_0046' => "<b>Nemôžete</b> odpovedať na správu v tomto fóre", // LAN_207",
+    'LAN_FORUM_0047' => "<b>Môžete</b> upravovať svoje príspevky v tomto fóre", // LAN_208",
+    'LAN_FORUM_0048' => "<b>Nemôžete</b> upravovať svoje príspevky v tomto fóre", // LAN_209",
+
+// FIXME LAN - check if this section (0049 - 0055) could use some LAN optimization
+    'LAN_FORUM_0049' => "Vitajte hosť", // LAN_410",
+    'LAN_FORUM_0050' => "Na tieto fóra môžu prispievať aj neregistrovaní návštevníci, ale vaša IP adresa bude zaznamenaná, ak napíšete príspevok.<br />Pre prístup ku všetkým funkciám fóra sa prosím", // LAN_44 // FIXME <br />",
+    'LAN_FORUM_0051' => "zaregistrujte", // LAN_437",
+    'LAN_FORUM_0052' => "a prihláste.", // LAN_438",
+    'LAN_FORUM_0053' => "Na tieto fóra môžu prispievať len registrovaní užívatelia, prosím kliknite", // LAN_45",
+    'LAN_FORUM_0054' => "tu", // LAN_438",
+    'LAN_FORUM_0055' => "pre prechod na stránku registrácie.", // LAN_440",
+
+    'LAN_FORUM_0056' => "Len na čítanie", // LAN_405",
+
+    'LAN_FORUM_0057' => "Označiť všetky príspevky ako prečítané", // LAN_199",
+    'LAN_FORUM_0058' => "Zobraziť nové príspevky", // LAN_421",
+
+// FIXME LAN - check if this section (0059 - 0064) could use some LAN optimization
+    'LAN_FORUM_0059' => "užívateľ v tomto momente prehliada fórum", // LAN_415 / LAN_405 (vf)",
+    'LAN_FORUM_0060' => "užívateľov v tomto momente prehliada fórum", //LAN_416 / LAN_406 (vf)",
+    'LAN_FORUM_0061' => "Člen", // LAN_417 / LAN_407 (vf)",
+    'LAN_FORUM_0062' => "členov", // LAN_419 / LAN_409 (vf)",
+    'LAN_FORUM_0063' => "Hosť", // LAN_418 / LAN_408 (vf)",
+    'LAN_FORUM_0064' => "hostí", // LAN_420 / LAN_410 (vf)",
+
+    'LAN_FORUM_0065' => "Najnovší člen:", // LAN_41",
+    'LAN_FORUM_0066' => "Registrovaní členovia:", // LAN_42",
+
+    'LAN_FORUM_0067' => "Žiadne fóra, skúste prosím neskôr.", // LAN_51",
+    'LAN_FORUM_0068' => "Žiadne fóra v tejto sekcií, skúste prosím neskôr.", // LAN_52",
+    'LAN_FORUM_0069' => "Podfóra:", // FORLAN_444",
+
+    'LAN_FORUM_0070' => "Zrušiť sledovanie témy", // LAN_392",
+//'LAN_FORUM_0071' => "Forum Rules", // LAN_433
+    'LAN_FORUM_0072' => "Žiadne pravidla nedefinované.", // FORLAN_441",
+    'LAN_FORUM_0073' => "Sledované témy", // LAN_397",
+    'LAN_FORUM_0074' => "Zaslané od",  // LAN_423",
+    'LAN_FORUM_0075' => "Nové témy", // LAN_424",
+
+// starting at LAN_FORUM_1xxx => forum_viewforum.php
+    'LAN_FORUM_1001' => "Fóra", // LAN_01",
+
+    'LAN_FORUM_1002' => "Podfórum", // FORLAN_20",
+    'LAN_FORUM_1003' => "Téma", // LAN_55",
+    'LAN_FORUM_1004' => "Zakladateľ", // LAN_54",
+    'LAN_FORUM_1005' => "Zobrazení", // LAN_56",
+
+    'LAN_FORUM_1006' => "Dôležité témy", // LAN_411 (vf)",
+    'LAN_FORUM_1007' => "Témy", // LAN_412 (vf)",
+    'LAN_FORUM_1008' => "V tomto fóre nie sú žiadne témy", // LAN_58",
+    'LAN_FORUM_1009' => "Toto fórum moderuje", // LAN_404",
+    'LAN_FORUM_1010' => "[populárne]", // LAN_395 (vf)",
+    'LAN_FORUM_1011' => "Dôležité", // LAN_202",
+    'LAN_FORUM_1012' => "Dôležité/Zamknuté", // LAN_203 /",
+    'LAN_FORUM_1013' => "Oznam", // LAN_396 // FORLAN_17",
+    'LAN_FORUM_1014' => "Zatvorené témy", // LAN_81 / FORLAN_18",
+    'LAN_FORUM_1015' => "[užívateľ zmazaný]", // FORLAN_19 (vf)",
+    'LAN_FORUM_1016' => "anketa", // FORLAN_23",
+
+    'LAN_FORUM_1017' => "Ísť na", // LAN_401 (p?)",
+    'LAN_FORUM_1018' => "Nová téma",
+// 'LAN_FORUM_1019' => "Are you sure?", // new
+    'LAN_FORUM_1020' => "Upraviť",
+    'LAN_FORUM_1021' => "Bez odpovedí",
 
 
-define("LAN_FORUM_UP_00", "Všetky príspevky od: [x]");
-define("LAN_FORUM_UP_08", "Žiadne príspevky");
-define("LAN_FORUM_UP_12", "Prehľadať príspevky od: [x]");
-define("LAN_FORUM_UP_11", "Zo dňa");
-define("LAN_FORUM_UP_15", "Re");
+// starting at LAN_FORUM_2xxx => forum_viewtopic.php
+    'LAN_FORUM_2001' => "Predchádzajúca téma", // LAN_389",
+    'LAN_FORUM_2002' => "Nasledujúca téma", // LAN_390",
+    'LAN_FORUM_2003' => "Moderátor(i)", // LAN_321",
+    'LAN_FORUM_2004' => "Táto téma je aktuálne zatvorená", // LAN_66",
+    'LAN_FORUM_2005' => "Vytvoriť novú tému", // new",
+    'LAN_FORUM_2006' => "Odoslať odpoveď", // new",
+    'LAN_FORUM_2007' => "Odoslať rýchlu odpoveď", // new",
+    'LAN_FORUM_2008' => "SKRYTÉ - PRIHLÁSIŤ SA A ODPOVEDAŤ PRE ODKRYTIE", // FORLAN_HIDDEN - used in [hide] bbcode?",
+    'LAN_FORUM_2009' => "Ste si istý, že chce vymazať túto tému a všetky jej odpovede", // LAN_409",
+    'LAN_FORUM_2010' => "Ste si istý, že chcete zmazať túto odpoveď?", // LAN_410",
+//'LAN_FORUM_2011' => "posted by", // LAN_410 // LAN_FORUM_0074
+    'LAN_FORUM_2012' => "Žiadna predchádzajúca téma", // LAN_404 (vt)",
+    'LAN_FORUM_2013' => "Žiadna nasledujúca téma", // LAN_405 (vt)",
+
+    'LAN_FORUM_2015' => "Odoslať", // LAN_403 (vt)",
+    'LAN_FORUM_2016' => "Editovať", // LAN_29",
+    'LAN_FORUM_2017' => "autor:", // FORLAN_BY",
+    'LAN_FORUM_2018' => "Tento príspevok bol nahlásený zo stránky", // LAN_422 (vt)",
+    'LAN_FORUM_2019' => "Správa od", // LAN_425 (vt)",
+    'LAN_FORUM_2020' => "Sťažnosť na tému fóra od", // LAN_421 (vt)",
+    'LAN_FORUM_2021' => "Príspevok bol nahlásený", // LAN_428",
+    'LAN_FORUM_2022' => "Kliknite sem pre návrat do fóra", // LAN_429",
+    'LAN_FORUM_2023' => "Nahlásiť túto tému moderátorovi", // LAN_414 (vt)",
+    'LAN_FORUM_2024' => "Nahlásiť príspevok v téme", // LAN_426",
+    'LAN_FORUM_2025' => "Názov témy", // LAN_415",
+    'LAN_FORUM_2026' => "Zobraziť príspevok", // LAN_420",
+    'LAN_FORUM_2027' => "Moderátor(i) budú upozornení na túto tému. Môžete odoslať správu vysvetľujúcu čo považujete za nevhodné.", // LAN_417",
+    'LAN_FORUM_2028' => "[Nepoužívajte] tento formulár na kontaktovanie administrátora z iného dôvodu", // LAN_418 - [ and ] are replaced by <b> </b>",
+    'LAN_FORUM_2029' => "Odoslať report", // LAN_419",
+    'LAN_FORUM_2030' => "Späť navrch", // LAN_10",
+    'LAN_FORUM_2031' => "Členom od", // LAN_06",
+    'LAN_FORUM_2032' => "príspevkov", // LAN_67",
+    'LAN_FORUM_2033' => "Počet návštev od registrácie", // LAN_09",
+    'LAN_FORUM_2034' => "Webstránka", // LAN_08",
+    'LAN_FORUM_2035' => "Registrovaný člen", // LAN_195",
+    'LAN_FORUM_2036' => "Pošlite súkromnú správu", // new / LAN_399",
+    'LAN_FORUM_2037' => "Príspevok vymazaný dňa", // new",
+    'LAN_FORUM_2038' => "Dôvod", // new",
+// 'LAN_FORUM_2039' => "Edit", // LAN_400
+// 'LAN_FORUM_2040' => "Delete", // LAN_435 (vf)?
+    'LAN_FORUM_2041' => "Citovať", // LAN_401",
+    'LAN_FORUM_2042' => "Presunúť", // LAN_FORUM_5019 ?",
+    'LAN_FORUM_2043' => "Rozdeliť", // new",
+    'LAN_FORUM_2044' => "Email", // FORLAN_101",
+    'LAN_FORUM_2045' => "Vytlačiť", // FORLAN_102",
+    'LAN_FORUM_2046' => "Sťažnosť", // LAN_413",
+    'LAN_FORUM_2047' => "You have reported something very recently. Please wait a moment before sending another report.", // new",
+
+
+
+// starting at LAN_FORUM_3xxx => forum_post.php 
+    'LAN_FORUM_3001' => "Nie ste autorizovaný pre prispievanie do tohto fóra.", // LAN_399 (p)",
+    'LAN_FORUM_3002' => "Táto téma je uzavretá.", // LAN_397",
+    'LAN_FORUM_3003' => "Odpoveď na", // LAN_02 (p)",
+// 'LAN_FORUM_3004' => "Anonymous", // LAN_311
+    'LAN_FORUM_3005' => "Zobraziť", // LAN_323",
+    'LAN_FORUM_3006' => "Duplicitný príspevok", // LAN_FORUM_2",
+    'LAN_FORUM_3007' => "Prázdne povinné polia", // LAN_27",
+    'LAN_FORUM_3008' => "Neautorizovaný", // LAN_95",
+    'LAN_FORUM_3009' => "Nie ste autorizovaný pre editovanie tohto príspevku.", //LAN_96",
+    'LAN_FORUM_3010' => "Vaše meno", // LAN_61",
+    'LAN_FORUM_3011' => "Predmet", // LAN_62",
+    'LAN_FORUM_3012' => "Pripojiť súbor / obrázok", // LAN_390",
+    'LAN_FORUM_3013' => "Pripojiť súbor", // LAN_416",
+    'LAN_FORUM_3014' => "Súbor do prílohy", // LAN_392",
+    'LAN_FORUM_3015' => "[Všimnite si prosím]", // LAN_393 1st half - [ and ] are replaced by <b> </b>",
+    'LAN_FORUM_3016' => "Povolené typy súborov", // LAN_393 2nd half",
+    'LAN_FORUM_3017' => "Všetky iné typy súborov budú okamžite zmazané.", // LAN_394",
+    'LAN_FORUM_3018' => "Maximálna veľkosť súboru", // LAN_395",
+    'LAN_FORUM_3019' => "bytov", // LAN_396",
+    'LAN_FORUM_3020' => "Pridať ďaľšiu prílohu", // LAN_417",
+    'LAN_FORUM_3021' => "Nahrávanie nepovolené: [x] adresár nie je zapisovateľný", // LAN_FORUM_1 - [x] will be replaced automatically",
+    'LAN_FORUM_3022' => "Posledných [y] odpovedí", // LAN_101 and LAN_102 - [y] will be replaced automatically",
+    'LAN_FORUM_3023' => "Aktualizovať tému", // LAN_77",
+    'LAN_FORUM_3024' => "Aktualizovať odpoveď", // LAN_78",
+    'LAN_FORUM_3025' => "Typ", // new",
+    'LAN_FORUM_3026' => "Odoslať tému ako", // LAN_400 (p)",
+//'LAN_FORUM_3027' => "Type", // new -
+    'LAN_FORUM_3028' => "Pridať anketu", // new // poll - partly in e107_plugins/poll/poll_class.php",
+    'LAN_FORUM_3038' => "Normálne", // LAN_1",
+    'LAN_FORUM_3039' => "Nepovoliť v tomto príspevku emotikony", // LAN_FORUMPOST_EMOTES",
+    'LAN_FORUM_3040' => "Povoliť sledovanie emailom (odošle sa email, keď sa pridá odpoveď)", // LAN_380",
+    'LAN_FORUM_3041' => "Povoliť sledovanie tejto témy",
+    'LAN_FORUM_3042' => "Nová téma/Predmet",
+// missing 41-21
+
+// forum_posted_template
+    'LAN_FORUM_3043' => "Ďakujeme Vám", // LAN_133 (p)",
+// 'LAN_FORUM_3044' => "Click here to return to the forum", // LAN_326
+    'LAN_FORUM_3045' => "Vaša anketa bola úspešne odoslaná do fóra.", // LAN_413",
+    'LAN_FORUM_3046' => "Kliknite sem pre zobrazenie vašej ankety", // LAN_414",
+    'LAN_FORUM_3047' => "Vaša správa bola úspešne zaslaná.", // LAN_324",
+    'LAN_FORUM_3048' => "Kliknite sme pre zobrazenie vášho príspevku", // LAN_325",
+    'LAN_FORUM_3049' => "Vaša odpoveď bola úspešne odoslaná do fóra.", // LAN_415",
+    'LAN_FORUM_3050' => "Miesto rozdelenia",
+    'LAN_FORUM_3051' => "Nové umiestnenie",
+    'LAN_FORUM_3052' => "Rozdeliť vlákno",
+
+
+// forum_icons_template
+    'LAN_FORUM_4001' => "Existuje neprečítaný príspevok", // LAN_199 (vf)",
+    'LAN_FORUM_4002' => "Žiadne neprečítané príspevky", // new",
+    'LAN_FORUM_4003' => "Nové príspevky v obľúbených témach", // FORLAN_13",
+    'LAN_FORUM_4004' => "V obľúbených témach nie sú nové príspevky", // FORLAN_14",
+// 'LAN_FORUM_4005' => "Website", // LAN_396
+// 'LAN_FORUM_4006' => "Email", // LAN_397
+    'LAN_FORUM_4007' => "Profil", // LAN_398",
+    'LAN_FORUM_4008' => "Súkromná správa", // LAN_399",
+    'LAN_FORUM_4009' => "Sledovať tému", // LAN_391 (vt)",
+    'LAN_FORUM_4010' => "Zrušiť sledovanie témy", // LAN_392 (vt) / new",
+    'LAN_FORUM_4011' => "Zdôrazniť vlákno", // LAN_401",
+    'LAN_FORUM_4012' => "Zrušiť zdôraznenie vlákna", // LAN_398",
+    'LAN_FORUM_4013' => "Uzamknúť vlákno", // LAN_399",
+    'LAN_FORUM_4014' => "Odomknúť vlákno", // LAN_400",
+
+
+// Ajax and actions 
+    'LAN_FORUM_CLOSE' => "Vlákno zamknuté.",
+    'LAN_FORUM_OPEN' => "Vlákno odomknuté.",
+    'LAN_FORUM_STICK' => "Vlákno označené ako dôležité.",
+    'LAN_FORUM_UNSTICK' => "Vlákno odlepené.",
+
+
+
+
+// Config 
+    'LAN_FORUM_5001' => "Anketa zmazaná.", // LAN_FORUM_5001",
+    'LAN_FORUM_5005' => "Vlákno presunuté.", // LAN_FORUM_5005",
+    'LAN_FORUM_5006' => "Presunutie zrušené.", // LAN_FORUM_5006",
+    'LAN_FORUM_5007' => "Späť do fór", // LAN_FORUM_5007",
+    'LAN_FORUM_5008' => "Konfigurácia fór", // LAN_FORUM_5008",
+    'LAN_FORUM_5009' => "Ste si absolútne istý, že chcete vymazať túto anketu?<br />Po vymazaní<b> ju už <u>nemôžete</u></b> obnoviť.",
+    'LAN_FORUM_5010' => "Potvrdenie zmazania príspevku fóra", // LAN_FORUM_5010",
+    'LAN_FORUM_5019' => "Presunúť vlákno", // LAN_FORUM_5019",
+    'LAN_FORUM_5021' => "presunuté", // LAN_FORUM_5021",
+    'LAN_FORUM_5022' => "Nepremenujte názov vlákna", // LAN_FORUM_5022",
+    'LAN_FORUM_5024' => "Pridať  [x]  predponu k predmetu/názvu", // LAN_FORUM_5024",
+    'LAN_FORUM_5025' => "Premenovať na:", // LAN_FORUM_5025",
+    'LAN_FORUM_5026' => "Možnosti premenovania vlákno:", // LAN_FORUM_5026",
+
+
+// Statistics (lan_forum_stats.php ) ----------------
+    'LAN_FORUM_6000' => "Hlavné štatistiky", // FSLAN_1",
+    'LAN_FORUM_6001' => "Otvorenie fóra", // LAN_FORUM_6001",
+    'LAN_FORUM_6002' => "Čas od otvorenia fóra", // FSLAN_3",
+    'LAN_FORUM_6003' => "Počet príspevkov", // FSLAN_4",
+    'LAN_FORUM_6004' => "Počet odpovedí", // FSLAN_6",
+    'LAN_FORUM_6005' => "Počet zobrazení vlákien", // FSLAN_7",
+    'LAN_FORUM_6006' => "Veľkosť databázy (len tabuľky fóra)", // FSLAN_8",
+    'LAN_FORUM_6007' => "Priemerná dĺžka riadkov tabuľky fóra", // FSLAN_9",
+    'LAN_FORUM_6008' => "Poradie", // FSLAN_11",
+    'LAN_FORUM_6009' => "Založenie", // FSLAN_14",
+    'LAN_FORUM_6010' => "Najviac prehliadané témy", // FSLAN_16",
+    'LAN_FORUM_6011' => "Top  zakladatelia tém", // FSLAN_21",
+    'LAN_FORUM_6012' => "Top odpovedači", // FSLAN_22",
+    'LAN_FORUM_6013' => "Štatistiky fóra", // FSLAN_23",
+    'LAN_FORUM_6014' => "Priemerný počet príspevkov na deň", // FSLAN_24",
+
+
+// ---- Uploads ----------
+
+    'LAN_FORUM_7001' => "Uploadované súbory vo fóre",
+    'LAN_FORUM_7002' => "Súbor zmazaný", // LAN_FORUM_7002",
+    'LAN_FORUM_7003' => "Chyba: Nie je možné zmazať súbor", // LAN_FORUM_7003",
+    'LAN_FORUM_7004' => "Mazanie súboru", // LAN_FORUM_7004",
+    'LAN_FORUM_7006' => "Výsledok", // LAN_FORUM_7006",
+    'LAN_FORUM_7007' => "Nájdené vo vlákne", // LAN_FORUM_7007",
+    'LAN_FORUM_7008' => "NENÁJDENÉ", // LAN_FORUM_7008",
+    'LAN_FORUM_7009' => "Nenájdené žiadne uploadované súbory", // LAN_FORUM_7009",
+    'LAN_FORUM_7010' => "Názov súboru",
+
+
+// -------- Tracking Email ------------
+
+    'LAN_FORUM_8001' => " [x] pridal nový príspevok v téme [y] v čase [z].",
+    'LAN_FORUM_8002' => "Kliknite na nasledujúci link, ak chcete vidieť celý príspevok...",
+    'LAN_FORUM_8003' => "Emailová notifikácia pre túto tému je zapnutá.",
+    'LAN_FORUM_8004' => "Emailová notifikácia je pre túto tému vypnutá.",
+    'LAN_FORUM_8005' => "Odteraz túto tému sledujete.",
+    'LAN_FORUM_8006' => "Už viacej túto tému nesledujete.",
+
+// -------- View Forum ------------
+    'LAN_FORUM_8007' => "Prilepiť",
+    'LAN_FORUM_8008' => "Odlepiť",
+    'LAN_FORUM_8009' => "Zamknúť",
+    'LAN_FORUM_8010' => "Odomknúť",
+    'LAN_FORUM_8011' => "Stavové kľúče",
+    'LAN_FORUM_8012' => "Zobraziteľné pre",
+    'LAN_FORUM_8013' => "Možnosti",
+
+// -------- Forum Post------------
+    'LAN_FORUM_8014' => "Tento príspevok, spolu so všetkými príspevkami pod ním, sa presunú do nového vlákna/témy.",
+    'LAN_FORUM_8015' => "Pozor!",
+    'LAN_FORUM_8016' => "(Aktuálny)",
+
+// -------- Forum Class------------
+    'LAN_FORUM_8017' => "Pri zrušení sledovania došlo k problému.",
+    'LAN_FORUM_8018' => "Nastal problém.",
+    'LAN_FORUM_8019' => "Nepodarilo sa vymazať tému!",
+    'LAN_FORUM_8020' => "Vymazaná téma",
+    'LAN_FORUM_8021' => "Vymazaný príspevok",
+    'LAN_FORUM_8022' => "Nepodarilo sa vymazať príspevok",
+    'LAN_FORUM_8023' => "Nepodarilo sa uzatvoriť vlákno",
+    'LAN_FORUM_8024' => "Nepodarilo sa otvoriť vlákno",
+    'LAN_FORUM_8025' => "Nepodarilo sa zvýrazniť vlákno",
+    'LAN_FORUM_8026' => "Nepodarilo sa zrušiť zvýraznenie vlákna",
+    'LAN_FORUM_8027' => "Nezvolená akcia",
+    'LAN_FORUM_8028' => "Návrat",
+    'LAN_FORUM_8029' => "Vytvorená nová téma!",
+    'LAN_FORUM_8030' => "Nepodarilo sa vymazať príspevok (musíte mať práva moderatóra)",
+
+/*  THIS WILL BE DELETED ONCE THE REWRITE IS DONE
+==================================================
+ * 
+ * 
+ * 
+    'LAN_FORUM_5020' => "Reply deleted", // LAN_FORUM_5020",
+    'LAN_FORUM_5011' => "posted by", // LAN_FORUM_5011",
+    'LAN_FORUM_5012' => "Are you absolutely certain you want to delete this forum",
+    'LAN_FORUM_5013' => "thread and it"s related posts?",
+    'LAN_FORUM_5014' => "the poll will also be deleted",
+    'LAN_FORUM_5015' => "Once deleted they",
+    'LAN_FORUM_5016' => "post?<br />Once deleted it", // LAN_FORUM_5016",
+    'LAN_FORUM_5017' => "cannot</u></b> be retrieved", // LAN_FORUM_5017 //",
+    'LAN_FORUM_5018' => "Move thread  to forum", // LAN_FORUM_5018",
+    'LAN_FORUM_5023' => "Add", // LAN_FORUM_5023",
+
+    'LAN_01' => "Forums",
+    'LAN_02' => "Go to page",
+    'LAN_03' => "Go",
+    'LAN_04' => "Previous",
+    'LAN_05' => "Next",
+    'LAN_06' => "Joined",
+    'LAN_07' => "Location",
+    'LAN_08' => "Website",
+    'LAN_09' => "Visits to site since registration",
+    'LAN_10' => "Back to top",
+    'LAN_65' => "Jump",
+
+    'LAN_53' => "Thread",
+    'LAN_54' => "Starter",
+    'LAN_55' => "Replies",
+    'LAN_56' => "Views",
+    'LAN_57' => "Latest Post",
+    'LAN_58' => "There are no topics in this forum yet.",
+    'LAN_59' => "You must be a registered member and logged in to post on this forum. Click on signup or login from the login menu.",
+    'LAN_202' => "Sticky",
+    'LAN_203' => "Sticky/Closed",
+
+    'LAN_66' => "This thread is now closed",
+    'LAN_67' => "Posts",
+    'LAN_194' => "Guest",
+    'LAN_195' => "Registered Member",
+    'LAN_321' => "Moderators: ",
+    'LAN_389' => "Previous thread",
+    'LAN_390' => "Next thread",
+    'LAN_391' => "Track Thread",
+    'LAN_392' => "Cancel Thread Tracking",
+    'LAN_393' => "Quick Reply",
+    'LAN_394' => "Preview",
+    'LAN_395' => "Reply To Thread",
+    'LAN_396' => "Website",
+    'LAN_397' => "Email",
+    'LAN_398' => "Profile",
+    'LAN_399' => "Private Message",
+    'LAN_400' => "Edit",
+    'LAN_401' => "Quote",
+
+    'LAN_402' => "Author",
+    'LAN_403' => "Post",
+    'LAN_404' => "No previous thread",
+    'LAN_405' => "No next thread",
+
+    'LAN_406' => "Moderator: Edit",
+    'LAN_435' => "Moderator: Delete",
+    'LAN_408' => "Moderator: Move",
+    'LAN_409' => "Are you sure you want to delete this thread and any replies?",
+    'LAN_410' => "Are you sure you want to delete this reply?",
+    'LAN_411' => "posted by ",
+
+//v.616
+//'LAN_412' => "Title",//LAN_TITLE
+    'LAN_413' => "Report",
+    'LAN_414' => "Report this thread to a moderator",
+    'LAN_415' => "Thread title",
+    'LAN_416' => "Enter your report",
+    'LAN_417' => "The admin will be made aware of this thread. You may post a message explaining what you found to be objectionable.",
+    'LAN_418' => "<b>Do not</b> use this form to contact the admin for any other reason.",
+    'LAN_419' => "Send Report",
+    'LAN_420' => "Click to view post",
+    'LAN_421' => "Forum thread report from",
+    'LAN_422' => "This post has been reported from site ",
+    'LAN_423' => "Message could not be sent. ",
+    'LAN_424' => "Post has been reported to moderator.<br />Thank You.",
+    'LAN_425' => "Message from: ",
+    'LAN_426' => "Reporting post in topic: ",
+    'LAN_427' => "Error sending mail",
+    'LAN_428' => "Post has been reported",
+    'LAN_429' => "Click here to return to forum",
+    'LAN_430' => "poll",
+    'FORLAN_26' => "Reply deleted",
+    'FORLAN_10' => "Begin New Thread",
+    'LAN_29' => "Edited",
+
+    'LAN_431' => "Syndicate this thread: rss 0.92",
+    'LAN_432' => "Syndicate this thread: rss 2.0",
+    'LAN_433' => "Syndicate this thread: RDF",
+
+    'FORLAN_101' => "Email Thread",
+    'FORLAN_102' => "Print View",
+    'FORLAN_103' => "[user deleted]",
+    'FORLAN_104' => "Thread not found",
+    'FORLAN_105' => "Moderator: Split",
+    'FORLAN_BY' => "by",
+    'FORLAN_HIDDEN' => "HIDDEN - LOGIN AND REPLY TO REVEAL",
+	
+    'LAN_06' => "Joined",
+	
+    'LAN_30' => "Welcome",
+    'LAN_31' => "There are no new posts ",
+    'LAN_32' => "There is 1 new post ",
+    'LAN_33' => "There are",
+    'LAN_34' => "new posts",
+    'LAN_35' => "since your last visit.",
+    'LAN_36' => "You last visited at ",
+    'LAN_37' => "It is now ",
+    'LAN_38' => ", all times are ",
+    'LAN_41' => "Newest member: ",
+    'LAN_42' => "Registered members: ",
+    'LAN_44' => "These forums can be used by non-registered users, but please be aware that your IP Address will be logged if you make a post.<br />To access the full features of this forum you will need to",
+    'LAN_45' => "These forums can only be posted to by registered and logged in members, please click",
+    'LAN_46' => "Forum",
+    'LAN_47' => "Threads",
+    'LAN_48' => "Replies",
+    'LAN_49' => "Last Post",
+    'LAN_51' => "No forums yet, please check back soon.",
+    'LAN_52' => "No forums in this section yet, please check back soon.",
+    'LAN_79' => "New posts",
+    'LAN_80' => " No new posts",
+    'LAN_81' => "Closed thread",
+    'LAN_100' => "articles",
+    'LAN_180' => "Search",
+    'LAN_191' => "Information",
+    'LAN_192' => "The users of this forum have made a total of ",
+    'LAN_196' => "You have read ",
+    'LAN_197' => " of these posts.",
+    'LAN_198' => " All new posts have been read.",
+    'LAN_199' => "Mark all posts as read",
+    'LAN_204' => "You <b>can</b> start new threads",
+    'LAN_205' => "You <b>cannot</b> start new threads",
+    'LAN_206' => "You <b>can</b> post replies",
+    'LAN_207' => "You <b>cannot</b> post replies",
+    'LAN_208' => "You <b>can</b> edit your posts",
+    'LAN_209' => "You <b>cannot</b> edit your posts",
+    'LAN_392' => "stop tracking this thread",
+    'LAN_393' => "List tracked threads",
+    'LAN_394' => "Closed forum",
+    'LAN_397' => "Tracked threads",
+    'LAN_398' => "Closed",
+    'LAN_399' => "Restricted",
+    'LAN_400' => "This forum can only be browsed by registered members",
+    'LAN_401' => "Members only",
+	
+    'LAN_402' => "This forum is read only",
+	
+    'LAN_403' => "No posts yet",
+    'LAN_404' => "posts",
+
+	
+    'LAN_406' => "This forum is restricted to administrators only",
+    'LAN_407' => "This forum is restricted to members only",
+    'LAN_408' => "This is a read-only forum",
+    'LAN_409' => "This is a class restricted forum",
+    'LAN_410' => "Welcome guest",
+	
+    'LAN_411' => "thread",
+    'LAN_412' => "reply",
+    'LAN_413' => "threads",
+    'LAN_414' => "replies",
+    'LAN_415' => "user is browsing the forums at the moment",
+    'LAN_416' => "users are browsing the forums at the moment",
+	
+    'LAN_417' => "member",
+    'LAN_418' => "guest",
+    'LAN_419' => "members",
+    'LAN_420' => "guests",
+	
+    'LAN_421' => "Show new posts",
+    'LAN_422' => "New posts since your last visit",
+    'LAN_423' => "Posted by",
+    'LAN_424' => "New threads",
+    'LAN_425' => "Re:",
+	
+//v.616
+    'LAN_426' => "Who"s Online: ",
+    'LAN_427' => "View detailed list.",
+    'LAN_428' => "Re:",
+    'LAN_429' => "Top Posters",
+    'LAN_430' => "Most Active Threads",
+    'LAN_431' => "My Posts",
+    'LAN_432' => "My Settings",
+    'LAN_433' => "Forum Rules",
+    'LAN_434' => "Return to forums",
+    'LAN_435' => "My Profile",
+    'LAN_436' => " (Will open a new window.)",
+	
+    'LAN_437' => "register",
+    'LAN_438' => "and login.",
+    'LAN_439' => "here",
+    'LAN_440' => "to go to the registration page.",
+
+    'LAN_441' => "View forum statistics",
+
+    'FORLAN_21' => "Threads",
+    'FORLAN_22' => "Last Post",
+    'FORLAN_23' => "Poll",
+	
+    'FORLAN_441' => "No rules defined.",
+    'FORLAN_442' => "My Uploads",
+    'FORLAN_443' => "[user deleted]",
+    'FORLAN_444' => "sub-forums",
+
+    'PAGE_NAME' => "Forum",
+
+    'LAN_01' => "Forums",
+    'LAN_02' => "Replying to: ",
+    'LAN_03' => "New Thread",
+    'LAN_1' => "Normal",
+    'LAN_2' => "Sticky",
+    'LAN_3' => "Announcement",
+    'LAN_4' => "Post Poll",
+    'LAN_5' => "Poll Question:",
+    'LAN_6' => "Add another option",
+    'LAN_7' => "Vote option:",
+    'LAN_8' => "Allow votes from all",
+    'LAN_9' => "Allow votes from members only",
+    'LAN_10' => "Login",
+    'LAN_11' => "Remember me",
+    'LAN_16' => "Username: ",
+    'LAN_17' => "Password: ",
+    'LAN_20' => "Error",//new > LAN_ERROR",
+    'LAN_27' => "You left required field(s) blank",
+    'LAN_28' => "You didn"t post anything ..",
+    'LAN_29' => "Edited",
+    'LAN_45' => "These forums can only be posted to by registered and logged in members, please click",
+    'LAN_60' => "Start New Thread",
+    'LAN_61' => "Your Name: ",
+    'LAN_62' => "Subject: ",
+    'LAN_63' => "Post: ",
+    'LAN_64' => "Submit new thread",
+    'LAN_73' => "Reply: ",
+    'LAN_74' => "Reply to thread",
+    'LAN_77' => "Update Thread",
+    'LAN_78' => "Update Reply",
+    'LAN_94' => "Posted by",
+    'LAN_95' => "Unauthorised",
+    'LAN_96' => "You are not authorised to edit this forum post.",
+    'LAN_100' => "Thread Topic",
+    'LAN_101' => "Latest ",
+    'LAN_102' => " replies",
+    'LAN_103' => "Review complete thread. (Will open a new window.)",
+    'LAN_133' => "Thank you",
+    'LAN_174' => "Signup",
+    'LAN_175' => "Login",
+    'LAN_212' => "Forgot password?",
+    'LAN_310' => "Unable to accept post as that username is registered - if it is your username please login to post.",
+    'LAN_311' => "Anonymous",
+    'LAN_322' => "Posted: ",
+    'LAN_323' => "Preview",
+    'LAN_324' => "Your message has been successfully posted.",
+    'LAN_325' => "Click Here to view your message",
+    'LAN_326' => "Click here to return to the forum",
+    'LAN_327' => "Review",
+    'LAN_380' => "Enable email tracking (email sent when reply is posted)",
+    'LAN_381' => "Forum reply from ",
+    'LAN_382' => "Post made: ",
+    'LAN_383' => "Please click the following link to view the full thread ...",
+    'LAN_384' => "Forum reply at ",
+    'LAN_385' => "Post: ",
+    'LAN_386' => "If you do not wish to add a poll to your thread leave the fields blank ",
+    'LAN_387' => "Go",
+    'LAN_388' => "Back to top",
+    'LAN_389' => "Duplicate post, redirecting ...",
+    'LAN_390' => "Attach file / image",
+    'LAN_391' => "Options",
+    'LAN_392' => "File to attach",
+    'LAN_393' => "<b>Please note</b><br />Allowed file types:",
+    'LAN_394' => "Any other file types uploaded will be instantly deleted.",
+    'LAN_395' => "Maximum file size",
+    'LAN_396' => " bytes",
+    'LAN_397' => "This thread is locked.",
+    'LAN_398' => "This forum is read only",
+    'LAN_399' => "You are not authorized to post to this forum.",
+    'LAN_400' => "post thread as",
+    'LAN_401' => "Jump",
+
+    'LAN_402' => "poll",
+    'LAN_403' => "announcement",
+    'LAN_404' => "sticky",
+    'LAN_405' => "Forums",
+    'LAN_406' => "Re:",
+
+//v.616
+    'LAN_407' => "Redirect",
+    'LAN_408' => "If your browser does not support meta redirection please click",
+    'LAN_409' => "HERE",
+    'LAN_410' => "to be redirected",
+    'LAN_411' => "here",
+    'LAN_412' => "to go to the registration page.",
+
+    'LAN_413' => "Your poll has been successfully posted.",
+    'LAN_414' => "Click Here to view your poll",
+    'LAN_415' => "Your reply has been successfully posted.",
+
+    'LAN_416' => "Attach file",
+    'LAN_417' => "Add another attachment",
+
+    'POLL_506' => "Allow multiple choices?",
+    'POLL_507' => "yes",
+    'POLL_508' => "no",
+
+    'LAN_FORUM_1' => "Uploads disabled: ".e_FILE."public directory is not writable",
+    'LAN_FORUM_2' => "Duplicate post",
+
+    'LAN_FORUMPOST_EMOTES' => "Deactivate emoticons for this post",
+*/
+];

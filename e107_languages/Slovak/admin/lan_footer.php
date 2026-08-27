@@ -4,31 +4,33 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:31:30
-|
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("FOOTLAN_1", "Webová stránka");
-define("FOOTLAN_2", "Hlavný administrátor");
-define("FOOTLAN_3", "Verzia");
-define("FOOTLAN_4", "build");
-define("FOOTLAN_5", "Admin téma");
-define("FOOTLAN_6", "autor:");
-define("FOOTLAN_7", "Info");
-define("FOOTLAN_8", "Dátum inštalácie");
-define("FOOTLAN_9", "Server");
-define("FOOTLAN_10", "host");
-define("FOOTLAN_11", "PHP verzia");
-define("FOOTLAN_12", "MySQL");
-define("FOOTLAN_13", "Informácie o webe");
-define("FOOTLAN_14", "Zobraziť dokumentáciu");
-define("FOOTLAN_15", "Dokumentácia");
-define("FOOTLAN_16", "Databáza");
-define("FOOTLAN_17", "Kódovanie");
-define("FOOTLAN_18", "Téma webu");
-define("FOOTLAN_19", "Čas servera");
-define("FOOTLAN_20", "Stupeň zabezpečenia");
 
-
-?>
+return [
+    'FOOTLAN_1' => "Webová stránka",
+    'FOOTLAN_2' => "Hlavný administrátor",
+    'FOOTLAN_3' => "Verzia",
+    'FOOTLAN_4' => "build",
+    'FOOTLAN_5' => "Admin téma",
+    'FOOTLAN_6' => "autor:",
+    'FOOTLAN_7' => "Info",
+    'FOOTLAN_8' => "Dátum inštalácie",
+    'FOOTLAN_9' => "Server",
+    'FOOTLAN_10' => "host",
+    'FOOTLAN_11' => "PHP verzia",
+    'FOOTLAN_12' => "MySQL",
+    'FOOTLAN_13' => "Informácie o webe",
+    'FOOTLAN_14' => "Zobraziť dokumentáciu",
+    'FOOTLAN_15' => "Dokumentácia",
+    'FOOTLAN_16' => "Databáza",
+    'FOOTLAN_17' => "Kódovanie",
+    'FOOTLAN_18' => "Téma webu",
+    'FOOTLAN_19' => "Čas servera",
+    'FOOTLAN_20' => "Stupeň zabezpečenia",
+];

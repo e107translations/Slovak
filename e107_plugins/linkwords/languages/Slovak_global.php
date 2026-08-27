@@ -4,13 +4,15 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:55:05
-|
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_LINKWORDS_NAME", "Slovné linky");
-define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "This plugin will link specified words with a defined link and/or tooltip.");
 
-
-?>
+return [
+    'LAN_PLUGIN_LINKWORDS_NAME' => "Slovné linky",
+    'LAN_PLUGIN_LINKWORDS_DESCRIPTION' => "This plugin will link specified words with a defined link and/or tooltip.",
+];

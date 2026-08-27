@@ -4,23 +4,25 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2022/06/26 13:24:52 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.2 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 
+//define("ADLAN_PM", "Private Messenger");
+
 return [
-    'ADLAN_PM_1'  => "Pre aktiváciu prejdite na obrazovku menu a vyberte private_msg do jednej z oblastí menu. <br /><br />Ak potrebujete konvertovať správy z predchádzajúcej verzie, prejdite na hlavnú stránku konfigurácie tohto pluginu a vyberte odkaz 'convert'.",
-    'ADLAN_PM_3'  => "Nastavenia SS neboli nájdené, použité prednastavené hodnoty",
-    'ADLAN_PM_4'  => "Možnosti boli aktualizované",
-    'ADLAN_PM_5'  => "Obmedzenie pre vybranú triedu užívateľa už existuje",
-    'ADLAN_PM_6'  => "Obmedzenie bolo úspešne pridané",
-    'ADLAN_PM_7'  => "Limit nepridaný/neaktualizovaný - neznáma chyba",
-    'ADLAN_PM_8'  => "Status obmedzenia bol aktualizovaný",
-    'ADLAN_PM_9'  => "- Obmedzenie bolo úspešne odstránené",
+    'ADLAN_PM_1' => "Pre aktiváciu prejdite na obrazovku menu a vyberte private_msg do jednej z oblastí menu. <br /><br />Ak potrebujete konvertovať správy z predchádzajúcej verzie, prejdite na hlavnú stránku konfigurácie tohto pluginu a vyberte odkaz 'convert'.",
+    'ADLAN_PM_3' => "Nastavenia SS neboli nájdené, použité prednastavené hodnoty",
+    'ADLAN_PM_4' => "Možnosti boli aktualizované",
+    'ADLAN_PM_5' => "Obmedzenie pre vybranú triedu užívateľa už existuje",
+    'ADLAN_PM_6' => "Obmedzenie bolo úspešne pridané",
+    'ADLAN_PM_7' => "Limit nepridaný/neaktualizovaný - neznáma chyba",
+    'ADLAN_PM_8' => "Status obmedzenia bol aktualizovaný",
+    'ADLAN_PM_9' => "- Obmedzenie bolo úspešne odstránené",
     'ADLAN_PM_10' => "- Obmedzenie nebolo odstránené - neznáma chyba",
     'ADLAN_PM_11' => "- Obmedzenie bolo úspešne aktualizované",
     'ADLAN_PM_12' => "Možnosti SS",

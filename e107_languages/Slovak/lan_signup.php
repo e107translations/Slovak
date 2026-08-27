@@ -1,32 +1,32 @@
 <?php
 /*
 +---------------------------------------------------------------+
- * e107 website content management system- Slovak Language File
- *
- * Copyright (C) 2008-2026 e107 Inc + e107sk fork
- * Released under the terms and conditions of the
- * GNU General Public License[](http://www.gnu.org/licenses/gpl.txt)
+|        e107 website content management system Slovak Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
+|        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 
 return [
     'PAGE_NAME' => "Registrovať sa",
-
     'LAN_108' => "Registrácia bola dokončená",
     'LAN_185' => "Nevyplnili ste povinné pole/polia",
-
     'LAN_EMAIL_01' => "Vážený",
     'LAN_EMAIL_04' => "Informácie obsiahnuté v tomto emaile uschovajte len pre vlastnú potrebu.",
     'LAN_EMAIL_05' => "Heslo bolo zakódované a nedá sa spätne nijako zistiť. Môžete však kedykoľvek požiadať administrátora webu o nastavenie nového hesla.",
     'LAN_EMAIL_06' => "Ďakujeme za vašu registráciu.",
-
-    'LAN_SIGNUP_1'  => "Minim.",
-    'LAN_SIGNUP_2'  => "znakov",
-    'LAN_SIGNUP_3'  => "Nepodarilo sa overiť kód.",
-    'LAN_SIGNUP_4'  => "Heslo musí mať minimálne",
-    'LAN_SIGNUP_5'  => " znakov.",
-    'LAN_SIGNUP_8'  => "Ďakujeme.",
-    'LAN_SIGNUP_9'  => "Nedá sa spracovať.",
+    'LAN_SIGNUP_1' => "Minim.",
+    'LAN_SIGNUP_2' => "znakov",
+    'LAN_SIGNUP_3' => "Nepodarilo sa overiť kód.",
+    'LAN_SIGNUP_4' => "Heslo musí mať minimálne",
+    'LAN_SIGNUP_5' => " znakov.",
+    'LAN_SIGNUP_8' => "Ďakujeme.",
+    'LAN_SIGNUP_9' => "Nedá sa spracovať.",
     'LAN_SIGNUP_11' => ".",
     'LAN_SIGNUP_12' => "Uchovajte prosím vaše užívateľské meno a heslo na bezpečnom mieste. Pokiaľ ho zabudnete, heslo sa nedá znovu zistiť.",
     'LAN_SIGNUP_13' => "Môžete sa teraz prihlásiť z prihlasovacieho okna alebo odtiaľto [here].",
@@ -95,31 +95,30 @@ return [
     'LAN_SIGNUP_97' => "Vitajte na",
     'LAN_SIGNUP_98' => "Potvrďte svoju emailovú adresu",
     'LAN_SIGNUP_99' => "Vyskytol sa problém",
-    'LAN_SIGNUP_100'=> "Váš účet čaká na schválenie administrátorom",
-    'LAN_SIGNUP_101'=> "Aktualizácia záznamov zlyhala – kontaktujte administrátora",
-    'LAN_SIGNUP_103'=> "Túto IP adresu už používa priveľa užívateľov:",
-    'LAN_SIGNUP_105'=> "Vašu žiadosť nie je možné dokončiť – kontaktujte administrátora",
-    'LAN_SIGNUP_106'=> "Vašu žiadosť nie je možné dokončiť – už tu máte účet?",
+    'LAN_SIGNUP_100' => "Váš účet čaká na schválenie administrátorom",
+    'LAN_SIGNUP_101' => "Aktualizácia záznamov zlyhala – kontaktujte administrátora",
+    'LAN_SIGNUP_103' => "Túto IP adresu už používa priveľa užívateľov:",
+    'LAN_SIGNUP_105' => "Vašu žiadosť nie je možné dokončiť – kontaktujte administrátora",
+    'LAN_SIGNUP_106' => "Vašu žiadosť nie je možné dokončiť – už tu máte účet?",
     'LAN_LOGINNAME' => "Užívateľské meno",
-    'LAN_USERNAME'  => "Zobrazované meno",
-
-    'LAN_SIGNUP_107'=> "Heslo musí mať najmenej [x] znakov a obsahovať aspoň jedno VEĽKÉ PÍSMENO a jedno číslo",
-    'LAN_SIGNUP_108'=> "Musí byť platnou emailovou adresou",
-    'LAN_SIGNUP_109'=> "Je citlivé na veľkosť písmen a nesmie obsahovať medzery.",
-    'LAN_SIGNUP_110'=> "Vaše celé meno",
-    'LAN_SIGNUP_111'=> "Vložte URL adresu obrázka alebo vyberte existujúci avatar.",
-    'LAN_SIGNUP_112'=> "Aktuálne ste prihlásený ako hlavný administrátor.",
-    'LAN_SIGNUP_113'=> "Odoberanie",
-    'LAN_SIGNUP_114'=> "Registrácia užívateľov je aktuálne vypnutá.",
-    'LAN_SIGNUP_115'=> "Náhľad aktivačného emailu",
-    'LAN_SIGNUP_116'=> "Náhľad po odoslaní formulára",
-    'LAN_SIGNUP_117'=> "Poslať test aktivácie",
-    'LAN_SIGNUP_118'=> "Komu: [x]",
-    'LAN_SIGNUP_119'=> "Neposielať email",
-    'LAN_SIGNUP_120'=> "ALEBO",
-    'LAN_SIGNUP_121'=> "Použite inú emailovú adresu",
-    'LAN_SIGNUP_122'=> "Ochrana osobných údajov",
-    'LAN_SIGNUP_123'=> "Obchodné podmienky",
-    'LAN_SIGNUP_124'=> "Registráciou súhlasíte s našimi [x] a [y].",
-    'LAN_SIGNUP_125'=> "Min. [x] znakov.",
+    'LAN_USERNAME' => "Zobrazované meno",
+    'LAN_SIGNUP_107' => "Heslo musí mať najmenej [x] znakov a obsahovať aspoň jedno VEĽKÉ PÍSMENO a jedno číslo",
+    'LAN_SIGNUP_108' => "Musí byť platnou emailovou adresou",
+    'LAN_SIGNUP_109' => "Je citlivé na veľkosť písmen a nesmie obsahovať medzery.",
+    'LAN_SIGNUP_110' => "Vaše celé meno",
+    'LAN_SIGNUP_111' => "Vložte URL adresu obrázka alebo vyberte existujúci avatar.",
+    'LAN_SIGNUP_112' => "Aktuálne ste prihlásený ako hlavný administrátor.",
+    'LAN_SIGNUP_113' => "Odoberanie",
+    'LAN_SIGNUP_114' => "Registrácia užívateľov je aktuálne vypnutá.",
+    'LAN_SIGNUP_115' => "Náhľad aktivačného emailu",
+    'LAN_SIGNUP_116' => "Náhľad po odoslaní formulára",
+    'LAN_SIGNUP_117' => "Poslať test aktivácie",
+    'LAN_SIGNUP_118' => "Komu: [x]",
+    'LAN_SIGNUP_119' => "Neposielať email",
+    'LAN_SIGNUP_120' => "ALEBO",
+    'LAN_SIGNUP_121' => "Použite inú emailovú adresu",
+    'LAN_SIGNUP_122' => "Ochrana osobných údajov",
+    'LAN_SIGNUP_123' => "Obchodné podmienky",
+    'LAN_SIGNUP_124' => "Registráciou súhlasíte s našimi [x] a [y].",
+    'LAN_SIGNUP_125' => "Min. [x] znakov.",
 ];

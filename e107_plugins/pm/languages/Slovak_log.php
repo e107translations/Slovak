@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2022/06/26 13:24:52 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.2 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 return [
     'LAN_AL_PM_ADM_01' => "SS: Použité predvolené nastavenia",
     'LAN_AL_PM_ADM_02' => "SS: Nastavenia aktualizované",

@@ -4,124 +4,118 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/04/14 14:24:52 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.2.0 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("BANLAN_2", "V zozname žiadne zákazy.");
-define("BANLAN_3", "Existujúce zákazy");
-define("BANLAN_5", "Zadajte IP, emailovú adresu, alebo host");
-define("BANLAN_7", "Dôvod");
-define("BANLAN_8", "Zakázať užívateľa");
-define("BANLAN_9", "Zakázať užívateľov zo stránky");
-define("BANLAN_10", "IP / Email / Dôvod");
-define("BANLAN_11", "Auto-zákaz: Viac ako 10 neplatných pokusov o prihlásenie");
-define("BANLAN_12", "Note: Reverse DNS is currently disabled; it must be enabled to allow banning by host. Banning by IP and email address will still function normally.");
-define("BANLAN_13", "Upozornenie: Pre vylúčenie užívateľa podľa užívateľského mena, choďte do administrácie užívateľov:");
-define("BANLAN_14", "Ban List");
-define("BANLAN_15", "Messages/Ban Periods");
-define("BANLAN_16", "Banning");
-define("BANLAN_17", "Ban Date");
-define("BANLAN_18", "Ban expires");
-define("BANLAN_19", "Poznámka");
-define("BANLAN_20", "Typ");
-define("BANLAN_22", "neznáme");
-define("BANLAN_23", "day(s)");
-define("BANLAN_24", "hodín");
-define("BANLAN_25", "Pridať na banlist");
-define("BANLAN_26", "Aktuálne");
-define("BANLAN_27", "Invalid characters in IP address stripped - now:");
-define("BANLAN_28", "Typ banu");
-define("BANLAN_29", "Správa zobrazená zakázaným užívateľom");
-define("BANLAN_30", "Trvanie zákazu");
-define("BANLAN_31", "(Use an empty message if you wish the user to get a blank screen)");
-define("BANLAN_32", "Indefinite");
-define("BANLAN_34", "Expired");
-define("BANLAN_35", "Import/Export");
-define("BANLAN_36", "Typy exportu");
-define("BANLAN_37", "oddeľovač polí");
-define("BANLAN_38", "Quote (round each value)");
-define("BANLAN_39", "Export");
-define("BANLAN_40", "Banlist Export");
-define("BANLAN_41", "Banlist Import");
-define("BANLAN_42", "Import Choices");
-define("BANLAN_43", "Replace all existing imported bans");
-define("BANLAN_44", "Use expiry date/time from import");
-define("BANLAN_45", "Importovať");
-define("BANLAN_46", "Import File:");
-define("BANLAN_47", "File upload error");
-define("BANLAN_48", "Deleted [y] expired ban list entries");
-define("BANLAN_49", "CSV import: Unbalanced quotes in line");
-define("BANLAN_50", "CSV import: Error writing banlist record at line");
-define("BANLAN_51", "CSV import: Success, [y] lines imported from file");
-define("BANLAN_52", "Whitelist");
-define("BANLAN_53", "Add to Whitelist");
-define("BANLAN_54", "No entries in whitelist");
-define("BANLAN_55", "Entry Date");
-define("BANLAN_56", "IP/Email, User");
-define("BANLAN_57", "Užívateľ");
-define("BANLAN_58", "Pridať užívateľov na whitelist");
-define("BANLAN_59", "Upraviť existujúci záznam whitelistu");
-define("BANLAN_60", "Upraviť existujúci záznam banlistu");
-define("BANLAN_61", "Editovať záznamy banlistu");
-define("BANLAN_63", "Používat reverzné DNS pre blokovanie?");
-define("BANLAN_64", "Reverse DNS accesses when adding ban");
-define("BANLAN_65", "Turning this option on will allow you to ban users by hostname, rather then just IP or email address. <br />NOTE: This may affect pageload times on some hosts, or if a server isn't responding");
-define("BANLAN_66", "When a ban occurs, this option adds the domain of the banned address to the reason");
-define("BANLAN_67", "Set maximum access rate");
-define("BANLAN_68", "This determines the maximum number of site accesses in a 5-minute period");
-define("BANLAN_69", "for members");
-define("BANLAN_70", "for guests");
-define("BANLAN_71", "Retrigger ban period");
-define("BANLAN_72", "Ban Options");
-define("BANLAN_73", "This will restart the ban period if a banned user accesses the site");
-define("BANLAN_74", "Banlist Maintenance");
-define("BANLAN_75", "Remove expired bans from list");
-define("BANLAN_76", "Execute");
-define("BANLAN_77", "Messages/Ban Periods");
-define("BANLAN_78", "Hit count exceeded ([x] requests within allotted time)");
-define("BANLAN_79", "CSV Export format:");
-define("BANLAN_80", "CSV Import format:");
-define("BANLAN_81", "Ban Action Log");
-define("BANLAN_82", "No entries in Ban Action Log");
-define("BANLAN_83", "Date/Time");
-define("BANLAN_84", "IP adresa");
-define("BANLAN_85", "Additional information");
-define("BANLAN_86", "Ban-related events");
-define("BANLAN_87", "Total [y] entries in list");
-define("BANLAN_88", "Empty Ban Action Log");
-define("BANLAN_89", "Log File Deleted");
-define("BANLAN_90", "Error deleting log file");
-define("BANLAN_91", "Date/time format for ban log");
-define("BANLAN_92", "See the strftime function page at php.net");
-define("BANLAN_100", "Neznáme");
-define("BANLAN_101", "Manual");
-define("BANLAN_102", "Flood");
-define("BANLAN_103", "Hit count");
-define("BANLAN_104", "Login failure");
-define("BANLAN_105", "Imported");
-define("BANLAN_106", "Užívateľ");
-define("BANLAN_107", "neznáme");
-define("BANLAN_108", "neznáme");
-define("BANLAN_109", "Old");
-define("BANLAN_110", "Most likely a ban that was imposed before e107 was upgraded from 0.7.x");
-define("BANLAN_111", "Entered by an admin");
-define("BANLAN_112", "Attempts to update the site too fast");
-define("BANLAN_113", "Attempts to access the site too frequently from the same address");
-define("BANLAN_114", "Multiple failed login attempts from the same user");
-define("BANLAN_115", "Added from an external list");
-define("BANLAN_116", "IP address banned on account of user ban");
-define("BANLAN_117", "Spare reason");
-define("BANLAN_118", "Spare reason");
-define("BANLAN_119", "Indicates an import error - previously imported bans");
-define("BANLAN_120", "Whitelist entry");
-define("BANLAN_121", "Blacklist entry");
-define("BANLAN_122", "Blacklist");
-define("BANLAN_123", "Pridať na blacklist");
-define("BANLAN_124", "Expires");
-define("BANLAN_125", "Use my IP");
-define("BANLAN_126", "IP / Email");
-define("BANLAN_127", "Delete all [x] failed logins from database	");
+
+// define("BANLAN_1", "Ban removed.");
+// define("BANLAN_2", "No bans in list.");
+// define("BANLAN_3", "Existing Bans");
+// define("BANLAN_4", "Remove ban");
+
+return [
+    'BANLAN_5' => "Zadajte IP, emailovú adresu, alebo host",
+    'BANLAN_7' => "Dôvod",
+    'BANLAN_9' => "Zakázať užívateľov zo stránky",
+    'BANLAN_10' => "IP / Email / Dôvod",
+    'BANLAN_11' => "Auto-zákaz: Viac ako 10 neplatných pokusov o prihlásenie",
+    'BANLAN_15' => "Messages/Ban Periods",
+    'BANLAN_16' => "Banning",
+    'BANLAN_19' => "Poznámka",
+    'BANLAN_23' => "day(s)",
+    'BANLAN_24' => "hodín",
+    'BANLAN_28' => "Typ banu",
+    'BANLAN_29' => "Správa zobrazená zakázaným užívateľom",
+    'BANLAN_30' => "Trvanie zákazu",
+    'BANLAN_31' => "(Use an empty message if you wish the user to get a blank screen)",
+    'BANLAN_32' => "Indefinite",
+    'BANLAN_34' => "Expired",
+    'BANLAN_35' => "Import/Export",
+    'BANLAN_36' => "Typy exportu",
+    'BANLAN_37' => "oddeľovač polí",
+    'BANLAN_38' => "Quote (round each value)",
+    'BANLAN_40' => "Banlist Export",
+    'BANLAN_41' => "Banlist Import",
+    'BANLAN_42' => "Import Choices",
+    'BANLAN_43' => "Replace all existing imported bans",
+    'BANLAN_44' => "Use expiry date/time from import",
+    'BANLAN_46' => "Import File:",
+    'BANLAN_47' => "File upload error",
+    'BANLAN_48' => "Deleted [y] expired ban list entries",
+    'BANLAN_49' => "CSV import: Unbalanced quotes in line",
+    'BANLAN_50' => "CSV import: Error writing banlist record at line",
+    'BANLAN_51' => "CSV import: Success, [y] lines imported from file",
+    'BANLAN_52' => "Whitelist",
+    'BANLAN_53' => "Add to Whitelist",
+    'BANLAN_54' => "No entries in whitelist",
+    'BANLAN_55' => "Entry Date",
+    'BANLAN_56' => "IP/Email, User",
+    'BANLAN_57' => "Užívateľ",
+    'BANLAN_58' => "Pridať užívateľov na whitelist",
+    'BANLAN_59' => "Upraviť existujúci záznam whitelistu",
+    'BANLAN_60' => "Upraviť existujúci záznam banlistu",
+    'BANLAN_61' => "Editovať záznamy banlistu",
+    'BANLAN_63' => "Používat reverzné DNS pre blokovanie?",
+    'BANLAN_64' => "Reverse DNS accesses when adding ban",
+    'BANLAN_65' => "Turning this option on will allow you to ban users by hostname, rather then just IP or email address. <br />NOTE: This may affect pageload times on some hosts, or if a server isn't responding",
+    'BANLAN_66' => "When a ban occurs, this option adds the domain of the banned address to the reason",
+    'BANLAN_67' => "Set maximum access rate",
+    'BANLAN_68' => "This determines the maximum number of site accesses in a 5-minute period",
+    'BANLAN_69' => "for members",
+    'BANLAN_70' => "for guests",
+    'BANLAN_71' => "Retrigger ban period",
+    'BANLAN_72' => "Ban Options",
+    'BANLAN_73' => "This will restart the ban period if a banned user accesses the site",
+    'BANLAN_74' => "Banlist Maintenance",
+    'BANLAN_75' => "Remove expired bans from list",
+    'BANLAN_76' => "Execute",
+    'BANLAN_77' => "Messages/Ban Periods",
+    'BANLAN_78' => "Hit count exceeded ([x] requests within allotted time)",
+    'BANLAN_79' => "CSV Export format:",
+    'BANLAN_80' => "CSV Import format:",
+    'BANLAN_81' => "Ban Action Log",
+    'BANLAN_82' => "No entries in Ban Action Log",
+    'BANLAN_83' => "Date/Time",
+    'BANLAN_84' => "IP adresa",
+    'BANLAN_85' => "Additional information",
+    'BANLAN_86' => "Ban-related events",
+    'BANLAN_87' => "Total [y] entries in list",
+    'BANLAN_88' => "Empty Ban Action Log",
+    'BANLAN_89' => "Log File Deleted",
+    'BANLAN_90' => "Error deleting log file",
+    'BANLAN_91' => "Date/time format for ban log",
+    'BANLAN_92' => "See the strftime function page at php.net",
+    'BANLAN_93' => "",
+    'BANLAN_100' => "Neznáme",
+    'BANLAN_101' => "Manual",
+    'BANLAN_102' => "Flood",
+    'BANLAN_103' => "Hit count",
+    'BANLAN_104' => "Login failure",
+    'BANLAN_105' => "Imported",
+    'BANLAN_106' => "Užívateľ",
+    'BANLAN_107' => "neznáme",
+    'BANLAN_108' => "neznáme",
+    'BANLAN_109' => "Old",
+    'BANLAN_110' => "Most likely a ban that was imposed before e107 was upgraded from 0.7.x",
+    'BANLAN_111' => "Entered by an admin",
+    'BANLAN_112' => "Attempts to update the site too fast",
+    'BANLAN_113' => "Attempts to access the site too frequently from the same address",
+    'BANLAN_114' => "Multiple failed login attempts from the same user",
+    'BANLAN_115' => "Added from an external list",
+    'BANLAN_116' => "IP address banned on account of user ban",
+    'BANLAN_117' => "Spare reason",
+    'BANLAN_118' => "Spare reason",
+    'BANLAN_119' => "Indicates an import error - previously imported bans",
+    'BANLAN_120' => "Whitelist entry",
+    'BANLAN_121' => "Blacklist entry",
+    'BANLAN_122' => "Blacklist",
+    'BANLAN_123' => "Pridať na blacklist",
+    'BANLAN_124' => "Expires",
+    'BANLAN_125' => "Use my IP",
+    'BANLAN_126' => "IP / Email",
+    'BANLAN_127' => "Delete all [x] failed logins from database	",
+];

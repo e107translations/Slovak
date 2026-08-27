@@ -4,16 +4,19 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:51:54
-|
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_FAQS_NAME", "Najčastejšie otázky");
-define("LAN_PLUGIN_FAQS_DESCRIPTION", "Jednoduchý plugin na pridanie najčastejších otázok na vašu webstránku");
-define("LAN_PLUGIN_FAQS_FUNCTIONNAME", "FAQ kategórie");
-define("LAN_PLUGIN_FAQS_FRONT_NAME", "FAQ (Najčastejšie kladené otázky)");
-define("LAN_PLUGIN_FAQS_SEARCH", "Vyhľadávať vo FAQ");
 
-
-?>
+return [
+    'LAN_PLUGIN_FAQS_NAME' => "Najčastejšie otázky",
+    'LAN_PLUGIN_FAQS_DESCRIPTION' => "Jednoduchý plugin na pridanie najčastejších otázok na vašu webstránku",
+    'LAN_PLUGIN_FAQS_FUNCTIONNAME' => "FAQ kategórie",
+    'LAN_PLUGIN_FAQS_FRONT_NAME' => "FAQ (Najčastejšie kladené otázky)",
+    'LAN_PLUGIN_FAQS_SEARCH' => "Vyhľadávať vo FAQ",
+    'LAN_FAQS_ASK_A_QUESTION' => "Ask a Question",
+];

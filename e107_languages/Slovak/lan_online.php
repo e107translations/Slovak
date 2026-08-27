@@ -4,60 +4,64 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:23:49
-|
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("ONLINE_EL1", "hostí:");
-define("ONLINE_EL2", "členov:");
-define("ONLINE_EL3", "Na tejto stránke:");
-define("ONLINE_EL4", "Online");
-define("ONLINE_EL5", "členov");
-define("ONLINE_EL6", "Najnovší člen");
-define("ONLINE_EL7", "prezerá");
-define("ONLINE_EL8", "najviac online:");
-define("ONLINE_EL9", "zapnuté");
-define("ONLINE_EL10", "Meno člena");
-define("ONLINE_EL11", "Prezerá si stránku");
-define("ONLINE_EL12", "Odpoveď na");
-define("ONLINE_EL13", "Fórum");
-define("ONLINE_EL14", "Vlákno");
-define("ONLINE_EL15", "Stránka");
-define("ONLINE_EL16", "Informácie nie sú dostupné");
-define("CLASSRESTRICTED", "Stránka vyhradená pre triedu užívateľov");
-define("CHAT", "Chat");
-define("DOWNLOAD", "Stiahnutia");
-define("EMAIL", "email.php");
-define("FORUM", "Index hlavného fóra");
-define("LINKS", "Odkazy");
-define("NEWS", "Články");
-define("OLDPOLLS", "Staršie ankety");
-define("POLLCOMMENT", "Anketa");
-define("PRINTPAGE", "Vytlačiť");
-define("LOGIN", "Prihlásenie");
-define("SEARCH", "Hľadanie");
-define("STATS", "Štatistiky webu");
-define("SUBMITNEWS", "Odoslať novinku");
-define("UPLOAD", "Uploady");
-define("USERPAGE", "Užívateľské profily");
-define("USERSETTINGS", "Užívateľské nastavenia");
-define("ONLINE", "Online užívatelia");
-define("LISTNEW", "Zoznam nových udalostí");
-define("USERPOSTS", "Príspevky užívateľov");
-define("SUBCONTENT", "Uložiť článok");
-define("TOP", "Top prispievatelia/Najviac aktívne vlákna");
-define("ADMINAREA", "Administrácia");
-define("BUGTRACKER", "Sledovač chýb");
-define("EVENT", "Zoznam udalostí");
-define("CALENDAR", "Kalendár udalostí");
-define("FAQ", "FAQ");
-define("PM", "Súkromné správy");
-define("SURVEY", "Prieskum");
-define("ARTICLE", "Článok");
-define("CONTENT", "Stránka obsahu");
-define("REVIEW", "Kontrola");
-define("OTHER", "Ďalšia stránka:");
 
+//v.616
 
-?>
+return [
+    'ONLINE_EL1' => "hostí:",
+    'ONLINE_EL2' => "členov:",
+    'ONLINE_EL3' => "Na tejto stránke:",
+    'ONLINE_EL4' => "Online",
+    'ONLINE_EL5' => "členov",
+    'ONLINE_EL6' => "Najnovší člen",
+    'ONLINE_EL7' => "prezerá",
+    'ONLINE_EL8' => "najviac online:",
+    'ONLINE_EL9' => "zapnuté",
+    'ONLINE_EL10' => "Meno člena",
+    'ONLINE_EL11' => "Prezerá si stránku",
+    'ONLINE_EL12' => "Odpoveď na",
+    'ONLINE_EL13' => "Fórum",
+    'ONLINE_EL14' => "Vlákno",
+    'ONLINE_EL15' => "Stránka",
+    'ONLINE_EL16' => "Informácie nie sú dostupné",
+    'CLASSRESTRICTED' => "Stránka vyhradená pre triedu užívateľov",
+    'CHAT' => "Chat",
+    'DOWNLOAD' => "Stiahnutia",
+    'EMAIL' => "email.php",
+    'FORUM' => "Index hlavného fóra",
+    'LINKS' => "Odkazy",
+    'NEWS' => "Články",
+    'OLDPOLLS' => "Staršie ankety",
+    'POLLCOMMENT' => "Anketa",
+    'PRINTPAGE' => "Vytlačiť",
+    'LOGIN' => "Prihlásenie",
+    'SEARCH' => "Hľadanie",
+    'STATS' => "Štatistiky webu",
+    'SUBMITNEWS' => "Odoslať novinku",
+    'UPLOAD' => "Uploady",
+    'USERPAGE' => "Užívateľské profily",
+    'USERSETTINGS' => "Užívateľské nastavenia",
+    'ONLINE' => "Online užívatelia",
+    'LISTNEW' => "Zoznam nových udalostí",
+    'USERPOSTS' => "Príspevky užívateľov",
+    'SUBCONTENT' => "Uložiť článok",
+    'TOP' => "Top prispievatelia/Najviac aktívne vlákna",
+    'ADMINAREA' => "Administrácia",
+    'BUGTRACKER' => "Sledovač chýb",
+    'EVENT' => "Zoznam udalostí",
+    'CALENDAR' => "Kalendár udalostí",
+    'FAQ' => "FAQ",
+    'PM' => "Súkromné správy",
+    'SURVEY' => "Prieskum",
+    'ARTICLE' => "Článok",
+    'CONTENT' => "Stránka obsahu",
+    'REVIEW' => "Kontrola",
+    'OTHER' => "Ďalšia stránka:",
+];

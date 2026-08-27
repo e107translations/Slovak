@@ -4,31 +4,33 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:36:07
-|
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("BANNERLAN_16", "Meno užívateľa:");
-define("BANNERLAN_17", "Heslo:");
-define("BANNERLAN_19", "Pre pokračovanie zadajte vaše klientské užívateľské meno a heslo.");
-define("BANNERLAN_20", "Prepáčte, ale vaše údaje sa v databáze nenašli. Kontaktujte hlavného administrátora.");
-define("BANNERLAN_21", "Štatistiky bannerov");
-define("BANNERLAN_22", "Klient");
-define("BANNERLAN_23", "ID bannera");
-define("BANNERLAN_24", "Počet kliknutí");
-define("BANNERLAN_25", "Kliknite sem pre viac informácií");
-define("BANNERLAN_26", "Zobrazenia");
-define("BANNERLAN_27", "Zakúpené zobrazenia");
-define("BANNERLAN_28", "Zostáva zobrazení");
-define("BANNERLAN_29", "Žiadne bannery");
-define("BANNERLAN_30", "Bez limitu");
-define("BANNERLAN_31", "Nie je možné aplikovať");
-define("BANNERLAN_34", "Koniec");
-define("BANNERLAN_35", "IP adresy preklikov:");
-define("BANNERLAN_36", "Aktivita:");
-define("BANNERLAN_37", "Začiatok:");
-define("BANNERLAN_39", "K tomuto banneru nie je priradený žiaden obrázok.");
 
+ 
 
-?>
+//define("BANNERLAN_16", "Username: ");//LAN_USER
+//define("BANNERLAN_17", "Password: ");//LAN_PASSWORD
+//define("BANNERLAN_18", "Continue"); // English LAN_CONTINUE
+
+return [
+    'BANNERLAN_19' => "Pre pokračovanie zadajte vaše klientské užívateľské meno a heslo.",
+    'BANNERLAN_20' => "Prepáčte, ale vaše údaje sa v databáze nenašli. Kontaktujte hlavného administrátora.",
+    'BANNERLAN_21' => "Štatistiky bannerov",
+    'BANNERLAN_22' => "Klient",
+    'BANNERLAN_23' => "ID bannera",
+    'BANNERLAN_24' => "Počet kliknutí",
+    'BANNERLAN_25' => "Kliknite sem pre viac informácií",
+    'BANNERLAN_26' => "Zobrazenia",
+    'BANNERLAN_27' => "Zakúpené zobrazenia",
+    'BANNERLAN_28' => "Zostáva zobrazení",
+    'BANNERLAN_30' => "Bez limitu",
+    'BANNERLAN_31' => "Nie je možné aplikovať",
+    'BANNERLAN_35' => "IP adresy preklikov:",
+    'BANNERLAN_39' => "K tomuto banneru nie je priradený žiaden obrázok.",
+];

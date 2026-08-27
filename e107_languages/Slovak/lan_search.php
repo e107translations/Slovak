@@ -4,100 +4,103 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/11 19:26:57 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Prehľadávať");
-define("LAN_140", "Členovia");
-define("LAN_192", "Všetky kategórie");
-define("LAN_193", "Kalendár udalostí");
-define("LAN_194", "Všetky kategórie");
-define("LAN_195", "Hľadanie");
-define("LAN_196", "výsledkov");
-define("LAN_197", "Stiahnutia");
-define("LAN_198", "Žiadne výsledky vyhľadávania");
-define("LAN_199", "Hľadať:");
-define("LAN_416", "Pre prístup k tejto stránke musíte byť prihlásený");
-define("LAN_417", "Minimálny počet znakov pre hľadaný reťazec:  [x].");
-define("LAN_418", "Iné stránky");
-define("LAN_SEARCH_1", "Všetko označiť");
-define("LAN_SEARCH_2", "Všetko odznačiť");
-define("LAN_SEARCH_3", "Zaslané");
-define("LAN_SEARCH_4", "Zhoda nájdená v názvoch článkov");
-define("LAN_SEARCH_5", "Zhoda nájdená v texte článkov");
-define("LAN_SEARCH_6", "Zhoda nájdená v rozšírenom texte článkov");
-define("LAN_SEARCH_7", "Zaslané od");
-define("LAN_SEARCH_8", "dňa");
-define("LAN_SEARCH_9", "Neoznačený");
-define("LAN_SEARCH_11", "Výsledky");
-define("LAN_SEARCH_12", "z");
-define("LAN_SEARCH_13", " v");
-define("LAN_SEARCH_14", "Kategória:");
-define("LAN_SEARCH_15", "Autor:");
-define("LAN_SEARCH_17", "Prepáčte, vyhľadanie je obmedzené len na jedno hľadanie každých");
-define("LAN_SEARCH_18", " sekúnd.");
-define("LAN_SEARCH_19", "Hľadať v:");
-define("LAN_SEARCH_20", "Potrebná autorizácia");
-define("LAN_SEARCH_21", "Nemáte oprávnenie pre zobrazenie tejto stránky.");
-define("LAN_SEARCH_22", "Všetky oblasti");
-define("LAN_SEARCH_23", "Formulár rozšíreného vyhľadávania");
-define("LAN_SEARCH_24", "Musí obsahovať slovo(á)");
-define("LAN_SEARCH_25", "Nesmie obsahovať slovo(á)");
-define("LAN_SEARCH_26", "Presná fráza");
-define("LAN_SEARCH_27", "Slovo(á) začínajúce na");
-define("LAN_SEARCH_28", "Voľba všetko nemá pokročilé vyhľadávanie");
-define("LAN_SEARCH_29", "Základný");
-define("LAN_SEARCH_30", "Pokročilý");
-define("LAN_SEARCH_31", "Nemá pokročilé vyhľadávanie");
-define("LAN_SEARCH_32", "Nasledujúce slová boli vylúčené z vyhľadávania");
-define("LAN_SEARCH_33", "Nasledujúce slovo bolo vylúčené z vyhľadávania");
-define("LAN_SEARCH_34", "Novšie ako");
-define("LAN_SEARCH_35", "Staršie ako");
-define("LAN_SEARCH_36", "Kedykoľvek");
-define("LAN_SEARCH_37", "Jeden deň");
-define("LAN_SEARCH_38", "Dva dni");
-define("LAN_SEARCH_39", "Tri dni");
-define("LAN_SEARCH_40", "Jeden týždeň");
-define("LAN_SEARCH_41", "Dva týždne");
-define("LAN_SEARCH_42", "Tri týždne");
-define("LAN_SEARCH_43", "Jeden mesiac");
-define("LAN_SEARCH_44", "Dva mesiace");
-define("LAN_SEARCH_45", "Tri mesiace");
-define("LAN_SEARCH_46", "Pol roka");
-define("LAN_SEARCH_47", "Jeden rok");
-define("LAN_SEARCH_48", "Dva roky");
-define("LAN_SEARCH_49", "Tri roky");
-define("LAN_SEARCH_50", "Dátum odoslaný");
-define("LAN_SEARCH_51", "všetky kategórie");
-define("LAN_SEARCH_52", "Zhoda v");
-define("LAN_SEARCH_53", "Celá položka");
-define("LAN_SEARCH_54", "Len názov");
-define("LAN_SEARCH_55", "Hľadaj v kategórii článkov");
-define("LAN_SEARCH_56", "Všetky kategórie článkov");
-define("LAN_SEARCH_57", "Komentáre odoslané k");
-define("LAN_SEARCH_58", "Všetky oblasti");
-define("LAN_SEARCH_59", "Všetky komentáre");
-define("LAN_SEARCH_60", "Komentáre odoslané k");
-define("LAN_SEARCH_61", "Podľa autora");
-define("LAN_SEARCH_62", "Dátumu registrácie");
-define("LAN_SEARCH_63", "Hľadaj v kategórii");
-define("LAN_SEARCH_64", "Všetky kategórie stiahnutí");
-define("LAN_SEARCH_65", "Stiahnutia");
-define("LAN_SEARCH_66", "Dátum pridania");
-define("LAN_SEARCH_67", "Všetky detaily stiahnutí");
-define("LAN_SEARCH_69", "Význam");
-define("LAN_SEARCH_70", "Odoslané k sťahovanej položke");
-define("LAN_SEARCH_71", "Odoslané v odpovedi na novinku");
-define("LAN_SEARCH_72", "Podpis");
-define("LAN_SEARCH_73", "Bez podpisu.");
-define("LAN_SEARCH_74", "Zaregistrovaný dňa");
-define("LAN_SEARCH_75", "Druh vyhľadávania");
-define("LAN_SEARCH_76", "Odoslané na stránke");
-define("LAN_SEARCH_77", "Odoslané na stránke profilu");
-define("LAN_SEARCH_98", "Články");
-define("LAN_SEARCH_201", "Zmeňte svoju požiadavku na vyhľadávanie");
-define("LAN_SEARCH_202", "Režim pokročilého vyhľadávania");
+
+return [
+    'PAGE_NAME' => "Prehľadávať",
+    'LAN_140' => "Členovia",
+    'LAN_192' => "Všetky kategórie",
+    'LAN_193' => "Kalendár udalostí",
+    'LAN_194' => "Všetky kategórie",
+    'LAN_195' => "Hľadanie",
+    'LAN_196' => "výsledkov",
+    'LAN_197' => "Stiahnutia",
+    'LAN_198' => "Žiadne výsledky vyhľadávania",
+    'LAN_199' => "Hľadať:",
+    'LAN_416' => "Pre prístup k tejto stránke musíte byť prihlásený",
+    'LAN_417' => "Minimálny počet znakov pre hľadaný reťazec:  [x].",
+    'LAN_418' => "Iné stránky",
+    'LAN_SEARCH_1' => "Všetko označiť",
+    'LAN_SEARCH_2' => "Všetko odznačiť",
+    'LAN_SEARCH_3' => "Zaslané",
+    'LAN_SEARCH_4' => "Zhoda nájdená v názvoch článkov",
+    'LAN_SEARCH_5' => "Zhoda nájdená v texte článkov",
+    'LAN_SEARCH_6' => "Zhoda nájdená v rozšírenom texte článkov",
+    'LAN_SEARCH_7' => "Zaslané od",
+    'LAN_SEARCH_8' => "dňa",
+    'LAN_SEARCH_9' => "Neoznačený",
+    'LAN_SEARCH_11' => "Výsledky",
+    'LAN_SEARCH_12' => "z",
+    'LAN_SEARCH_13' => " v",
+    'LAN_SEARCH_14' => "Kategória:",
+    'LAN_SEARCH_15' => "Autor:",
+    'LAN_SEARCH_17' => "Prepáčte, vyhľadanie je obmedzené len na jedno hľadanie každých",
+    'LAN_SEARCH_18' => " sekúnd.",
+    'LAN_SEARCH_19' => "Hľadať v:",
+    'LAN_SEARCH_20' => "Potrebná autorizácia",
+    'LAN_SEARCH_21' => "Nemáte oprávnenie pre zobrazenie tejto stránky.",
+    'LAN_SEARCH_22' => "Všetky oblasti",
+    'LAN_SEARCH_23' => "Formulár rozšíreného vyhľadávania",
+    'LAN_SEARCH_24' => "Musí obsahovať slovo(á)",
+    'LAN_SEARCH_25' => "Nesmie obsahovať slovo(á)",
+    'LAN_SEARCH_26' => "Presná fráza",
+    'LAN_SEARCH_27' => "Slovo(á) začínajúce na",
+    'LAN_SEARCH_28' => "Voľba všetko nemá pokročilé vyhľadávanie",
+    'LAN_SEARCH_29' => "Základný",
+    'LAN_SEARCH_30' => "Pokročilý",
+    'LAN_SEARCH_31' => "Nemá pokročilé vyhľadávanie",
+    'LAN_SEARCH_32' => "Nasledujúce slová boli vylúčené z vyhľadávania",
+    'LAN_SEARCH_33' => "Nasledujúce slovo bolo vylúčené z vyhľadávania",
+    'LAN_SEARCH_34' => "Novšie ako",
+    'LAN_SEARCH_35' => "Staršie ako",
+    'LAN_SEARCH_36' => "Kedykoľvek",
+    'LAN_SEARCH_37' => "Jeden deň",
+    'LAN_SEARCH_38' => "Dva dni",
+    'LAN_SEARCH_39' => "Tri dni",
+    'LAN_SEARCH_40' => "Jeden týždeň",
+    'LAN_SEARCH_41' => "Dva týždne",
+    'LAN_SEARCH_42' => "Tri týždne",
+    'LAN_SEARCH_43' => "Jeden mesiac",
+    'LAN_SEARCH_44' => "Dva mesiace",
+    'LAN_SEARCH_45' => "Tri mesiace",
+    'LAN_SEARCH_46' => "Pol roka",
+    'LAN_SEARCH_47' => "Jeden rok",
+    'LAN_SEARCH_48' => "Dva roky",
+    'LAN_SEARCH_49' => "Tri roky",
+    'LAN_SEARCH_50' => "Dátum odoslaný",
+    'LAN_SEARCH_51' => "všetky kategórie",
+    'LAN_SEARCH_52' => "Zhoda v",
+    'LAN_SEARCH_53' => "Celá položka",
+    'LAN_SEARCH_54' => "Len názov",
+    'LAN_SEARCH_55' => "Hľadaj v kategórii článkov",
+    'LAN_SEARCH_56' => "Všetky kategórie článkov",
+    'LAN_SEARCH_57' => "Komentáre odoslané k",
+    'LAN_SEARCH_58' => "Všetky oblasti",
+    'LAN_SEARCH_59' => "Všetky komentáre",
+    'LAN_SEARCH_60' => "Komentáre odoslané k",
+    'LAN_SEARCH_61' => "Podľa autora",
+    'LAN_SEARCH_62' => "Dátumu registrácie",
+    'LAN_SEARCH_63' => "Hľadaj v kategórii",
+    'LAN_SEARCH_64' => "Všetky kategórie stiahnutí",
+    'LAN_SEARCH_65' => "Stiahnutia",
+    'LAN_SEARCH_66' => "Dátum pridania",
+    'LAN_SEARCH_67' => "Všetky detaily stiahnutí",
+    'LAN_SEARCH_69' => "Význam",
+    'LAN_SEARCH_70' => "Odoslané k sťahovanej položke",
+    'LAN_SEARCH_71' => "Odoslané v odpovedi na novinku",
+    'LAN_SEARCH_72' => "Podpis",
+    'LAN_SEARCH_73' => "Bez podpisu.",
+    'LAN_SEARCH_74' => "Zaregistrovaný dňa",
+    'LAN_SEARCH_75' => "Druh vyhľadávania",
+    'LAN_SEARCH_76' => "Odoslané na stránke",
+    'LAN_SEARCH_77' => "Odoslané na stránke profilu",
+    'LAN_SEARCH_98' => "Články",
+    'LAN_SEARCH_201' => "Zmeňte svoju požiadavku na vyhľadávanie",
+    'LAN_SEARCH_202' => "Režim pokročilého vyhľadávania",
+];

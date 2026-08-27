@@ -17,16 +17,16 @@
 if (!defined('e107_INIT')) { exit; }
 
 $caption = "System Logs Help";
-if (e_QUERY) list($action,$junk) = explode('.',e_QUERY); else $action = 'list';
+if (e_QUERY) list($action) = explode('.', e_QUERY); else $action = 'list';
 
 function common_filters()
 {
-  $ret = "<b>Data filters</b><br />
+  return "<b>Data filters</b><br />
   You can specify various filters which restrict the amount of data to view. These are retained in a cookie until you log off.<br />
   The start and end date/time filters have to be enabled through their respective checkboxes.<br />
   Other filters are active when there is a value in the box.<br />
   ";
-  return $ret;
+
 }
 
 
@@ -72,5 +72,4 @@ default :
   (At present, logging is still being added to the code, so the list is not complete.)<br /><br />";
   $text .= common_filters();
 }
-$ns -> tablerender($caption, $text);
-?>
+e107::getRender()->tablerender($caption, $text);

@@ -4,75 +4,75 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/14 14:24:52 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.1.7 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("COMLAN_0", "[blokované adminom]");
-define("COMLAN_1", "Odblokovať");
-define("COMLAN_2", "Blokovať");
-define("COMLAN_4", "Info");
-define("COMLAN_5", "Komentáre ...");
-define("COMLAN_6", "Musíte byť prihlásení, aby ste mohli zasielať komentáre - prosím prihláste alebo zaregistrujte sa");
-define("COMLAN_7", "Hlavný administrátor");
-define("COMLAN_8", "komentár");
-define("COMLAN_9", "Pridať komentár");
-define("COMLAN_10", "Administrátor");
-define("COMLAN_11", "Nepodarilo sa zapísať komentár do databázy - prosím, prepíšte komentár a vynechajte všetky neštandardné znaky.");
-define("COMLAN_12", "Užívateľ");
-define("COMLAN_16", "Meno užívateľa:");
-define("COMLAN_100", "Články");
-define("COMLAN_101", "anketa");
-define("COMLAN_102", "Odpoveď na:");
-define("COMLAN_103", "Článok");
-define("COMLAN_104", "Ukázať");
-define("COMLAN_105", "Článok");
-define("COMLAN_106", "Stiahnutia");
-define("COMLAN_145", "Registrovaný:");
-define("COMLAN_194", "Hosť");
-define("COMLAN_195", "Registrovaný člen");
-define("COMLAN_310", "S tým užívateľským menom nie je možné odoslať príspevok, pretože už je registrované - ak je to vaše užívateľské meno, prihláste sa.");
-define("COMLAN_312", "Duplicitný komentár - nedá sa odoslať");
-define("COMLAN_313", "Lokalita");
-define("COMLAN_314", "moderovať komentáre");
-define("COMLAN_315", "Spätné odkazy");
-define("COMLAN_316", "Žiadne spätné odkazy pre tento príspevok.");
-define("COMLAN_317", "Priemerné sledovania");
-define("COMLAN_318", "Editovať komentáre");
-define("COMLAN_319", "Editovať");
-define("COMLAN_320", "Upraviť komentár");
-define("COMLAN_321", "tu");
-define("COMLAN_322", "pre prihlásenie");
-define("COMLAN_323", "Chyba!");
-define("COMLAN_324", "Predmet");
-define("COMLAN_325", "Re:");
-define("COMLAN_326", "Reagovať na príspevok:");
-define("COMLAN_328", "Komentáre sú zamknuté");
-define("COMLAN_329", "Neautorizované");
-define("COMLAN_330", "IP:");
-define("COMLAN_331", "Komentár ešte nebol schválený");
-define("COMLAN_332", "Nepodarilo sa vymazať komentár");
-define("COMLAN_333", "Komentár schválený");
-define("COMLAN_334", "Nepodarilo sa schváliť komentár");
-define("COMLAN_335", "Schváliť");
-define("COMLAN_336", "Niečo najprv napíšte");
-define("COMLAN_337", "Aktualizácia úspešná.");
-define("COMLAN_400", "schválené");
-define("COMLAN_401", "blokované");
-define("COMLAN_402", "čakajúce");
-define("COMLAN_403", "Zanechajte správu...");
-define("COMLAN_404", "Schváliť");
-define("COMLAN_TYPE_1", "články");
-define("COMLAN_TYPE_2", "stiahnutia");
-define("COMLAN_TYPE_3", "FAQ");
-define("COMLAN_TYPE_4", "anketa");
-define("COMLAN_TYPE_5", "dokumenty");
-define("COMLAN_TYPE_6", "hlásenia chýb");
-define("COMLAN_TYPE_7", "námety");
-define("COMLAN_TYPE_8", "profil užívateľa");
-define("COMLAN_TYPE_PAGE", "Článok");
-define("COMLAN_500", "[Prihláste sa], ak chcete odoslať komentár.");
-define("COMLAN_501", "Ak ešte nie ste registrovaný, [kliknite sem].");
+
+return [
+    'COMLAN_0' => "[blokované adminom]",
+    'COMLAN_1' => "Odblokovať",
+    'COMLAN_2' => "Blokovať",
+    'COMLAN_4' => "Info",
+    'COMLAN_5' => "Komentáre ...",
+    'COMLAN_6' => "Musíte byť prihlásení, aby ste mohli zasielať komentáre - prosím prihláste alebo zaregistrujte sa",
+    'COMLAN_7' => "Hlavný administrátor",
+    'COMLAN_8' => "komentár",
+    'COMLAN_9' => "Pridať komentár",
+    'COMLAN_10' => "Administrátor",
+    'COMLAN_11' => "Nepodarilo sa zapísať komentár do databázy - prosím, prepíšte komentár a vynechajte všetky neštandardné znaky.",
+    'COMLAN_12' => "Užívateľ",
+    'COMLAN_16' => "Meno užívateľa:",
+    'COMLAN_100' => "Články",
+    'COMLAN_101' => "anketa",
+    'COMLAN_102' => "Odpoveď na:",
+    'COMLAN_103' => "Článok",
+    'COMLAN_104' => "Ukázať",
+    'COMLAN_105' => "Článok",
+    'COMLAN_106' => "Stiahnutia",
+    'COMLAN_145' => "Registrovaný:",
+    'COMLAN_194' => "Hosť",
+    'COMLAN_195' => "Registrovaný člen",
+    'COMLAN_310' => "S tým užívateľským menom nie je možné odoslať príspevok, pretože už je registrované - ak je to vaše užívateľské meno, prihláste sa.",
+    'COMLAN_312' => "Duplicitný komentár - nedá sa odoslať",
+    'COMLAN_313' => "Lokalita",
+    'COMLAN_314' => "moderovať komentáre",
+    'COMLAN_318' => "Editovať komentáre",
+    'COMLAN_319' => "Editovať",
+    'COMLAN_320' => "Upraviť komentár",
+    'COMLAN_321' => "tu",
+    'COMLAN_322' => "pre prihlásenie",
+    'COMLAN_323' => "Chyba!",
+    'COMLAN_324' => "Predmet",
+    'COMLAN_325' => "Re:",
+    'COMLAN_326' => "Reagovať na príspevok:",
+    'COMLAN_328' => "Komentáre sú zamknuté",
+    'COMLAN_329' => "Neautorizované",
+    'COMLAN_330' => "IP:",
+    'COMLAN_331' => "Komentár ešte nebol schválený",
+    'COMLAN_332' => "Nepodarilo sa vymazať komentár",
+    'COMLAN_333' => "Komentár schválený",
+    'COMLAN_334' => "Nepodarilo sa schváliť komentár",
+    'COMLAN_335' => "Schváliť",
+    'COMLAN_336' => "Niečo najprv napíšte",
+    'COMLAN_337' => "Aktualizácia úspešná.",
+    'COMLAN_400' => "schválené",
+    'COMLAN_401' => "blokované",
+    'COMLAN_402' => "čakajúce",
+    'COMLAN_403' => "Zanechajte správu...",
+    'COMLAN_404' => "Schváliť",
+    'COMLAN_TYPE_1' => "články",
+    'COMLAN_TYPE_2' => "stiahnutia",
+    'COMLAN_TYPE_3' => "FAQ",
+    'COMLAN_TYPE_4' => "anketa",
+    'COMLAN_TYPE_5' => "dokumenty",
+    'COMLAN_TYPE_6' => "hlásenia chýb",
+    'COMLAN_TYPE_7' => "námety",
+    'COMLAN_TYPE_8' => "profil užívateľa",
+    'COMLAN_TYPE_PAGE' => "Článok",
+    'COMLAN_500' => "[Prihláste sa], ak chcete odoslať komentár.",
+    'COMLAN_501' => "Ak ešte nie ste registrovaný, [kliknite sem].",
+];

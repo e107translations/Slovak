@@ -4,25 +4,28 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2023/12/05 10:24:52 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.3 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_HERO_ADMIN_001", "Defaultné slajdy boli importované.");
-define("LAN_HERO_ADMIN_002", "Nepodarilo sa naimportovať defaultné slajdy.");
-define("LAN_HERO_ADMIN_003", "Pozadie");
-define("LAN_HERO_ADMIN_004", "Obrázok/video");
-define("LAN_HERO_ADMIN_005", "Média");
-define("LAN_HERO_ADMIN_006", "Štítok");
-define("LAN_HERO_ADMIN_007", "Nezabudnite aktivovať hero menu  na domovskej stránke pomocou [Správca menu].");
-define("LAN_HERO_ADMIN_009", "Balíček s ikonami");
-define("LAN_HERO_ADMIN_010", "Štýl pre ikony");
-define("LAN_HERO_ADMIN_011", "Automatický interval slajdov");
-define("LAN_HERO_ADMIN_012", "Text");
-define("LAN_HERO_ADMIN_013", "Animácia");
-define("LAN_HERO_ADMIN_014", "Zdržanie (sec)");
-define("LAN_HERO_ADMIN_015", "Tlačítko");
-define("LAN_HERO_ADMIN_016", "[x] sekúnd");
+
+return [
+    'LAN_HERO_ADMIN_001' => "Defaultné slajdy boli importované.",
+    'LAN_HERO_ADMIN_002' => "Nepodarilo sa naimportovať defaultné slajdy.",
+    'LAN_HERO_ADMIN_003' => "Pozadie",
+    'LAN_HERO_ADMIN_004' => "Obrázok/video",
+    'LAN_HERO_ADMIN_005' => "Média",
+    'LAN_HERO_ADMIN_006' => "Štítok",
+    'LAN_HERO_ADMIN_007' => "Nezabudnite aktivovať hero menu  na domovskej stránke pomocou [Správca menu].",
+    'LAN_HERO_ADMIN_009' => "Balíček s ikonami",
+    'LAN_HERO_ADMIN_010' => "Štýl pre ikony",
+    'LAN_HERO_ADMIN_011' => "Automatický interval slajdov",
+    'LAN_HERO_ADMIN_012' => "Text",
+    'LAN_HERO_ADMIN_013' => "Animácia",
+    'LAN_HERO_ADMIN_014' => "Zdržanie (sec)",
+    'LAN_HERO_ADMIN_015' => "Tlačítko",
+    'LAN_HERO_ADMIN_016' => "[x] sekúnd",
+];

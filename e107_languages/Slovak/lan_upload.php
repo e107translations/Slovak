@@ -4,44 +4,50 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/10/12 10:27:56 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Nahrávanie súborov");
-define("LAN_UL_001", "Neplatná mailová adresa");
-define("LAN_UL_002", "Ľutujeme. Nemáte oprávnenie k nahranie súboru.");
-define("LAN_UL_020", "Chyba");
-define("LAN_UL_021", "Nahrávanie súboru zlyhalo");
-define("LAN_UL_022", "Môže sa líšiť podľa typu súboru");
-define("LAN_UL_023", "Typ súboru");
-define("LAN_UL_024", "Maximálna veľkosť");
-define("LAN_UL_025", "Nahrávanie nie je povolené");
-define("LAN_UL_032", "Musíte vybrať kategóriu");
-define("LAN_UL_033", "Musíte zadať platnú mailovú adresu");
-define("LAN_UL_034", "Musíte zadať názov súboru");
-define("LAN_UL_035", "Musíte zadať popis");
-define("LAN_UL_036", "Musíte špecifikovať súbor na nahratie");
-define("LAN_UL_037", "Musíte špecifikovať kategórii");
-define("LAN_61", "Vaše meno:");
-define("LAN_112", "Emailová adresa:");
-define("LAN_144", "Domovská stránka:");
-define("LAN_402", "Nahrávanie súborov je povolené iba registrovaným užívateľom.");
-define("LAN_404", "Ďakujeme. Váš súbor bol prijatý a po preverení bude zverejnený.");
-define("LAN_406", "Upozornenie");
-define("LAN_407", "Iné typy súborov budú okamžite zmazané.");
-define("LAN_408", "Podčiarknuté");
-define("LAN_409", "Názov súboru");
-define("LAN_410", "Verzia");
-define("LAN_411", "Súbor");
-define("LAN_413", "Popis");
-define("LAN_414", "Demoverzia");
-define("LAN_415", "URL adresa demoverzie");
-define("LAN_418", "Maximálna veľkosť súboru:");
-define("LAN_419", "Povolené typy súborov");
-define("LAN_420", "polia sú povinné");
-define("LAN_UL_039", "Odoslať a nahrať");
-define("LAN_UL_040", "Odoslanie súboru");
+
+return [
+    'PAGE_NAME' => "Nahrávanie súborov",
+    'LAN_UL_001' => "Neplatná mailová adresa",
+    'LAN_UL_002' => "Ľutujeme. Nemáte oprávnenie k nahranie súboru.",
+    'LAN_UL_020' => "Chyba",
+    'LAN_UL_021' => "Nahrávanie súboru zlyhalo",
+    'LAN_UL_022' => "Môže sa líšiť podľa typu súboru",
+    'LAN_UL_023' => "Typ súboru",
+    'LAN_UL_024' => "Maximálna veľkosť",
+    'LAN_UL_025' => "Nahrávanie nie je povolené",
+    'LAN_UL_026' => "",
+    'LAN_UL_027' => "",
+    'LAN_UL_032' => "Musíte vybrať kategóriu",
+    'LAN_UL_033' => "Musíte zadať platnú mailovú adresu",
+    'LAN_UL_034' => "Musíte zadať názov súboru",
+    'LAN_UL_035' => "Musíte zadať popis",
+    'LAN_UL_036' => "Musíte špecifikovať súbor na nahratie",
+    'LAN_UL_037' => "Musíte špecifikovať kategórii",
+    'LAN_UL_038' => "",
+    'LAN_61' => "Vaše meno:",
+    'LAN_112' => "Emailová adresa:",
+    'LAN_144' => "Domovská stránka:",
+    'LAN_402' => "Nahrávanie súborov je povolené iba registrovaným užívateľom.",
+    'LAN_404' => "Ďakujeme. Váš súbor bol prijatý a po preverení bude zverejnený.",
+    'LAN_406' => "Upozornenie",
+    'LAN_407' => "Iné typy súborov budú okamžite zmazané.",
+    'LAN_408' => "Podčiarknuté",
+    'LAN_409' => "Názov súboru",
+    'LAN_410' => "Verzia",
+    'LAN_411' => "Súbor",
+    'LAN_413' => "Popis",
+    'LAN_414' => "Demoverzia",
+    'LAN_415' => "URL adresa demoverzie",
+    'LAN_419' => "Povolené typy súborov",
+    'LAN_420' => "polia sú povinné",
+    'LAN_UL_039' => "Odoslať a nahrať",
+    'LAN_UL_040' => "Odoslanie súboru",
+    'LAN_UL_041' => "Absolute maximum file size:", // LAN_418
+];

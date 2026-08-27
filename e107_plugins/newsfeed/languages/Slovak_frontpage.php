@@ -4,13 +4,15 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:52:46
-|
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("NWSF_FP_1", "Importované RSS noviniek");
-define("NWSF_FP_2", "hlavná stránka");
 
-
-?>
+return [
+    'NWSF_FP_1' => "Importované RSS noviniek",
+    'NWSF_FP_2' => "hlavná stránka",
+];

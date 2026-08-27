@@ -4,257 +4,263 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/04/09 11:21:15 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("CORE_DATE_ORDER", "dmy");
-define("LAN_MAILOUT_01", "Od");
-define("LAN_MAILOUT_02", "Z emailu");
-define("LAN_MAILOUT_03", "Komu");
-define("LAN_MAILOUT_04", "Cc");
-define("LAN_MAILOUT_05", "Bcc");
-define("LAN_MAILOUT_06", "Predmet");
-define("LAN_MAILOUT_07", "Prílohy");
-define("LAN_MAILOUT_08", "Poslať email");
-define("LAN_MAILOUT_09", "Send format");
-define("LAN_MAILOUT_10", "Podpis užívateľa");
-define("LAN_MAILOUT_11", "Vložiť premenné");
-define("LAN_MAILOUT_12", "Všetci užívatelia");
-define("LAN_MAILOUT_13", "All Unverified Users");
-define("LAN_MAILOUT_14", "Užívateľské meno");
-define("LAN_MAILOUT_15", "Mailout");
-define("LAN_MAILOUT_16", "Užívateľské meno");
-define("LAN_MAILOUT_17", "prihlasovací link");
-define("LAN_MAILOUT_18", "ID užívateľa");
-define("LAN_MAILOUT_19", "Neurčená cieľová adresa");
-define("LAN_MAILOUT_20", "Trasa odosielaného mailu");
-define("LAN_MAILOUT_21", "Bulk mailing Entries");
-define("LAN_MAILOUT_22", "Momentálne nie sú uložené žiadne položky");
-define("LAN_MAILOUT_23", "Trieda užívateľa:");
-define("LAN_MAILOUT_24", "email(y) sú pripravené na odoslanie");
-define("LAN_MAILOUT_25", "Bulk mailing controls");
-define("LAN_MAILOUT_26", "Pause bulk mailing every");
-define("LAN_MAILOUT_27", "emails for");
-define("LAN_MAILOUT_28", "Uložiť zmeny");
-define("LAN_MAILOUT_29", "sekundy");
-define("LAN_MAILOUT_30", "Used mostly with SMTP keepalive. A pause of more than 30 seconds may cause the browser to time-out");
-define("LAN_MAILOUT_31", "Spracovávanie vyskočeného emailu");
-define("LAN_MAILOUT_33", "Incoming Mail server");
-define("LAN_MAILOUT_34", "Account (user) Name");
-define("LAN_MAILOUT_36", "Zmažte po kontrole vyskakujúce maily");
-define("LAN_MAILOUT_37", "Aktualizovať");
-define("LAN_MAILOUT_38", "Späť");
-define("LAN_MAILOUT_39", "Emailovanie");
-define("LAN_MAILOUT_41", "pred odoslaním mailu z tejto stránky.");
-define("LAN_MAILOUT_43", "Užívateľské meno");
-define("LAN_MAILOUT_44", "Prihlásenie užívateľa");
-define("LAN_MAILOUT_45", "Užívateľov email");
-define("LAN_MAILOUT_46", "Porovnanie užívateľa");
-define("LAN_MAILOUT_47", "obsahuje");
-define("LAN_MAILOUT_48", "rovná sa");
-define("LAN_MAILOUT_51", "Predmet");
-define("LAN_MAILOUT_52", "Last mod");
-define("LAN_MAILOUT_53", "Admini");
-define("LAN_MAILOUT_54", "Ja");
-define("LAN_MAILOUT_55", "Užívateľská trieda");
-define("LAN_MAILOUT_56", "Posledná návšteva");
-define("LAN_MAILOUT_57", "Send bulk SMTP emails in blocks");
-define("LAN_MAILOUT_67", "The email could not be sent. Please review your SMTP settings, or select another mailing method and try again.");
-define("LAN_MAILOUT_68", "Registered Users");
-define("LAN_MAILOUT_69", "matches, after");
-define("LAN_MAILOUT_70", " duplicates stripped.");
-define("LAN_MAILOUT_71", "Total emails to send");
-define("LAN_MAILOUT_72", "Mailshot logging");
-define("LAN_MAILOUT_73", "No logging");
-define("LAN_MAILOUT_74", "Logging only (no send)");
-define("LAN_MAILOUT_75", "Log and send");
-define("LAN_MAILOUT_76", "Include email info in log");
-define("LAN_MAILOUT_77", "Email address sources");
-define("LAN_MAILOUT_78", "Mailshot Status");
-define("LAN_MAILOUT_79", "No mailshots to display");
-define("LAN_MAILOUT_81", "Testovací email bol úspešne odoslaný, skontrolujte, prosím, vašu emailovú schránku.");
-define("LAN_MAILOUT_82", "Mails sent");
-define("LAN_MAILOUT_83", "Mails to go");
-define("LAN_MAILOUT_84", "Mail ID");
-define("LAN_MAILOUT_85", "Originator");
-define("LAN_MAILOUT_86", "Re-send");
-define("LAN_MAILOUT_87", "SMTP Server");
-define("LAN_MAILOUT_88", "SMTP užívateľské meno");
-define("LAN_MAILOUT_89", "SMTP heslo");
-define("LAN_MAILOUT_90", "SMTP Features");
-define("LAN_MAILOUT_91", "POP before SMTP");
-define("LAN_MAILOUT_92", "SSL");
-define("LAN_MAILOUT_93", "TLS");
-define("LAN_MAILOUT_94", "(Use SSL for gmail/googlemail)");
-define("LAN_MAILOUT_95", "Use VERP for bulk mailing");
-define("LAN_MAILOUT_97", "Mailer Results");
-define("LAN_MAILOUT_98", "Orphaned entries");
-define("LAN_MAILOUT_99", "Confirm retry mailshot");
-define("LAN_MAILOUT_100", "Správa");
-define("LAN_MAILOUT_101", "Email Detail");
-define("LAN_MAILOUT_102", "Detail of mailshot");
-define("LAN_MAILOUT_103", "Results of attempts to send");
-define("LAN_MAILOUT_104", "No attempt to send, or error saving result");
-define("LAN_MAILOUT_105", "Details of up to 10 failures");
-define("LAN_MAILOUT_106", "Testovací email nebol odoslaný. Zdá sa, že váš server alebo samotný web nie je správne nakonfigurovaný pre odosielanie emailov, prosím, skúste použiť SMTP alebo kontaktujte administrátora aby skontroloval nastavenie emailu pre váš účet.");
-define("LAN_MAILOUT_107", "at");
-define("LAN_MAILOUT_108", "Výsledok");
-define("LAN_MAILOUT_109", "Show detail");
-define("LAN_MAILOUT_110", "Poslať testovací email");
-define("LAN_MAILOUT_111", "Email Title (not sent)");
-define("LAN_MAILOUT_112", "Send test email to");
-define("LAN_MAILOUT_113", "Testovací mail z");
-define("LAN_MAILOUT_114", "This is a test email, it appears that your email settings are working ok! [br][br] Regards [br] from the e107 website system.");
-define("LAN_MAILOUT_115", "Zapnúť SMTP");
-define("LAN_MAILOUT_116", "Ozančte ak chcete zasielať emaily pomocou SMTP");
-define("LAN_MAILOUT_117", "Komplet");
-define("LAN_MAILOUT_118", "Click on proceed' to start sending emails. Click on 'cancel' to stop the run. Once complete, select another page. Unsent emails cal be viewed through the 'Mailshot status' screen");
-define("LAN_MAILOUT_119", "Logging only, with errors");
-define("LAN_MAILOUT_120", "Account type");
-define("LAN_MAILOUT_121", "Standard POP3");
-define("LAN_MAILOUT_122", "POP3, TLS disabled");
-define("LAN_MAILOUT_123", "POP3 with TLS");
-define("LAN_MAILOUT_124", "IMAP");
-define("LAN_MAILOUT_125", "Text only");
-define("LAN_MAILOUT_126", "Text and HTML");
-define("LAN_MAILOUT_127", "Include theme");
-define("LAN_MAILOUT_128", "Send Error");
-define("LAN_MAILOUT_129", "Expiry Date");
-define("LAN_MAILOUT_130", "Creation Date");
-define("LAN_MAILOUT_131", "Sending Started");
-define("LAN_MAILOUT_132", "Sending Complete");
-define("LAN_MAILOUT_134", "Priority");
-define("LAN_MAILOUT_136", "Mailout Status");
-define("LAN_MAILOUT_137", "Mail Ref");
-define("LAN_MAILOUT_138", "Email status");
-define("LAN_MAILOUT_139", "Date active");
-define("LAN_MAILOUT_140", "Recipient Email");
-define("LAN_MAILOUT_141", "Recipient Name");
-define("LAN_MAILOUT_142", "Recipient User ID");
-define("LAN_MAILOUT_143", "Recipient ref.");
-define("LAN_MAILOUT_144", "Odrazený");
-define("LAN_MAILOUT_145", "New email saved");
-define("LAN_MAILOUT_146", "Error saving email");
-define("LAN_MAILOUT_147", "Email updated");
-define("LAN_MAILOUT_148", "User values");
-define("LAN_MAILOUT_149", "Sender Email");
-define("LAN_MAILOUT_150", "Sender Name");
-define("LAN_MAILOUT_151", "Copy to");
-define("LAN_MAILOUT_152", "Blind copy to");
-define("LAN_MAILOUT_153", "Prílohy");
-define("LAN_MAILOUT_154", "Send Format");
-define("LAN_MAILOUT_155", "Selectors");
-define("LAN_MAILOUT_156", "Maximum number of emails to send per scheduler tick");
-define("LAN_MAILOUT_157", "Value will depend on a number of factors, including how often your mail queue scheduler job is triggered and the rate at which your ISP will accept outgoing mail. Zero to clear queue each time");
-define("LAN_MAILOUT_158", "Send now");
-define("LAN_MAILOUT_159", "Hold email");
-define("LAN_MAILOUT_160", "Cancel send");
-define("LAN_MAILOUT_161", "IMPORTANT! This file appears to not exist");
-define("LAN_MAILOUT_162", "IMPORTANT! You need to make this file executable");
-define("LAN_MAILOUT_163", "Edit/Send Mail");
-define("LAN_MAILOUT_164", "Email information not found");
-define("LAN_MAILOUT_165", "Confirm delete the following stored email, including any recipient records");
-define("LAN_MAILOUT_166", "General error deleting mail ref: [x]");
-define("LAN_MAILOUT_167", "Error deleting mail content ref: [x]");
-define("LAN_MAILOUT_168", "Mail content deleted ref: [x]");
-define("LAN_MAILOUT_169", "Error deleting mail recipients ref: [x]");
-define("LAN_MAILOUT_170", "Deleted --NUM-- recipients for mail ref: [x]");
-define("LAN_MAILOUT_171", "Confirm email delete");
-define("LAN_MAILOUT_172", "Mail Type/Status");
-define("LAN_MAILOUT_173", "Recipients");
-define("LAN_MAILOUT_174", "Security check fail: [x] [z]");
-define("LAN_MAILOUT_175", "Before");
-define("LAN_MAILOUT_176", "Equal to");
-define("LAN_MAILOUT_177", "After");
-define("LAN_MAILOUT_178", "Last site visit");
-define("LAN_MAILOUT_179", "Confirm email send");
-define("LAN_MAILOUT_180", "Selection criteria:");
-define("LAN_MAILOUT_181", "Show recipients");
-define("LAN_MAILOUT_182", "Tidy database tables");
-define("LAN_MAILOUT_183", "Error tidying database");
-define("LAN_MAILOUT_184", "Database tidied");
-define("LAN_MAILOUT_185", "Emails added to send queue");
-define("LAN_MAILOUT_186", "General error putting mail ref: [x] on hold");
-define("LAN_MAILOUT_187", "Email [x] put on hold");
-define("LAN_MAILOUT_188", "General error sending mail ref: [x]");
-define("LAN_MAILOUT_189", "Test adresy");
-define("LAN_MAILOUT_190", "Create/Send Mail");
-define("LAN_MAILOUT_191", "Saved emails");
-define("LAN_MAILOUT_192", "Completed Mailshots");
-define("LAN_MAILOUT_193", "Pending Mailshots");
-define("LAN_MAILOUT_194", "Held Mailshots");
-define("LAN_MAILOUT_200", "No subject specified");
-define("LAN_MAILOUT_201", "No meaningful data for email");
-define("LAN_MAILOUT_202", "No text in email body");
-define("LAN_MAILOUT_203", "No sender name specified");
-define("LAN_MAILOUT_204", "No sender email address specified");
-define("LAN_MAILOUT_205", "Email send format error");
-define("LAN_MAILOUT_206", "Invalid mail ID ([x]) specified");
-define("LAN_MAILOUT_207", "Template load error");
-define("LAN_MAILOUT_208", "Template conversion error");
-define("LAN_MAILOUT_211", "Sent");
-define("LAN_MAILOUT_212", "Failed");
-define("LAN_MAILOUT_213", "Bounced");
-define("LAN_MAILOUT_214", "To send");
-define("LAN_MAILOUT_215", "Saved");
-define("LAN_MAILOUT_216", "Code error");
-define("LAN_MAILOUT_217", "Held");
-define("LAN_MAILOUT_218", "Cancelled");
-define("LAN_MAILOUT_219", "Partial");
-define("LAN_MAILOUT_220", "Email ID [x] cancelled");
-define("LAN_MAILOUT_221", "Error cancelling email with ID [x]");
-define("LAN_MAILOUT_222", "Default email format");
-define("LAN_MAILOUT_223", "(Used for some system-generated emails)");
-define("LAN_MAILOUT_224", "Inc. Images");
-define("LAN_MAILOUT_225", "Include images in email");
-define("LAN_MAILOUT_226", "[x] orphaned recipient record(s) removed");
-define("LAN_MAILOUT_227", "Deleted [x] records from [y]");
-define("LAN_MAILOUT_228", "[x] anomalies in mail_content corrected; records: [y]");
-define("LAN_MAILOUT_229", "Email ID [x] put on hold");
-define("LAN_MAILOUT_230", "Error holding email with ID [x]");
-define("LAN_MAILOUT_231", "Bounced emails - Processing method");
-define("LAN_MAILOUT_232", "None");
-define("LAN_MAILOUT_233", "Auto-process script");
-define("LAN_MAILOUT_234", "Mail account");
-define("LAN_MAILOUT_235", "(Your server must forward or 'pipe' from the email address above to the script path above.)");
-define("LAN_MAILOUT_236", "Last Bounce Processed");
-define("LAN_MAILOUT_237", "Summary counters updated on [x] emails");
-define("LAN_MAILOUT_238", "Earliest time to send");
-define("LAN_MAILOUT_239", "Latest time to send");
-define("LAN_MAILOUT_240", "Notify me when run complete");
-define("LAN_MAILOUT_241", " (This is in addition to the standard e107 notify options)");
-define("LAN_MAILOUT_242", "Additional options (only when sending)");
-define("LAN_MAILOUT_243", "Notify");
-define("LAN_MAILOUT_244", "Email sent:");
-define("LAN_MAILOUT_245", "Check for bounces automatically");
-define("LAN_MAILOUT_246", "If checked, you will need to activate the task in the scheduler");
-define("LAN_MAILOUT_247", "Email information:");
-define("LAN_MAILOUT_248", "Completion status:");
-define("LAN_MAILOUT_249", "Výsledky poslať:");
-define("LAN_MAILOUT_250", "--- Koniec notifikácie ---");
-define("LAN_MAILOUT_251", "Skopírovať a editovať");
-define("LAN_MAILOUT_252", "Does various consistency checks on the data, corrects counts, deletes temporary data");
-define("LAN_MAILOUT_253", "No recipients found - check for database corruption");
-define("LAN_MAILOUT_254", "View templated email");
-define("LAN_MAILOUT_255", "Templated Email, ID:");
-define("LAN_MAILOUT_256", "Return");
-define("LAN_MAILOUT_257", "Generated template");
-define("LAN_MAILOUT_259", "V nastaveniach nie sú zvolené žiadne zdrojové adresy.");
-define("LAN_SEND", "Send");
-define("LAN_HOLD", "Hold");
-define("LAN_MAILOUT_260", "User-Type");
-define("LAN_MAILOUT_261", "SMTP Port");
-define("LAN_MAILOUT_262", "Template Preview");
-define("LAN_MAILOUT_263", "Total Recipients");
-define("LAN_MAILOUT_264", "Embed Media");
-define("LAN_MAILOUT_265", "Pending");
-define("LAN_MAILOUT_266", "Max Active");
-define("LAN_MAILOUT_267", "Generate Public/Private keys");
-define("LAN_MAILOUT_268", "Developer Mode Only");
-define("LAN_MAILOUT_269", "Send Later");
-define("LAN_MAILOUT_270", "Test SMTP spojenia");
-define("LAN_MAILOUT_271", "Overenie zlyhalo pre užívateľa ([x]) a heslo ([y]):");
+
+// TODO - LANS - MAJOR LAN REWRITE NEEDED 
+
+
+return [
+    'CORE_DATE_ORDER' => "dmy",
+    'LAN_MAILOUT_01' => "Od",
+    'LAN_MAILOUT_02' => "Z emailu",
+    'LAN_MAILOUT_03' => "Komu",
+    'LAN_MAILOUT_04' => "Cc",
+    'LAN_MAILOUT_05' => "Bcc",
+    'LAN_MAILOUT_06' => "Predmet",
+    'LAN_MAILOUT_07' => "Prílohy",
+    'LAN_MAILOUT_08' => "Poslať email",
+    'LAN_MAILOUT_09' => "Send format",
+    'LAN_MAILOUT_10' => "Podpis užívateľa",
+    'LAN_MAILOUT_11' => "Vložiť premenné",
+    'LAN_MAILOUT_12' => "Všetci užívatelia",
+    'LAN_MAILOUT_13' => "All Unverified Users",
+    'LAN_MAILOUT_14' => "Užívateľské meno",
+    'LAN_MAILOUT_15' => "Mailout",
+    'LAN_MAILOUT_16' => "Užívateľské meno",
+    'LAN_MAILOUT_17' => "prihlasovací link",
+    'LAN_MAILOUT_18' => "ID užívateľa",
+    'LAN_MAILOUT_19' => "Neurčená cieľová adresa",
+    'LAN_MAILOUT_20' => "Trasa odosielaného mailu",
+    'LAN_MAILOUT_21' => "Bulk mailing Entries",
+    'LAN_MAILOUT_22' => "Momentálne nie sú uložené žiadne položky",
+    'LAN_MAILOUT_23' => "Trieda užívateľa:",
+    'LAN_MAILOUT_24' => "email(y) sú pripravené na odoslanie",
+    'LAN_MAILOUT_25' => "Bulk mailing controls",
+    'LAN_MAILOUT_26' => "Pause bulk mailing every",
+    'LAN_MAILOUT_27' => "emails for",
+    'LAN_MAILOUT_28' => "Uložiť zmeny",
+    'LAN_MAILOUT_29' => "sekundy",
+    'LAN_MAILOUT_30' => "Used mostly with SMTP keepalive. A pause of more than 30 seconds may cause the browser to time-out",
+    'LAN_MAILOUT_31' => "Spracovávanie vyskočeného emailu",
+    'LAN_MAILOUT_33' => "Incoming Mail server",
+    'LAN_MAILOUT_34' => "Account (user) Name",
+    'LAN_MAILOUT_36' => "Zmažte po kontrole vyskakujúce maily",
+    'LAN_MAILOUT_37' => "Aktualizovať",
+    'LAN_MAILOUT_38' => "Späť",
+    'LAN_MAILOUT_39' => "Emailovanie",
+    'LAN_MAILOUT_41' => "pred odoslaním mailu z tejto stránky.",
+    'LAN_MAILOUT_43' => "Užívateľské meno",
+    'LAN_MAILOUT_44' => "Prihlásenie užívateľa",
+    'LAN_MAILOUT_45' => "Užívateľov email",
+    'LAN_MAILOUT_46' => "Porovnanie užívateľa",
+    'LAN_MAILOUT_47' => "obsahuje",
+    'LAN_MAILOUT_48' => "rovná sa",
+    'LAN_MAILOUT_51' => "Predmet",
+    'LAN_MAILOUT_52' => "Last mod",
+    'LAN_MAILOUT_53' => "Admini",
+    'LAN_MAILOUT_54' => "Ja",
+    'LAN_MAILOUT_55' => "Užívateľská trieda",
+    'LAN_MAILOUT_56' => "Posledná návšteva",
+    'LAN_MAILOUT_57' => "Send bulk SMTP emails in blocks",
+    'LAN_MAILOUT_67' => "The email could not be sent. Please review your SMTP settings, or select another mailing method and try again.",
+    'LAN_MAILOUT_68' => "Registered Users",
+    'LAN_MAILOUT_69' => "matches, after",
+    'LAN_MAILOUT_70' => " duplicates stripped.",
+    'LAN_MAILOUT_71' => "Total emails to send",
+    'LAN_MAILOUT_72' => "Mailshot logging",
+    'LAN_MAILOUT_73' => "No logging",
+    'LAN_MAILOUT_74' => "Logging only (no send)",
+    'LAN_MAILOUT_75' => "Log and send",
+    'LAN_MAILOUT_76' => "Include email info in log",
+    'LAN_MAILOUT_77' => "Email address sources",
+    'LAN_MAILOUT_78' => "Mailshot Status",
+    'LAN_MAILOUT_79' => "No mailshots to display",
+    'LAN_MAILOUT_81' => "Testovací email bol úspešne odoslaný, skontrolujte, prosím, vašu emailovú schránku.",
+    'LAN_MAILOUT_82' => "Mails sent",
+    'LAN_MAILOUT_83' => "Mails to go",
+    'LAN_MAILOUT_84' => "Mail ID",
+    'LAN_MAILOUT_85' => "Originator",
+    'LAN_MAILOUT_86' => "Re-send",
+    'LAN_MAILOUT_87' => "SMTP Server",
+    'LAN_MAILOUT_88' => "SMTP užívateľské meno",
+    'LAN_MAILOUT_89' => "SMTP heslo",
+    'LAN_MAILOUT_90' => "SMTP Features",
+    'LAN_MAILOUT_91' => "POP before SMTP",
+    'LAN_MAILOUT_92' => "SSL",
+    'LAN_MAILOUT_93' => "TLS",
+    'LAN_MAILOUT_94' => "(Use SSL for gmail/googlemail)",
+    'LAN_MAILOUT_95' => "Use VERP for bulk mailing",
+    'LAN_MAILOUT_97' => "Mailer Results",
+    'LAN_MAILOUT_98' => "Orphaned entries",
+    'LAN_MAILOUT_99' => "Confirm retry mailshot",
+    'LAN_MAILOUT_100' => "Správa",
+    'LAN_MAILOUT_101' => "Email Detail",
+    'LAN_MAILOUT_102' => "Detail of mailshot",
+    'LAN_MAILOUT_103' => "Results of attempts to send",
+    'LAN_MAILOUT_104' => "No attempt to send, or error saving result",
+    'LAN_MAILOUT_105' => "Details of up to 10 failures",
+    'LAN_MAILOUT_106' => "Testovací email nebol odoslaný. Zdá sa, že váš server alebo samotný web nie je správne nakonfigurovaný pre odosielanie emailov, prosím, skúste použiť SMTP alebo kontaktujte administrátora aby skontroloval nastavenie emailu pre váš účet.",
+    'LAN_MAILOUT_107' => "at",
+    'LAN_MAILOUT_108' => "Výsledok",
+    'LAN_MAILOUT_109' => "Show detail",
+    'LAN_MAILOUT_110' => "Poslať testovací email",
+    'LAN_MAILOUT_111' => "Email Title (not sent)",
+    'LAN_MAILOUT_112' => "Send test email to",
+    'LAN_MAILOUT_113' => "Testovací mail z",
+    'LAN_MAILOUT_114' => "This is a test email, it appears that your email settings are working ok! [br][br] Regards [br] from the e107 website system.",
+    'LAN_MAILOUT_115' => "Zapnúť SMTP",
+    'LAN_MAILOUT_116' => "Ozančte ak chcete zasielať emaily pomocou SMTP",
+    'LAN_MAILOUT_117' => "Komplet",
+    'LAN_MAILOUT_118' => "Click on proceed' to start sending emails. Click on 'cancel' to stop the run. Once complete, select another page. Unsent emails cal be viewed through the 'Mailshot status' screen",
+    'LAN_MAILOUT_119' => "Logging only, with errors",
+    'LAN_MAILOUT_120' => "Account type",
+    'LAN_MAILOUT_121' => "Standard POP3",
+    'LAN_MAILOUT_122' => "POP3, TLS disabled",
+    'LAN_MAILOUT_123' => "POP3 with TLS",
+    'LAN_MAILOUT_124' => "IMAP",
+    'LAN_MAILOUT_125' => "Text only",
+    'LAN_MAILOUT_126' => "Text and HTML",
+    'LAN_MAILOUT_127' => "Include theme",
+    'LAN_MAILOUT_128' => "Send Error",
+    'LAN_MAILOUT_129' => "Expiry Date",
+    'LAN_MAILOUT_130' => "Creation Date",
+    'LAN_MAILOUT_131' => "Sending Started",
+    'LAN_MAILOUT_132' => "Sending Complete",
+    'LAN_MAILOUT_134' => "Priority",
+    'LAN_MAILOUT_136' => "Mailout Status",
+    'LAN_MAILOUT_137' => "Mail Ref",
+    'LAN_MAILOUT_138' => "Email status",
+    'LAN_MAILOUT_139' => "Date active",
+    'LAN_MAILOUT_140' => "Recipient Email",
+    'LAN_MAILOUT_141' => "Recipient Name",
+    'LAN_MAILOUT_142' => "Recipient User ID",
+    'LAN_MAILOUT_143' => "Recipient ref.",
+    'LAN_MAILOUT_144' => "Odrazený",
+    'LAN_MAILOUT_145' => "New email saved",
+    'LAN_MAILOUT_146' => "Error saving email",
+    'LAN_MAILOUT_147' => "Email updated",
+    'LAN_MAILOUT_148' => "User values",
+    'LAN_MAILOUT_149' => "Sender Email",
+    'LAN_MAILOUT_150' => "Sender Name",
+    'LAN_MAILOUT_151' => "Copy to",
+    'LAN_MAILOUT_152' => "Blind copy to",
+    'LAN_MAILOUT_153' => "Prílohy",
+    'LAN_MAILOUT_154' => "Send Format",
+    'LAN_MAILOUT_155' => "Selectors",
+    'LAN_MAILOUT_156' => "Maximum number of emails to send per scheduler tick",
+    'LAN_MAILOUT_157' => "Value will depend on a number of factors, including how often your mail queue scheduler job is triggered and the rate at which your ISP will accept outgoing mail. Zero to clear queue each time",
+    'LAN_MAILOUT_158' => "Send now",
+    'LAN_MAILOUT_159' => "Hold email",
+    'LAN_MAILOUT_160' => "Cancel send",
+    'LAN_MAILOUT_161' => "IMPORTANT! This file appears to not exist",
+    'LAN_MAILOUT_162' => "IMPORTANT! You need to make this file executable",
+    'LAN_MAILOUT_163' => "Edit/Send Mail",
+    'LAN_MAILOUT_164' => "Email information not found",
+    'LAN_MAILOUT_165' => "Confirm delete the following stored email, including any recipient records",
+    'LAN_MAILOUT_166' => "General error deleting mail ref: [x]",
+    'LAN_MAILOUT_167' => "Error deleting mail content ref: [x]",
+    'LAN_MAILOUT_168' => "Mail content deleted ref: [x]",
+    'LAN_MAILOUT_169' => "Error deleting mail recipients ref: [x]",
+    'LAN_MAILOUT_170' => "Deleted --NUM-- recipients for mail ref: [x]",
+    'LAN_MAILOUT_171' => "Confirm email delete",
+    'LAN_MAILOUT_172' => "Mail Type/Status",
+    'LAN_MAILOUT_173' => "Recipients",
+    'LAN_MAILOUT_174' => "Security check fail: [x] [z]",
+    'LAN_MAILOUT_175' => "Before",
+    'LAN_MAILOUT_176' => "Equal to",
+    'LAN_MAILOUT_177' => "After",
+    'LAN_MAILOUT_178' => "Last site visit",
+    'LAN_MAILOUT_179' => "Confirm email send",
+    'LAN_MAILOUT_180' => "Selection criteria:",
+    'LAN_MAILOUT_181' => "Show recipients",
+    'LAN_MAILOUT_182' => "Tidy database tables",
+    'LAN_MAILOUT_183' => "Error tidying database",
+    'LAN_MAILOUT_184' => "Database tidied",
+    'LAN_MAILOUT_185' => "Emails added to send queue",
+    'LAN_MAILOUT_186' => "General error putting mail ref: [x] on hold",
+    'LAN_MAILOUT_187' => "Email [x] put on hold",
+    'LAN_MAILOUT_188' => "General error sending mail ref: [x]",
+    'LAN_MAILOUT_189' => "Test adresy",
+    'LAN_MAILOUT_190' => "Create/Send Mail",
+    'LAN_MAILOUT_191' => "Saved emails",
+    'LAN_MAILOUT_192' => "Completed Mailshots",
+    'LAN_MAILOUT_193' => "Pending Mailshots",
+    'LAN_MAILOUT_194' => "Held Mailshots",
+    'LAN_MAILOUT_200' => "No subject specified",
+    'LAN_MAILOUT_201' => "No meaningful data for email",
+    'LAN_MAILOUT_202' => "No text in email body",
+    'LAN_MAILOUT_203' => "No sender name specified",
+    'LAN_MAILOUT_204' => "No sender email address specified",
+    'LAN_MAILOUT_205' => "Email send format error",
+    'LAN_MAILOUT_206' => "Invalid mail ID ([x]) specified",
+    'LAN_MAILOUT_207' => "Template load error",
+    'LAN_MAILOUT_208' => "Template conversion error",
+    'LAN_MAILOUT_211' => "Sent",
+    'LAN_MAILOUT_212' => "Failed",
+    'LAN_MAILOUT_213' => "Bounced",
+    'LAN_MAILOUT_214' => "To send",
+    'LAN_MAILOUT_215' => "Saved",
+    'LAN_MAILOUT_216' => "Code error",
+    'LAN_MAILOUT_217' => "Held",
+    'LAN_MAILOUT_218' => "Cancelled",
+    'LAN_MAILOUT_219' => "Partial",
+    'LAN_MAILOUT_220' => "Email ID [x] cancelled",
+    'LAN_MAILOUT_221' => "Error cancelling email with ID [x]",
+    'LAN_MAILOUT_222' => "Default email format",
+    'LAN_MAILOUT_223' => "(Used for some system-generated emails)",
+    'LAN_MAILOUT_224' => "Inc. Images",
+    'LAN_MAILOUT_225' => "Include images in email",
+    'LAN_MAILOUT_226' => "[x] orphaned recipient record(s) removed",
+    'LAN_MAILOUT_227' => "Deleted [x] records from [y]",
+    'LAN_MAILOUT_228' => "[x] anomalies in mail_content corrected; records: [y]",
+    'LAN_MAILOUT_229' => "Email ID [x] put on hold",
+    'LAN_MAILOUT_230' => "Error holding email with ID [x]",
+    'LAN_MAILOUT_231' => "Bounced emails - Processing method",
+    'LAN_MAILOUT_232' => "None",
+    'LAN_MAILOUT_233' => "Auto-process script",
+    'LAN_MAILOUT_234' => "Mail account",
+    'LAN_MAILOUT_235' => "(Your server must forward or 'pipe' from the email address above to the script path above.)",
+    'LAN_MAILOUT_236' => "Last Bounce Processed",
+    'LAN_MAILOUT_237' => "Summary counters updated on [x] emails",
+    'LAN_MAILOUT_238' => "Earliest time to send",
+    'LAN_MAILOUT_239' => "Latest time to send",
+    'LAN_MAILOUT_240' => "Notify me when run complete",
+    'LAN_MAILOUT_241' => " (This is in addition to the standard e107 notify options)",
+    'LAN_MAILOUT_242' => "Additional options (only when sending)",
+    'LAN_MAILOUT_243' => "Notify",
+    'LAN_MAILOUT_244' => "Email sent:",
+    'LAN_MAILOUT_245' => "Check for bounces automatically",
+    'LAN_MAILOUT_246' => "If checked, you will need to activate the task in the scheduler",
+    'LAN_MAILOUT_247' => "Email information:",
+    'LAN_MAILOUT_248' => "Completion status:",
+    'LAN_MAILOUT_249' => "Výsledky poslať:",
+    'LAN_MAILOUT_250' => "--- Koniec notifikácie ---",
+    'LAN_MAILOUT_251' => "Skopírovať a editovať",
+    'LAN_MAILOUT_252' => "Does various consistency checks on the data, corrects counts, deletes temporary data",
+    'LAN_MAILOUT_253' => "No recipients found - check for database corruption",
+    'LAN_MAILOUT_254' => "View templated email",
+    'LAN_MAILOUT_255' => "Templated Email, ID:",
+    'LAN_MAILOUT_256' => "Return",
+    'LAN_MAILOUT_257' => "Generated template",
+    'LAN_MAILOUT_259' => "V nastaveniach nie sú zvolené žiadne zdrojové adresy.",
+    'LAN_SEND' => "Send",
+    'LAN_HOLD' => "Hold",
+    'LAN_MAILOUT_260' => "User-Type",
+    'LAN_MAILOUT_261' => "SMTP Port",
+    'LAN_MAILOUT_262' => "Template Preview",
+    'LAN_MAILOUT_263' => "Total Recipients",
+    'LAN_MAILOUT_264' => "Embed Media",
+    'LAN_MAILOUT_265' => "Pending",
+    'LAN_MAILOUT_266' => "Max Active",
+    'LAN_MAILOUT_267' => "Generate Public/Private keys",
+    'LAN_MAILOUT_268' => "Developer Mode Only",
+    'LAN_MAILOUT_269' => "Send Later",
+    'LAN_MAILOUT_270' => "Test SMTP spojenia",
+    'LAN_MAILOUT_271' => "Overenie zlyhalo pre užívateľa ([x]) a heslo ([y]):",
+];

@@ -4,136 +4,150 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/10/12 10:27:56 
+|        Last Modified: 2026/08/27 07:00:00
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 setlocale(LC_ALL,  'sk_SK.UTF-8', 'sk_SK.utf8', 'sk_sk.utf8', 'sk');
-define("CORE_LC", "sk");
-define("CORE_LC2", "sk");
-define("CORE_LAN1", "Chyba : Nedá sa nájsť nastavená téma. \\n\\n Buď zmeňte vami používanú tému v nastaveniach alebo nahrajte na server súbory s aktuálnou témou.");
-define("CORE_LAN4", "Zo svojho servera zmažte súbor install.php.");
-define("CORE_LAN5", "Ak to neurobíte, hrozí vašej stránke potencionálne riziko!");
-define("CORE_LAN6", "Na týchto stránkach bola aktivovaná ochrana voči zahlteniu. Pokiaľ budete pokračovať v zahlcovaní servera, zakážeme vám prístup úplne.");
-define("CORE_LAN7", "Jadro systému sa pokúša obnoviť prednastavenia z automatickej zálohy.");
-define("CORE_LAN8", "Chyba v nastaveniach jadra");
-define("CORE_LAN9", "Jadro systému sa nepodarilo obnoviť z automatickej zálohy. Vykonanie úlohy pozastavené.");
-define("CORE_LAN10", "Poškodené cookies - boli ste odhlásený.");
-define("CORE_LAN11", "Doba vygenerovania stránky:");
-define("CORE_LAN12", "sec (");
-define("CORE_LAN13", "% z toho na dopyty)");
-define("CORE_LAN14", "%2.3f cpu sec (%2.2f%% load, %2.3f startup). Hodiny:");
-define("CORE_LAN15", "DB dopytov:");
-define("CORE_LAN16", "Pamäť:");
-define("CORE_LAN17", "[ obrázok zablokovaný ]");
-define("CORE_LAN18", "Obrázok:");
-define("CORE_LAN_B", "B");
-define("CORE_LAN_KB", "kB");
-define("CORE_LAN_MB", "MB");
-define("CORE_LAN_GB", "sk");
-define("CORE_LAN_TB", "TB");
-define("EMESSLAN_TITLE_INFO", "Systémové informácie");
-define("EMESSLAN_TITLE_ERROR", "Chyba");
-define("EMESSLAN_TITLE_SUCCESS", "Podarilo sa");
-define("EMESSLAN_TITLE_WARNING", "Varovanie");
-define("EMESSLAN_TITLE_DEBUG", "Ladenie systému");
-define("LAN_NO_PERMISSIONS", "Na zobrazenie tejto stránky nemáte dostatočné práva.");
-define("LAN_EDIT", "Uprav");
-define("LAN_DELETE", "Zmaž");
-define("LAN_DEFAULT", "Predvolený");
-define("LAN_MORE", "Viac...");
-define("LAN_LESS", "...menej");
-define("LAN_READ_MORE", "Čítať ďalej..");
-define("LAN_GOPAGE", "Prejsť na stránku");
-define("LAN_GOTOPAGEX", "Prejsť na stránku [x]");
-define("LAN_GO", "Prejsť");
-define("LAN_SUBMIT", "Odoslať");
-define("LAN_NONE", "Žiadne");
-define("LAN_WARNING", "Pozor!");
-define("LAN_ERROR", "Chyba");
-define("LAN_ANONYMOUS", "Anonym");
-define("LAN_EMAIL_SUBS", "-email-");
-define("LAN_ACTIVE", "Aktívny");
-define("LAN_YES", "Áno");
-define("LAN_NO", "Nie");
-define("LAN_OK", "OK");
-define("LAN_ACTIONS", "Akcie");
-define("LAN_THANK_YOU", "Ďakujeme");
-define("LAN_CONTINUE", "Pokračovať");
-define("LAN_ENTER", "Zadajte");
-define("LAN_ENTER_CODE", "Zadajte kód");
-define("LAN_INVALID_CODE", "Zadaný kód nesúhlasí.");
-define("LAN_SEARCH", "Hľadať");
-define("LAN_VIEW", "Zobraziť");
-define("LAN_CLICK_TO_VIEW", "Kliknite pre zobrazenie");
-define("LAN_SORT", "Zoradiť");
-define("LAN_ORDER_BY", "Zoradiť podľa");
-define("LAN_ASCENDING", "Vzostupne");
-define("LAN_DESCENDING", "Zostupne");
-define("LAN_SHARE", "Zdieľať");
-define("LAN_BACK", "Späť");
-define("LAN_NAME", "Názov");
-define("LAN_DESCRIPTION", "Popis");
-define("LAN_CANCEL", "Zrušiť");
-define("LAN_DATE", "Dátum");
-define("LAN_DATE_POSTED", "Odoslané dňa");
-define("LAN_POSTED_BY", "Odoslal");
-define("LAN_JSCONFIRM", "Ste si istý?");
-define("LAN_IP", "IP");
-define("LAN_IP_ADDRESS", "IP adresa");
-define("LAN_AUTHOR", "Autor");
-define("LAN_CATEGORY", "Kategória");
-define("LAN_CATEGORIES", "Kategórie");
-define("LAN_GUEST", "Návštevník");
-define("LAN_NEXT", "Ďalej");
-define("LAN_PREVIOUS", "Späť");
-define("LAN_LOGIN", "Prihlásiť");
-define("LAN_LOGOUT", "Odhlásiť");
-define("LAN_VERIFY", "Overiť");
-define("LAN_SETTINGS", "Nastavenia");
-define("LAN_PASSWORD", "Heslo");
-define("LAN_INCORRECT_PASSWORD", "Nesprávne heslo");
-define("LAN_TYPE", "Typ");
-define("LAN_SCREENSHOT", "Náhľad");
-define("LAN_FILE", "Súbor");
-define("LAN_YOUTUBE_VIDEO", "Youtube video");
-define("LAN_YOUTUBE_PLAYLIST", "Youtube Playlist");
-define("LAN_FILETYPES", "Typy súborov");
-define("LAN_FILE_NOT_FOUND", "Súbor nenájdený");
-define("LAN_FILES", "Súbory");
-define("LAN_SIZE", "Veľkosť");
-define("LAN_VERSION", "Verzia");
-define("LAN_DOWNLOAD", "Stiahnuť");
-define("LAN_DOWNLOAD_NO_PERMISSION", "Súbor sa nenašiel alebo nemáte právo tento súbor stiahnuť!");
-define("LAN_WEBSITE", "Webstránka");
-define("LAN_COMMENTS", "Komentáre");
-define("LAN_LOCATION", "Lokalita");
-define("LAN_NO_RECORDS_FOUND", "Záznamy nenájdené");
-define("LAN_RATING", "Hodnotenie");
-define("LAN_IMAGE", "Obrázok");
-define("LAN_ABOUT", "Info");
-define("LAN_TITLE", "Nadpis");
-define("LAN_MESSAGE", "Správa");
-define("LAN_USER", "Užívateľ");
-define("LAN_EMAIL", "Emailová adresa");
-define("LAN_WROTE", "napísal");
-define("LAN_RE_ORDER", "Preusporiadať");
-define("LAN_RELATED", "Súvisiace");
-define("LAN_CLOSE", "Zatvoriť");
-define("LAN_EXPAND", "Rozšíriť");
-define("LAN_LIST", "Zoznam");
-define("LAN_DATESTAMP", "Dátum");
-define("LAN_SUBJECT", "Predmet");
-define("LAN_ENTER_USRNAME_EMAIL", "Zadajte svoje meno alebo email");
-define("LAN_PWD_REQUIRED", "Heslo je povinné");
-define("LAN_SHOW", "Zobraziť");
-define("LAN_GENERATE", "Generovať");
-define("LAN_SUMMARY", "Zhrnutie");
-define("LAN_REQUIRED_BLANK", "Vynechané povinné polia");
-define("LAN_PLEASEWAIT", "Čakajte");
-define("LAN_CHOOSE_FILE", "Vyberte súbor");
-define("LAN_REQUIRED", "Povinné");
-define("LAN_DEVELOPERMODE_CHECK", "[b]Vývojársky režim je v súčasnosti povolený. Tento režim používajte len pri vývoji![/b] [br]Pri používaní webovej stránky v ostrej prevádzke vypnite vývojársky režim. Keď je povolený režim pre vývojárov, môžu sa verejnosti zobraziť citlivé informácie!");
+
+return [
+    "CORE_LC" => "sk",
+    "CORE_LC2" => "sk",
+    // "TEXTDIRECTION" => "rtl",
+    // "CHARSET" => "utf-8", // deprecated: all language packs must be UTF-8
+    "CORE_LAN1" => "Chyba : Nedá sa nájsť nastavená téma. \\n\\n Buď zmeňte vami používanú tému v nastaveniach alebo nahrajte na server súbory s aktuálnou témou.",
+    // "CORE_LAN2" => " \\1 wrote:", // obsolete, "\\1" represents the username.
+    // "CORE_LAN3" => "file attachment disabled", // obsolete, Not used in 0.8
+    "CORE_LAN4" => "Zo svojho servera zmažte súbor install.php.",
+    "CORE_LAN5" => "Ak to neurobíte, hrozí vašej stránke potencionálne riziko!",
+    "CORE_LAN6" => "Na týchto stránkach bola aktivovaná ochrana voči zahlteniu. Pokiaľ budete pokračovať v zahlcovaní servera, zakážeme vám prístup úplne.",
+    "CORE_LAN7" => "Jadro systému sa pokúša obnoviť prednastavenia z automatickej zálohy.",
+    "CORE_LAN8" => "Chyba v nastaveniach jadra",
+    "CORE_LAN9" => "Jadro systému sa nepodarilo obnoviť z automatickej zálohy. Vykonanie úlohy pozastavené.",
+    "CORE_LAN10" => "Poškodené cookies - boli ste odhlásený.",
+    "CORE_LAN11" => "Doba vygenerovania stránky:",
+    "CORE_LAN12" => "sec (",
+    "CORE_LAN13" => "% z toho na dopyty)",
+    "CORE_LAN14" => "%2.3f cpu sec (%2.2f%% load, %2.3f startup). Hodiny:",
+    "CORE_LAN15" => "DB dopytov:",
+    "CORE_LAN16" => "Pamäť:",
+    "CORE_LAN17" => "[ obrázok zablokovaný ]",
+    "CORE_LAN18" => "Obrázok:",
+
+    "CORE_LAN_B" => "B",
+    "CORE_LAN_KB" => "kB",
+    "CORE_LAN_MB" => "MB",
+    "CORE_LAN_GB" => "sk",
+    "CORE_LAN_TB" => "TB",
+
+    "EMESSLAN_TITLE_INFO" => "Systémové informácie",
+    "EMESSLAN_TITLE_ERROR" => "Chyba",
+    "EMESSLAN_TITLE_SUCCESS" => "Podarilo sa",
+    "EMESSLAN_TITLE_WARNING" => "Varovanie",
+    "EMESSLAN_TITLE_DEBUG" => "Ladenie systému",
+
+    "LAN_NO_PERMISSIONS" => "Na zobrazenie tejto stránky nemáte dostatočné práva.",
+    "LAN_EDIT" => "Uprav",
+    "LAN_DELETE" => "Zmaž",
+    "LAN_DEFAULT" => "Predvolený",
+    "LAN_MORE" => "Viac...",
+    "LAN_LESS" => "...menej",
+    "LAN_READ_MORE" => "Čítať ďalej..",
+    "LAN_GOPAGE" => "Prejsť na stránku",
+    "LAN_GOTOPAGEX" => "Prejsť na stránku [x]",
+    "LAN_GO" => "Prejsť",
+    "LAN_SUBMIT" => "Odoslať",
+    "LAN_NONE" => "Žiadne",
+    "LAN_WARNING" => "Pozor!",
+    "LAN_ERROR" => "Chyba",
+    "LAN_ANONYMOUS" => "Anonym",
+    "LAN_EMAIL_SUBS" => "-email-",
+    "LAN_ACTIVE" => "Aktívny",
+    "LAN_YES" => "Áno",
+    "LAN_NO" => "Nie",
+    "LAN_OK" => "OK",
+    "LAN_ACTIONS" => "Akcie",
+    "LAN_THANK_YOU" => "Ďakujeme",
+    "LAN_CONTINUE" => "Pokračovať",
+    "LAN_ENTER" => "Zadajte",
+    "LAN_ENTER_CODE" => "Zadajte kód",
+    "LAN_INVALID_CODE" => "Zadaný kód nesúhlasí.",
+    "LAN_SEARCH" => "Hľadať",
+    "LAN_VIEW" => "Zobraziť",
+    "LAN_CLICK_TO_VIEW" => "Kliknite pre zobrazenie",
+    "LAN_SORT" => "Zoradiť",
+    "LAN_ORDER_BY" => "Zoradiť podľa",
+    "LAN_ASCENDING" => "Vzostupne",
+    "LAN_DESCENDING" => "Zostupne",
+    "LAN_SHARE" => "Zdieľať",
+    "LAN_BACK" => "Späť",
+    "LAN_NAME" => "Názov",
+    "LAN_DESCRIPTION" => "Popis",
+    // Also in admin/lan_admin.php, which a front-end page never loads.
+    // submitnews.php renders a field with it: see #5912.
+    "LAN_META_DESCRIPTION" => "Meta Description",
+    "LAN_CANCEL" => "Zrušiť",
+    "LAN_DATE" => "Dátum",
+    "LAN_DATE_POSTED" => "Odoslané dňa",
+    "LAN_POSTED_BY" => "Odoslal",
+    "LAN_JSCONFIRM" => "Ste si istý?",
+    "LAN_IP" => "IP",
+    "LAN_IP_ADDRESS" => "IP adresa",
+    "LAN_AUTHOR" => "Autor",
+    "LAN_CATEGORY" => "Kategória",
+    "LAN_CATEGORIES" => "Kategórie",
+    "LAN_GUEST" => "Návštevník",
+    "LAN_NEXT" => "Ďalej",
+    "LAN_PREVIOUS" => "Späť",
+    "LAN_LOGIN" => "Prihlásiť",
+    "LAN_LOGOUT" => "Odhlásiť",
+    "LAN_VERIFY" => "Overiť",
+    "LAN_SETTINGS" => "Nastavenia",
+    "LAN_PASSWORD" => "Heslo",
+    "LAN_INCORRECT_PASSWORD" => "Nesprávne heslo",
+    "LAN_TYPE" => "Typ",
+    "LAN_SCREENSHOT" => "Náhľad",
+    "LAN_FILE" => "Súbor",
+    "LAN_YOUTUBE_VIDEO" => "Youtube video",
+    "LAN_YOUTUBE_PLAYLIST" => "Youtube Playlist",
+    "LAN_FILETYPES" => "Typy súborov",
+    "LAN_FILE_NOT_FOUND" => "Súbor nenájdený",
+    "LAN_FILES" => "Súbory",
+    "LAN_SIZE" => "Veľkosť",
+    "LAN_VERSION" => "Verzia",
+    "LAN_DOWNLOAD" => "Stiahnuť",
+    "LAN_DOWNLOAD_NO_PERMISSION" => "Súbor sa nenašiel alebo nemáte právo tento súbor stiahnuť!",
+    "LAN_WEBSITE" => "Webstránka",
+    "LAN_COMMENTS" => "Komentáre",
+    "LAN_LOCATION" => "Lokalita",
+    "LAN_NO_RECORDS_FOUND" => "Záznamy nenájdené",
+    "LAN_RATING" => "Hodnotenie",
+    "LAN_IMAGE" => "Obrázok",
+    "LAN_ABOUT" => "Info",
+    "LAN_TITLE" => "Nadpis",
+    "LAN_MESSAGE" => "Správa",
+    "LAN_USER" => "Užívateľ",
+    "LAN_EMAIL" => "Emailová adresa",
+    "LAN_WROTE" => "napísal",
+    "LAN_RE_ORDER" => "Preusporiadať",
+    "LAN_RELATED" => "Súvisiace",
+    "LAN_CLOSE" => "Zatvoriť",
+    "LAN_EXPAND" => "Rozšíriť",
+    "LAN_LIST" => "Zoznam",
+    "LAN_DATESTAMP" => "Dátum",
+    "LAN_SUBJECT" => "Predmet",
+    "LAN_ENTER_USRNAME_EMAIL" => "Zadajte svoje meno alebo email",
+    "LAN_PWD_REQUIRED" => "Heslo je povinné",
+    "LAN_SHOW" => "Zobraziť",
+    "LAN_GENERATE" => "Generovať",
+    "LAN_SUMMARY" => "Zhrnutie",
+    "LAN_REQUIRED_BLANK" => "Vynechané povinné polia",
+    "LAN_PLEASEWAIT" => "Čakajte",
+    "LAN_CHOOSE_FILE" => "Vyberte súbor",
+    "LAN_REQUIRED" => "Povinné",
+    "LAN_DEVELOPERMODE_CHECK" => "[b]Vývojársky režim je v súčasnosti povolený. Tento režim používajte len pri vývoji![/b] [br]Pri používaní webovej stránky v ostrej prevádzke vypnite vývojársky režim. Keď je povolený režim pre vývojárov, môžu sa verejnosti zobraziť citlivé informácie!"
+];

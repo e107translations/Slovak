@@ -1,24 +1,27 @@
 <?php
 /*
 +---------------------------------------------------------------+
- * e107 website content management system- Slovak Language File
- *
- * Copyright (C) 2008-2026 e107 Inc + e107sk fork
- * Released under the terms and conditions of the
- * GNU General Public License[](http://www.gnu.org/licenses/gpl.txt)
+|        e107 website content management system Slovak Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2026/08/27 07:00:00
+|            
+|        $URL: https://github.com/e107translations/Slovak/ $
+|        $Revision: 2.4.0 $
+|        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 
 return [
-    'PRFLAN_1'  => "Informácie o webe",
-    'PRFLAN_2'  => "Názov stránky",
-    'PRFLAN_3'  => "URL stránky",
-    'PRFLAN_4'  => "Ikona/odkaz stránky",
-    'PRFLAN_5'  => "Slogan stránky",
-    'PRFLAN_6'  => "Popis stránky",
-    'PRFLAN_7'  => "Hlavný administrátor",
-    'PRFLAN_8'  => "E-mail hlavného administrátora",
-    'PRFLAN_9'  => "Doložka zodpovednosti (Disclaimer)",
+    'PRFLAN_1' => "Informácie o webe",
+    'PRFLAN_2' => "Názov stránky",
+    'PRFLAN_3' => "URL stránky",
+    'PRFLAN_4' => "Ikona/odkaz stránky",
+    'PRFLAN_5' => "Slogan stránky",
+    'PRFLAN_6' => "Popis stránky",
+    'PRFLAN_7' => "Hlavný administrátor",
+    'PRFLAN_8' => "E-mail hlavného administrátora",
+    'PRFLAN_9' => "Doložka zodpovednosti (Disclaimer)",
     'PRFLAN_13' => "Zobrazenie informácií",
     'PRFLAN_14' => "Zobraziť informácie o téme?",
     'PRFLAN_15' => "Zobraziť čas renderovania?",
@@ -35,7 +38,6 @@ return [
     'PRFLAN_28' => "Registrácia a prihlásenie používateľov",
     'PRFLAN_29' => "Aktivovať systém registrácie používateľov?",
     'PRFLAN_30' => "povoliť používateľom registrovať sa ako členovia stránky",
-    'PRFLAN_31' => "Overenie e-mailom",
     'PRFLAN_32' => "Povoliť anonymné prispievanie?",
     'PRFLAN_33' => "vypnutím povolíte prispievanie (komentáre atď.) iba registrovaným členom",
     'PRFLAN_35' => "Povoliť ochranu proti zahlteniu (flood protection)?",
@@ -70,6 +72,20 @@ return [
     'PRFLAN_88' => "Povoliť vnorené komentáre (threaded)",
     'PRFLAN_89' => "Zobraziť ikonu nového komentára",
     'PRFLAN_90' => "Povoliť autorom upravovať svoje komentáre",
+    'CUSTSIG_2' => "Skutočné meno:",
+    'CUSTSIG_6' => "Podpis:",
+    'CUSTSIG_7' => "Avatar:",
+    'CUSTSIG_12' => "Skryť",
+    'CUSTSIG_13' => "Polia",
+    'CUSTSIG_14' => "Zobraziť",
+    'CUSTSIG_15' => "Povinné",
+    'CUSTSIG_16' => "Minimálna dĺžka hesla",
+    'CUSTSIG_17' => "Prihlásiť sa k odberu obsahu/newsletterov",
+    'CUSTSIG_18' => "Zakázané používateľské mená",
+    'CUSTSIG_19' => "používateľské mená obsahujúce nasledujúci text budú zamietnuté, oddeľte čiarkou",
+    'CUSTSIG_20' => "Vlastný titul používateľa",
+    'CUSTSIG_21' => "Potvrdenie e-mailu",
+    'CUSTSIG_22' => "Možnosť skryť e-mail",
     'PRFLAN_91' => "Ak niekto útočí na vašu stránku viacerými požiadavkami, jeho IP adresa bude automaticky zabanovaná! Najlepšie riešiť na úrovni servera!!!",
     'PRFLAN_92' => "Bezpečné overenie registrácie – skryť heslo v e-maili?",
     'PRFLAN_93' => "strftime funkcia na php.net",
@@ -122,10 +138,10 @@ return [
     'PRFLAN_149' => "Pokročilé funkcie",
     'PRFLAN_150' => "Vyberte metódu autentifikácie e107",
     'PRFLAN_151' => "e107 – nie sú nainštalované žiadne alternatívne metódy",
+    'PRFLAN_31' => "Overenie e-mailom",
     'PRFLAN_152' => "Bez overenia",
     'PRFLAN_153' => "Schválenie administrátorom",
     'PRFLAN_154' => "Spôsob overenia nového používateľa",
-    'PRFLAN_154a'=> "Ak je vybrané 'Schválenie administrátorom', odporúča sa zapnúť e-mailové upozornenie pri registrácii [tu].",
     'PRFLAN_155' => "Zobrazovacie meno a login môžu byť rôzne pre",
     'PRFLAN_156' => "Resetovať VŠETKY zobrazovacie mená",
     'PRFLAN_157' => "Všetky zobrazovacie mená boli resetované na login",
@@ -162,9 +178,10 @@ return [
     'PRFLAN_193' => "Ak chcete povoliť používateľom vlastný login, nechajte prázdne",
     'PRFLAN_194' => "# alpha[br]. numeric[br]* alphanumeric[br]Ostatné znaky sa použijú tak, ako sú zadané.",
     'PRFLAN_196' => "Logovať všetky prístupy na stránky",
-    'PRFLAN_196a'=> "Adresár logov:",
     'PRFLAN_197' => "Automaticky prihlásiť nového používateľa po kliknutí na aktivačný odkaz",
     'PRFLAN_198' => "Ak vypnuté, používateľ sa musí po registrácii explicitne prihlásiť",
+    'PRFLAN_154a' => "Ak je vybrané 'Schválenie administrátorom', odporúča sa zapnúť e-mailové upozornenie pri registrácii [tu].",
+    'PRFLAN_196a' => "Adresár logov:",
     'PRFLAN_199' => "Zobraziť admin pododkazy",
     'PRFLAN_200' => "Ak zapnuté, admin navigačné menu (ak to téma podporuje) zobrazí pododkazy (napr. Novinky → Vytvoriť novinku).",
     'PRFLAN_201' => "Login a heslo",
@@ -254,20 +271,41 @@ return [
     'PRFLAN_285' => "Zobraziť tipy/nápovedu pri poliach",
     'PRFLAN_286' => "Filtre obsahu",
     'PRFLAN_287' => "Zobraziť debug tlačidlo v administrácii",
-
-    // CUSTSIG zostáva rovnaké ako v starej verzii (ak nemáš novšie preklady)
-    'CUSTSIG_2'  => "Skutočné meno:",
-    'CUSTSIG_6'  => "Podpis:",
-    'CUSTSIG_7'  => "Avatar:",
-    'CUSTSIG_12' => "Skryť",
-    'CUSTSIG_13' => "Polia",
-    'CUSTSIG_14' => "Zobraziť",
-    'CUSTSIG_15' => "Povinné",
-    'CUSTSIG_16' => "Minimálna dĺžka hesla",
-    'CUSTSIG_17' => "Prihlásiť sa k odberu obsahu/newsletterov",
-    'CUSTSIG_18' => "Zakázané používateľské mená",
-    'CUSTSIG_19' => "používateľské mená obsahujúce nasledujúci text budú zamietnuté, oddeľte čiarkou",
-    'CUSTSIG_20' => "Vlastný titul používateľa",
-    'CUSTSIG_21' => "Potvrdenie e-mailu",
-    'CUSTSIG_22' => "Možnosť skryť e-mail",
+    'PRFLAN_288' => "Trusted Hosts",
+    'PRFLAN_289' => "Additional hostnames the site will accept in the Host header, one per line. The host parsed from Site URL is always trusted; entries here are added to that list. Paste a full URL and the saved value is normalised to the host only.",
+    'PRFLAN_290' => "Update channel",
+    'PRFLAN_291' => "The Development Preview channel includes alpha, beta and release-candidate versions. Leave on Stable for production sites.",
+    'PRFLAN_292' => "Stable",
+    'PRFLAN_293' => "Development Preview",
+    // PRFLAN_294 to PRFLAN_298 shipped in v2.3.10 and are left exactly as they
+    // went out. A translator already holds them, and silently changing the
+    // English under a shipped key is how a translation becomes wrong without
+    // anyone being able to see that it has. The preference they described
+    // offered three choices and now offers six, so the new wording takes new
+    // keys, PRFLAN_305 onwards.
+    'PRFLAN_294' => "Requests without a security token",
+    'PRFLAN_295' => "A cross-site request forgery works by making a visitor's browser send a request the visitor did not intend. The security token is what proves a request came from a page this site rendered.\\nRefuse is the safe setting. Choose Allow and log if an integration has stopped working and you need to see which requests are affected before deciding; every affected request is then written to the admin log instead of being refused.",
+    'PRFLAN_296' => "Refuse (recommended)",
+    'PRFLAN_297' => "Allow and log",
+    'PRFLAN_298' => "Allow",
+    'PRFLAN_299' => "Session cookie SameSite",
+    'PRFLAN_300' => "Controls whether the browser sends the session cookie on a request that started from another site. Lax is the safe default: the cookie still travels with an ordinary link into this site, but not with a form another site posts here.\\nChoose None if a payment gateway, single sign-on provider or similar has to post to this site and be recognised as the logged-in visitor; it requires SSL and falls back to Lax without it. Strict also drops the cookie on inbound links, so a visitor following a link from elsewhere arrives logged out.",
+    'PRFLAN_301' => "Lax (recommended)",
+    'PRFLAN_302' => "Strict",
+    'PRFLAN_303' => "None (requires SSL)",
+    'PRFLAN_304' => "Do not set",
+    'PRFLAN_305' => "Proof that a request came from this site",
+    'PRFLAN_306' => "A cross-site request forgery works by making a visitor's browser send a request the visitor did not intend. e107 can tell a genuine request from a forged one in two ways.\\nA security token is a value this site writes into its own pages and checks when they are submitted. It works in every browser, but only protects a page that was actually given one.\\nThe browser check reads Sec-Fetch-Site, a header the browser sets itself and which no web page is allowed to forge. Nothing has to be delivered to the page for it to work, but browsers older than Chrome 76, Firefox 90 or Safari 16.4 do not send it and cannot be protected this way.\\nLeave this on the recommended setting unless you have a reason not to.",
+    'PRFLAN_307' => "e107's recommended setting",
+    'PRFLAN_308' => "Security token or browser check",
+    'PRFLAN_309' => "Browser check",
+    'PRFLAN_310' => "Browser check, this exact address only",
+    'PRFLAN_311' => "Security token, refuse without one",
+    'PRFLAN_312' => "Security token, allow without one and log it",
+    'PRFLAN_313' => "Accept anything",
+    'PRFLAN_314' => "The browser check is unavailable on this address. Browsers only send Sec-Fetch-Site to a secure address, so on a site served over plain HTTP the header never arrives and a setting that asks for nothing else would refuse every submission. Serve this site over HTTPS to use it.",
+    'PRFLAN_315' => "Seconds to answer the code",
+    'PRFLAN_316' => "How long a visitor has between the code being drawn and the form being submitted. Each code may be answered once, right or wrong, so a short window is not a second chance. Raise it if visitors using a magnifier or a screen reader report that the code has expired by the time they submit.",
+    'PRFLAN_317' => "Answer from the same address",
+    'PRFLAN_318' => "Refuse a code answered from a different network address than it was drawn to. It stops a code being solved elsewhere and passed on, and it also refuses a genuine visitor whose address changes between the two requests, which happens on mobile data, on carrier-grade NAT, with rotating IPv6 privacy addresses and over Tor.",
 ];
