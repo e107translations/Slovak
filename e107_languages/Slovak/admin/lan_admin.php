@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -196,7 +196,7 @@ return [
     'LAN_NOTREADABLE' => "Nedá sa čítať",
     'LAN_MISSING' => "Chýba",
     'LAN_UNUSED' => "Nepoužívané",
-    'LAN_SESSION' => "Session",
+    'LAN_SESSION' => "Relácia",
     'LAN_TOOLTIP' => "Našepkávač",
     'LAN_TIME' => "Čas",
     'LAN_EMPTY' => "V databáze nenájdené žiadne záznamy",
@@ -217,8 +217,8 @@ return [
     'LAN_DESC' => "Zostupne",
     'LAN_SELECT' => "Vybrané ...",
     'LAN_ADMIN' => "Administrácia",
-    'LAN_ROOT' => "Root",
-    'LAN_LINE' => "Line",
+    'LAN_ROOT' => "Koreň",
+    'LAN_LINE' => "Riadok",
     'LAN_SHORTCODES' => "Shortcodes",
     'LAN_DISPLAYOPT' => "Editovať nastavenia zobrazenia",
     'LAN_TIMESTAMP' => "Časové razítko",
@@ -248,7 +248,7 @@ return [
     'LAN_WIDTH' => "Šírka",
     'LAN_HEIGHT' => "Výška",
     'LAN_ON' => "On",
-    'LAN_OFF' => "Off",
+    'LAN_OFF' => "Vypnuté",
     'LAN_DISABLE' => "Nepovoliť",
     'LAN_DISABLED' => "Nepovolené",
     'LAN_ENABLE' => "Povoliť",
@@ -263,7 +263,7 @@ return [
     'LAN_NOPERMISSION' => "bez oprávnení",
     'LAN_NO_ADMIN_PERMISSION' => "Pre [x] nemáte administrátorské práva",
     'LAN_CREDITS' => "Poďakovanie",
-    'LAN_NEWVERSION' => "e107 v[x] je dostupná",
+    'LAN_NEWVERSION' => "e107 v[x] je k dispozícii na stiahnutie.",
     'LAN_CHECKALL' => "Všetko označiť",
     'LAN_UNCHECKALL' => "Všetko odznačiť",
     'LAN_DELCHECKED' => "Zmazať označené",
@@ -320,7 +320,7 @@ return [
     'LAN_UI_404_BODY_ERROR' => "Požadovaná stránka nenájdená!",
     'LAN_UI_404_TITLE_ERROR' => "Stránka nenájdená",
     'LAN_UI_404_METHOD_ERROR' => "Akcia [x] nenájdená!",
-    'LAN_UI_INVALID_TOKEN_ERROR' => "Unauthorized access - invalid or missing security token.",
+    'LAN_UI_INVALID_TOKEN_ERROR' => "Neoprávnený prístup - neplatný alebo chýbajúci bezpečnostný token.",
     'LAN_UI_403_BODY_ERROR' => "Odmietnutý prístup k požadovanej stránke.",
     'LAN_UI_403_TITLE_ERROR' => "Prístup odmietnutý",
     'LAN_UI_FORM_METHOD_ERROR' => "FATAL ERROR: Pole s názvom [x] nie je povolené. Please rename the key [x] to something else in your fields array and database table (if required).",
@@ -391,7 +391,7 @@ return [
     'LAN_SYSTEM_USER' => "Systémový užívateľ",
     'LAN_ENGINE' => "Engine",
     'LAN_SOURCE' => "Zdroj",
-    'LAN_UPGRADING' => "Upgrading?",
+    'LAN_UPGRADING' => "Aktualizujete?",
     'LAN_DONT_SHOW_AGAIN' => "Nezobrazovať znova",
     'LAN_ERROR_CONNECTION' => "Pri kontrole aktualizácii sa nepodarilo pripojiť. Skontrolujte firewall a/alebo internetové pripojenie.",
     'LAN_UI_X_CANT_EQUAL_Y' => "[x] nemôže byť rovnaké ako [y]",
@@ -433,13 +433,14 @@ return [
     'LAN_META_TITLE' => "Meta titulok",
     'LAN_META_DESCRIPTION' => "Meta popis",
     'LAN_SYSTEM_NOTIFICATIONS_X' => "Počet syst.notifikácii: [x]",
-    'LAN_PHP_OUTDATED' => "Your website is currently running an [outdated version of PHP], which may pose a security risk. If your plugins will allow it, we recommend upgrading to [x] to ensure that your website is secure and up-to-date.",
-    'LAN_DATABASE_UPDATE' => "Your website is currently running an [outdated version of PHP], which may pose a security risk. If your plugins will allow it, we recommend upgrading to [x] to ensure that your website is secure and up-to-date.",
-    'LAN_HISTORY' => "History",
-    'LAN_EMULATION_MODE' => "Permission Emulation Mode",
-    'LAN_EMULATION_EMULATING' => "Emulating:",
-    'LAN_EMULATION_USERCLASSES' => "User Classes:",
-    'LAN_EMULATION_ADMINPERMS' => "Admin Permissions:",
-    'LAN_EMULATION_TEMPORARY' => "Permission emulation is temporary. Your identity is unchanged, and emulation ends when you log out.",
-    'LAN_EMULATION_STOP' => "Stop Emulating",
+    'LAN_PHP_OUTDATED' => "Váš web momentálne beží na [zastaranej verzii PHP], čo môže predstavovať bezpečnostné riziko. Ak to vaše pluginy dovolia, odporúčame prejsť na verziu [x], aby bol váš web bezpečný a aktuálny.",
+    'LAN_DATABASE_UPDATE' => "Pre vašu databázu je k dispozícii aktualizácia. Odporúčame [spustiť túto aktualizáciu] čo najskôr, aby bola vaša databáza bezpečná a aktuálna.",
+    'LAN_HISTORY' => "História",
+    'LAN_EMULATION_MODE' => "Režim emulácie oprávnení",
+    'LAN_EMULATION_EMULATING' => "Emulované:",
+    'LAN_EMULATION_USERCLASSES' => "Užívateľské triedy:",
+    'LAN_EMULATION_ADMINPERMS' => "Oprávnenia administrátora:",
+    'LAN_EMULATION_TEMPORARY' => "Emulácia oprávnení je dočasná. Vaša identita sa nemení a emulácia skončí, keď sa odhlásite.",
+    'LAN_EMULATION_STOP' => "Ukončiť emuláciu",
+    'ADLAN_REFUSED_TOKEN_MISSING' => "Požiadavka nebola vykonaná, pretože neobsahovala bezpečnostný token. Použite ovládacie prvky na nástenke administrácie, nie záložku v prehliadači alebo odkaz z iného webu.",
 ];

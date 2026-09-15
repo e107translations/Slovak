@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -35,14 +35,14 @@ return [
     'LANHELP_20' => "Obrovské",
     'LANHELP_21' => "Kliknite pre otvorenie dialógu farieb ...",
     'LANHELP_22' => "Kliknite pre otvorene dialógu veľkostí ...",
-    'LANHELP_23' => "Vložiť link:\n[link]http://mysite.com[/link] alebo [link=http://yoursite.com]Pozrieť moju stránku[/link]",
-    'LANHELP_24' => "Tučný text:\n[b]Tento text bude tučný[/b]",
-    'LANHELP_25' => "Kurzíva:\n[i]Tento kuzr bude zobrazený kurzívou[/i]",
-    'LANHELP_26' => "Podčiarknutý text:\n[u]Tento text bude podčiarknutý[/u]",
-    'LANHELP_27' => "Vložiť obrázok:\n[img]mypicture.jpg[/img]",
-    'LANHELP_28' => "Zarovnanie na stred:\n[center]Tento text bude zarovnaný na stred[/center]",
-    'LANHELP_29' => "Zarovnanie doľava:\n[left]Tento text bude zarovnaný doľava[/left]",
-    'LANHELP_30' => "Zarovnanie doprava:\n[right]Tento text bude zarovnaný doprava[/right]",
+    'LANHELP_23' => "Vložiť odkaz:\\n[link]https://mojweb.sk[/link] alebo  [link=https://mojweb.sk]Navštívte môj web[/link]",
+    'LANHELP_24' => "Tučný text:\\n[b]Tento text bude tučný[/b]",
+    'LANHELP_25' => "Kurzíva:\\n[i]Tento text bude zobrazený kurzívou[/i]",
+    'LANHELP_26' => "Podčiarknutý text:\\n[u]Tento text bude podčiarknutý[/u]",
+    'LANHELP_27' => "Vložiť obrázok:\\n[img]mojobrazok.jpg[/img]",
+    'LANHELP_28' => "Zarovnanie na stred:\\n[center]Tento text bude zarovnaný na stred[/center]",
+    'LANHELP_29' => "Zarovnanie doľava:\\n[left]Tento text bude zarovnaný doľava[/left]",
+    'LANHELP_30' => "Zarovnanie doprava:\\n[right]Tento text bude zarovnaný doprava[/right]",
     'LANHELP_31' => "Citovaný text: [blockquote]Tento text bude citovaný (orámovaný)[/blockquote]",
     'LANHELP_32' => "Code - predformátovaný text: [code]\$foo = bah;[/code]",
     'LANHELP_33' => "HTML - odstraňuje ukončenia riadkov z textu: [html]<table><tr><td> atď[/html]",
@@ -59,18 +59,18 @@ return [
     'LANHELP_44' => "Kliknite pre otvorenie/zatvorenie okna s emotikonami ...",
     'LANHELP_45' => "Vložte obrázok zo Správcu médii",
     'LANHELP_46' => "* Tu sa nenašli žiadne súbory:",
-    'LANHELP_47' => "Vložte flash: [flash=šírka,výška]http://www.priklad.sk/subor.swf[/flash]",
+    'LANHELP_47' => "Vložiť flash: [flash=šírka,výška]https://www.priklad.sk/subor.swf[/flash]",
     'LANHELP_48' => "Vložte YouTube video: [youtube=tiny | small | medium | big | huge | width,height]6kYjxJmk0wc[/youtube]",
     'LANHELP_49' => "Odsek: [p=class name]Text odseku[/p]",
     'LANHELP_50' => "Nadpis: pre H2 [h]Heading text[/h] alebo [h=2]Heading text[/h]",
     'LANHELP_51' => "Vypne HTML new lines pre vložený text: [nobr]text[/nobr]",
     'LANHELP_52' => "Nový riadok (HTML): [br]",
-    'LANHELP_53' => "Zarovnanie justify:\n[justify]Tento text bude zarovnaný na obe strany[/justify]",
+    'LANHELP_53' => "Zarovnanie do bloku:\\n[justify]Tento text bude zarovnaný do bloku[/justify]",
     'LANHELP_54' => "HTML blok (div tag): [block]Váš obsah[/block]",
     'LANHELP_55' => "Formát",
     'LANHELP_56' => "Vložiť tabuľku",
     'LANHELP_57' => "Hlavička",
-    'LANHELP_58' => "Block",
+    'LANHELP_58' => "Blok",
     'LANHELP_59' => "Citát",
     'LANHELP_60' => "Blok kódu",
     'LANHELP_61' => "Inline kód",

@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -18,10 +18,10 @@ return [
     'LAN_FORUM_NT_9' => "Fórum - vlákno rozdelené",
     'LAN_FORUM_NT_10' => "Fórum - vymazaný príspevok",
     'LAN_FORUM_NT_11' => "Fórum - sťažnosť na príspevok",
-    'LAN_FORUM_NT_12' => "Forum - Thread updated",
-    'LAN_FORUM_NT_13' => "Forum - Thread moved",
-    'LAN_FORUM_NT_14' => "Forum - Post created",
-    'LAN_FORUM_NT_15' => "Forum - Post updated",
+    'LAN_FORUM_NT_12' => "Fórum - vlákno aktualizované",
+    'LAN_FORUM_NT_13' => "Fórum - vlákno presunuté",
+    'LAN_FORUM_NT_14' => "Fórum - príspevok vytvorený",
+    'LAN_FORUM_NT_15' => "Fórum - príspevok aktualizovaný",
 
     'LAN_FORUM_NT_NEWTOPIC' => "Vytvorená nová téma",
     'LAN_FORUM_NT_NEWTOPIC_PROB' => "Nová téma vytvorená členom v zácviku",
@@ -35,13 +35,13 @@ return [
     'LAN_FORUM_NT_POST_REPORTED' => "Príspevok nahlásený",
 
 
-    'LAN_FORUM_NT_NEWTOPIC_MSG' => "New thread in forum [forum] created by: [user]\nSubject: [thread]\n\nMessage:\n[post]",
-    'LAN_FORUM_NT_NEWTOPIC_PROB_MSG' => "New thread in forum [forum] created by new user: [user]\nSubject: [thread]\n\nMessage:\n[post]	",
-    'LAN_FORUM_NT_TOPIC_UPDATED_MSG' => "Thread [thread] (Forum name: [forum]) has been updated by: [user]",
-    'LAN_FORUM_NT_TOPIC_DELETED_MSG' => "Thread [thread] in forum [forum] deleted by: [user]",
-    'LAN_FORUM_NT_TOPIC_MOVED_MSG' => "Thread [thread] has been moved from [forum] to forum [forum2] by: [user]",
+    'LAN_FORUM_NT_NEWTOPIC_MSG' => "Nové vlákno vo fóre [forum] vytvoril: [user]\nPredmet: [thread]\n\nSpráva:\n[post]",
+    'LAN_FORUM_NT_NEWTOPIC_PROB_MSG' => "Nové vlákno vo fóre [forum] vytvoril nový užívateľ: [user]\nPredmet: [thread]\n\nSpráva:\n[post]",
+    'LAN_FORUM_NT_TOPIC_UPDATED_MSG' => "Vlákno [thread] (fórum: [forum]) aktualizoval: [user]",
+    'LAN_FORUM_NT_TOPIC_DELETED_MSG' => "Vlákno [thread] vo fóre [forum] zmazal: [user]",
+    'LAN_FORUM_NT_TOPIC_MOVED_MSG' => "Vlákno [thread] presunul z [forum] do fóra [forum2]: [user]",
 
-    'LAN_FORUM_NT_POST_CREATED_MSG' => "New message in thread [thread] (Forum name: [forum]) created by: [user]\nMessage:\n[post]	",
-    'LAN_FORUM_NT_POST_UPDATED_MSG' => "Message in thread [thread] (Forum name: [forum]) updated by: [user]\nMessage:\n[post]",
-    'LAN_FORUM_NT_POST_DELETED_MSG' => "Message #[postid] of thread [thread] in forum [forum] deleted by: [user]\n\nMessage:\n[post]",
+    'LAN_FORUM_NT_POST_CREATED_MSG' => "Novú správu vo vlákne [thread] (fórum: [forum]) vytvoril: [user]\nSpráva:\n[post]",
+    'LAN_FORUM_NT_POST_UPDATED_MSG' => "Správu vo vlákne [thread] (fórum: [forum]) aktualizoval: [user]\nSpráva:\n[post]",
+    'LAN_FORUM_NT_POST_DELETED_MSG' => "Správu #[postid] vo vlákne [thread] vo fóre [forum] zmazal: [user]\n\nSpráva:\n[post]",
 ];

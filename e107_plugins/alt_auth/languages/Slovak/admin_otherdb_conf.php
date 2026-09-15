@@ -1,10 +1,11 @@
 <?php
+
 /*
 +---------------------------------------------------------------+
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -36,6 +37,6 @@ return [
     'OTHERDB_LAN_12' => "Pole: Salt Heslo",
     'OTHERDB_LAN_13' => "(Nechajte prázdne, ak sa nepoužíva)",
     'OTHERDB_LAN_14' => "Pole Emailová adresa:",
-    'OTHERDB_LAN_15' => "MySQL - generic database",
+    'OTHERDB_LAN_15' => "MySQL - všeobecná databáza",
     'LAN_AUTHENTICATE_HELP' => "Táto metóda overenia sa používa na overenie voči inej ako e107 databáze. Heslo musí byť uložené v niektorom z podporovaných formátov.",
 ];

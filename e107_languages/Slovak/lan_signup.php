@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -121,4 +121,5 @@ return [
     'LAN_SIGNUP_123' => "Obchodné podmienky",
     'LAN_SIGNUP_124' => "Registráciou súhlasíte s našimi [x] a [y].",
     'LAN_SIGNUP_125' => "Min. [x] znakov.",
+    'LAN_SIGNUP_REFUSED_TOKEN_MISSING' => "Testovací aktivačný email nebol odoslaný, pretože odkaz neobsahoval bezpečnostný token. Použite tlačidlo na registračnej stránke, nie záložku v prehliadači alebo odkaz na inom webe.",
 ];

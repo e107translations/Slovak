@@ -4,14 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
 /*
 The language defines in this file have been renumbered - old number as a comment, and those apparently not used commented out below.
 define("LAN_115", "ICQ Number");
@@ -115,6 +114,8 @@ return [
     'LAN_XUP_ERRM_10' => "Test registrácie/prihlásenia s [x]",
     'LAN_XUP_ERRM_11' => "Prihlásený:",
     'LAN_XUP_ERRM_12' => "Test odhlásenia",
+    'LAN_XUP_REFUSED_TOKEN_MISSING' => "Prihlásenie nebolo spustené, pretože odkaz neobsahoval bezpečnostný token. Spustite ho tlačidlom na prihlásenie na tomto webe, nie zo záložky v prehliadači alebo z odkazu na inom webe.",
+    'LAN_XUP_REFUSED_NOT_A_NAVIGATION' => "Prihlásenie nebolo spustené, pretože oň na pozadí požiadal iný web namiesto toho, aby vás sem presmeroval. Spustite ho tlačidlom na prihlásenie na tomto webe.",
 
     // Used in validator_class for error handling
     'USER_ERR_01' => "Chýbajúca hodnota",

@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -26,12 +26,12 @@ return [
     'LAN_ONLINE_7' => "prezerá",
     'LAN_ONLINE_8' => "najviac online: ",
     'LAN_ONLINE_9' => "dňa: ",
-    'LAN_ONLINE_10' => "Online Menu",
+    'LAN_ONLINE_10' => "Menu Online",
     'LAN_ONLINE_11' => "Celkovo registrovaných členov: ",
     'LAN_ONLINE_ADMIN_1' => "menu Naposledy videné",
     'LAN_ONLINE_ADMIN_2' => "Nadpis menu Naposledy videné",
     'LAN_ONLINE_ADMIN_3' => "Počet zobrazených záznamov",
-    'LAN_ONLINE_ADMIN_4' => "online menu",
+    'LAN_ONLINE_ADMIN_4' => "menu online",
     'LAN_ONLINE_ADMIN_5' => "Nadpis online menu",
     'LAN_ONLINE_ADMIN_6' => "Zobraziť zoznam členov online",
     'LAN_ONLINE_ADMIN_7' => "Zobraziť rozšírený zoznam členov online",

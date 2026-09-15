@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -51,4 +51,5 @@ return [
     'NLLAN_64' => "Späť na hlavnú stranu newslettera",
     'NLLAN_65' => "Prehľad predplatiteľov newslettera ID",
     'NLLAN_66' => "Váš zoznam odberateľov newslettera bol vyčistený.",
+    'NLLAN_REFUSED_TOKEN_MISSING' => "Odberateľ nebol odstránený, pretože odkaz neobsahoval bezpečnostný token. Použite tlačidlo na zmazanie v zozname odberateľov, nie záložku v prehliadači alebo odkaz na inom webe.",
 ];

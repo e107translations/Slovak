@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -34,6 +34,8 @@ return [
     'LAN_USET_18' => "Údaje užívateľa zmenené adminom: [x], login name: [y]",
     'LAN_USET_20' => "Musíte si zmeniť aj heslo, ak si meníte prihlasovacie meno alebo emailovú adresu",
     'LAN_USET_21' => "Zmeny potvrďte opätovným zadaním svojho hesla:",
+    'LAN_USET_CONFIRM_PASSWORD_CHANGE' => "Potvrďte prosím zmeny zadaním svojho súčasného hesla:",
+    'LAN_USET_CHANGE_NOT_COMPLETED' => "Vaše zmeny neboli dokončené. Skúste to prosím znova.",
     'LAN_USET_23' => "Nevyplňujte, ak chcete ponechať pôvodné heslo",
     'LAN_USET_24' => "Nové heslo:",
     'LAN_USET_25' => "Potvrdenie hesla:",
@@ -63,4 +65,5 @@ return [
     'LAN_USET_54' => "Potvrdzujúci email odoslaný",
     'LAN_USET_55' => "Kliknite na nasledujúci link, aby ste dokončili vymazanie svojho účtu.",
     'LAN_USET_56' => "Váš účet bol úspešne vymazaný.",
+    'LAN_USET_DELETE_LINK_INVALID' => "Váš účet nebol zmazaný, pretože potvrdzovací odkaz už nie je platný. Požiadajte nižšie znova o odstránenie a dostanete nový odkaz.",
 ];

@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'EMOLAN_1' => "Aktivácia smajlíkov",
@@ -31,10 +32,10 @@ return [
     'EMOLAN_26' => "Znovu zoskenovať balík",
     'EMOLAN_27' => "Pri spracovaní balíka došlo k chybe",
     'EMOLAN_28' => "Generovať XML",
-    'EMOLAN_29' => "XML file generated",
-    'EMOLAN_30' => "Error writing XML file",
-    'EMOLAN_PAGE_TITLE' => "Emoticons",
-    'EMOLAN_31' => "Total [x] files found",
+    'EMOLAN_29' => "XML súbor vygenerovaný",
+    'EMOLAN_30' => "Chyba pri zápise XML súboru",
+    'EMOLAN_PAGE_TITLE' => "Smajlíky",
+    'EMOLAN_31' => "Celkový počet nájdených súborov: [x]",
     'EMOLAN_32' => "Zistený neznámy balíček",
     'EMOLAN_33' => "Nepodporovaný formát súboru XML",
     'EMOLAN_34' => "Chýbajúce súbory pre balíček",

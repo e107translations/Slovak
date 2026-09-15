@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -22,7 +22,7 @@ return [
     'LAN_VALIDATE_102' => "Neočakávaný typ hodnoty",
     'LAN_VALIDATE_103' => "Nájdené neplatné znaky",
     'LAN_VALIDATE_104' => "Neplatná emailová adresa",
-    'LAN_VALIDATE_105' => "Polia nesúhlasia",
+    'LAN_VALIDATE_105' => "Polia sa nezhodujú",
     'LAN_VALIDATE_131' => "Príliš krátky reťazec",
     'LAN_VALIDATE_132' => "Príliš dlhý reťazec",
     'LAN_VALIDATE_133' => "Príliš nízke číslo",

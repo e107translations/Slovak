@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -41,7 +41,7 @@ return [
     "CORE_LAN_B" => "B",
     "CORE_LAN_KB" => "kB",
     "CORE_LAN_MB" => "MB",
-    "CORE_LAN_GB" => "sk",
+    "CORE_LAN_GB" => "GB",
     "CORE_LAN_TB" => "TB",
 
     "EMESSLAN_TITLE_INFO" => "Systémové informácie",
@@ -89,7 +89,7 @@ return [
     "LAN_DESCRIPTION" => "Popis",
     // Also in admin/lan_admin.php, which a front-end page never loads.
     // submitnews.php renders a field with it: see #5912.
-    "LAN_META_DESCRIPTION" => "Meta Description",
+    "LAN_META_DESCRIPTION" => "Meta popis",
     "LAN_CANCEL" => "Zrušiť",
     "LAN_DATE" => "Dátum",
     "LAN_DATE_POSTED" => "Odoslané dňa",
@@ -105,6 +105,7 @@ return [
     "LAN_PREVIOUS" => "Späť",
     "LAN_LOGIN" => "Prihlásiť",
     "LAN_LOGOUT" => "Odhlásiť",
+    "LAN_LOGOUT_REFUSED_TOKEN_MISSING" => "Neboli ste odhlásený, pretože odkaz neobsahoval bezpečnostný token. Použite odkaz na odhlásenie v menu tohto webu, nie záložku v prehliadači alebo odkaz z iného webu.",
     "LAN_VERIFY" => "Overiť",
     "LAN_SETTINGS" => "Nastavenia",
     "LAN_PASSWORD" => "Heslo",
@@ -113,7 +114,7 @@ return [
     "LAN_SCREENSHOT" => "Náhľad",
     "LAN_FILE" => "Súbor",
     "LAN_YOUTUBE_VIDEO" => "Youtube video",
-    "LAN_YOUTUBE_PLAYLIST" => "Youtube Playlist",
+    "LAN_YOUTUBE_PLAYLIST" => "Playlist z YouTube",
     "LAN_FILETYPES" => "Typy súborov",
     "LAN_FILE_NOT_FOUND" => "Súbor nenájdený",
     "LAN_FILES" => "Súbory",

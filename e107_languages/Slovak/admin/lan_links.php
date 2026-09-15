@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -41,11 +41,11 @@ return [
     'LCLAN_109' => "Vyberte rodiča",
     'LCLAN_110' => "Zvoľte modul generátora",
     'LCLAN_111' => "Neplatné dáta pre generátor",
-    'LCLAN_112' => "1 - Main",
+    'LCLAN_112' => "1 - Hlavné",
     'LCLAN_113' => "1 - Main",
     'LCLAN_114' => "1 - Main",
     'LCLAN_115' => "Alt",
-    'LCLAN_116' => "(Unassigned)",
+    'LCLAN_116' => "(Nepriradené)",
     'LINKLAN_1' => "Otvoriť v mini okne 800x600",
     'LINKLAN_4' => "Generátor sublinkov",
     'LINKLAN_5' => "Generujte sublinky",
@@ -54,4 +54,9 @@ return [
     'LINKLAN_8' => "Kategórie článkov",
     'LINKLAN_9' => "Kategórie sťahovaní",
     'LINKLAN_10' => "Shortcodes témy",
+    'LAN_LINKS_PRESET' => "Preddefinovaný odkaz",
+    'LAN_LINKS_PRESET_HELP' => "Vyplní URL adresu, názov a užívateľskú triedu pre odkaz, ktorý e107 vie zostaviť. Ktorýkoľvek z údajov môžete potom zmeniť.",
+    'LAN_LINKS_PRESET_OVERWRITE' => "Týmto sa nahradí už zadaná URL adresa a názov.",
+    'LAN_LINKS_URL_HELP' => "Cesta od koreňa webu, napr. news.php, alebo úplná adresa. {E_TOKEN} sa nahradí vlastným bezpečnostným tokenom každého návštevníka; index.php?logout ho potrebuje.",
+    'LAN_LINKS_URL_REQUIRED' => "Zadajte URL adresu alebo vyberte preddefinovaný odkaz.",
 ];

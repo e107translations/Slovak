@@ -4,13 +4,15 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
+
 
 return [
     'GSLAN_1' => "Link stránky",
@@ -43,6 +45,6 @@ return [
     'GSLAN_39' => "V mape stránok nie sú žiadne linky - naimportovať linky stránok?",
     'GSLAN_50' => "Verejne viditeľné",
     'GSLAN_51' => "Automaticky vygenerované z [x]",
-    'GSLAN_52' => "Once you have some entries, go to [URL] and enter one of the following URLs in the Sitemaps section.[SITEMAP_URLS] (If any of these urls look incorrect to you, please make sure your site url is correct in [preferences].)",
+    'GSLAN_52' => "Keď už máte nejaké záznamy, prejdite na [URL] a v sekcii Sitemaps zadajte jednu z nasledujúcich URL adries.[SITEMAP_URLS]  (Ak niektorá z týchto URL adries nevyzerá správne, uistite sa, že máte v [nastaveniach] správne zadanú URL adresu webu.)",
     'GSLAN_53' => "Pokyny",
 ];

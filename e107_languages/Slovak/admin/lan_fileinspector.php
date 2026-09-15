@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'FC_LAN_1' => "Inšpektor súborov",
@@ -27,21 +28,21 @@ return [
     'FC_LAN_19' => "Zobraz čísla riadkov",
     'FC_LAN_20' => "Zobraz spárované riadky",
     'FC_LAN_21' => "Súbory starého jadra",
-    'FC_LAN_23' => "Exclude Language-Files",
-    'FC_LAN_24' => "Core Folder (Integrity Pass)",
-    'FC_LAN_25' => "Core Folder (Integrity Fail)",
-    'FC_LAN_26' => "Core Folder (Missing)",
-    'FC_LAN_27' => "Core Folder (Old)",
-    'FC_LAN_28' => "Non-core Folder",
+    'FC_LAN_23' => "Vynechať jazykové súbory",
+    'FC_LAN_24' => "Adresár jadra (integrita v poriadku)",
+    'FC_LAN_25' => "Adresár jadra (chyba integrity)",
+    'FC_LAN_26' => "Adresár jadra (chýba)",
+    'FC_LAN_27' => "Adresár jadra (starý)",
+    'FC_LAN_28' => "Adresár mimo jadra",
     'FC_LAN_29' => "Core File (Integrity Pass",
-    'FC_LAN_30' => "Core File (Unchecked)",
-    'FC_LAN_31' => "Core File (Integrity Fail)",
-    'FC_LAN_32' => "Core File (Missing)",
+    'FC_LAN_30' => "Súbor jadra (nekontrolovaný)",
+    'FC_LAN_31' => "Súbor jadra (chyba integrity)",
+    'FC_LAN_32' => "Súbor jadra (chýba)",
     'FC_LAN_33' => "Core File (Old",
-    'FC_LAN_34' => "Core File (Incalculable)",
-    'FC_LAN_35' => "Known Security issue",
-    'FC_LAN_36' => "Non-core file",
-    'FC_LAN_37' => "File Key",
+    'FC_LAN_34' => "Súbor jadra (nedá sa vypočítať)",
+    'FC_LAN_35' => "Známy bezpečnostný problém",
+    'FC_LAN_36' => "Súbor mimo jadra",
+    'FC_LAN_37' => "Legenda súborov",
     'FR_LAN_1' => "Skenovanie",
     'FR_LAN_2' => "Výsledky skenovania",
     'FR_LAN_3' => "Prehľad",
@@ -69,18 +70,18 @@ return [
     'FR_LAN_26' => "Pozor! Bola zistená nestabilita!",
     'FR_LAN_27' => "Na vašom serveri boli nájdené súbory, ktoré sú známe svojou zneužiteľnosťou a preto musia byť okamžite odstránené.",
     'FR_LAN_28' => "Známe nestabilné súbory",
-    'FR_LAN_32' => "You need to run a scan first!",
+    'FR_LAN_32' => "Najprv musíte spustiť kontrolu!",
     'FR_LAN_33' => "Začína",
-    'FS_LAN_1' => "Create Snapshot",
-    'FS_LAN_2' => "Absolute path of root directory to create image from",
-    'FS_LAN_3' => "Create snapshot for plugin: (Your plugin will be listed when a writable e_inspect.php file exists in your plugins root directory.)",
-    'FS_LAN_4' => "Select...",
-    'FS_LAN_5' => "Create snapshot of current or deprecated files",
-    'FS_LAN_6' => "Current",
-    'FS_LAN_7' => "Deprecated",
-    'FS_LAN_8' => "Create Snapshot",
-    'FS_LAN_9' => "Snapshot",
-    'FS_LAN_10' => "Snapshot Created",
-    'FS_LAN_11' => "The snapshot was successfully created.",
-    'FS_LAN_12' => "Return To Main Page",
+    'FS_LAN_1' => "Vytvoriť snímku",
+    'FS_LAN_2' => "Absolútna cesta ku koreňovému adresáru, z ktorého sa vytvorí obraz",
+    'FS_LAN_3' => "Vytvoriť snímku pre plugin: (Váš plugin sa zobrazí, ak v koreňovom adresári pluginu existuje zapisovateľný súbor e_inspect.php.)",
+    'FS_LAN_4' => "Vyberte...",
+    'FS_LAN_5' => "Vytvoriť snímku aktuálnych alebo zastaraných súborov",
+    'FS_LAN_6' => "Aktuálne",
+    'FS_LAN_7' => "Zastarané",
+    'FS_LAN_8' => "Vytvoriť snímku",
+    'FS_LAN_9' => "Snímka",
+    'FS_LAN_10' => "Snímka vytvorená",
+    'FS_LAN_11' => "Snímka bola úspešne vytvorená.",
+    'FS_LAN_12' => "Späť na hlavnú stránku",
 ];

@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -44,9 +44,9 @@ return [
     'FBLAN_31' => "Náhodne",
     'FBLAN_32' => "Parametre (nepovinné)",
     'FBLAN_33' => "Možno javasc. parametre (format subject to change)",
-    'FBLAN_34' => "Unassigned",
-    'FBLAN_35' => "Carousel",
-    'FBLAN_36' => "Tabs",
+    'FBLAN_34' => "Nepriradené",
+    'FBLAN_35' => "Rotátor",
+    'FBLAN_36' => "Karty",
     'LAN_FEATUREBOX_SEF' => "Názov shortcode",
     'LAN_FEATUREBOX_SEF_HELP' => "Ako sa na túto kategóriu odkazuje šablóna, teda {FEATUREBOX|moja-kategoria}. Povolené sú len písmená, číslice, - a _; ostatné znaky sa prevedú.",
     'LAN_FEATUREBOX_SEF_EMPTY' => "Zadajte tejto kategórii názov shortcode obsahujúci písmená, číslice, - alebo _.",

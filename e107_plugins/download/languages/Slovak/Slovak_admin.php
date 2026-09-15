@@ -4,14 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
 // define("LAN_PLUGIN_DOWNLOAD_NAME",	   "Downloads");
 
 return [
@@ -95,6 +94,8 @@ return [
     'DOWLAN_129' => "nechajte prázdne, ak sa nemajú použiť zrkadlové servery",
     'DOWLAN_130' => "Pridať ďalší zrkadlový server",
     'DOWLAN_131' => "Vybrať lokálny súbor",
+    'DOWLAN_LOCAL_PATH' => "Alebo cesta v adresári stiahnutí",
+    'DOWLAN_LOCAL_PATH_NOT_FOUND' => "V adresári stiahnutí nie je žiadny súbor s týmto názvom, preto sa nič neuložilo. Skontrolujte cestu voči adresáru stiahnutí a stiahnutie odošlite znova.",
     'DOWLAN_132' => "Zadajte, že sa má použiť zrkadlový server a potom určite adresu pre stiahnutia a veľkosť súboru",
     'DOWLAN_133' => "Zrkadlový server aktualizovaný",
     'DOWLAN_134' => "Zrkadlový server uložený do databázy",
@@ -166,8 +167,8 @@ return [
     'LAN_DL_SECURITY_MODE' => "Režim ochrany URL",
     'LAN_DL_SECURITY_MODE_NONE' => "Žiadny (predvolené)",
     'LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5' => "NGINX secure_link_md5",
-    'LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE' => "Click to toggle list of supported NGINX variables",
-    'LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION' => "<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>",
+    'LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE' => "Kliknutím zobrazíte/skryjete zoznam podporovaných premenných NGINX",
+    'LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION' => "[Výraz NGINX secure_link_md5]",
     'LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP' => "Rovnaký spôsob ako je nakonfigurovaný na serveri",
     'LAN_DL_SECURITY_LINK_EXPIRY' => "Doba platnosti v sekundách",
     'LAN_DL_SECURITY_LINK_EXPIRY_HELP' => "Počet sekúnd, počas ktorých má odkaz na stiahnutie trvať po vygenerovaní.  Účinné len vtedy, ak výraz podporuje čas vypršania platnosti. Predvolené nastavenie je veľmi dlhý čas, ak je toto pole ponechané prázdne.",

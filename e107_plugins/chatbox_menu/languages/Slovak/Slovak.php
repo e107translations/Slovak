@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -12,10 +12,11 @@
 +---------------------------------------------------------------+
 */
 
+
 return [
     'CHATBOX_L1' => "Nemožnosť odoslania príspevku s týmto užívateľským menom, pretože je registrované - ak je to vaše užívateľské meno, prosí, prihláste sa.",
     'CHATBOX_L3' => "Musíte byť prihlásený, ak chcete na tejto stránke odosielať komentáre - buď sa prihláste cez login box alebo [tu].",
-    'CHATBOX_L3b' => "Ak nie ste registrovaný, kliknite [sem] a zaregistrujte sa.",
+    'CHATBOX_L3b' => "Ak nie ste zaregistrovaný, kliknite [sem] a zaregistrujte sa.",
     'CHATBOX_L4' => "Odoslať novú správu",
     'CHATBOX_L5' => "Zresetovať",
     'CHATBOX_L6' => "[blokované adminom]",

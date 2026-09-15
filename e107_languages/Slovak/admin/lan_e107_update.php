@@ -4,13 +4,18 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
+
+
+
+
 
 return [
     'LAN_UPDATE_2' => "Akcia",
@@ -42,14 +47,15 @@ V závislosti od vášho konkrétneho nastavenia, možno budete musieť spustiť
     'LAN_UPDATE_45' => "Pridávam do databázy novú tabuľku:",
     'LAN_UPDATE_46' => "Chýba pri načítaní definície tabuľky:",
     'LAN_UPDATE_50' => "Vymazané staré preferencie:",
-    'LAN_UPDATE_51' => "Update plugin table definition:",
+    'LAN_UPDATE_51' => "Aktualizovať definíciu tabuliek pluginu:",
     'LAN_UPDATE_52' => "Aktualizovaná tabuľka downloads",
     'LAN_UPDATE_53' => "Aktualizovaná download mirror tabuľka",
     'LAN_UPDATE_54' => "Chýba tabuľka [y] - nepodarilo sa pridať index [x]",
     'LAN_UPDATE_55' => "Popis",
     'LAN_UPDATE_56' => "Update systému",
-    'LAN_UPDATE_57' => "Before continuing, please manually delete the following outdated folders from your system:",
+    'LAN_UPDATE_57' => "Pred pokračovaním prosím ručne zmažte zo systému nasledujúce zastarané adresáre:",
     'LAN_UPDATE_CAPTION_PLUGIN' => "Update pluginov",
     'LAN_UPDATE_CAPTION_CORE' => "Update jadra",
-    'LAN_UPDATE_58' => "It is highly recommended that you run [File Inspector] after you have completed all the updates, in order to detect any outdated files that need to be removed.",
+    'LAN_UPDATE_58' => "Po dokončení všetkých aktualizácií dôrazne odporúčame spustiť [Kontrolu súborov], aby sa našli zastarané súbory, ktoré treba odstrániť.",
+    'LAN_UPDATE_REFUSED_TOKEN_MISSING' => "Operácia nebola spustená, pretože odkaz neobsahoval bezpečnostný token. Spustite aktualizáciu systému z odkazu, ktorý vám e107 zobrazí v administrácii, nie zo záložky v prehliadači alebo z odkazu na inom webe.",
 ];

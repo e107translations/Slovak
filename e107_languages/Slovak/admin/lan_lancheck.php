@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'LAN_CHECK_2' => "Začať kontrolu",
@@ -45,10 +46,11 @@ return [
     'LANG_LAN_117' => "Než  so svojím jazykovým balíčkom prispejete, mali by ste opraviť zostávajúce chyby.",
     'LANG_LAN_119' => "Skontrolujte, či CORE_LC a CORE_LC2 majú v [x] hodnoty a skúste znova.",
     'LANG_LAN_120' => "Uistite sa, že v e107_config.php  používate defaultné názvy adresárov (eg. e107_languages/, e107_plugins/ atď.) a skúste to znova.",
-    'LANG_LAN_156' => "[x] missing file(s)",
-    'LANG_LAN_157' => "[x] missing/invalid phrase(s)",
-    'LANG_LAN_158' => "[x] file(s) with BOM/illegal characters",
-    'LANG_LAN_159' => "[x] non-UTF8 phrase(s)",
-    'LANG_LAN_160' => "Tip: open the [x] tab to see the affected files/keys. Enable [y] in [z] to bypass this check and generate the pack anyway.",
+    'LANG_LAN_156' => "Chýbajúce súbory: [x]",
+    'LANG_LAN_157' => "Chýbajúce alebo neplatné frázy: [x]",
+    'LANG_LAN_158' => "Súbory s BOM alebo nepovolenými znakmi: [x]",
+    'LANG_LAN_159' => "Frázy mimo UTF-8: [x]",
+    'LANG_LAN_160' => "Tip: na karte [x] uvidíte dotknuté súbory a kľúče. Ak chcete túto kontrolu preskočiť a balík aj tak vygenerovať, zapnite [y] v [z].",
     'LANG_LAN_AGR' => "Poznámka: Použitím týchto nástrojov súhlasíte so zdieľaním jazykových balíčkov s e107 komunitou.",
+    'LANG_LAN_REFUSED_TOKEN_MISSING' => "Kontrola jazyka nebola spustená, pretože odkaz neobsahoval bezpečnostný token. Spustite ju zo zoznamu jazykových balíkov, nie zo záložky v prehliadači alebo z odkazu na inom webe.",
 ];

@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -35,21 +35,21 @@ return [
     'MENLAN_25' => "Akcia...",
     'MENLAN_26' => "Toto menu sa [b]ZOBRAZÍ[/b] len na nasledujúcich stránkach",
     'MENLAN_27' => "Toto menu sa [b]NEZOBRAZÍ[/b] na nasledovných stránkach",
-    'MENLAN_28' => "Enter one page per line, enter enough of the url to distinguish it properly. If you need the ending of the url to match exactly, use a ! at the end of the page name. For example: [b]page.php?1![/b]",
-    'MENLAN_30' => "To see the menu areas and their positions for custom layouts, select the custom layout here.",
+    'MENLAN_28' => "Zadajte jednu stránku na riadok, z URL adresy uveďte toľko, aby sa dala jednoznačne rozlíšiť.  Ak potrebujete, aby sa koniec URL adresy zhodoval presne, pridajte na koniec názvu stránky znak !. Napríklad: [b]page.php?1![/b]",
+    'MENLAN_30' => "Ak chcete vidieť oblasti menu a ich umiestnenie pre vlastné rozloženia, vyberte tu vlastné rozloženie.",
     'MENLAN_31' => "Predvolená vrstva",
     'MENLAN_33' => "Vlastná vrstva",
     'MENLAN_34' => "Vložené",
     'MENLAN_36' => "Zvoľte, ktoré menu sa majú aktivovať",
     'MENLAN_37' => "tu zvoľte, v ktorej lokácií sa majú aktivovať.",
-    'MENLAN_39' => "Preset Area",
-    'MENLAN_40' => "Use Menu Presets",
-    'MENLAN_41' => "The position of all your menus for this layout will be lost. Do you still wish to continue?",
-    'MENLAN_43' => "Menu Preset Activated",
-    'MENLAN_44' => "Menu parameters",
-    'MENLAN_45' => "Parameters (query string format):",
-    'MENLAN_46' => "[x] object not found. Try re-scanning plugin directories in Tools > Database.",
-    'MENLAN_47' => "No Fields Set in",
+    'MENLAN_39' => "Oblasť predvoľby",
+    'MENLAN_40' => "Použiť predvoľby menu",
+    'MENLAN_41' => "Umiestnenie všetkých vašich menu pre toto rozloženie sa stratí. Chcete napriek tomu pokračovať?",
+    'MENLAN_43' => "Predvoľba menu aktivovaná",
+    'MENLAN_44' => "Parametre menu",
+    'MENLAN_45' => "Parametre (vo formáte query string):",
+    'MENLAN_46' => "Objekt [x] sa nenašiel. Skúste znova prehľadať adresáre pluginov v Nástroje > Databáza.",
+    'MENLAN_47' => "Nie sú nastavené žiadne polia v",
     'MENLAN_48' => "Nepodarilo sa nahrať menu",
     'MENLAN_49' => "Vaše menu",
     'MENLAN_50' => "Plugin menu",
@@ -59,8 +59,9 @@ return [
     'MENLAN_54' => "Layout témy",
     'MENLAN_55' => "Layout menu",
     'MENLAN_56' => "Custom stránky",
-    'MENLAN_57' => "Drag-and-Drop Menus",
-    'MENLAN_58' => "The Menu-Manager allows you to place and arrange your menus within your theme template. Hover over the sub-areas to modify existing menu items.",
+    'MENLAN_57' => "Menu s presúvaním myšou",
+    'MENLAN_58' => "Správca menu umožňuje umiestniť a usporiadať menu v šablóne vašej témy. Pre úpravu existujúcich položiek menu prejdite myšou nad jednotlivé oblasti.",
     'MENLAN_59' => "Lokácia [x]",
-    'MENLAN_60' => "This theme is using deprecated elements. All [x]HEADER and [x]FOOTER variables should be removed from theme.php.",
+    'MENLAN_60' => "Táto téma používa zastarané prvky. Z theme.php by ste mali odstrániť všetky premenné [x]HEADER a [x]FOOTER.",
+    'MENLAN_REFUSED_TOKEN_MISSING' => "Menu nebolo odstránené z rozloženia, pretože odkaz neobsahoval bezpečnostný token. Odstráňte ho v Správcovi menu, nie pomocou záložky v prehliadači alebo odkazu na inom webe.",
 ];

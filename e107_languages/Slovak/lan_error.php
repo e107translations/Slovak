@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -37,7 +37,7 @@ return [
     'LAN_ERROR_25' => "[1]: Nie je možné načítať základné nastavenia z databázy - Základné nastavenia existujú, no nie je možné z nich vychádzať. Pokušam sa obnoviť základnú zálohu ...",
     'LAN_ERROR_26' => "[2]: Nie je možné načítať základné nastavenia z databázy - základné nastavenia neexistujú.",
     'LAN_ERROR_27' => "[3]: Základné nastavenia boli uložené - záloha bola aktivovaná.",
-    'LAN_ERROR_28' => "[4]: Nenájdená záloha jadra. Skontrolujte, že vaša databáza má správny obsah.",
+    'LAN_ERROR_28' => "[4]: Nenašla sa záloha jadra. Skontrolujte, či databáza obsahuje platné údaje.",
     'LAN_ERROR_29' => "[5]: Pole(ia) bolo ponechané prázdne. Znovu odošlite formulár s vyplnenými všetkými požadovanými poliami.",
     'LAN_ERROR_30' => "[6]: Nie je možné vytvoriť platné spojenie s mySQL. Skontrolujte si, prosím, či súbor e107_config.php obsahuje správne informácie.",
     'LAN_ERROR_31' => "[7]: mySQL beží, ale k databáze [x] sa nepodarilo pripojiť.<br />Skontrolujte, či existuje a či váš konfiguračný súbor obsahuje správne informácie.",

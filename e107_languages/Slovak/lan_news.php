@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -12,12 +12,16 @@
 +---------------------------------------------------------------+
 */
 
+
+
+
+
 return [
     'LAN_NEWS_1' => "Článok len pre určených členov",
     'LAN_NEWS_2' => "Nemáte oprávnenie čítať tento článok",
     'LAN_NEWS_9' => "Je nastavený len titulok - <b>zobrazený bude len nadpis článku</b><br />",
-    'LAN_NEWS_10' => "Tento článok je  <b>neaktívny</b> (nebude zobrazený na úvodnej stránke).",
-    'LAN_NEWS_11' => "Tento článok je  <b>aktívny</b> (bude zobrazený na úvodnej stránke).",
+    'LAN_NEWS_10' => "Tento článok je <b>neaktívny</b> (nebude zobrazený na úvodnej strane).",
+    'LAN_NEWS_11' => "Tento článok je <b>aktívny</b> (bude zobrazený na úvodnej strane).",
     'LAN_NEWS_12' => "Komentáre sú <b>zapnuté</b>.",
     'LAN_NEWS_13' => "Komentáre sú <b>vypnuté</b>.",
     'LAN_NEWS_14' => "<br />Doba aktivácie:",
@@ -41,5 +45,5 @@ return [
     'LAN_NEWS_300' => "Dňa",
     'LAN_NEWS_307' => "Spolu príspevkov v tejto kategórií:",
     'LAN_NEWS_308' => "Možno hľadáte niečo z článkov nižšie?",
-    'LAN_NEWS_309' => "Tag",
+    'LAN_NEWS_309' => "Štítok",
 ];

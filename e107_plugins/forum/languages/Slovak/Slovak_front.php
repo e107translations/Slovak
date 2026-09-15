@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -264,6 +264,7 @@ return [
     'LAN_FORUM_OPEN' => "Vlákno odomknuté.",
     'LAN_FORUM_STICK' => "Vlákno označené ako dôležité.",
     'LAN_FORUM_UNSTICK' => "Vlákno odlepené.",
+    'LAN_FORUM_ATTACHMENT_REFUSED_UNPROTECTED' => "Príloha odmietnutá: jej adresár sa nepodarilo ochrániť pred priamym stiahnutím. Informujte prosím administrátora webu.",
 
 
 
@@ -353,6 +354,8 @@ return [
     'LAN_FORUM_8028' => "Návrat",
     'LAN_FORUM_8029' => "Vytvorená nová téma!",
     'LAN_FORUM_8030' => "Nepodarilo sa vymazať príspevok (musíte mať práva moderatóra)",
+
+    'LAN_FORUM_REFUSED_TOKEN_MISSING' => "Nič nebolo označené ako prečítané, pretože odkaz neobsahoval bezpečnostný token. Použite označenie nových príspevkov v zozname fór, nie záložku v prehliadači alebo odkaz na inom webe.",
 
 /*  THIS WILL BE DELETED ONCE THE REWRITE IS DONE
 ==================================================

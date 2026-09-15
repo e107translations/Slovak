@@ -4,13 +4,15 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
+
 
 return [
     'DBLAN_1' => "Záloha nastavenia jadra uložená do databázy.",
@@ -39,25 +41,25 @@ return [
     'DBLAN_31' => "PASS",
     'DBLAN_33' => "Nedostupné",
     'DBLAN_34' => "Neskontrolované",
-    'DBLAN_35' => "Select to check validity of e107 database records",
-    'DBLAN_36' => "Check database record validity",
+    'DBLAN_35' => "Vyberte na kontrolu platnosti záznamov databázy e107",
+    'DBLAN_36' => "Skontrolovať platnosť záznamov databázy",
     'DBLAN_37' => "Zvoľte tabuľku(y), ktoré skontrolovať",
     'DBLAN_38' => "Spustiť kontrolu",
-    'DBLAN_39' => "Database Record Validation",
-    'DBLAN_40' => "Record Validation :",
+    'DBLAN_39' => "Overenie záznamov databázy",
+    'DBLAN_40' => "Overenie záznamov:",
     'DBLAN_41' => "tabuľka",
-    'DBLAN_43' => "remark",
-    'DBLAN_45' => "Id Not Found!",
-    'DBLAN_46' => "Table Not Found!",
-    'DBLAN_49' => "No records present in the table, so nothing to validate",
-    'DBLAN_50' => "Sql Record Validation",
-    'DBLAN_51' => "Execute Selected",
-    'DBLAN_52' => "Delete Duplicate",
-    'DBLAN_53' => "Please select action.",
-    'DBLAN_54' => "No Validation errors found.",
-    'DBLAN_55' => "Select to scan shortcode/override directory for new shortcodes",
+    'DBLAN_43' => "poznámka",
+    'DBLAN_45' => "ID sa nenašlo!",
+    'DBLAN_46' => "Tabuľka sa nenašla!",
+    'DBLAN_49' => "Tabuľka neobsahuje žiadne záznamy, nie je čo overovať",
+    'DBLAN_50' => "Overenie SQL záznamov",
+    'DBLAN_51' => "Vykonať vybrané",
+    'DBLAN_52' => "Zmazať duplikát",
+    'DBLAN_53' => "Vyberte prosím akciu.",
+    'DBLAN_54' => "Neboli nájdené žiadne chyby overenia.",
+    'DBLAN_55' => "Vyberte na prehľadanie adresára shortcode/override kvôli novým shortcodom",
     'DBLAN_56' => "10. Sken override adresára",
-    'DBLAN_57' => "Shortcode Override list set to",
+    'DBLAN_57' => "Zoznam prepísaných shortcodov nastavený na",
     'DBLAN_58' => " 6. Export údajov",
     'DBLAN_59' => " 7. Import údajov",
     'DBLAN_60' => "Zálohovanie súborov dokončené!",
@@ -80,12 +82,12 @@ return [
     'DBLAN_77' => "Nepodarilo sa načítať sql súbor",
     'DBLAN_78' => "Tabuľka",
     'DBLAN_79' => "Engine",
-    'DBLAN_80' => "Collation",
+    'DBLAN_80' => "Zoradenie (collation)",
     'DBLAN_81' => "Stav",
     'DBLAN_82' => "Táto funkcia trvale upraví všetky tabuľky vašej databázy. ([database])",
     'DBLAN_83' => "[b]Dôrazne[/b] vám odporúčame, aby ste si zálohovali databázu a nastavili režim údržby.",
     'DBLAN_84' => "Poznámka:",
-    'DBLAN_85' => "The conversion process can take up to one minute or much much more depending on the size of your database.",
+    'DBLAN_85' => "Konverzia môže trvať až minútu alebo aj oveľa dlhšie, podľa veľkosti vašej databázy.",
     'DBLAN_86' => "Proces konverzie môže trvať až jednu minútu alebo oveľa viac v závislosti od veľkosti vašej databázy.",
     'DBLAN_87' => "Najprv sa uistite, že ste vykonali všetky kroky procesu aktualizácie",
     'DBLAN_88' => "Základné nastavenia sú počas procesu konverzie ignorované kvôli možnosti poškodenia.",
@@ -99,13 +101,13 @@ return [
     'DBLAN_97' => "Tabuľky",
     'DBLAN_98' => "Počet riadkov",
     'DBLAN_99' => "Údaje tabuľky:",
-    'DBLAN_100' => "Convert paths and package images and xml into:",
-    'DBLAN_101' => "Export File",
+    'DBLAN_100' => "Konvertovať cesty a zabaliť obrázky a xml do:",
+    'DBLAN_101' => "Exportovať súbor",
     'DBLAN_102' => "Možnosti exportu",
     'DBLAN_103' => "Vložené",
     'DBLAN_104' => "Vloženie sa nepodarilo",
-    'DBLAN_105' => "Batch shortcodes:",
-    'DBLAN_106' => "(empty)",
+    'DBLAN_105' => "Batch shortcody:",
+    'DBLAN_106' => "(prázdne)",
     'DBLAN_107' => "[adresár] nie je zapisovateľný",
     'DBLAN_108' => "Vytvorené:",
     'DBLAN_109' => "Skopírované:",
@@ -121,4 +123,5 @@ return [
     'DBLAN_119' => "Záloha",
     'DBLAN_120' => "Začínam zálohovať....",
     'DBLAN_121' => "Presúvam [x] do [y].",
+    'DBLAN_REFUSED_TOKEN_MISSING' => "Operácia nebola spustená, pretože odkaz neobsahoval bezpečnostný token. Spustite ju z menu Nástroje databázy, nie zo záložky v prehliadači alebo z odkazu na inom webe.",
 ];

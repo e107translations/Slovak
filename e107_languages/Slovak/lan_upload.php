@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -49,5 +49,5 @@ return [
     'LAN_420' => "polia sú povinné",
     'LAN_UL_039' => "Odoslať a nahrať",
     'LAN_UL_040' => "Odoslanie súboru",
-    'LAN_UL_041' => "Absolute maximum file size:", // LAN_418
+    'LAN_UL_041' => "Absolútna maximálna veľkosť súboru:", // LAN_418
 ];

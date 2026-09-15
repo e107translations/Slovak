@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'LAN_LOGINMENU_1' => "Meno užívateľa:",
@@ -46,14 +47,14 @@ return [
     'LAN_LOGINMENU_41' => "Nastavenia prihlasovacieho menu",
     'LAN_LOGINMENU_37' => "Ukázať",
     'LAN_LOGINMENU_38' => "Login menu - Ďaľšie odkazy",
-    'LAN_LOGINMENU_42' => "Login menu - Recent core additions",
+    'LAN_LOGINMENU_42' => "Prihlasovacie menu - nedávne prírastky jadra",
     'LAN_LOGINMENU_43' => "Pozícia",
     'LAN_LOGINMENU_44' => "chýbajúci názov odkazu",
     'LAN_LOGINMENU_45' => "odkaz(y)",
     'LAN_LOGINMENU_45a' => "",
     'LAN_LOGINMENU_45b' => "Plugin",
     'LAN_LOGINMENU_46' => "posledné príspevky -",
-    'LAN_LOGINMENU_47' => "Login menu - Recent plugin additions",
+    'LAN_LOGINMENU_47' => "Prihlasovacie menu - nedávne prírastky pluginov",
     'LAN_LOGINMENU_48' => "Konfigurácia menu",
     'LAN_LOGINMENU_49' => "Email:",
     'LAN_LOGINMENU_50' => "Prihl.meno alebo email",

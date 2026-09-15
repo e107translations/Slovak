@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'LAN_PM' => "Súkromné správy",
@@ -97,4 +98,5 @@ return [
     'LAN_PM_114' => "Nemáte oprávnenie odoslať správu tomuto užívateľovi.",
     'LAN_PM_115' => "Užívateľ nenájdený",
     'LAN_PM_116' => "Prílohy nie je možné na tejto stránke uložiť ako súkromné – nebola priložená žiadna príloha. Informujte, prosím, správcu stránky.",
+    'LAN_PM_REFUSED_TOKEN_MISSING' => "Nič nebolo zmenené, pretože odkaz neobsahoval bezpečnostný token. Použite tlačidlá na stránkach súkromných správ, nie záložku v prehliadači alebo odkaz na inom webe.",
 ];

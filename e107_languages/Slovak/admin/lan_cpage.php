@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'CUSLAN_1' => "Prehľad",
@@ -57,9 +58,9 @@ return [
     'CUSLAN_80' => "Podtitulok",
     'CUSLAN_81' => "Meta obrázok",
     'CUSLAN_82' => "Voliteľné. Používa sa v sociálnych médiách pri zdieľaní tejto stránky.",
-    'CUSLAN_83' => "Will be listed in the Menu-Manager under this name or may be called using {CMENU=name} in your theme. Must use ASCII characters only and be all lowercase.",
-    'CUSLAN_84' => "Caption displayed on the menu item.",
-    'CUSLAN_85' => "Leave blank to use the default",
-    'CUSLAN_86' => "Leave blank to use the corresponding page",
-    'CUSLAN_87' => "Page Count",
+    'CUSLAN_83' => "Pod týmto názvom bude uvedené v Správcovi menu, prípadne ho môžete vo svojej téme vložiť pomocou {CMENU=name}. Používajte iba znaky ASCII a malé písmená.",
+    'CUSLAN_84' => "Nadpis zobrazený pri položke menu.",
+    'CUSLAN_85' => "Nechajte prázdne pre použitie predvolenej hodnoty",
+    'CUSLAN_86' => "Nechajte prázdne pre použitie zodpovedajúcej stránky",
+    'CUSLAN_87' => "Počet stránok",
 ];

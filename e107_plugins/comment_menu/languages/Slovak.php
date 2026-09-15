@@ -4,14 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
 return [
     'CM_L1' => "Žiadne komentáre.",
     'CM_L2' => "",
@@ -23,5 +22,5 @@ return [
     'CM_L8' => "Konfigurácia menu komentárov noviniek",
     'CM_L11' => "zapnuté",
     'CM_L12' => "Re:",
-    'CM_L13' => "Zaslané od",
+    'CM_L13' => "Zaslal",
 ];

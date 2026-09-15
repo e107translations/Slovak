@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -47,5 +47,5 @@ return [
     'LAN_FPW_100' => "Zabudli ste svoje heslo?",
     'LAN_FPW_101' => "Bez obáv. Len zadajte nižšie svoju emailovú adresu a my vám pošleme pokyny pre jeho obnovenie.",
     'LAN_FPW_102' => "Obnova hesla",
-    'LAN_FPW_MISCONFIGURED' => "Password reset is currently unavailable due to a site configuration issue. Please contact the site administrator.",
+    'LAN_FPW_MISCONFIGURED' => "Obnovenie hesla je momentálne nedostupné kvôli chybe v nastavení webu. Kontaktujte prosím administrátora webu.",
 ];

@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 /**
  *	e107 Downloads plugin
@@ -22,17 +23,17 @@
  */
 
 return [
-    'LAN_AL_DOWNL_01' => "Stiahnutia - zmenené nastavenia sťahovania",
-    'LAN_AL_DOWNL_02' => "Stiahnutia - zmenené nastavenia nahrávania",
-    'LAN_AL_DOWNL_03' => "Stiahnutia - pridaný limit",
-    'LAN_AL_DOWNL_04' => "Stiahnutia - log 04",
-    'LAN_AL_DOWNL_05' => "Stiahnutia - log 05",
-    'LAN_AL_DOWNL_06' => "Stiahnutia - log 06",
-    'LAN_AL_DOWNL_07' => "Stiahnutia - log 07",
-    'LAN_AL_DOWNL_08' => "Stiahnutia - log 08",
-    'LAN_AL_DOWNL_09' => "Stiahnutia - log 09",
-    'LAN_AL_DOWNL_10' => "Stiahnutia - aktualizovaný limit ",
-    'LAN_AL_DOWNL_11' => "Stiahnutia - zrušený limit ",
+    'LAN_AL_DOWNL_01' => "Možnosti sťahovania zmenené",
+    'LAN_AL_DOWNL_02' => "Kategória stiahnutí vytvorená",
+    'LAN_AL_DOWNL_03' => "Kategória stiahnutí aktualizovaná",
+    'LAN_AL_DOWNL_04' => "Kategória stiahnutí zmazaná",
+    'LAN_AL_DOWNL_05' => "Stiahnutie vytvorené",
+    'LAN_AL_DOWNL_06' => "Stiahnutie aktualizované",
+    'LAN_AL_DOWNL_07' => "Stiahnutie zmazané",
+    'LAN_AL_DOWNL_08' => "Poradie kategórií stiahnutí aktualizované",
+    'LAN_AL_DOWNL_09' => "Limit sťahovania pridaný",
+    'LAN_AL_DOWNL_10' => "Limit sťahovania upravený",
+    'LAN_AL_DOWNL_11' => "Limit sťahovania zmazaný",
     'LAN_AL_DOWNL_12' => "Zrkadlový server pridaný",
     'LAN_AL_DOWNL_13' => "Zrkadlový server aktualizovaný",
     'LAN_AL_DOWNL_14' => "Zrkadlový server zmazaný",

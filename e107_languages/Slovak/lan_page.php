@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'LAN_PAGE_1' => "Výpis stránok je vypnutý",
@@ -27,5 +28,5 @@ return [
     'LAN_PAGE_15' => "Články",
     'LAN_PAGE_16' => "V tejto knihe nie sú žiadne kapitoly",
     'LAN_PAGE_17' => "Komentáre na tejto stránke sú uzamknuté.",
-    'LAN_PAGE_18' => "Log in to view this page",
+    'LAN_PAGE_18' => "Pre zobrazenie tejto stránky sa prihláste",
 ];

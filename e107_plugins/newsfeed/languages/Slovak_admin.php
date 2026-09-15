@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 //define("NFLAN_01", "Newsfeeds");
 //define("NFLAN_02", "This plugin will retrieve rss feeds from other websites and display them according to your preferences");
@@ -30,12 +31,35 @@ return [
     'NFLAN_13' => "Nikde (neaktívne)",
     'NFLAN_14' => "Len v menu",
     'NFLAN_18' => "Aktualizačný interval v sekundách",
-    'NFLAN_19' => "e.g. 3600: newsfeed will update every hour",
+    'NFLAN_19' => "napr. 3600: kanál noviniek sa bude aktualizovať každú hodinu",
     'NFLAN_20' => "Len na hlavnej stránke RSS noviniek",
     'NFLAN_21' => "Aj v menu aj na stránke RSS noviniek",
     'NFLAN_26' => "Aktualizačný interval",
     'NFLAN_43' => "Pomoc pre import RSS noviniek",
-    'NFLAN_42' => "[h=4]Newsfeed Title[/h] Enter a name to identify the newsfeed accurately. [h=4]URL to RSS Feed[/h] The RSS provider will give you a web address (URL) for the newsfeed. [h=4]Path to Image[/h] If the provider specifies an image to use, enter 'default' to use it or choose use your own image by entering the immage address. Leave blank to use no image at all. [h=4]Description[/h] Enter a short description for the feed, or 'default' to use the description defined in the feed (if there is one). [h=4]Update Interval[/h] Enter the number of seconds before the feed is updated. For example, 1800 = 30 Minutes, 3600 = 1 Hour, 86400 = 1 Day. [h=4]Activation[/h] Newsfeeds can be displayed in the menu only or on the newsfeed page. Enter the details where feeds should be displayed. To see newsfeeds in e107 menus you will need to activate the [b]Newsfeeds Menu[b/] in [link=\".e_ADMIN.\"menus.php]Menu Manager[/link]. [h=4]Tip[/h] There are many feed direcotries on the web, try [link=https://www.dmoz.org/Computers/Internet/On_the_Web/Syndication_and_Feeds/RSS/Directories/ external]dmoz[/link] or [link=http://www.feedster.com/ external]feedster.com[/link]",
+    'NFLAN_42' => "[h=4]Názov kanála noviniek[/h]
+	Zadajte názov, podľa ktorého kanál noviniek jednoznačne rozpoznáte.
+
+	[h=4]URL adresa RSS kanála[/h]
+
+	Poskytovateľ RSS vám poskytne webovú adresu (URL) kanála noviniek.
+
+	[h=4]Cesta k obrázku[/h]
+
+	Ak poskytovateľ určuje obrázok, zadajte 'default' pre jeho použitie, alebo použite vlastný obrázok zadaním jeho adresy. Ak nechcete použiť žiadny obrázok, nechajte prázdne.
+
+	[h=4]Popis[/h]
+
+	Zadajte krátky popis kanála alebo 'default' pre použitie popisu definovaného v kanáli (ak nejaký je).
+
+	[h=4]Interval aktualizácie[/h]
+
+	Zadajte počet sekúnd, po ktorých sa kanál aktualizuje. 
+
+	Napríklad 1800 = 30 minút, 3600 = 1 hodina, 86400 = 1 deň.
+
+	[h=4]Aktivácia[/h]
+
+	Kanály noviniek sa dajú zobraziť iba v menu alebo na stránke kanálov noviniek. Zadajte, kde sa majú kanály zobrazovať. Ak chcete kanály noviniek zobraziť v menu e107, musíte aktivovať [b]Menu kanálov noviniek[/b] v [link=\".e_ADMIN.\"menus.php]Správcovi menu[/link].",
     'NFLAN_45' => "Počet položiek, ktoré sa zobrazia v menu",
     'NFLAN_46' => "Počet položiek, ktoré sa zobrazia na hlavnej stránke",
 ];

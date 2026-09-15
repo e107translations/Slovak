@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -218,7 +218,7 @@ return [
 // 'FORLAN_188' => "Latest Posts",
     'FORLAN_189' => "Kliknutím na tlačidlo 'Vymazať' správu vymažete.[br][br]Kliknutím na tlačidlo 'Zobraziť' tému/vlákno zobrazíte.[br][br]Ak chcete byť upozornení na všetky nové správy, pozrite si [nastavenia upozorňovania].",
 
-    'FORLAN_200' => "Topic tracking",
+    'FORLAN_200' => "Sledovanie tém",
     'FORLAN_201' => "Povoľte túto možnosť, aby vaši užívatelia mohli sledovať témy.",
     'FORLAN_202' => "E-mailové upozornenia na sledovanie témy",
     'FORLAN_203' => "Povolením tejto možnosti umožníte užívateľom dostávať e-mailové upozornenia, keď ostatní odpovedia na sledovanú tému.",
@@ -231,15 +231,16 @@ return [
     'FORLAN_210' => "Problém",
     'FORLAN_211' => "Odoslané",
     'FORLAN_212' => "Prílohy",
-    'FORLAN_213' => "Post",
-    'FORLAN_214' => "Leave blank to auto-generate it from the title above.",
+    'FORLAN_213' => "Príspevok",
+    'FORLAN_214' => "Nechajte prázdne, ak sa má vygenerovať automaticky z nadpisu vyššie.",
     'FORLAN_215' => "Nie je nainštalované!",
     'FORLAN_216' => "(Nový rodič)",
-    'FORLAN_217' => "System default",
-    'FORLAN_218' => "Textarea",
-    'FORLAN_219' => "Rich Text Editor",
-    'FORLAN_220' => "Post editor",
-    'FORLAN_221' => "Which editor should be used to create/edit posts?",
-    'FORLAN_222' => "Quick reply editor",
+    'FORLAN_217' => "Predvolené systémom",
+    'FORLAN_218' => "Textová oblasť",
+    'FORLAN_219' => "Editor formátovaného textu",
+    'FORLAN_220' => "Editor príspevkov",
+    'FORLAN_221' => "Ktorý editor sa má používať na vytváranie/úpravu príspevkov?",
+    'FORLAN_222' => "Editor rýchlej odpovede",
     'FORLAN_223' => "Použite iba obyčajný text (žiadny bbcode alebo html!)",
+    'FORLAN_REFUSED_TOKEN_MISSING' => "Aktualizácia fóra nič nevykonala, pretože požiadavka neobsahovala bezpečnostný token. Spustite ju z administrácie fóra, nie zo záložky v prehliadači alebo z odkazu na inom webe.",
 ];

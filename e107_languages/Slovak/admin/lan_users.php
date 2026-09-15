@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -96,7 +96,7 @@ return [
     'USRLAN_136' => "Boli nájdení viacerí užívatelia s IP adresou {IP}; IP nie je blokovaná.",
     'USRLAN_137' => "Užívatelia tejto IP adresy {IP} sú blokovaní.",
     'USRLAN_138' => "Neoverení užívatelia",
-    'USRLAN_139' => "Váš účet bol aktivovaní.\n\nMôžete navštíviť {SITEURL} a prihlásiť sa zadaním prihlasovacích údajov, ktoré ste si nastavili.",
+    'USRLAN_139' => "Váš účet bol aktivovaný.\\n\\nTeraz môžete navštíviť {SITEURL} a prihlásiť sa pomocou prihlasovacích údajov, ktoré ste zadali.",
     'USRLAN_140' => "Znova poslať aktivačný email pre",
     'USRLAN_141' => "Nepodarilo sa znovu poslať aktivačný email pre",
     'USRLAN_142' => "s nasledujúcim aktivačným linkom",
@@ -131,7 +131,7 @@ return [
     'USRLAN_183' => "Takéto prihlasovacie meno sa už používa",
     'USRLAN_184' => "Dĺžka prihlasovacieho mena prekročila povolenú dĺžku",
     'USRLAN_185' => "Na stránke {SITEURL} vám bol vytvorený užívateľský účet s nasledujúcim prihlásením:<br /><br /><b>Prihlasovacie meno:</b> {LOGINNAME}<br /><b>Heslo:</b> {PASSWORD}<br/><b>Aktivačný link:</b> {ACTIVATION_LINK}<br /><br />",
-    'USRLAN_186' => "Prejdite na stránky čo najskôr a prihláste sa, potom si zmeňte heslo pomocou Nastavení účtu. <br /><br />Tiež si môžete zmeniť ostatné údaje. <br /><br />Všimnite si, že vaše heslo sa nedá obnoviť, ak ho stratíte.",
+    'USRLAN_186' => "Čo najskôr prosím prejdite na web, prihláste sa a zmeňte si heslo pomocou voľby \\\"Nastavenia\\\".<br /><br />Zároveň môžete zmeniť aj ďalšie nastavenia.<br /><br />Pamätajte, že ak heslo zabudnete, nedá sa obnoviť.",
     'USRLAN_187' => "Prístup k webu:",
     'USRLAN_188' => "Email úspešne odoslaný",
     'USRLAN_189' => "Chyba pri odosielaní emailu",
@@ -215,9 +215,9 @@ return [
     'UCSLAN_7' => "Nastavenie triedy",
     'UCSLAN_9' => "Trieda aktualizovaná.",
     'UCSLAN_10' => "S pozdravom",
-    'UCSLAN_11' => "Class membership for user ID  [x] changed to [y]",
+    'UCSLAN_11' => "Členstvo v triedach pre užívateľa s ID [x] zmenené na [y]",
     'UCSLAN_12' => "Iba práva člena",
-    'USFLAN_1' => "Unable to find poster's IP address - no information is available.",
+    'USFLAN_1' => "IP adresu autora príspevku sa nepodarilo zistiť - nie sú dostupné žiadne informácie.",
     'USFLAN_3' => "Správa poslaná z IP adresy",
     'USFLAN_4' => "host",
     'USFLAN_5' => "Kliknite sem pre zaslanie IP adresy do administrátora zákazov",
@@ -226,5 +226,6 @@ return [
     'USRLAN_AS_1' => "Prihlásiť sa ako [x]",
     'USRLAN_AS_2' => "Odhlásiť sa z účtu [x]",
     'USRLAN_AS_3' => "Ste už prihlásený pod iným účtom. Najprv sa odhláste.",
-    'USRLAN_EMU_1' => "Emulate permissions of [x] (admin area)",
+    'USRLAN_EMU_1' => "Emulovať oprávnenia užívateľa [x] (administrácia)",
+    'USRLAN_REFUSED_TOKEN_MISSING' => "Akcia nebola vykonaná, pretože odkaz neobsahoval bezpečnostný token. Spustite ju zo zoznamu užívateľov, nie zo záložky v prehliadači alebo z odkazu na inom webe.",
 ];

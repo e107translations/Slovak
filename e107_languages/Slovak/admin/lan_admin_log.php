@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -35,7 +35,7 @@ return [
     'RL_LAN_028' => "Aktualizovať filtre",
     'RL_LAN_029' => "Filter typu udalostí",
     'RL_LAN_030' => "Záznamy admina",
-    'RL_LAN_031' => "Akcie, ktoré sa logujú",
+    'RL_LAN_031' => "Akcie auditu užívateľov, ktoré sa majú zaznamenávať",
     'RL_LAN_032' => "Pri",
     'RL_LAN_033' => "Ďalšie informácie",
     'RL_LAN_044' => "Počet zaznamenaných udalostí na stranu",
@@ -45,15 +45,15 @@ return [
     'RL_LAN_049' => "Zmazať staré položky",
     'RL_LAN_050' => "Chybný parameter - nič nebolo zmazané",
     'RL_LAN_052' => "Záznamy admina",
-    'RL_LAN_053' => "User Audit Log",
+    'RL_LAN_053' => "Log auditu užívateľov",
     'RL_LAN_054' => "Nič na vymazanie alebo chyba databázy",
     'RL_LAN_057' => "- udalosti staršie než [x] ([y] záznamov) vymazaných",
     'RL_LAN_058' => "Prednostný filter:",
-    'RL_LAN_059' => "Caller Filter:",
+    'RL_LAN_059' => "Filter volajúceho:",
     'RL_LAN_060' => "Filter IP adresy:",
     'RL_LAN_061' => "Hviezdička (*) na konci je priijateľná",
-    'RL_LAN_062' => "User Audit Log",
-    'RL_LAN_064' => "Applicable to all logs",
+    'RL_LAN_062' => "Log auditu užívateľov",
+    'RL_LAN_064' => "Platí pre všetky logy",
     'RL_LAN_065' => "Potvrdiť vymazanie užívateľských záznamov starších než",
     'RL_LAN_066' => "Vymazať užívateľské záznamy staršie než",
     'RL_LAN_067' => "História stiahnutí",
@@ -98,13 +98,13 @@ return [
     'RL_LAN_118' => "Vlajka",
     'RL_LAN_120' => "Užívatelia on-line",
     'RL_LAN_122' => "Nastavenie systémových záznamov",
-    'RL_LAN_123' => "User audit trail class",
-    'RL_LAN_124' => "User audit trail actions",
+    'RL_LAN_123' => "Trieda pre audit užívateľov",
+    'RL_LAN_124' => "Akcie auditu užívateľov",
     'RL_LAN_125' => "Údržba systémových záznamov",
     'RL_LAN_126' => "Celkom [x] záznamov vyhovuje vyhľadávaniu",
     'RL_LAN_132' => "Informatívne",
     'RL_LAN_133' => "Oznámenie",
     'RL_LAN_134' => "Varovanie",
     'RL_LAN_135' => "Zlyhanie",
-    'RL_LAN_136' => "User navigation trail",
+    'RL_LAN_136' => "Navigačná stopa užívateľa",
 ];

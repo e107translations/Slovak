@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -31,4 +31,5 @@ return [
     'LANUPLOAD_17' => "Neplatné meno pre uploadovaný súbor",
     'LANUPLOAD_18' => "Uploadovaný súbor prekračuje povolené limity.",
     'LANUPLOAD_19' => "Príliš veľa súborov uploadovaných - prebytok zmazaný.",
+    'LANUPLOAD_REFUSED_TOKEN_MISSING' => "Nič nebolo nahraté, pretože požiadavka neobsahovala bezpečnostný token. Nahrávajte zo Správcu médií, nie pomocou záložky v prehliadači alebo odkazu na inom webe.",
 ];

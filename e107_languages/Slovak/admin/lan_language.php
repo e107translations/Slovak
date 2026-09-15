@@ -4,13 +4,14 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
+
 
 return [
     'LANG_LAN_00' => "[x] sa nepodarilo vytvoriť (už existuje).",
@@ -57,17 +58,17 @@ return [
     'LANG_LAN_135' => "Prepísanie",
     'LANG_LAN_136' => "Nepodarilo sa prepísať",
     'LANG_LAN_137' => "Spracované",
-    'LANG_LAN_140' => "Hold down CTRL key to select multiple.[br]e.g. To check [b]lan_signup.php[/b] you'll want to also select [b]signup_shortcodes.php[/b] and [b]signup_template.php[/b].",
-    'LANG_LAN_141' => "Select Script...",
-    'LANG_LAN_142' => "Auto-Detect",
+    'LANG_LAN_140' => "Pre výber viacerých položiek podržte kláves CTRL.[br]Napr. pri kontrole [b]lan_signup.php[/b] vyberte aj [b]signup_shortcodes.php[/b] a [b]signup_template.php[/b].",
+    'LANG_LAN_141' => "Vyberte skript...",
+    'LANG_LAN_142' => "Automaticky zistiť",
     'LANG_LAN_143' => "Konkrétny LAN súbor:",
     'LANG_LAN_144' => "Musí byť znova aktivovaný",
     'LANG_LAN_148' => "Normálny režim",
     'LANG_LAN_149' => "Hodnota",
-    'LANG_LAN_150' => "[b]Search ENTIRE core before commenting out ANY LAN from ANY language file.[/b]",
+    'LANG_LAN_150' => "[b]Pred zakomentovaním AKÉHOKOĽVEK LAN z AKÉHOKOĽVEK jazykového súboru prehľadajte CELÉ jadro.[/b]",
     'LANG_LAN_151' => "Dostupné",
     'LANG_LAN_152' => "Láskavosť od [e107 translations team]",
-    'LANG_LAN_153' => "Pre-release",
+    'LANG_LAN_153' => "Predbežné vydanie",
     'LANG_LAN_154' => "Jazykový balíček bol vytvorený. Môžete ho odoslať na Github podľa pokynov [here].",
     'LANG_LAN_155' => "Vyžaduje inštaláciu ďalšieho jazykového balíčka.",
 ];

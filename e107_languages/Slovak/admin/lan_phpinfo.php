@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2026/08/27 07:00:00
+|        Last Modified: 2026/09/15 13:48:46
 |            
 |        $URL: https://github.com/e107translations/Slovak/ $
 |        $Revision: 2.4.0 $
@@ -13,12 +13,12 @@
 */
 
 return [
-    'PHP_LAN_1' => "If you have Curl enabled, you should consider disabling this feature.",
-    'PHP_LAN_2' => "This is a security risk and is not needed by e107.",
-    'PHP_LAN_3' => "On a production server, it is better to disable the displaying of errors in the browser.",
-    'PHP_LAN_4' => "Disabling this will hide your PHP version from browsers.",
-    'PHP_LAN_5' => "This is a security risk and should be disabled.",
-    'PHP_LAN_6' => "[b]session.save_path[/b] is not writable! That can cause major issues with your site.",
-    'PHP_LAN_7' => "PHP Configuration Issue(s) Found:",
-    'PHP_LAN_8' => "[x] is missing and needs to be installed.",
+    'PHP_LAN_1' => "Ak máte zapnutý Curl, zvážte vypnutie tejto funkcie.",
+    'PHP_LAN_2' => "Predstavuje to bezpečnostné riziko a e107 to nepotrebuje.",
+    'PHP_LAN_3' => "Na produkčnom serveri je lepšie vypnúť zobrazovanie chýb v prehliadači.",
+    'PHP_LAN_4' => "Vypnutím skryjete verziu PHP pred prehliadačmi.",
+    'PHP_LAN_5' => "Predstavuje to bezpečnostné riziko a malo by to byť vypnuté.",
+    'PHP_LAN_6' => "Do [b]session.save_path[/b] sa nedá zapisovať! To môže spôsobiť vážne problémy na vašom webe.",
+    'PHP_LAN_7' => "Našli sa problémy s konfiguráciou PHP:",
+    'PHP_LAN_8' => "[x] chýba a treba ho nainštalovať.",
 ];
